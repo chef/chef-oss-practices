@@ -1,15 +1,15 @@
 # Definitions
 
-## Project
+### Project
+
+A Project is one GitHub repo that contains code.
 
 ### Product
 
 A Product consists of one or more Projects.
 
-### Project
+### Maintainer
 
-A Project is one GitHub repo that contains code.
-
-### Maintainers
+A maintainer is responsible for merging pull requests, triaging issues, and general project maintenance.
 
 A Project has many maintainers.
