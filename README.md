@@ -1,6 +1,6 @@
-# Chef Inc. Communities
+# Chef Software Communities
 
-Welcome to the Chef Software Inc. OSS communities!
+Welcome to the Chef Software OSS communities!
 
 This is a starting point for contributing to all of Chef's software and a wonderful
 spot for information on how to join in on the fun.
