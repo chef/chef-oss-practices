@@ -23,7 +23,7 @@ Chef has [X] types of groups that are officially supported:
   - *Guilds* are a cross-cutting group of individuals with shared interests on a specific subject that may be tangential to the project or vertical they are a member of. The intention of guilds is to provide cross-pollination and knowledge share on those subjects. These can be anything from a group sharing knowledge on a specific language - e.g. the Go guild, to a group discussing the merits of various web frameworks - e.g. the Web Guild and anything inbetween.
   - *Committees* are named sets of people that are chartered to take on sensitive or specific topics. This group is encouraged to be as open as possible while achieving its mission but, because of the potential nature of the topics discussed, private communications are allowed.
 
-All governance of Chef Inc. Projects must operate within the requirements set by the Chef OSS Practices committee, all of which are documented here, however *Teams* can have their own policy for contribution, described in a `README` or `CONTRIBUTING` file in the Project folder in this repo (e.g. habitat/CONTRIBUTING.md), their own mailing list, chat channel, etc. so long as those policy's meet the Chef Inc. requirements. 
+All governance of Chef Inc. Projects must operate within the requirements set by the Chef OSS Practices committee, all of which are documented [in the root of this repo](governance.md), however *Teams* can have their own policy for contribution, described in a `README` or `CONTRIBUTING` file in the Project folder in this repo (e.g. habitat/CONTRIBUTING.md), their own mailing list, chat channel, etc. so long as those policy's meet the Chef Inc. requirements. 
 
 ## Contribute
 
