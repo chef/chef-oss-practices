@@ -17,7 +17,7 @@ Here is some placeholder information with notes on our code of conduct and link 
 
 Here is some placeholder information with links to information on community membership
 
-## Communiy groups
+## Community groups
 
 The Chef OSS Communities have 4 main types of groups:
 
