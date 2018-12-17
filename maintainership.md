@@ -11,5 +11,5 @@
 * Maintainer reviews are required on all code and maintainers are the only ones that can merge code into a project. If you need to merge code, then you are a maintainer.
 * All maintainer team discussion outside of security issues should be done in a public forum.
 * The maintainer team is added as a codeowner on their repository so that they are automatically setup via Github for code reviews
-* All contributions must include Developer Certificate of Origin signoff
+* All contributions must include Developer Certificate of Origin (DCO) signoff. Code repositories will have a tool checking for a DCO sign-off present on every commit. 
 * A tool is setup to ping maintainers for reviews / triage.
