@@ -18,7 +18,7 @@ For more specific topics, check out an individual project.
 
 Chef Software (the company) produces many products such as Chef, InSpec, and Habitat. Each of these products is fully open source and comprised of one or more open source projects. For instance the Chef product is comprised of chef, ohai, various mixlib projects, and more.
 
-Many of our projects include sub-projects, which are repositories of code that are tightly coupled to another project. For example the inspec project has a sub-project of the audit cookbook as changes to the inspec coebase more than often require updates to the audit cookbook.
+Many of our projects include sub-projects, which are repositories of code that are tightly coupled to another project. For example the InSpec project has a sub-project of the audit cookbook as changes to the InSpec codebase more than often require updates to the audit cookbook.
 
 All governance of Chef projects must operate within the requirements set by the Chef OSS Practices committee, all of which are documented under [Governance](governance.md), however *Teams* can have their own policy for contribution, described in their `CONTRIBUTING.md` file in their project repo (e.g. habitat/CONTRIBUTING.md), communication standards, etc. so long as those policies meet the base Chef Software policy.
 
