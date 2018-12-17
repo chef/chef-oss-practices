@@ -2,11 +2,9 @@
 
 Welcome to the Chef Software OSS communities!
 
-This is a starting point for contributing to all of Chef's software and a wonderful
-spot for information on how to join in on the fun.
+This is a starting point for contributing to all of Chef's software and a wonderful spot for information on how to join in on the fun.
 
-To learn more about each of our project's structure and orgainzation, please refer to
-[Project Governance](to be added later) information.
+To learn more about each of our project's structure and organization, please refer to [Project Governance](to be added later) information.
 
 ## Communicating
 
