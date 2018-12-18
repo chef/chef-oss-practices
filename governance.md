@@ -11,24 +11,19 @@ The Chef OSS communities adhere to the following principles:
 
 ## Code of Conduct
 
-Here is some placeholder information with notes on our code of conduct and link to the actual code of conduct.
+All members of the Chef community, including employees, must abide by the Chef Code of Conduct. For the complete text see [Code of Conduct](code-of-conduct.md)
 
 ## Community membership
 
 Here is some placeholder information with links to information on community membership
 
-## Community groups
+## Community Groups
 
 The Chef OSS Communities have 4 main types of groups:
 
-  - Projects
   - Teams
   - Guilds
   - Committees
-
-### Projects
-
-Projects are exactly what they sound like. Groups of individuals or teams working towards a common goal on a combined set of OSS software/repositories. Projects are typically persistent though the set of software contained in that project could change. Each Chef Inc. Engineer typically works within the bounds of a project though these bounds are flexible and there is frequently cross-pollination between projects.
 
 ### Teams
 
@@ -36,7 +31,7 @@ Teams are sets of people within an individual project that focus on various part
 
 ### Guilds
 
-Guilds are a cross-cutting group of individuals with shared interests on a specific subject that may be tangential to the project or vertical they are a member of. The intention of guilds is to provide cross-pollination and knowledge share on those subjects. These can be anything from a group sharing knowledge on a specific language - e.g. the Go guild, to a group discussing the merits of various web frameworks - e.g. the Web Guild and anything inbetween.
+Guilds are a cross-cutting group of individuals with shared interests on a specific subject that may be tangential to the project or vertical they are a member of. The intention of guilds is to provide cross-pollination and knowledge share on those subjects. These can be anything from a group sharing knowledge on a specific language - e.g. the Go guild, to a group discussing the merits of various web frameworks - e.g. the Web Guild and anything in between.
 
 ### Committees
 
