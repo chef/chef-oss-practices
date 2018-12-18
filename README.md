@@ -14,13 +14,13 @@ Many of our projects include sub-projects, which are repositories of code that a
 
 All governance of Chef projects operates within the requirements set by the Chef OSS Practices committee, all of which are documented under [Governance](governance.md), however *Teams* can have their own policy for contribution, described in their `CONTRIBUTING.md` file in their project repo (e.g. habitat/CONTRIBUTING.md), communication standards, etc. so long as those policies meet the base Chef Software policy.
 
-## Communicating
+## Communicating With Us
 
 The [communication](communication/README.md) page lists communications channels like chat, GitHub issues, mailing lists, conferences, etc.
 
 For more specific topics, check out an individual project.
 
-## Contribute
+## Getting Started Contributing
 
 A first step towards contributing is to pick from the [list of Chef Software Projects](added later). Read the team's contribution policy, start attending team meetings, join the chat channel, subscribe to the mailing list. Teams will have a set of "Help Wanted" issues that can help new contributors get involved.
 
