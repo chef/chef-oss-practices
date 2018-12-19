@@ -1,9 +1,9 @@
 # Categories
 
  - Aspect
+ - Expeditor
  - Help
  - Platform
- - Release Management
  - Size
  - Status
  - Triage
@@ -24,6 +24,24 @@
  - Testing
  - UX
 
+ ## Expeditor
+
+ If your project is using Expeditor you'll want these labels.
+
+ - Expeditor: Skip All
+   Used to skip all `merge_actions`.
+ - Expeditor: Skip Changelog
+   Used to skip `built_in:update_changelog`.
+ - Expeditor: Skip Habitat
+   Used to skip `built_in:trigger_habitat_package_build`
+ - Expeditor: Skip Omnibus
+   built_in:trigger_omnibus_release_build
+ - Expeditor: Bump Version Minor
+   Used by [`github.minor_bump_labels`](https://expeditor.chef.io/docs/reference/built_in/#bump-version) to bump the Minor version number.
+ - Expeditor: Skip Version Bump
+   Used to skip `built_in:bump_version`
+
+
  ## Help
 
  - Good First Issue
@@ -38,39 +56,37 @@
  - Databases
  - Docker
  - GCP
+ - Linux
+ - MacOS
  - UNIX-like
  - VMware
  - Windows
 
- ## Release Management
-
- - Changelog: Skip Update
- - Expeditor: Skip All
- - Habitat: Skip Build
- - Omnibus: Skip Build
- - Version: Bump Minor
- - Version: Skip Bump
-
  ## Size
 
- - L
-   Denotes a PR that changes 100-499 lines, ignoring generated files.
- - M
-   Denotes a PR that changes 30-99 lines, ignoring generated files.
- - S
-   Denotes a PR that changes 10-29 lines, ignoring generated files.
- - XL
-   Denotes a PR that changes 500-999 lines, ignoring generated files.
+ Setting a size on Pull Requests helps reviewers manage their time.
+
  - XS
    Denotes a PR that changes 0-9 lines, ignoring generated files.
+ - S
+   Denotes a PR that changes 10-29 lines, ignoring generated files.
+ - M
+   Denotes a PR that changes 30-99 lines, ignoring generated files.
+ - L
+   Denotes a PR that changes 100-499 lines, ignoring generated files.
+ - XL
+   Denotes a PR that changes 500-999 lines, ignoring generated files.
  - XXL
    Denotes a PR that changes 1000+ lines, ignoring generated files.
 
  ## Status
 
  - Adopted
+   An issue that is being worked on.
  - Duplicate
+   Any issue that duplicates an existing issue.
  - Needs Adoption
+   An issue that has enough details to be started.
 
  ## Triage
 
@@ -82,7 +98,7 @@
    Indicates an issue can not be reproduced as described.
  - Support
    Indicates an issue that is a support question.
- - Unresolved
+ - Declined
    Indicates an issue that can not or will not be resolved.
 
  ## Type
@@ -91,7 +107,7 @@
  - Breaking Change
  - Chore
  - Deprecation
- - Enhancment
+ - Enhancement
  - Feature Request
  - Question
  - Regression
