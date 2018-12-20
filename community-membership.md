@@ -76,12 +76,12 @@ There are many interrelated [Chef Software GitHub organizations], such as [habit
   - Addresses bugs or issues discovered after code is accepted
 - Members can do `/lgtm` on open PRs.
 - They can be assigned to issues and PRs, and people can ask members for reviews with a `/cc @username`.
-- Tests can be run against their PRs automatically (In projects leveraging Chef's internal CI system). No `/ok-to-test` needed.
+- Tests can be run against their PRs automatically (In projects leveraging Chef's expeditor framework). No `/ok-to-test` needed.
 - Members can do `/ok-to-test` for PRs that have a `T-needs-ok-to-test` label, and use commands like `/close` to close PRs as well.
 - Invite to the yearly Community Summit
 - Members Only Swag pack
 
-**Note:** members who frequently contribute code are expected to proactively perform code reviews and work towards becoming a primary *reviewer* for the subproject that they are active in.
+**Note:** Members who frequently contribute code are expected to proactively perform code reviews and work towards becoming a primary *reviewer* for the subproject that they are active in. If a member drops below a reasonable threshold of activity (definable, project to project) for 5 months they will be sent a warning notifying them that they have 1 month to re-assert their activity or their membership will be revoked. Former members, or Alumni, are always welcome to seek a membership refresh at any time.
 
 ## Reviewer
 
@@ -111,19 +111,20 @@ an [CODEOWNERS] file (for repos using the bot).
 
 ### Responsibilities and privileges
 
-The following apply to the part of codebase for which one would be a reviewer in
-an [CODEOWNERS] file (for repos using the bot).
+The following apply to the part of codebase for which one would be a reviewer in a [CODEOWNERS] file (for repos using the bot).
 
-- Tests are automatically run for PullRequests from members of the specified GitHub organization
+- Tests are automatically run for PullRequests from members of the specified GitHub organization (where the project is leveraging Chef's Expeditor framework)
 - Code reviewer status may be a precondition to accepting large code contributions
 - Responsible for project quality control via [code reviews]
-  - Focus on code quality and correctness, including testing and factoring
+  - Focus on code quality and correctness, including testing and 
   - May also review for more holistic issues, but not a requirement
 - Expected to be responsive to review requests as per [community expectations]
 - Assigned PRs to review related to subproject of expertise
 - Assigned test bugs related to subproject of expertise
 - Granted "read access" to specified project repos
 - May get a badge on PR and issue comments
+
+**Note:** Reviewers have no expectation of transitioning to an Approver role. The expectations for approver are quite high comparatively. If a reviwer drops below a reasonable threshold of activity (definable, project to project) for 2 months they will be sent a warning, notifying them that they have 1 month to re-assert their activity level or they will rotated to the role of "member". 
 
 ## Approver
 
