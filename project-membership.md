@@ -1,22 +1,16 @@
-# Community membership
+# Project membership
 
 ## New contributors
 
-[New contributors] should be welcomed to the community by existing members,
-helped with PR workflow, and directed to relevant documentation and
-communication channels.
+[New contributors] should be welcomed to the community by existing project members, helped with PR workflow, and directed to relevant documentation and communication channels.
 
-## Established community members
+## Established project members
 
-Established community members are expected to demonstrate their adherence to the
-principles in this document, familiarity with project organization, roles,
-policies, procedures, conventions, etc., and technical and/or writing ability.
-Role-specific expectations, responsibilities, and requirements are enumerated
-below.
+Established project members are expected to demonstrate their adherence to the principles in this document, familiarity with project organization, roles, policies, procedures, conventions, etc., and technical and/or writing ability. Role-specific expectations, responsibilities, and requirements are enumerated below.
 
 **Note:** This document is in progress, it outlines the various responsibilities of project roles in the Chef Software Inc. OSS Communities.  Chef's software projects are subdivided into projects and subprojects under teams. Responsibilities/Privileges for most roles are scoped to a project or subproject.
 
-| Role | Responsibilities | Requirements | Defined by |
+| Project Role | Responsibilities | Requirements | Defined by |
 | -----| ---------------- | ------------ | -------|
 | member | active contributor in the community | sponsored by 2 reviewers or approvers.  multiple contributions to the project. | Project GitHub org member. |
 | reviewer | review contributions from other members | history of review and authorship in a subproject | [CODEOWNERS] file reviewer entry. |
@@ -26,14 +20,7 @@ below.
 
 ## Member
 
-Members are continuously active contributors in the community.  They can have
-issues and PRs assigned to them, participate in project teams through GitHub teams, and
-pre-submit tests are automatically run for their PRs. Members are expected to
-remain active contributors to the community. On approval of membership a user's
-membership will last until the end of the calendar year from their approval. If
-a member remains active their membership will be automatically extended. In the
-case that a member becomes inactive their membership will be revoked at the end
-of the calendar year.
+Project Members are continuously active contributors in the community.  They can have issues and PRs assigned to them, participate in project teams through GitHub teams, and pre-submit tests are automatically run for their PRs. Members are expected to remain active contributors to the community. On approval of membership a user's membership will last until the end of the calendar year from their approval. If a member remains active their membership will be automatically extended. In the case that a member becomes inactive their membership will be revoked at the end of the calendar year.
 
 **Defined by:** Member of the Chef Software Inc. Project Organization on GitHub
 
