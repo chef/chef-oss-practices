@@ -11,32 +11,31 @@ The Chef OSS communities adhere to the following principles:
 
 ## Code of Conduct
 
-Here is some placeholder information with notes on our code of conduct and link to the actual code of conduct.
+All members of the Chef community, including employees, must abide by the Chef Code of Conduct. For the complete text see the [Chef Code of Conduct](code-of-conduct.md)
 
 ## Community membership
 
 Here is some placeholder information with links to information on community membership
 
-## Community groups
+## Community Groups
 
 The Chef OSS Communities have 4 main types of groups:
 
-  - Projects
   - Teams
   - Guilds
   - Committees
 
-### Projects 
-Here is some more detailed information on the way that projects are handled from an overarching governance perspective.
-
 ### Teams
-Here is some more detailed information on the way that teams are handled from an overarching governance perspective.
+
+Teams are sets of people within an individual project that focus on various parts of that project. Teams _must_ have open and transparent proceedings and communication. Anyone is welcome to participate and contribute to a team provided they follow the Chef OSS Code of Conduct and read to understand the group's governance policy.
 
 ### Guilds
-Here is some more detailed information on the way that guilds are handled from an overarching governance perspective.
+
+Guilds are a cross-cutting group of individuals with shared interests on a specific subject that may be tangential to the project they are a member of. The intention of guilds is to provide cross-pollination and knowledge share on those subjects. These can be anything from a group sharing knowledge on a specific language - e.g. the Go guild, to a group discussing the merits of various web frameworks - e.g. the Web Guild and anything in between.
 
 ### Committees
-Here is some more detailed information on the way that Committees are handled from an overarching governance perspective.
+
+Committees are named sets of people that are chartered to take on sensitive or specific topics. This group is encouraged to be as open as possible while achieving its mission but, because of the potential nature of the topics discussed, private communications are allowed.
 
 ## Repository Guidelines
 All new repositories under the Chef, Habitat, or Inspec github orgs should follow the process outlined in the [chef oss repository guidelines](to be added later).
