@@ -31,7 +31,7 @@ Teams are sets of people within an individual project that focus on various part
 
 ### Guilds
 
-Guilds are a cross-cutting group of individuals with shared interests on a specific subject that may be tangential to the project or vertical they are a member of. The intention of guilds is to provide cross-pollination and knowledge share on those subjects. These can be anything from a group sharing knowledge on a specific language - e.g. the Go guild, to a group discussing the merits of various web frameworks - e.g. the Web Guild and anything in between.
+Guilds are a cross-cutting group of individuals with shared interests on a specific subject that may be tangential to the project they are a member of. The intention of guilds is to provide cross-pollination and knowledge share on those subjects. These can be anything from a group sharing knowledge on a specific language - e.g. the Go guild, to a group discussing the merits of various web frameworks - e.g. the Web Guild and anything in between.
 
 ### Committees
 
