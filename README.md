@@ -22,7 +22,7 @@ For more specific topics, check out an individual project.
 
 ## Getting Started Contributing
 
- A first step towards contributing is to pick from the [list of Chef Software Projects](added later). Read the team's contribution policy (CONTRIBUTING.md), start attending team meetings, join the chat channel, subscribe to the mailing list. Teams will have a set of "Help Wanted" issues that can help new contributors get involved.
+A first step towards contributing is to pick from the [list of Chef Software Projects](added later). Read the team's contribution policy (CONTRIBUTING.md), start attending team meetings, join the chat channel, subscribe to the mailing list. Teams will have a set of "Help Wanted" issues that can help new contributors get involved.
 
 The [Contributor Guide] provides detailed instructions on how to get your code accepted into core including:
 
