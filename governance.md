@@ -11,7 +11,7 @@ The Chef OSS communities adhere to the following principles:
 
 ## Code of Conduct
 
-All members of the Chef community, including employees, must abide by the Chef Code of Conduct. For the complete text see [Code of Conduct](code-of-conduct.md)
+All members of the Chef community, including employees, must abide by the Chef Code of Conduct. For the complete text see the [Chef Code of Conduct](code-of-conduct.md)
 
 ## Community membership
 
