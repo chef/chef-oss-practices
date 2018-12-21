@@ -30,6 +30,6 @@ The [Contributor Guide] provides detailed instructions on how to get your code a
   2. Doing some other thing!
   3. Perhaps doing a final thing!?
 
-## Membership
+## Project Membership
 
-We encourage all contributors to become project members. We aim to grow an active, healthy community of contributors, reviewers, and code owners. Learn about requirements and perks of project membership in our [Community Membership](community-membership.md) page.
+We encourage all contributors to become project members. We aim to grow an active, healthy community of contributors, reviewers, and code owners. Learn about requirements and perks of membership in our [Project Membership](project-membership.md) page.
