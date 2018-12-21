@@ -40,11 +40,46 @@ GitHub prompts new contributors to read a project's CONTRIBUTING.md file if pres
 
 GitHub displays the code of conduct file when a user opens a new PR or Issue. We want to make sure everyone reads and understands our code of conduct so this needs to be included in every project repository.
 
-An example pointing to our standard company code of conduct:
+Include the following in the projects CODE_OF_CONDUCT.md (Remember to substitute Example Persons)
 
 ```
-Please refer to the Chef Community Code of Conduct:
-https://www.chef.io/code-of-conduct/
+# Code of Conduct
+
+Please refer to this [Code of Conduct](CODE_OF_CONDUCT.md).
+
+[CODE_OF_CONDUCT_URL](CODE_OF_CONDUCT_URL)
+
+If you need to contact someone in regards to this project and the Code of
+Conduct please contact the individuals listed in the [Roles](#Roles) section
+below.
+
+## Roles
+
+The following are the various roles of our <b>Community Organizers</b> and the
+person(s) assigned to each role:
+  - The <b>Deciders</b> have final say on
+    community guidelines and final authority on correct actions and appeals.
+  - The <b>Community Advocates</b> may be assigned for each area where the
+    community convenes online (Slack, email list, GitHub, etc.). Community
+    Advocates are volunteers who have the best interests of our community in
+    mind. They act in good faith to help enforce our community guidelines and
+    respond to incidents when they occur.
+  - The <b>Project Maintainers</b> are likewise expected to conduct their
+    behavior in line with the Code of Conduct and are individually responsible
+    for both escalating to a <b>Community Advocate</b> in case of witnessing an
+    incident and helping to foster the community and it's members
+  - A <b>Community Member</b> is anyone who participates with the community
+    whether in-person or via online channels. Community members are responsible
+    for following the community guidelines, suggesting updates to the guidelines
+    when warranted, and helping enforce community guidelines
+
+| Role                | Name                     | Contact Info           |
+| ------------------- | ------------------------ | ---------------------- |
+| Decider             | Example Person           | example.person@chef.io |
+| Community Advocate  | Example Person           | example.person@chef.io |
+| Community Advocate  | Example Person           | example.person@chef.io |
+| Community Advocate  | Example Person           | example.person@chef.io |
+
 ```
 
 ## .github/CODEOWNERS
