@@ -62,6 +62,12 @@
  - VMware
  - Windows
 
+ ## Priority
+ 
+ - Low
+ - Medium
+ - Critical
+
  ## Size
 
  Setting a size on Pull Requests helps reviewers manage their time.
