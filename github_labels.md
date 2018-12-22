@@ -83,10 +83,10 @@
 
  - Adopted
    An issue that is being worked on.
- - Duplicate
-   Any issue that duplicates an existing issue.
  - Needs Adoption
    An issue that has enough details to be started.
+ - Incomplete
+   A pull request that is not ready to be merged as noted by the author.
 
  ## Triage
 
