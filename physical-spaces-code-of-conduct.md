@@ -31,8 +31,8 @@ event.
 
 Chef is dedicated to providing a harassment-free experience for everyone,
 regardless of gender, sexual orientation, disability, physical appearance, body
-size, race, or religion. We do not tolerate harassment of event participants in
-any form.
+size, race, veteran status, or religion. We do not tolerate harassment of event
+participants in any form.
 
 All communication should be appropriate for a professional audience including
 people of many different backgrounds. Sexual language and imagery is not
@@ -46,7 +46,7 @@ jokes are not appropriate for any event.
 
 Harassment comes in many forms, including but not limited to:
   - Offensive comments related to gender, sexual orientation, disability,
-    physical appearance, body size, race, or religion
+    physical appearance, body size, race, veteran status, or religion
   - Posting/Exposing sexually explicit or violent images
   - Deliberate (or implied) intimidation
   - Stalking or persistent following
