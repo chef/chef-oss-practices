@@ -197,6 +197,13 @@ The following apply to the subproject for which one would be an owner.
 - Ensure a healthy process for discussion and decision making is in place.
 - Work with other subproject owners to maintain the project's overall health and success holistically
 
+
+## Alumni
+
+An alumni to the Chef Inc OSS Projects is an individual who was formerly a member and has for any reason dropped their activity below the accepted threshold. This covers all cases of dropped activity and any case in which the individual has stated their decision to terminate their involvement in a project. Alumni no longer have responsibilities or priviliges to the project they were formerly a member of. Their rights to project repos and tooling is revoked and they are added to an Alumni list in thanks of their previous contributions.
+
+Alumni status is straightforward - Thank you for being involved in the capacity you were for the time period you were. Should an alumni decide to re-engage the project for membership they will of course be accepted back however it is up to the discretion of the team whether to reinstate an alumni directly to the role they were at before they entered alumni status.
+
 ## ~~Maintainer~~
 
 **Status:** Removed
