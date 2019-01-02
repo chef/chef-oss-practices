@@ -62,7 +62,7 @@
  - Windows
 
  ## Priority
- 
+
  - Low
  - Medium
  - Critical
@@ -92,6 +92,8 @@
    An issue that has enough details to be started.
  - Incomplete
    A pull request that is not ready to be merged as noted by the author.
+ - Waiting on Contributor
+   A pull request that has unresolved requested actions from the author.
 
  ## Triage
 
