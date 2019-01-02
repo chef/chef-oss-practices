@@ -53,11 +53,10 @@
 
  - AWS
  - Azure
- - Databases
  - Docker
  - GCP
  - Linux
- - MacOS
+ - macOS
  - UNIX-like
  - VMware
  - Windows
