@@ -1,4 +1,4 @@
-Projects in the Chef Community should feel encouraged to use these labels in their Github repositories. These labels provide consistency across our community and you may use any, or all of them. You may also create your own but please try to fit them within our existing categories.
+Projects in the Chef Community should feel encouraged to use these labels in their GitHub repositories. These labels provide consistency across our community and you may use any, or all of them. You may also create your own but please try to fit them within our existing categories.
 
 # Categories
 
