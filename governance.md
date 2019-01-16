@@ -87,3 +87,11 @@ Signed-off-by: Joe Smith <joe.smith@email.com>
 The project requires that the name used is your real name. Neither anonymous contributors nor those utilizing pseudonyms will be accepted.
 
 Git makes it easy to add this line to your commit messages. Make sure the user.name and user.email are set in your git configs. Use -s or --signoff to add the Signed-off-by line to the end of the commit message.
+
+## End of Life for a Project
+
+Sometimes in the life of a project, there comes a time where the humans contributing to it have reasons to stop. Maybe a new project is developed that solves the original problem better. Maybe the humans have other priorities in there life. Whatever the reason, we intend for the project to clearly communicate how well-supported it is.
+
+For Chef Software (the company) to continue providing resources to a project, there must be two or more Chef employees active in the project. At a point where Chef Software has decided to reduce or end involvement with a project under its purview, the project owners will make announcements and post notices according to the [communication plan for project end-of-life](communication/project-eol.md).
+
+At an appropriate time in the adoption or mothballing process, the codebase will be transferred to the `chef-boneyard` organization and made read-only. Thusly, projects will remain available for reference and forking. As an example, the timeframe for mothballing could be immediate for libraries that the project contributors are confident are only used internally to other Chef projects. The timeframe could be months to accommodate a transfer of ownership of the repository and management responsibilities to a group of people who express interest in adopting a project destined for the boneyard.
