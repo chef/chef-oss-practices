@@ -20,7 +20,7 @@ GitHub is the Chef Community's preferred durable medium for open and transparent
 
 ###Community Slack
 
- Sometimes it will make sense to have a brief, non-durable conversation with an external Project Member about development on a project. Have these exchanges in Community Slack (either in a dev channel or via DM). Any development decisions, etc. arising from the Slack interaction must be documented in GitHub. Conversations in Community Slack about a project should be limited to development on that project. The general community Slack channel is the proper place for non-technical discussion and questions.
+ Sometimes it will make sense to have a brief, non-durable conversation about the development on a project. Have these exchanges in Community Slack (either in a dev channel or via DM). Document any development decisions, etc. arising from the Slack interaction in GitHub. Limit these conversations in Community Slack to development for a given project. The '#general' community Slack channel is the proper place for non-technical discussion and questions.
 
 ###Mailing Lists
 
@@ -28,7 +28,7 @@ The Chef Community mailing lists are hosted via [Discourse](https://discourse.ch
 
 ###Office Hours
 
-Individual projects host office hours on a periodic basis. This is a great way to get some face time with other Project Members. Each project records and archives sessions to a public location; see individual project documentation for more details.
+Individual projects may host office hours on a periodic basis. This is a great way to get some face time with other Project Members. Each project should record and archive sessions to a public location; see individual project documentation for more details.
 
 **Note:** Zoom is a good medium for office hours. Google Hangouts via YouTube is another great option for these calls for a number of reasons. It will allow all members of a team appropriate admin rights to schedule/start/stop the call, it has both a public viewing link and private invite link, and the calls can automatically be recorded and uploaded to a YouTube channel on completion.
 
