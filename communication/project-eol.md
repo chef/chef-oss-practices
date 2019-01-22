@@ -7,8 +7,6 @@ When a project lays dormant for a long enough period of time (or has entered int
 It is preferred we use the following default words:
 
 ```
-This project has officially been EoL'd by Chef Software Inc. but, have no fear! While we are no longer actively maintaining this codebase and have archived the repository we have no intention of permanently deleting this code at any point. All repositories under the Chef-Boneyard Organization are considered up for adoption!
-
-Should you want to have a new feature, bug-fix, or code change merged to this codebase we would be thrilled to transfer ownership of this codebase over to you. If you have an interest in giving this code a loving home going forward please send an email over to community@chef.io with the repository name, the GitHub account of the user who wants to take ownership and the organization we can transfer it to!
+This project has officially been EoL'd by Chef Software Inc. but, have no fear! While we are no longer actively maintaining this codebase and have archived the repository we have no intention of permanently deleting this code at any point. All repositories under the Chef-Boneyard Organization are fully available to be forked thus should you want to have a new feature, bug-fix, or code change merged to this codebase we suggest forking the repository and operating it from within your own org. If you have any further concerns please send an email over to community@chef.io!
 ```
 
