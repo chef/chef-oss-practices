@@ -24,9 +24,7 @@ Projects in the Chef Community should feel encouraged to use these labels in the
  - `Security` Can an unwanted third party affect the stability or look at privileged information?
  - `Stability` Consistent results.
  - `Testing` Does the project have good coverage, and is CI working?
- - `UX` Affects how users feel about interacting with your project.
- - `UI` Affects how users interact with your project.
-
+ 
 ## Expeditor
 
  If your project is using Expeditor you'll want these labels.
