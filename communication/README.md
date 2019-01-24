@@ -61,5 +61,4 @@ Engage like a pro. Below are some best practice uses of the Community communicat
 | A Project Member | report a ***CoC violation*** | email [tbd] | --- |
 | A Project Member | talk to a ***human*** | request access to Zoom or Google Hangouts office hours in [Community Slack](https://community-slack.chef.io/) | --- |
 | A Reviewer | become an ***Approver*** | check out an overview of Approver [responsibilities & requirements](../maintainership.md) | Individual project requirements may vary; see project doc for more info |
-| An Approver | ***request an account*** for a new Project Member | [tbd] | --- |
 | An Approver | ***vote*** on a new Project Member, Reviewer, or Approver | review the general [requirements](../project-membership.md) and consult my project's documentation | General Approver information is [here](../maintainership.md). Individual project requirements may vary; please see project doc for more info |
