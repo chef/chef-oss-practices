@@ -85,3 +85,9 @@ person(s) assigned to each role:
 ## .github/CODEOWNERS
 
 The GitHub codeowners file is used to auto assign reviewers to a project. Properly routing new pull requests to the approach team decreases the time it takes to get code reviewed and merged. It also reduces the number of lost pull requests, which helps us engage new contributors and retain them for the future. CODEOWNERS can be setup to assign ownership of certain directories or files to particular teams. This is useful for assigning files like .expeditor to JEX or readme/docs files to the docs team.
+
+# Other Requirements
+
+## Detecting Outages
+
+When a project runs as a service (i.e. hosted Chef or the Builder SaaS service) it must have either monitoring tooling in place or another process for detecting and responding to outages.
