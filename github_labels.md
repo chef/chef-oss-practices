@@ -34,7 +34,7 @@ Projects in the Chef Community should feel encouraged to use these labels in the
  - `Expeditor: Skip Habitat` Used to skip `built_in:trigger_habitat_package_build`
  - `Expeditor: Skip Omnibus` Used to skip `built_in:trigger_omnibus_release_build`
  - `Expeditor: Bump Version Minor` Used by [`github.minor_bump_labels`](https://expeditor.chef.io/docs/reference/built_in/#bump-version) to bump the Minor version number.
-  - `Expeditor: Bump Version Major` Used by [`github.minor_bump_labels`](https://expeditor.chef.io/docs/reference/built_in/#bump-version) to bump the Major version number.
+  - `Expeditor: Bump Version Major` Used by [`github.major_bump_labels`](https://expeditor.chef.io/docs/reference/built_in/#bump-version) to bump the Major version number.
  - `Expeditor: Skip Version Bump` Used to skip `built_in:bump_version`
 
 
