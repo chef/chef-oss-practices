@@ -69,7 +69,7 @@ Projects in the Chef Community should feel encouraged to use these labels in the
 
  - `Adopted` An issue that is being worked on.
  - `Incomplete` A pull request that is not ready to be merged as noted by the author.
- - `Waiting on Contributor` An issues or pull request that has unresolved requested actions from the author.
+ - `Waiting on Contributor` An issue or pull request that has unresolved requested actions from the author.
  - `Good First Issue` An issue that is ideal for a new contributor to the project.
  - `Help Wanted` An issue that has enough details to be started and is ready for a contributor. These will show up on the Jump-In page for company wide first time contributor issues.
 
