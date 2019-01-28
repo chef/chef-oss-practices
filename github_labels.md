@@ -80,7 +80,7 @@ Projects in the Chef Community should feel encouraged to use these labels in the
  - `Not Reproducible` Indicates an issue can not be reproduced as described.
  - `Support` Indicates an issue that is a support question and will be redirected to other mediums.
  - `Declined` Indicates an issue that can not or will not be resolved.
- - `Feature Request` Indicats an issue requesting new functionality.
+ - `Feature Request` Indicates an issue requesting new functionality.
 
 ## Type
 
