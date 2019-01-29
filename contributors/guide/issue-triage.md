@@ -4,15 +4,9 @@ There is a difference between triaging and priortizing issues that come into Git
 
 ## Triage
 
-Open Source triages are held in public [#TO DO - add details around how to do this].
+Open Source triages are held in public.
 
-Triage should include:
-* Going through issues that have been filed on the project since the last triage
-* Deciding whether to accept or close and issue (i.e. duplicate issues should be closed)
-* [Labeling](../../github_labels.md) issues as appropriate 
-* Adding accepted issues to the backlog
-
-How often triages are held is up to the project team, but we suggest once a week. Both developers and product managers should be present for the triage.
+For more information, please check out [the Triage document in this repo](./communication/triage.md).
 
 ## Prioritization
 
