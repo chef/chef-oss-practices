@@ -247,3 +247,7 @@ This Code of Conduct is adapted from the following:
     available [here](http://contributor-covenant.org/version/1/4/)
   - [Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html)
   - [Citizen Code of Conduct](http://citizencodeofconduct.org/)
+
+## Community Members in Crisis
+
+If a community member is in or appears to be in crisis, please refer to the [Community Members in Crisis Guide](./communication/community-members-in-crisis.md)
