@@ -3,6 +3,20 @@
 **Note**: If you are in a physical space (e.g. ChefConf, Meetup, etc) please
 see the [Physical Spaces Code of Conduct](physical-spaces-code-of-conduct.md)
 
+  - [Our Pledge](#Our-Pledge)
+  - [Our Standards](#Our-Standards)
+  - [Unacceptable Behavior](#Unacceptable-Behavior)
+  - [Enforcement/Getting Help](#Unacceptable-Behavior)
+  - [Roles](#Roles)
+  - [Consequences of Unacceptable Behavior](#Consequences-of-Unacceptable-Behavior)
+  - [Procedure for Handling Disagreements and Incidents](#Procedure-for-Handling-Disagreements-and-Incidents)
+    - [Handling Incidents](#Handling-Incidents)
+    - [Documenting Incidents](#Documenting-Incidents)
+  - [Our Responsibilities](#Our-Responsibilities)
+  - [Scope](#Scope)
+  - [Suicide Awareness and Prevention](#Suicide-Awareness-and-Prevention)
+  - [Attribution](#Attribution)
+
 ## Our Pledge
 
 Diversity is one of the greatest strengths a community can have and many times
@@ -189,7 +203,7 @@ brought inline with our guidelines or the incident is not resolved:
   - Apply the corrective action
   - Document the incident as described below
 
-#### Documenting Incidents
+### Documenting Incidents
 
 All incident reports will be kept in a private repository that is shared with
 the aforementioned Community Advocates and Deciders under the [Roles]((#roles)
@@ -239,6 +253,25 @@ community include using an official project e-mail address, posting via an
 official social media account, or acting as an appointed representative at an
 online or offline event. Representation of a project may be further defined and
 clarified by project maintainers and community organizers.
+
+## Suicide Awareness and Prevention
+
+Concerned about someone? Please see [here](http://www.intheforefront.org/need-help/concerned-about-someone/).
+
+Want to learn more and help prevent suicide? See [Help Prevent Suicide with "LEARN"](http://www.intheforefront.org/wp-content/uploads/2017/09/PDT_Learn_OnePagerColor_2018_07_27.pdf).
+
+### Global Suicide Prevention/Support Lines (All Lines open 24x7)
+
+ - United States - National Suicide Prevention Lifeline
+    - Call 1-800-273-8255
+    - Available 24 hours everyday
+    - Online Chat
+  - Europe - List of all EMEA Countries Crisis Lines
+    - [https://www.iasp.info/resources/Crisis_Centres/Europe/](https://www.iasp.info/resources/Crisis_Centres/Europe/)
+  - Australia
+    - [https://www.lifeline.org.au/](https://www.lifeline.org.au/)
+  - Singapore
+    - [https://www.sos.org.sg/](https://www.sos.org.sg/)
 
 ## Attribution
 

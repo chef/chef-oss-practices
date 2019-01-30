@@ -8,6 +8,7 @@
     - [Staff Procedure](#Staff-Procedure-for-Incident-Handling)
   - [Enforcement](#Enforcement)
   - [Contact Information](#Contact-Information)
+  - [Suicide Awareness and Prevention](#Suicide-Awareness-and-Prevention)
 
 ## Summary
 
@@ -269,6 +270,25 @@ individuals:
 
  - Suzanna Litwin at +1 (425) 765-6209
  - Mandi Walls at +1 (703) 582-7396
+
+## Suicide Awareness and Prevention
+
+Concerned about someone? Please see [here](http://www.intheforefront.org/need-help/concerned-about-someone/).
+
+Want to learn more and help prevent suicide? See [Help Prevent Suicide with "LEARN"](http://www.intheforefront.org/wp-content/uploads/2017/09/PDT_Learn_OnePagerColor_2018_07_27.pdf).
+
+### Global Suicide Prevention/Support Lines (All Lines open 24x7)
+
+ - United States - National Suicide Prevention Lifeline
+    - Call 1-800-273-8255
+    - Available 24 hours everyday
+    - Online Chat
+  - Europe - List of all EMEA Countries Crisis Lines
+    - [https://www.iasp.info/resources/Crisis_Centres/Europe/](https://www.iasp.info/resources/Crisis_Centres/Europe/)
+  - Australia
+    - [https://www.lifeline.org.au/](https://www.lifeline.org.au/)
+  - Singapore
+    - [https://www.sos.org.sg/](https://www.sos.org.sg/)
 
 ## Influences
 
