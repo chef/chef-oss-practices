@@ -18,19 +18,21 @@ Please email security@chef.io to report security vulnerabilities.
 
 We have four communication channels, each with its own specific purpose.
 
-###GitHub 
+If you have questions about why we choose to use certain channels in certain ways, please check out the [Frequently Asked Questions](./communication_faq.md).
 
-GitHub is the Chef Community's preferred durable medium for open and transparent development of software. All development conversation must be captured in GitHub. Any decisions made in internal Chef Slack channels, Zoom sessions, or any other communication medium must be summarized in GitHub [the exact format for adding this info to GitHub is TBD].
+### GitHub 
 
-###Community Slack
+GitHub is the Chef Community's preferred durable medium for open and transparent development of software. All development conversation must be captured in GitHub. Any decisions made in internal Chef Slack channels, Zoom sessions, or any other communication medium must be summarized in GitHub [the exact format for adding this info to GitHub is TBD]. Please also link to the GitHub issue or pull request in chat once it is opened.
+
+### Community Slack
 
  Sometimes it will make sense to have a brief, non-durable conversation about the development on a project. Have these exchanges in Community Slack (either in a dev channel or via DM). Document any development decisions, etc. arising from the Slack interaction in GitHub. Limit these conversations in Community Slack to development for a given project. The '#general' community Slack channel is the proper place for non-technical discussion and questions.
 
-###Mailing Lists
+### Mailing Lists
 
 The Chef Community mailing lists are hosted via [Discourse](https://discourse.chef.io/). This is the best place to catch up on general and security-related announcements.
 
-###Office Hours
+### Office Hours
 
 Individual projects may host office hours on a periodic basis. This is a great way to get some face time with other Project Members. Each project should record and archive sessions to a public location; see individual project documentation for more details.
 
