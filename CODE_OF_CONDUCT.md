@@ -128,6 +128,7 @@ person(s) assigned to each role:
 | Community Advocate  | Mandi Walls              | mandi@chef.io          |
 | Community Advocate  | Nell Shamrell-Harrington | nshamrell@chef.io      |
 | Community Advocate  | Robb Kidd                | rkidd@chef.io          |
+| Community Advocate  | Gavin Reynolds           | gavin@chef.io          |
 
 ## Consequences of Unacceptable Behavior
 
