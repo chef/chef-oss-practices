@@ -14,6 +14,8 @@ Projects in the Chef Community should feel encouraged to use these labels in the
 
 ## Aspect
 
+ Aspects define the characteristics of an issue.
+
  - `Correctness` Does the implementation match the specification?
  - `Documentation` How do we use this project?
  - `Integration` Works correctly with other projects or systems.
@@ -23,7 +25,9 @@ Projects in the Chef Community should feel encouraged to use these labels in the
  - `Security` Can an unwanted third party affect the stability or look at privileged information?
  - `Stability` Consistent results.
  - `Testing` Does the project have good coverage, and is CI working?
- 
+ - `UI` Affects how users interact with the interface of your project, with a focus on interaction and visual design.
+ - `UX` Affects how users feel about interacting with your project, with a focus on functionality, ease-of-use and accessibility.
+
 ## Expeditor
 
  If your project is using Expeditor you'll want these labels.
@@ -33,7 +37,7 @@ Projects in the Chef Community should feel encouraged to use these labels in the
  - `Expeditor: Skip Habitat` Used to skip `built_in:trigger_habitat_package_build`
  - `Expeditor: Skip Omnibus` Used to skip `built_in:trigger_omnibus_release_build`
  - `Expeditor: Bump Version Minor` Used by [`github.minor_bump_labels`](https://expeditor.chef.io/docs/reference/built_in/#bump-version) to bump the Minor version number.
-  - `Expeditor: Bump Version Major` Used by [`github.mamor_bump_labels`](https://expeditor.chef.io/docs/reference/built_in/#bump-version) to bump the Major version number.
+ - `Expeditor: Bump Version Major` Used by [`github.major_bump_labels`](https://expeditor.chef.io/docs/reference/built_in/#bump-version) to bump the Major version number.
  - `Expeditor: Skip Version Bump` Used to skip `built_in:bump_version`
 
 ## Platform
