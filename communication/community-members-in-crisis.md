@@ -24,7 +24,7 @@ If a community member expresses thoughts or ideas that indicate they are at risk
   - Call 1-800-273-8255
   - Available 24 hours everyday
   - Online Chat
-* Europe - list of all of EMEA Countries Crisis Lines
+* Europe - list of all of European Countries Crisis Lines
   - [https://www.iasp.info/resources/Crisis_Centres/Europe/](https://www.iasp.info/resources/Crisis_Centres/Europe/)
 * Australia
   - [https://www.lifeline.org.au/](https://www.lifeline.org.au/)
