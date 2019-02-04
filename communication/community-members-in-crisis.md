@@ -4,7 +4,7 @@ In the past we have had community members express suicidal thoughts or ideas. Wh
 
 We are not mental health professionals, but provide an important role in encouraging a community member to seek the help they need. This guide is meant to guide our responses when a community member expresses thoughts or ideas involving suicide.
 
-This response guide is heavily based on the [Support for Suicidal Individuals on Social and Digital Media](https://suicidepreventionlifeline.org/wp-content/uploads/2018/09/lifeline_socialmedia_toolkit.pdf?fbclid=IwAR3r_m7IUOFcMBLmqmd4thToc7bWkoF3UvR7-9QggooY3susl6qrX6g-nms) guide from the [Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/). Every community advocate and moderator must read this guide. We also encourage every member of the Chef community to also familiarize themselves with this guide.
+This response guide is heavily based on the [Support for Suicidal Individuals on Social and Digital Media](https://suicidepreventionlifeline.org/wp-content/uploads/2018/09/lifeline_socialmedia_toolkit.pdf) guide from the [Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/). Every community advocate and moderator must read this guide. We also encourage every member of the Chef community to also familiarize themselves with this guide.
 
 ## IMMINENT RISK - The Exception to All Rules
 
