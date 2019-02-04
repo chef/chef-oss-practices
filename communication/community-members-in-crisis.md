@@ -1,6 +1,6 @@
 # Community Members in Crisis
 
-In the past we have had community members express suicidal thoughts or ideas. When these situations arise,  it is critical that we respond in a way that is empathetic to that community member, point them to the professional resources that they need, and protects the rest of the community.
+In the past we have had community members express suicidal thoughts or ideas. When these situations arise, it is critical that we respond in a way that is empathetic to that community member, points them to the professional resources that they need, and protects the rest of the community.
 
 We are not mental health professionals, but provide an important role in encouraging a community member to seek the help they need. This guide is meant to guide our responses when a community member expresses thoughts or ideas involving suicide.
 
