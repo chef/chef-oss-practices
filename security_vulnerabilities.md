@@ -19,5 +19,3 @@ Security vulnerabilities provide an interesting challenge to Open Source project
 ### Backporting Vulnerability Fixes
 * Every project must have a policy on what older versions of the software are supported.
 * Whenever is technically possible, security fixes should be applied to all supported versions.
-
-## Disclosing Vulnerabilities
