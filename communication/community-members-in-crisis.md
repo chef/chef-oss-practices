@@ -16,7 +16,7 @@ If you are not immediately able to reach Jenny Armstrong-Owen or a Chef employee
 
 ## Checklist
 
-If a community member expresses thoughts or ideas that indicate they are at risk for suicide - but not at imminent risk - (see the "How to Identify Someone at Risk for Suicide Online" section of [Support for Suicidal Individuals on Social and Digital Media](https://suicidepreventionlifeline.org/wp-content/uploads/2018/09/lifeline_socialmedia_toolkit.pdf?fbclid=IwAR3r_m7IUOFcMBLmqmd4thToc7bWkoF3UvR7-9QggooY3susl6qrX6g-nms) guide from the [Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/), follow this checklist.
+If a community member expresses thoughts or ideas that indicate they are at risk for suicide - but not at imminent risk - (see the "How to Identify Someone at Risk for Suicide Online" section of [Support for Suicidal Individuals on Social and Digital Media](https://suicidepreventionlifeline.org/wp-content/uploads/2018/09/lifeline_socialmedia_toolkit.pdf) guide from the [Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/), follow this checklist.
 
 - [ ] Immediately DM the person who posted the message with a message along the lines of "It sounds like you are having a really difficult time right now. If you need a little extra emotional support, there are resources available that can help you 24/7"
 - [ ] Send them this list of global Suicide Prevention/Support lines
