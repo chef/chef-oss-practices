@@ -10,7 +10,7 @@ This response guide is heavily based on the [Support for Suicidal Individuals on
 
 See the "The Exception to all rules: Imminent Risk" section of [Support for Suicidal Individuals on Social and Digital Media](https://suicidepreventionlifeline.org/wp-content/uploads/2018/09/lifeline_socialmedia_toolkit.pdf?fbclid=IwAR3r_m7IUOFcMBLmqmd4thToc7bWkoF3UvR7-9QggooY3susl6qrX6g-nms) guide from the [Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/). 
 
-In this situation, it is essential to immediately reach out to a Chef employee (DM or Twitter might be best in this situation), who will then immediately notify Jenny Armstrong-Owen (her phone number is in the internal Company directory). If she is not available, the Chef employee must notify another employee at manager level or above to escalate the situation.
+In this situation, it is essential to immediately reach out to a Chef employee (DM or Twitter might be best in this situation), who will then immediately notify Chef's VP of People Jenny Armstrong-Owen (her phone number is in the internal Company directory). If she is not available, the Chef employee must notify another employee at manager level or above to escalate the situation.
 
 If you are not immediately able to reach Jenny Armstrong-Owen or a Chef employee at manager level or above, call your local emergency services line (i.e 911 in the U.S., 112 in Europe or Australia, or whatever number is appropriate for your local area). Emergency dispatch will be able to assist with reaching resources in the community member's local area.
 
