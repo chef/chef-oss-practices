@@ -34,6 +34,6 @@ If a community member expresses thoughts or ideas that indicate they are at risk
   - The [International Association for Suicide Prevention](https://www.iasp.info/) maintains a [list of worldwide crisis centers](https://www.iasp.info/resources/Crisis_Centres/)
 - [ ] If in a virtual space, take a screenshot of the messages indicating the community member is in crisis.
 - [ ] Delete the messages from any public channels (if you are unable to do this, skip to the next step)
-- [ ] Notify one of the community advocates listed in the [Code of Conduct](./CODE_OF_CONDUCT.md) via direct message and email
+- [ ] Notify one of the community advocates listed in the [Code of Conduct](../CODE_OF_CONDUCT.md) via direct message and email
 - [ ] Notify Jenny Armstrong-Owen, Chef's VP of People, at jowen@chef.io
 - [ ] Document the incident (including screenshots) in the [Chef Community Incidents Repo](https://github.com/chef/community-incidents) (if you do not have access to this repo, reach out to a community advocate identified in the [Code of Conduct](./code_of_conduct.md))
