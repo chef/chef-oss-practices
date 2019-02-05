@@ -8,46 +8,45 @@
 
 Established project members are expected to demonstrate their adherence to the principles in this document, familiarity with project organization, roles, policies, procedures, conventions, etc., and technical and/or writing ability. Role-specific expectations, responsibilities, and requirements are enumerated below.
 
-**Note:** This document is in progress, it outlines the various responsibilities of project roles in the Chef Software Inc. OSS Communities.  Chef's software projects are subdivided into projects and subprojects under teams. Responsibilities/Privileges for most roles are scoped to a project or subproject.
+**Note:** This document is in progress, it outlines the various responsibilities of project roles in the Chef Software Inc. OSS Communities.  Chef's software organized as projects under teams. Responsibilities/Privileges for most roles are scoped to a project or subproject.
 
 | Project Role | Responsibilities | Requirements | Defined by |
 | -----| ---------------- | ------------ | -------|
-| member | active contributor in the community | sponsored by 2 reviewers or approvers.  multiple contributions to the project. | Project GitHub org member. |
+| contributor | you become a contributor to the project by opening a PR or an Issue | No requirements | Having your GitHub handle recognized in the Changelog |
 | reviewer | review contributions from other members | history of review and authorship in a subproject | [CODEOWNERS] file reviewer entry. |
 | approver | final approval and acceptance of contributions | highly experienced and active reviewer + contributor to a subproject | [CODEOWNERS] file approver entry|
 | subproject owner | set direction and priorities for a subproject | demonstrated responsibility and excellent technical judgement for the subproject | [teams.yaml] subproject [CODEOWNERS] file *owners* entry |
 
 
-## Member
+## Reviewer
 
-Project Members are continuously active contributors in the community.  They can have issues and PRs assigned to them, participate in project teams through GitHub teams, and pre-submit tests are automatically run for their PRs. Members are expected to remain active contributors to the community. On approval of membership a user's membership will last until the end of the calendar year from their approval. If a member remains active their membership will be automatically extended. In the case that a member becomes inactive their membership will be revoked at the end of the calendar year.
+Project Reviewers are continuously active contributors in the community.  They can have issues and PRs assigned to them, participate in project development. Reviwers are expected to remain active contributors to the project. In the case that a reviewer becomes inactive their review priviliges will be removed. 
 
-**Defined by:** Member of the Chef Software Inc. Project Organization on GitHub
+Reviewers are able to review code for quality and correctness on some part of a project. They are knowledgeable about both the codebase and software engineering principles.
+
+*Note*: All Chef Software lives in open repos, and we welcome contribution and code reviews from anyone! The reviewer project role specifically refers to the following outlined responsibilities and privileges. Acceptance of code contributions requires at least one approver in addition to the assigned reviewers.
+
+*
+**Defined by:** An entry in a CODEOWNERS file in a repo owned by the specific Chef Software Inc. Project.
 
 ### Requirements
 
 - Enabled [two-factor authentication] on their GitHub account
-- Have made multiple contributions to the project or community.  Contributions may include, but are not limited to:
+- Have made multiple contributions to the project. Contributions may include, but are not limited to:
     - Authoring or reviewing PRs on GitHub
     - Filing or commenting on issues on GitHub
-    - Contributing to team, subproject, or community discussions (e.g. meetings, Chat, email discussion,
-      forums, Stack Overflow)
-    - Authoring a Blog post, meetup presentation, or conference lecture on the project they're involved in.
-- Subscribed to [<project-dev>@tobedetermined.com mailing list]
-- Have read the [contributor guide]
-- Actively contributing to 1 or more subprojects.
-- Sponsored by 2 reviewers. **Note the following requirements for sponsors**:
-    - Sponsors must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating
-      on issues, etc.
-    - Sponsors must be reviewers or approvers in at least 1 CODEOWNERS file (in any repo in the Project's GitHub
-      organization)
-    - Preferred that sponsors be from multiple member companies (where possible) to demonstrate integration across community.
-- **[Open an issue][membership request] against the chef/org repo**
+- Have read the [contributor guide](/contributors/guide/README.md)
+- Subscribed to the project's core-development mailing list and/or chat channel
+- Actively contributing to 1 or more projects.
+- Sponsored by 2 reviewers (or approvers). **Note the following requirements for sponsors**:
+    - Sponsors must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating on issues, etc.
+    - Sponsors must be reviewers or approvers in the related Chef Software Inc. OSS project
+- **[Open an issue][membership request] against the project repo**
    - Ensure your sponsors are @mentioned on the issue
-   - Complete every item on the checklist ([preview the current version of the template][membership template])
+   - Complete every item on [the checklist](/.github/ISSUE_TEMPLATE/membership.md) in the issue template
    - Make sure that the list of contributions included is representative of your work on the project.
-- Have your sponsoring reviewers reply confirmation of sponsorship: `+1`
-- Once your sponsors have responded, your request will be reviewed by the [Project's GitHub Admin team], in accordance with their [SLO]. Any missing information will be requested.
+- Have your sponsoring reviewers reply confirmation of sponsorship: `+1` or PR GitHub approvals
+- Once your sponsors have responded, your request will be reviewed by the project's approvers, in accordance with their PR SLA. Any missing information will be requested.
 
 ### Chef Software Ecosystem
 
@@ -55,63 +54,17 @@ There are many interrelated [Chef Software GitHub organizations], such as [habit
 
 ### Responsibilities and privileges
 
-- Responsive to issues and PRs assigned to them
-- Responsive to mentions of teams they are members of
-- Active owner of code they have contributed (unless ownership is explicitly transferred)
-  - Code is well tested
-  - Tests consistently pass
-  - Addresses bugs or issues discovered after code is accepted
-- Members can do `/lgtm` on open PRs.
-- They can be assigned to issues and PRs, and people can ask members for reviews with a `/cc @username`.
-- Tests can be run against their PRs automatically (In projects leveraging Chef's expeditor framework). No `/ok-to-test` needed.
-- Members can do `/ok-to-test` for PRs that have a `T-needs-ok-to-test` label, and use commands like `/close` to close PRs as well.
-- Invite to the yearly Community Summit
-- Members Only Swag pack
+The following applies to the codebases for which one is listed as a reviewer in a [CODEOWNERS] file.
 
-**Note:** Members who frequently contribute code are expected to proactively perform code reviews and work towards becoming a primary *reviewer* for the subproject that they are active in. If a member drops below a reasonable threshold of activity (definable, project to project) for 5 months they will be sent a warning notifying them that they have 1 month to re-assert their activity or their membership will be revoked. Former members, or Alumni, are always welcome to seek a membership refresh at any time.
+- Responsible for project quality control via [code reviews](/contributors/guide#code-review)
+  - Focus on code quality and correctness, including [testing](/contributors/guide#testing)
+  - Encouraged to review for more holistic issues, but not a requirement
+- Expected to be responsive to review requests, issues, and mentions and as per [community expectations](/contributors/guide/community-expectations.md)
+- Assigned PRs to review related to a reviewer's areas of interest or experience
+- Assigned test bugs related to a reviewer's areas of interest or experience
+- Granted "read access" to appropriate project repos
 
-## Reviewer
-
-Reviewers are able to review code for quality and correctness on some part of a subproject. They are knowledgeable about both the codebase and software engineering principles.
-
-**Defined by:** *reviewers* entry in an CODEOWNERS file in a repo owned by the
-specific Chef Software Inc. Project.
-
-Reviewer status is scoped to a part of the codebase.
-
-**Note:** Acceptance of code contributions requires at least one approver in
-addition to the assigned reviewers.
-
-### Requirements
-
-The following apply to the part of codebase for which one would be a reviewer in
-an [CODEOWNERS] file (for repos using the bot).
-
-- Member for at least 3 months
-- Primary reviewer for at least 5 PRs to the codebase
-- Reviewed or merged some large (relative to the project) number of substantial PRs to the codebase. In the case of a high activity project like Chef, or Habitat we suggest that number be around 20 PRs.
-- Knowledgeable about the codebase
-- Sponsored by a subproject approver
-  - With no objections from other approvers
-  - Done through PR to update the OWNERS file
-- May either self-nominate, be nominated by an approver in this subproject, or be nominated by a robot
-
-### Responsibilities and privileges
-
-The following apply to the part of codebase for which one would be a reviewer in a [CODEOWNERS] file (for repos using the bot).
-
-- Tests are automatically run for PullRequests from members of the specified GitHub organization (where the project is leveraging Chef's Expeditor framework)
-- Code reviewer status may be a precondition to accepting large code contributions
-- Responsible for project quality control via [code reviews]
-  - Focus on code quality and correctness, including testing and 
-  - May also review for more holistic issues, but not a requirement
-- Expected to be responsive to review requests as per [community expectations]
-- Assigned PRs to review related to subproject of expertise
-- Assigned test bugs related to subproject of expertise
-- Granted "read access" to specified project repos
-- May get a badge on PR and issue comments
-
-**Note:** Reviewers have no expectation of transitioning to an Approver role. The expectations for approver are quite high comparatively. If a reviwer drops below a reasonable threshold of activity (definable, project to project) for 2 months they will be sent a warning, notifying them that they have 1 month to re-assert their activity level or they will rotated to the role of "member". 
+**Note:** Reviewers have no expectation of transitioning to an Approver role. The expectations for approver are quite high comparatively. If a reviewer drops below a reasonable threshold of activity (definable, project to project) their privileges as a reviewer may be revoked, they will remain listed as a contributor and alumni.
 
 ## Approver
 
@@ -121,10 +74,10 @@ holistic acceptance of a contribution including: backwards / forwards
 compatibility, adhering to API and flag conventions, subtle performance and
 correctness issues, interactions with other parts of the system, etc.
 
-**Defined by:** *approvers* entry in a CODEOWNERS file in a repo owned by the
-Chef Software Inc. project.
+**Defined by:** an entry in a CODEOWNERS file in a repo owned by the
+Chef Software Inc. project AND merge rights to a project's trunk.
 
-Approver status is scoped to a part of the codebase.
+Approver status is scoped to a project.
 
 ### Requirements
 
