@@ -1,6 +1,6 @@
 # Fixing Security Vulnerabilities
 
-Security vulnerabilities provide an interesting challenge to Open Source projects. Depending on the severity of the issue, the maintainers of the project may not want to disclose the vulnerability until it is fixed. Here are guidelines for handling security vulnerabilities in OSS projects.
+Security vulnerabilities provide an interesting challenge to open source projects. Depending on the severity of the issue, the maintainers of the project may not want to disclose the vulnerability until it is fixed. Here are guidelines for handling security vulnerabilities in OSS projects.
 
 ## Reporting Vulnerabilities
 
