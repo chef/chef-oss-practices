@@ -1,8 +1,6 @@
 # Developer Certificate of Origin
 
-All Chef Software Inc. projects utilize a Developer Certificate of Origin (DCO) to ensure that each commit was written by the
-author or that the author has the appropriate rights necessary to contribute the change. Specifically we 
-utilize [Developer Certificate of Origin, Version 1.1](http://developercertificate.org/)
+All Chef Software Inc. projects utilize a Developer Certificate of Origin (DCO) to ensure that each commit was written by the author or that the author has the appropriate rights necessary to contribute the change. Specifically we utilize [Developer Certificate of Origin, Version 1.1](http://developercertificate.org/)
 
 ```
 Developer Certificate of Origin
@@ -12,8 +10,7 @@ Copyright (C) 2004, 2006 The Linux Foundation and its contributors.
 660 York Street, Suite 102,
 San Francisco, CA 94110 USA
 
-Everyone is permitted to copy and distribute verbatim copies of this
-license document, but changing it is not allowed.
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
 
 Developer's Certificate of Origin 1.1
@@ -47,9 +44,6 @@ Each commit must include a DCO which looks like this
 
 `Signed-off-by: Joe Smith <joe.smith@email.com>`
 
-The project requires that the name used is your real name.  Neither anonymous contributors nor those
-utilizing pseudonyms will be accepted.
+The project requires that the name used is your real name.  Neither anonymous contributors nor those utilizing pseudonyms will be accepted.
 
-Git makes it easy to add this line to your commit messages.  Make sure the `user.name` and
-`user.email` are set in your git configs.  Use `-s` or `--signoff` to add the Signed-off-by line to
-the end of the commit message.
+Git makes it easy to add this line to your commit messages.  Make sure the `user.name` and `user.email` are set in your git configs.  Use `-s` or `--signoff` to add the Signed-off-by line to the end of the commit message.
