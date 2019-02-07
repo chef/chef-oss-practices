@@ -2,7 +2,7 @@
 
 ### Project
 
-A Project is one GitHub repo that contains code.
+A Project is one or more GitHub repos that contain interdependent code.
 
 ### Product
 
