@@ -10,7 +10,6 @@ Welcome to the Chef Software Inc. OSS Community!
 - [Chef Software Inc. Contributor Guide](#chef-software-inc-contributor-guide)
 - [Welcome](#welcome)
 - [Before you get started](#before-you-get-started)
-  - [Signing the DCO](#signing-the-dco)
   - [Code of Conduct](#code-of-conduct)
   - [Community Expectations and Roles](#community-expectations-and-roles)
 - [Your First Contribution](#your-first-contribution)
@@ -22,7 +21,8 @@ Welcome to the Chef Software Inc. OSS Community!
       - [Find a team that is related to your contribution](#find-a-team-that-is-related-to-your-contribution)
     - [File an Issue](#file-an-issue)
 - [Contributing](#contributing)
-    - [Communication](#communication)
+  - [Signing the DCO](#signing-the-dco)
+  - [Communication](#communication)
   - [GitHub workflow](#github-workflow)
   - [Open a Pull Request](#open-a-pull-request)
   - [Code Review](#code-review)
@@ -36,10 +36,6 @@ Welcome to the Chef Software Inc. OSS Community!
 - [Advanced Topics](#advanced-topics)
 
 # Before you get started
-
-## Signing the DCO
-
-Before you can contribute, you'll need to know how to sign your commits with a [Developer Certificate of Origin](/DCO.md)
 
 ## Code of Conduct
 
@@ -138,6 +134,10 @@ Check out our [community guiding principles](/contributors/guide/collab.md) on h
 Beginner focused information can be found below in [Open a Pull Request](#open-a-pull-request) and [Code Review](#code-review).
 
 For quick reference on contributor resources, we have a handy [contributor cheatsheet](./contributor-cheatsheet.md)
+
+### Signing the DCO
+
+Before you can contribute, you'll need to know how to sign your commits with a [Developer Certificate of Origin](/DCO.md)
 
 ### Communication
 
