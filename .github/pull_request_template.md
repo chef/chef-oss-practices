@@ -16,9 +16,9 @@
 ## Checklist:
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
-- [ ] My code follows the code style of this project.
-- [ ] I have updated the documentation accordingly.
 - [ ] I have read the **CONTRIBUTING** document.
+- [ ] I have run the pre-merge tests locally and they pass.
+- [ ] I have updated the documentation accordingly.
 - [ ] I have added tests to cover my changes.
 - [ ] All new and existing tests passed.
-- [ ] All commits have been signed-off for the Developer Certificate of Origin. See <https://github.com/chef/chef/blob/master/CONTRIBUTING.md#developer-certification-of-origin-dco>
+- [ ] All commits have been signed-off for [the Developer Certificate of Origin](https://github.com/chef/chef/blob/master/CONTRIBUTING.md#developer-certification-of-origin-dco).
