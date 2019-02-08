@@ -8,7 +8,7 @@ This response guide is heavily based on the [Support for Suicidal Individuals on
 
 ## IMMINENT RISK - The Exception to All Rules
 
-See the "The Exception to all rules: Imminent Risk" section of [Support for Suicidal Individuals on Social and Digital Media](https://suicidepreventionlifeline.org/wp-content/uploads/2018/09/lifeline_socialmedia_toolkit.pdf?fbclid=IwAR3r_m7IUOFcMBLmqmd4thToc7bWkoF3UvR7-9QggooY3susl6qrX6g-nms) guide from the [Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/). 
+See the "The Exception to all rules: Imminent Risk" section of [Support for Suicidal Individuals on Social and Digital Media](https://suicidepreventionlifeline.org/wp-content/uploads/2018/09/lifeline_socialmedia_toolkit.pdf) guide from the [Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/).
 
 In this situation, it is essential to immediately reach out to a Chef employee (DM or Twitter might be best in this situation), who will then immediately notify Chef's VP of People Jenny Armstrong-Owen (her phone number is in the internal Company directory). If she is not available, notify Human Resources Manager Becky Pratt (her phone number is in the internal Company directory), if neither are available then the Chef employee must notify another employee at manager level or above to escalate the situation.
 
@@ -29,7 +29,7 @@ If a community member expresses thoughts or ideas that indicate they are at risk
 * Australia
   - [https://www.lifeline.org.au/](https://www.lifeline.org.au/)
 * Singapore
-  - [https://www.sos.org.sg/](https://www.sos.org.sg/) 
+  - [https://www.sos.org.sg/](https://www.sos.org.sg/)
 * Anywhere
   - The [International Association for Suicide Prevention](https://www.iasp.info/) maintains a [list of worldwide crisis centers](https://www.iasp.info/resources/Crisis_Centres/)
 - [ ] If in a virtual space, take a screenshot of the messages indicating the community member is in crisis.
