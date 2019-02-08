@@ -27,11 +27,11 @@ The Chef OSS Communities have 3 main types of groups:
 
 ### Teams
 
-Teams are sets of people within an individual project that focus on various parts of that project. Teams _must_ have open and transparent proceedings and communication. Anyone is welcome to participate and contribute to a team provided they follow the Chef OSS Code of Conduct and read to understand the group's governance policy.
+Teams are sets of [people within an individual project](/project-membership.md) that focus on various parts of that project. Teams _must_ have open and transparent proceedings and communication. Anyone is welcome to participate and contribute to a team provided they follow the Chef OSS Code of Conduct and read to understand the group's governance policy.
 
 ### Guilds
 
-Guilds are a cross-cutting group of individuals with shared interests on a specific subject that may be tangential to the project they are a member of. The intention of guilds is to provide cross-pollination and knowledge share on those subjects. These can be anything from a group sharing knowledge on a specific language - e.g. the Go guild, to a group discussing the merits of various web frameworks - e.g. the Web Guild and anything in between.
+[Guilds](/guilds/) are groups of individuals with shared interests in specific subjects that may be tangential to the project they are a member of. The purpose of guilds is to provide knowledge cross-pollination as well as establish standards and practices (within the scope of the interest) to the larger community. These can be anything from a group sharing knowledge on a specific language - e.g. the Go guild, to a group discussing the merits of various web frameworks - e.g. the Web Guild, and anything in between.
 
 ### Committees
 
