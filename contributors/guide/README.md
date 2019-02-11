@@ -7,34 +7,35 @@ Feel free to browse the [open issues](https://github.com/chef/chef-oss-practices
 
 Welcome to the Chef Software Inc. OSS Community! 
 
--   [Before you get started](#before-you-get-started)
-    -   [Signing the DCO](#signing-the-dco)
-    -   [Code of Conduct](#code-of-conduct)
-    -   [Community Expectations and Roles](#community-expectations-and-roles)
-        -   [Thanks](#thanks)
--   [Your First Contribution](#your-first-contribution)
-    -   [Find something to work on](#find-something-to-work-on)
-        -   [Find a good first topic](#find-a-good-first-topic)
-        -   [Learn about teams](#learn-about-team)
-        -   [File an Issue](#file-an-issue)
--   [Contributing](#contributing)
-    -   [Communication](#communication)
-    -   [GitHub workflow](#github-workflow)
-    -   [Open a Pull Request](#open-a-pull-request)
-    -   [Code Review](#code-review)
-    -   [Testing](#testing)
-    -   [Security](#security)
-    -   [Issues Management or Triage](#issues-management-or-triage)
--   [Community](#community)
-    -   [Communication](#communication-1)
-    -   [Events](#events)
-    -   [Mentorship](#mentorship)
+- [Chef Software Inc. Contributor Guide](#chef-software-inc-contributor-guide)
+- [Welcome](#welcome)
+- [Before you get started](#before-you-get-started)
+  - [Code of Conduct](#code-of-conduct)
+  - [Community Expectations and Roles](#community-expectations-and-roles)
+- [Your First Contribution](#your-first-contribution)
+  - [Find something to work on](#find-something-to-work-on)
+    - [Find a good first topic](#find-a-good-first-topic)
+      - [Issue Assignment in Github](#issue-assignment-in-github)
+    - [Learn about Teams](#learn-about-teams)
+      - [Team structure](#team-structure)
+      - [Find a team that is related to your contribution](#find-a-team-that-is-related-to-your-contribution)
+    - [File an Issue](#file-an-issue)
+- [Contributing](#contributing)
+  - [Signing the DCO](#signing-the-dco)
+  - [Communication](#communication)
+  - [GitHub workflow](#github-workflow)
+  - [Open a Pull Request](#open-a-pull-request)
+  - [Code Review](#code-review)
+  - [Testing](#testing)
+  - [Security](#security)
+  - [Issues Management or Triage](#issues-management-or-triage)
+- [Community](#community)
+  - [Communication](#communication-1)
+  - [Events](#events)
+  - [Mentorship](#mentorship)
+- [Advanced Topics](#advanced-topics)
 
 # Before you get started
-
-## Signing the DCO
-
-Before you can contribute, you'll need to know how to sign your commits with a [Developer Certificate of Origin](/DCO.md)
 
 ## Code of Conduct
 
@@ -134,6 +135,10 @@ Beginner focused information can be found below in [Open a Pull Request](#open-a
 
 For quick reference on contributor resources, we have a handy [contributor cheatsheet](./contributor-cheatsheet.md)
 
+### Signing the DCO
+
+Before you can contribute, you'll need to know how to sign your commits with a [Developer Certificate of Origin](/DCO.md)
+
 ### Communication
 
 It is best to contact your [team](#learn-about-teams) for issues related to the projects operated by that team. Your team will be able to help you much more quickly than a general question would.
@@ -178,7 +183,7 @@ To make it easier for your PR to receive reviews, consider the reviewers will ne
 * follow the project [coding conventions](coding-conventions.md) (which may be defined by a language specific guild)
 * write [good commit messages](https://chris.beams.io/posts/git-commit/)
 * break large changes into a logical series of smaller commits which individually make easily understandable changes, and in aggregate solve a broader issue
-* label PRs with appropriately: check out our section on [github labels](/github_labels.md)
+* label PRs with appropriately: check out our section on [github labels](/github-labels.md)
 
 Reviewers, the people giving the review, are highly encouraged to revisit the [Code of Conduct](/CODE_OF_CONDUCT.md) and must go above and beyond to promote a collaborative, respectful community.  
 When reviewing PRs from others [The Gentle Art of Patch Review](http://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/) suggests an iterative series of focuses which is designed to lead new contributors to positive collaboration without inundating them initially with nuances:

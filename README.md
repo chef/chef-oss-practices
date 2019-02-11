@@ -4,15 +4,13 @@ Welcome to the Chef Software OSS communities!
 
 This is a starting point for contributing to all of Chef's software and a wonderful spot for information on how to join in on the fun.
 
-To learn more about each of our project's structure and organization, please refer to [Project Governance](to be added later) information.
+To learn more about each of our project's structure and organization, please refer to [Project Governance](/governance.md) information.
 
 ## How We're Organized
 
-Chef Software (the company) produces many products such as Chef, InSpec, and Habitat. Each of these products is fully open source and comprised of one or more open source projects. For instance the Chef product is comprised of chef, ohai, various mixlib projects, and more.
+Chef Software (the company) produces many products such as Chef, InSpec, and Habitat. Each of these products is fully open source and comprised of one or more open source projects. For instance the Chef product is comprised of chef, ohai, various mixlib projects, and other interdependent libraries. The project and/or sub-project scope is defined in each GitHub repository in the README.md file.
 
-Many of our projects include sub-projects, which are repositories of code that are tightly coupled to another project. For example the InSpec project has a sub-project of `kitchen-inspec` as changes to the InSpec codebase more than often require updates to `kitchen-inspec`. The project and sub-project scope is defined in each GitHub repository in the README.md file.
-
-All governance of Chef projects operates within the requirements set by the Chef OSS Practices committee, all of which are documented under [Governance](governance.md), however *Teams* can have their own policy for contribution, described in their `CONTRIBUTING.md` file in their project repo (e.g. habitat/CONTRIBUTING.md), communication standards, etc. so long as those policies meet the base Chef Software policy.
+All Chef projects operate under governance determined by the Chef OSS Practices Committee. These policies are documented under [Governance](/governance.md), however *Teams* can have their own [policy for contribution](/repo-management/project-required-setup.md#CONTRIBUTING.md), communication standards, etc. so long as those policies meet the base governance policy.
 
 ## Communicating With Us
 
@@ -24,11 +22,11 @@ For more specific topics, check out an individual project.
 
 A first step towards contributing is to pick from the [list of Chef Software Projects](added later). Read the team's contribution policy (CONTRIBUTING.md), start attending team meetings, join the chat channel, subscribe to the mailing list. Teams will have a set of "Help Wanted" issues that can help new contributors get involved.
 
-The [Contributor Guide] provides detailed instructions on how to get your code accepted into core including:
+The [Contributor Guide](/contributors/guide) provides detailed instructions on how to get your code accepted into core including:
 
-  1. Doing a thing!
-  2. Doing some other thing!
-  3. Perhaps doing a final thing!?
+  1. How to [file an issue](/contributors/guide/README.md#File-an-issue)  
+  2. How to [find something to work on](/contributors/guide/README.md#Find-something-to-work-on)
+  3. How to [open a pull request](/contributors/guide/README.md#Open-a-pull-request)
 
 ## Project Membership
 
