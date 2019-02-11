@@ -65,7 +65,7 @@ The following applies to the codebases for which one is listed as a reviewer in 
 - Assigned test bugs related to a reviewer's areas of interest or experience
 - Granted "read access" to appropriate project repos
 
-**Note:** Reviewers have no expectation of transitioning to an Approver role. The expectations for approver are quite high comparatively. If a reviewer drops below a reasonable threshold of activity (definable, project to project) their privileges as a reviewer may be revoked, they will remain listed as a contributor and alumni.
+**Note:** Reviewers have no expectation of transitioning to an Approver role. The expectations for approver are quite high comparatively. If a reviewer drops below a reasonable threshold of activity (definable, project to project) their privileges as a reviewer may be revoked, they will remain listed as a contributor and alum.
 
 ## Approver
 
