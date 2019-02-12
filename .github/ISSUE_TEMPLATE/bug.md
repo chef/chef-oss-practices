@@ -18,10 +18,7 @@ labels: 'Type: Bug'
 <!--- for information on how to create a good replication case. -->
 
 ## Stacktrace
-<!--- Please include the stacktrace output or link to a Gist of it, if there is one. -->
-
-<!--- Use this details tag and code block to create a roll-up of the long content. -->
-
+<!--- If there are related error messages or stacktraces, please include the output in the details section and code block below. Feel free to copy and paste the details section for multiple output examples. Or if there is already a Gist with the output, include a link to it. -->
 <details><summary> <!-- a title/summary of this content --> </summary>
 ```
 ```
