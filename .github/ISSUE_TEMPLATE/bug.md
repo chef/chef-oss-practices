@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Explain how chef-oss-practices is not working as expected.
+about: Explain how THIS_SOFTWARE is not working as expected.
 labels: 'Type: Bug'
 ---
 
@@ -11,7 +11,7 @@ labels: 'Type: Bug'
 <!--- Also, please be aware of our [Code of Conduct](https://www.chef.io/code-of-conduct/). -->
 
 ## Software Version
-<!--- Tell us which version of this software and the Operating System you are using. -->
+<!--- Tell us which version of THIS_SOFTWARE and the Operating System you are using. -->
 
 ## Replication Case
 <!--- Tell us what steps to take to replicate your problem.  See [How to create a Minimal, Complete, and Verifiable example](https://stackoverflow.com/help/mcve) -->

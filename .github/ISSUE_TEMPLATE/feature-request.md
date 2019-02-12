@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Request new functionality for chef-oss-practices
+about: Request new functionality for THIS_SOFTWARE
 labels: 'Triage: Feature Request'
 ---
 
