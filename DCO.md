@@ -40,10 +40,10 @@ By making a contribution to this project, I certify that:
     this project or the open source license(s) involved.
 ```
 
-Each commit must include a DCO which looks like this
+Each commit must include a DCO which looks like this:
 
 `Signed-off-by: Joe Smith <joe.smith@email.com>`
 
-The project requires that the name used is your real name.  Neither anonymous contributors nor those utilizing pseudonyms will be accepted.
+The project requires that the name used is your real name. Neither anonymous contributors nor those utilizing pseudonyms will be accepted.
 
-Git makes it easy to add this line to your commit messages.  Make sure the `user.name` and `user.email` are set in your git configs.  Use `-s` or `--signoff` to add the Signed-off-by line to the end of the commit message.
+Git makes it easy to add this line to your commit messages. Make sure the `user.name` and `user.email` are set in your git configs. Use `-s` or `--signoff` to add the Signed-off-by line to the end of the commit message.

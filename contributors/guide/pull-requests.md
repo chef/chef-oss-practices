@@ -90,7 +90,7 @@ If you feel your pull request is in this state, contact the appropriate [team](h
 
 ## Automation
 
-The Chef Software Inc. OSS community uses a variety of automation to manage pull requests.  This automation is described in detail [in the automation doc](/contributors/devel/automation.md).
+The Chef Software Inc. OSS community uses a variety of automation to manage pull requests. This automation is described in detail [in the automation doc](/contributors/devel/automation.md).
 
 # Why was my pull request closed?
 

@@ -8,7 +8,7 @@
 
 Established project members are expected to demonstrate their adherence to the principles in this document, familiarity with project organization, roles, policies, procedures, conventions, etc., and technical and/or writing ability. Role-specific expectations, responsibilities, and requirements are enumerated below.
 
-**Note:** This document is in progress, it outlines the various responsibilities of project roles in the Chef Software Inc. OSS Communities.  Chef's software organized as projects under teams. Responsibilities/Privileges for most roles are scoped to a project or subproject.
+**Note:** This document is in progress, it outlines the various responsibilities of project roles in the Chef Software Inc. OSS Communities. Chef's software organized as projects under teams. Responsibilities/Privileges for most roles are scoped to a project or subproject.
 
 | Project Role | Responsibilities | Requirements | Defined by |
 | ----- | ---------------- | ------------ | ------- |
@@ -20,7 +20,7 @@ Established project members are expected to demonstrate their adherence to the p
 
 ## Reviewer
 
-Project Reviewers are continuously active contributors in the community.  They can have issues and PRs assigned to them, participate in project development. Reviwers are expected to remain active contributors to the project. In the case that a reviewer becomes inactive their review priviliges will be removed. 
+Project Reviewers are continuously active contributors in the community. They can have issues and PRs assigned to them, participate in project development. Reviwers are expected to remain active contributors to the project. In the case that a reviewer becomes inactive their review priviliges will be removed. 
 
 Reviewers are able to review code for quality and correctness on some part of a project. They are knowledgeable about both the codebase and software engineering principles.
 
@@ -69,7 +69,7 @@ The following applies to the codebases for which one is listed as a reviewer in 
 
 ## Approver
 
-Code approvers are able to both review and approve code contributions.  While code review is focused on code quality and correctness, approval is focused on holistic acceptance of a contribution including: backwards / forwards compatibility, adhering to API and flag conventions, subtle performance and correctness issues, interactions with other parts of the system, etc.
+Code approvers are able to both review and approve code contributions. While code review is focused on code quality and correctness, approval is focused on holistic acceptance of a contribution including: backwards / forwards compatibility, adhering to API and flag conventions, subtle performance and correctness issues, interactions with other parts of the system, etc.
 
 **Defined by:** an entry in a CODEOWNERS file in a repo owned by the Chef Software Inc. project AND merge rights to a project's trunk. An *approver* entry in the Chef OSS [TEAMS] file.
 
@@ -102,13 +102,13 @@ The following apply to the portions of a project for which one would be an appro
 
 **Note:** This is a generalized high-level description of the role, and the specifics of the project owner role's responsibilities and related processes *MUST* be defined for individual teams or projects.
 
-Project Owners are the technical authority for all Chef Software Inc. OSS projects.  They *MUST* have demonstrated both good judgement and responsibility towards the health of that project.  Project Owners *MUST* set _technical_ direction and make or approve _technical_ design decisions for their project - either directly or through delegation of these responsibilities.
+Project Owners are the technical authority for all Chef Software Inc. OSS projects. They *MUST* have demonstrated both good judgement and responsibility towards the health of that project. Project Owners *MUST* set _technical_ direction and make or approve _technical_ design decisions for their project - either directly or through delegation of these responsibilities.
 
 **Defined by:** *owners* entry in project [CODEOWNERS] files. An *owner* entry in the Chef OSS [TEAMS] file  *project.owners*
 
 ### Requirements
 
-The process for becoming a project Owner should be defined in the team charter of the team owning the project.  Unlike the roles outlined above, the Owners of a project are typically limited to a relatively small group of decision makers and updated as fits the needs of the project. More often than not these individuals are Principal Engineers @ Chef Software Inc. and have a connection to an internal product owner with whom they are closely collaborating.
+The process for becoming a project Owner should be defined in the team charter of the team owning the project. Unlike the roles outlined above, the Owners of a project are typically limited to a relatively small group of decision makers and updated as fits the needs of the project. More often than not these individuals are Principal Engineers @ Chef Software Inc. and have a connection to an internal product owner with whom they are closely collaborating.
 
 The following apply to the project for which one would be an owner.
 
