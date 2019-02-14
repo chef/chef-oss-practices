@@ -64,6 +64,10 @@ The TEAMS file in a repo is commonly seen in other projects as MAINTAINERS.md. M
 
 The GitHub codeowners file is used to auto assign reviewers to a project. Properly routing new pull requests to the appropriate humans decreases the time it takes to get code reviewed and merged. It also reduces the number of lost pull requests, which helps us engage new contributors and retain them for the future. CODEOWNERS can be setup to assign ownership of certain directories or files to particular teams or individuals. For example, changes to files under `readme/docs` can automatically assign the docs team for review.
 
+### .github/ISSUE_TEMPLATE.md
+
+### .github/PULL_REQUEST_TEMPLATE.md
+
 ## Other Recommendations
 
 ### Monitoring
