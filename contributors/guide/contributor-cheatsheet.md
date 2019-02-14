@@ -6,11 +6,11 @@ A list of common resources when contributing to Chef Software Inc. Projects.
 | ---- | --- | ------ | ----- |
 | [Chef](https://github.com/chef/chef) | [PRs](https://github.com/chef/chef/pulls) | [Issues](https://github.com/chef/chef/issues) | [Meeting Notes](https://github.com/chef/chef-community-slack-meetings)
 | [Habitat](https://github.com/habitat-sh/habitat) | [PRs](https://github.com/habitat-sh/habitat/pulls) | [Issues](https://github.com/habitat-sh/habitat/issues)
-| [Inspec](https://github.com/inspec/inspec) | [PRs](https://github.com/inspec/inspec/pulls) | [Issues](https://github.com/inspec/inspec/pulls)
+| [InSpec](https://github.com/inspec/inspec) | [PRs](https://github.com/inspec/inspec/pulls) | [Issues](https://github.com/inspec/inspec/pulls)
 | [Community](https://github.com/chef/chef-oss-practices) | [PRs](https://github.com/chef/chef-oss-practices/pulls) | [Issues](https://github.com/chef/chef-oss-practices/issues) |
 | [Chef Docs](https://github.com/chef/chef-web-docs) | [PRs](https://github.com/chef/chef-web-docs/pulls) | [Issues](https://github.com/chef/chef-web-docs/issues)
 | [Habitat Docs](https://github.com/habitat-sh/habitat/tree/master/www/source/docs) | [PRs](https://github.com/habitat-sh/habitat/pulls?q=is%3Aopen+is%3Apr+label%3AA-documentation) | [Issues](https://github.com/habitat-sh/habitat/labels/A-documentation)
-| [Inspec Docs](https://github.com/inspec/inspec/tree/master/docs) | [PRs](https://github.com/inspec/inspec/issues?utf8=%E2%9C%93&q=ir%3Apr+is%3Aopen+label%3A%22Aspect%3A+Docs%22+) | [Issues](https://github.com/inspec/inspec/labels/Aspect%3A%20Docs)
+| [InSpec Docs](https://github.com/inspec/inspec/tree/master/docs) | [PRs](https://github.com/inspec/inspec/issues?utf8=%E2%9C%93&q=ir%3Apr+is%3Aopen+label%3A%22Aspect%3A+Docs%22+) | [Issues](https://github.com/inspec/inspec/labels/Aspect%3A%20Docs)
 
 ## Getting Started
 
@@ -23,8 +23,7 @@ A list of common resources when contributing to Chef Software Inc. Projects.
 - [GitHub labels](https://github.com/chef/chef-oss-practices/blob/master/repo-management/github-labels.md)
 - [Chef Releases](https://discourse.chef.io/c/chef-release)
 - [Habitat Releases](https://discourse.chef.io/c/habitat)
-- [Inspec Releases](https://discourse.chef.io/c/chef-release)
-
+- [InSpec Releases](https://discourse.chef.io/c/chef-release)
 
 ## Teams
 

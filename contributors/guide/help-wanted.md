@@ -1,6 +1,6 @@
 # Overview
 
-We use two labels [Help Wanted](#help-wanted) and [Good First Issue](#good-first-issue) to identify issues that have been specially groomed for community contributors. The `Good First Issue` label is a subset of `Help Wanted` label, indicating that project members have committed to providing extra assistance for new contributors. All `Good First Issue` items also have the `Help Wanted` label. 
+We use two labels [Help Wanted](#help-wanted) and [Good First Issue](#good-first-issue) to flag issues that have been identified as well-suited for community contributors. The `Good First Issue` label is a subset of `Help Wanted` label, indicating that project members have committed to providing extra assistance for new contributors. All `Good First Issue` items also have the `Help Wanted` label. 
 
 We also have some [suggestions](#suggestions) for using these labels to help
 grow and improve our community.
@@ -31,7 +31,7 @@ Items marked with the `Help Wanted` label need to ensure that they are:
 
 Items marked with the `Good First Issue` label are intended for _first-time contributors_. It indicates that members will keep an eye out for these pull requests and shepherd it through our processes.
 
-**New contributors should not be left to find an approver, ping for reviews, or identify that their build failed due to a flake.** This makes new contributors feel welcome, valued, and assures them that they will have an extra level of help with their first contribution.
+**New contributors should not be left to find an approver, ping for reviews, or identify that their build had a transitive or irreproducible failure.** This makes new contributors feel welcome, valued, and assures them that they will have an extra level of help with their first contribution.
 
 These items need to ensure that they follow the guidelines for `Help Wanted` labels (above) in addition to meeting the following criteria:
 
@@ -70,7 +70,7 @@ Provide extra assistance during reviews on `Good First Issue` pull requests:
 - Offer advice such as _"One way to reproduce this in a cluster is to do use docker compose then you can use curl to poke around"_, or _"Did you know that you can use fake clients to setup and test this easier?"_ etc.
 - Help new contributors learn enough about the project, setting up their environment, running tests, and navigating this area of the code so that they can tackle a related `Help Wanted` issue next time.
 
-- Encourage new contributors to seek help on the appropriate slack channels, introduce them, and include them in your conversations.
+- Encourage new contributors to seek help on the appropriate Slack channels, introduce them, and include them in your conversations.
 - Invite them to Team meetings.
 - Give credit to new contributors so that others get to know them, _"Hey, would someone help give a second LGTM on @newperson's first PR on Chef Client?"_. Mention them in the team channel/meeting, thank them on twitter!
 - Use all the GIFS in your approve or lgtm comments.
