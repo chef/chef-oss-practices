@@ -20,7 +20,7 @@ For more detailed information, check the README.md in a project's repository.
 
 ## Getting Started Contributing
 
-A first step towards contributing is to pick from the [list of Chef Software Projects](added later).
+A first step towards contributing is to pick from the [list of Chef Software Projects](projects-list.md).
 
 Once you've selected a project to contribute to, be sure to read the team's contribution guide (CONTRIBUTING.md). That guide will provide information on issues in need of contributors, team meetings schedules, Slack channels / mailing lists where project discussions take place.
 
