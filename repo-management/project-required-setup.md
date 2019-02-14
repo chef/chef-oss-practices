@@ -70,10 +70,6 @@ The GitHub codeowners file is used to auto assign reviewers to a project. Proper
 
 ## Other Recommendations
 
-### Monitoring
-
-When a project runs as a service (i.e. Hosted Chef or the Builder SaaS service) it should definitely have monitoring tooling in place or another process for detecting and responding to outages.
-
 ### Pull Request Reminders
 
 We find pull request reminders to be a practical mechanism for reminding project members they have open PRs in need of review. Teams should feel free to choose whichever tool for this that they like, but there are two that we recommend.
