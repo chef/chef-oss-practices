@@ -8,19 +8,18 @@
 
 Established project members are expected to demonstrate their adherence to the principles in this document, familiarity with project organization, roles, policies, procedures, conventions, etc., and technical and/or writing ability. Role-specific expectations, responsibilities, and requirements are enumerated below.
 
-**Note:** This document is in progress, it outlines the various responsibilities of project roles in the Chef Software Inc. OSS Communities. Chef's software organized as projects under teams. Responsibilities/Privileges for most roles are scoped to a project or subproject.
+**Note:** This document is in progress, it outlines the various responsibilities of project roles in the Chef Software Inc. OSS Communities. Chef's software is organized into projects under teams. Responsibilities/Privileges for most roles are scoped to a project or subproject.
 
 | Project Role | Responsibilities | Requirements | Defined by |
 | ----- | ---------------- | ------------ | ------- |
-| contributor | you become a contributor to the project by opening a PR or an Issue | No requirements | Having your GitHub handle recognized in the Changelog |
+| contributor | you become a contributor to the project by opening a PR or an Issue | No requirements | Having your GitHub handle recognized in the project changelog and/or release notes |
 | reviewer | review contributions from other members | history of review and authorship in a project | project [CODEOWNERS] entry, Chef OSS [TEAMS] file *reviewer* entry. |
 | approver | final approval and acceptance of contributions | highly experienced and active reviewer + contributor to a project | Chef OSS [TEAMS] file *approver* entry, project [CODEOWNERS] entry|
 | project owner | set direction and priorities for a project | demonstrated responsibility and excellent technical judgement for the project | project [CODEOWNERS] entry, Chef OSS [TEAMS] file *owners* entry |
 
-
 ## Reviewer
 
-Project Reviewers are continuously active contributors in the community. They can have issues and PRs assigned to them, participate in project development. Reviwers are expected to remain active contributors to the project. In the case that a reviewer becomes inactive their review priviliges will be removed. 
+Project Reviewers are continuously active contributors in the community. They can have issues and PRs assigned to them, participate in project development. Reviewers are expected to remain active contributors to the project. In the case that a reviewer becomes inactive their review privileges will be removed.
 
 Reviewers are able to review code for quality and correctness on some part of a project. They are knowledgeable about both the codebase and software engineering principles.
 
@@ -51,7 +50,7 @@ Reviewer status is scoped to a project.
 
 ### Chef Software Ecosystem
 
-There are many interrelated [Chef Software GitHub organizations], such as [habitat](https://github.com/habitat-sh/habitat), [chef](https://github.com/chef), and [inspec](https://github.com/chef/inspec). Membership to 1 organization doesn't inherently grant membership to another, however the perks and membership process are uniform no matter what organization or Chef Software Inc. project you contribute to.
+There are many interrelated [Chef Software GitHub organizations], such as [habitat-sh](https://github.com/habitat-sh/habitat), [chef](https://github.com/chef), and [inspec](https://github.com/chef/inspec). Membership to one of these organizations doesn't inherently grant membership to another, however the perks and membership process are uniform no matter what organization or Chef Software Inc. project you contribute to.
 
 ### Responsibilities and privileges
 
@@ -83,7 +82,7 @@ The following requirements apply to the portions of a project for which one woul
 - Primary reviewer for several substantial PRs to the codebase (each project may define a minimum to qualify)
 - Nominated by an approver _and_ seconded by a project owner
   - With no objections from other project owners or approvers
-  - Done through PR to update the CODEOWNERS 
+  - Done through PR to update the CODEOWNERS
   - On Merge project owner grants merge privileges to project trunk
 
 ### Responsibilities and privileges
@@ -132,7 +131,7 @@ The following apply to the project for which one would be an owner.
   - Adequate test coverage to confidently release
   - Tests pass reliably (i.e. not flaky) and are fixed when they fail
 - Ensure a healthy process for open discussion and public decision making is in place.
-- Work with other project owners to holistically maintain the project's health and success 
+- Work with other project owners to holistically maintain the project's health and success
 
 
 ## Alums
@@ -147,16 +146,13 @@ Alum status is straightforward - Thank you for being involved. An alum is welcom
 
 The Maintainer role has been removed and replaced with a greater focus on explicit roles as defined in the [TEAMS] file.
 
-[New contributors]: /CONTRIBUTING.md
-[community expectations]: /contributors/guide/community-expectations.md
 [Chef Software Inc. Contributor Guide]: contributors/guide/README.md
+[community expectations]: contributors/guide/community-expectations.md
 [membership request]: /issues/new?template=membership.md&title=REQUEST%3A%20New%20membership%20for%20%3Cyour-GH-handle%3E
 
-[code reviews]: /contributors/?
-[Chef GitHub organizations]: /?
-[Chef org]: https://github.com/chef
+[code reviews]: contributors/?
 
-[CODEOWNERS]: /contributors/guide/owners.md
-[TEAMS]: /teams/
+[CODEOWNERS]: contributors/guide/owners.md
+[TEAMS]: teams/
 [SLA]: /github-management/org-owners-guide.md#slas
 [two-factor authentication]: https://help.github.com/articles/about-two-factor-authentication
