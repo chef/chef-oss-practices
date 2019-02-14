@@ -14,7 +14,7 @@ labels: 'Type: Bug'
 <!--- Tell us which version of THIS_SOFTWARE and the Operating System you are using. -->
 
 ## Replication Case
-<!--- Tell us what steps to take to replicate your problem.  See [How to create a Minimal, Complete, and Verifiable example](https://stackoverflow.com/help/mcve) -->
+<!--- Tell us what steps to take to replicate your problem. See [How to create a Minimal, Complete, and Verifiable example](https://stackoverflow.com/help/mcve) -->
 <!--- for information on how to create a good replication case. -->
 
 ## Stacktrace

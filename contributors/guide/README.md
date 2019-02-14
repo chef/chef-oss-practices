@@ -145,7 +145,7 @@ Common new contributor PR conflicts are:
 
 ## Code Review
 
-For a brief description of the importance of code review, please read [On Code Review](/contributors/guide/community-expectations.md#code-review).  
+For a brief description of the importance of code review, please read [On Code Review](/contributors/guide/community-expectations.md#code-review). 
 There are two aspects of code review: giving and receiving.
 
 To make it easier for your PR to receive reviews, consider the reviewers will need you to:
@@ -155,7 +155,7 @@ To make it easier for your PR to receive reviews, consider the reviewers will ne
 * break large changes into a logical series of smaller commits which individually make easily understandable changes, and in aggregate solve a broader issue
 * label PRs appropriately: check out our section on [github labels](/repo-management/github-labels.md)
 
-Reviewers, the people giving the review, are highly encouraged to revisit the [Code of Conduct](/CODE_OF_CONDUCT.md) and must go above and beyond to promote a collaborative, respectful community.  
+Reviewers, the people giving the review, are highly encouraged to revisit the [Code of Conduct](/CODE_OF_CONDUCT.md) and must go above and beyond to promote a collaborative, respectful community. 
 When reviewing PRs from others [The Gentle Art of Patch Review](http://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/) suggests an iterative series of focuses which is designed to lead new contributors to positive collaboration without inundating them initially with nuances:
 
 * Is the idea behind the contribution sound?
@@ -171,10 +171,10 @@ There are multiple types of tests.
 The location of the test code varies with type, as do the specifics of the environment needed to successfully run the test:
 
 * Unit: These confirm that a particular function behaves as intended. Various languages handle unit testing differently and it will be best to discuss with the team responsible for the project you're targeting on how best to write,run, and validate these before opening a PR. It is a requirement for Chef Inc. projects for unit tests to be easily run locally by any developer on any supported OS.
-* Integration: These tests cover interactions of package components or interactions between components and some other separate system resource (eg: chef + Hashi Vault or similar).  An example would be testing whether a piece of code can correctly store data to or retrieve data from a Vault. Running these can require the developer set up additional functionality on their development system but if integration tests are available we highly recommend you running them before opening your PR.
-* End-to-end ("e2e"): These are broad tests of overall system behavior and coherence.  These are more complicated as they could require multiple services or tools built from the sources to be tested. 
+* Integration: These tests cover interactions of package components or interactions between components and some other separate system resource (eg: chef + Hashi Vault or similar). An example would be testing whether a piece of code can correctly store data to or retrieve data from a Vault. Running these can require the developer set up additional functionality on their development system but if integration tests are available we highly recommend you running them before opening your PR.
+* End-to-end ("e2e"): These are broad tests of overall system behavior and coherence. These are more complicated as they could require multiple services or tools built from the sources to be tested. 
 
-Continuous integration will run these tests either as pre-submits on PRs, post-submits against master/release branches, or both.  
+Continuous integration will run these tests either as pre-submits on PRs, post-submits against master/release branches, or both. 
 The results appear on each project's buildkite dashboard.
 
 Chef release engineering is responsible for that official infrastructure and providing teams access to CI.
