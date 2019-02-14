@@ -14,7 +14,7 @@ All Chef projects operate under governance determined by the Chef OSS Practices 
 
 ## Communicating With Us
 
-The [communication](communication/README.md) page lists communications channels like chat, GitHub issues, mailing lists, conferences, etc.
+The [communication](communication/README.md) page lists communications channels such as chat, GitHub issues, mailing lists, conferences, etc.
 
 For more detailed information, check the README.md in a project's repository.
 
