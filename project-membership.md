@@ -44,7 +44,7 @@ Reviewer status is scoped to a project.
    - Ensure your sponsors are @mentioned on the issue
    - Complete every item on [the checklist](/.github/ISSUE_TEMPLATE/membership.md) in the issue template
    - Make sure that the list of contributions included is representative of your work on the project.
-- Have your sponsoring reviewers reply confirmation of sponsorship: `+1` or PR GitHub approvals
+- Have your sponsoring reviewers confirm their sponsorship with a GitHub PR approval
 - Once your sponsors have responded, your request will be reviewed by the project's approvers, in accordance with their PR [SLA]. Any missing information will be requested.
 
 ### Chef Software Ecosystem
@@ -81,7 +81,7 @@ The following requirements apply to the portions of a project for which one woul
 - Primary reviewer for several substantial PRs to the codebase (each project may define a minimum to qualify)
 - Nominated by an approver _and_ seconded by a project owner
   - With no objections from other project owners or approvers
-  - Done through PR to update the CODEOWNERS
+  - Accomplished through a PR to update the CODEOWNERS file
   - On Merge project owner grants merge privileges to project trunk
 
 ### Responsibilities and privileges
