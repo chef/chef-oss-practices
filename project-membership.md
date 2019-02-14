@@ -36,7 +36,7 @@ Reviewer status is scoped to a project.
 - Have made multiple contributions to the project. Contributions may include, but are not limited to:
     - Authoring or reviewing PRs on GitHub
     - Filing or commenting on issues on GitHub
-- Have read the [contributor guide]
+- Have read the [Chef Software Inc. Contributor Guide]
 - Subscribed to the project's core-development mailing list and/or chat channel
 - Actively contributing to 1 or more projects.
 - Sponsored by 2 reviewers (or approvers). **Note the following requirements for sponsors**:
@@ -148,8 +148,8 @@ Alum status is straightforward - Thank you for being involved. An alum is welcom
 The Maintainer role has been removed and replaced with a greater focus on explicit roles as defined in the [TEAMS] file.
 
 [New contributors]: /CONTRIBUTING.md
-[contributor guide]: /contributors/guide/README.md
 [community expectations]: /contributors/guide/community-expectations.md
+[Chef Software Inc. Contributor Guide]: contributors/guide/README.md
 [membership request]: /issues/new?template=membership.md&title=REQUEST%3A%20New%20membership%20for%20%3Cyour-GH-handle%3E
 
 [code reviews]: /contributors/?
