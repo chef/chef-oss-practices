@@ -8,7 +8,7 @@ To learn more about each of our project's structure and organization, please ref
 
 ## How We're Organized
 
-Chef Software (the company) produces many products such as Chef, InSpec, and Habitat. Each of these products is fully open source and comprised of one or more open source projects. For instance the Chef product is comprised of chef, ohai, various mixlib projects, and other interdependent libraries. The project and/or sub-project scope is defined in each GitHub repository in the README.md file.
+Chef Software (the company) produces many products such as Chef, InSpec, and Habitat. Each of these products is fully open source and comprised of one or more open source projects. For instance the Chef product is comprised of chef, ohai, various mixlib projects, and other interdependent libraries. The project and/or sub-project scope is defined in each GitHub repository's README.md file.
 
 All Chef projects operate under governance determined by the Chef OSS Practices Committee. These policies are documented under [Governance](/governance.md), however *Teams* can have their own [policy for contribution](/repo-management/project-required-setup.md#CONTRIBUTING.md), communication standards, etc. so long as those policies meet the base governance policy.
 
@@ -16,15 +16,17 @@ All Chef projects operate under governance determined by the Chef OSS Practices 
 
 The [communication](communication/README.md) page lists communications channels like chat, GitHub issues, mailing lists, conferences, etc.
 
-For more specific topics, check out an individual project.
+For more detailed information, check the README.md in a project's repository.
 
 ## Getting Started Contributing
 
-A first step towards contributing is to pick from the [list of Chef Software Projects](added later). Read the team's contribution policy (CONTRIBUTING.md), start attending team meetings, join the chat channel, subscribe to the mailing list. Teams will have a set of "Help Wanted" issues that can help new contributors get involved.
+A first step towards contributing is to pick from the [list of Chef Software Projects](added later).
 
-The [Contributor Guide](/contributors/guide) provides detailed instructions on how to get your code accepted into core including:
+Once you've selected a project to contribute to, be sure to read the team's contribution guide (CONTRIBUTING.md). That guide will provide information on issues in need of contributors, team meetings schedules, Slack channels / mailing lists where project discussions take place.
 
-  1. How to [file an issue](/contributors/guide/README.md#File-an-issue)  
+The [Contributor Guide](/contributors/guide) provides detailed instructions on how to get your code accepted to Chef Software projects including:
+
+  1. How to [file an issue](/contributors/guide/README.md#File-an-issue)
   2. How to [find something to work on](/contributors/guide/README.md#Find-something-to-work-on)
   3. How to [open a pull request](/contributors/guide/README.md#Open-a-pull-request)
 
