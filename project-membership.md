@@ -32,12 +32,11 @@ Reviewer status is scoped to a project.
 ### Requirements
 
 - Enabled [two-factor authentication] on their GitHub account
-- Have made multiple contributions to the project. Contributions may include, but are not limited to:
+- Actively contributes to the project. Contributions may include, but are not limited to:
     - Authoring or reviewing PRs on GitHub
     - Filing or commenting on issues on GitHub
 - Have read the [Chef Software Inc. Contributor Guide]
 - Subscribed to the project's core-development mailing list and/or chat channel
-- Actively contributing to 1 or more projects.
 - Sponsored by 2 reviewers (or approvers). **Note the following requirements for sponsors**:
     - Sponsors must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating on issues, etc.
     - Sponsors must be reviewers or approvers in the related Chef Software Inc. OSS project
