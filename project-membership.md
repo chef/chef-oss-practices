@@ -40,7 +40,7 @@ Reviewer status is scoped to a project.
 - Sponsored by 2 reviewers (or approvers). **Note the following requirements for sponsors**:
     - Sponsors must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating on issues, etc.
     - Sponsors must be reviewers or approvers in the related Chef Software Inc. OSS project
-- **[Open an issue][membership request] against the project repo**
+- ** Open a membership request issue against the project repo**
    - Ensure your sponsors are @mentioned on the issue
    - Complete every item on [the checklist](/.github/ISSUE_TEMPLATE/membership.md) in the issue template
    - Make sure that the list of contributions included is representative of your work on the project.
@@ -147,7 +147,6 @@ The Maintainer role has been removed and replaced with a greater focus on explic
 
 [Chef Software Inc. Contributor Guide]: contributors/guide/README.md
 [community expectations]: contributors/guide/community-expectations.md
-[membership request]: /issues/new?template=membership.md&title=REQUEST%3A%20New%20membership%20for%20%3Cyour-GH-handle%3E
 
 [code reviews]: contributors/?
 
