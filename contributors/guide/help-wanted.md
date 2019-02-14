@@ -25,7 +25,7 @@ Items marked with the `Help Wanted` label need to ensure that they are:
 
 - **Up-To-Date**
 
-  Often these issues become obsolete and have already been done, are no longer desired, no longer make sense, have changed priority or difficulty, etc. Ideally our projects are hopefully grooming the backlog of `Help Wanted` issues on some regular cadence.
+  Often these issues become obsolete and have already been done, are no longer desired, no longer make sense, have changed priority or difficulty, etc. Project members are encouraged to groom the backlog of `Help Wanted` issues on some regular cadence.
 
 ## Good First Issue
 
