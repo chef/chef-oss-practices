@@ -94,7 +94,7 @@ Since projects do not directly map onto single repositories, it may be difficult
 
 ### File an Issue
 
-Not ready to contribute code, but see something that needs work? While the community encourages everyone to contribute code, it is also appreciated when someone reports an issue whether it be a feature request or repro steps for a bug. Issues should be filed under the appropriate project repository. Check the [issue triage guide](/communication/issue-triage.md) for more information.
+Not ready to contribute code, but see something that needs work? While the community encourages everyone to contribute code, it is also appreciated when someone reports an issue whether it be a feature request or repro steps for a bug. Issues should be filed under the appropriate project repository. Check the [issue triage guide](../communication/issue-triage.md) for more information.
 
 *Example:* a Chef project documentation issue should be opened to [chef/chef-web-docs](https://github.com/chef/chef-web-docs/issues).
 
@@ -106,11 +106,11 @@ All Chef Software Inc. projects are open source, but many of the people working 
 
 As a potential contributor, your changes and ideas are welcome at any hour of the day or night, weekdays, weekends, and holidays. Please do not ever hesitate to ask a question or send a pull request.
 
-Check out our [community guiding principles](/contributors/guide/collab.md) on how to create great code as a big group.
+Check out our [community guiding principles](collab.md) on how to create great code as a big group.
 
 Beginner focused information can be found below in [Open a Pull Request](#open-a-pull-request) and [Code Review](#code-review).
 
-For quick reference on contributor resources, we have a handy [contributor cheatsheet](/contributors/guide/contributor-cheatsheet.md)
+For quick reference on contributor resources, we have a handy [contributor cheatsheet](contributor-cheatsheet.md)
 
 ### Signing the DCO
 
@@ -120,7 +120,7 @@ Before you can contribute, you'll need to know how to sign your commits with a [
 
 It is best to contact your [team](#learn-about-teams) for issues related to the projects operated by that team. Your team will be able to help you much more quickly than a general question would.
 
-For general questions and troubleshooting, use the [standard lines of communication](/communication/README.md).
+For general questions and troubleshooting, use the [standard lines of communication](../communication/README.md).
 
 ## Open a Pull Request
 
@@ -137,7 +137,7 @@ Common new contributor PR conflicts are:
 
 ## Code Review
 
-For a brief description of the importance of code review, please read [On Code Review](/contributors/guide/community-expectations.md#code-review).
+For a brief description of the importance of code review, please read [On Code Review](community-expectations.md#code-review).
 There are two aspects of code review: giving and receiving.
 
 To make it easier for your PR to receive reviews, consider the reviewers will need you to:
@@ -179,13 +179,13 @@ Chef release engineering is responsible for that official infrastructure and pro
 ## Issues Management or Triage
 
 Helping to manage or triage open issues can be a great contribution and a great opportunity to learn about the various areas of the project. Triaging is the word we use to describe the process of adding multiple types of descriptive labels to GitHub issues, in order to speed up routing issues to the right folks.
-Refer to the [Issue Triage Guidelines](/contributors/guide/issue-triage.md) for more information.
+Refer to the [Issue Triage Guidelines](issue-triage.md) for more information.
 
 # Community
 
 If you haven't noticed by now, we have a large, lively, and friendly open-source community.
 We depend on new people becoming project members and regular code contributors, so we would like you to come join us!
-The [Community Membership Document](/community-membership.md) covers membership processes and roles.
+The [Project Membership Document](/projecrt-membership.md) covers membership processes and roles.
 
 ## Communication
 
