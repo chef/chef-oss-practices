@@ -58,18 +58,17 @@ We hope this guide will help you to choose where to contribute and show you the 
 
 Help is always welcome! For example, documentation (like the text you are reading now) can always use improvement. There's always a need for more test coverage. There are surely unprioritized features you could work on. Commenting on an issue that a bug or error is reproducible and including the environment and steps to reproduce will help with issue triage. Blog posts and example projects don't hack themselves! You get the idea - if you ever see something you think should be fixed, you should own it.
 
-Here is how you get started:
-If you have no idea what to start on, all projects in the greater Chef community should have issues labeled with "Good first PR", "Help Wanted". These issues are frequently identified during triage as things that we would love to have but as an organization aren't prioritizing at the moment. Some of the projects also have tools to help expose these issues in a meaningful way:
-  - [Chef Starters](https://some-url)
-  - [Habitat Starters](https://some-url)
-  - [Inspec Starters](https://some-url)
-  - [Automate Starters](https://some-url)
-
 ### Find a good first topic
 
 Chef Software maintains over 500 software repositories in multiple GitHub organizations such as [chef](https://github.com/chef), [inspec](https://github.com/inspec), and [habitat-sh](https://github.com/habitat-sh). Each repository has beginner-friendly issues that have been labeled to help new contributors.
 
 Issues ideal for first time contributors are labeled with the "Status: Good First Issue" label. These issues can be resolved without an in depth understanding of the codebase. Once you feel more confident working in a particular project codebase you can also look at issues tagged with the "Status: Help Wanted" issue. These issues require additional knowledge of the project codebase, but are ideal for community contributors.
+
+Chef's core projects also have tools to help expose these issues in a meaningful way:
+  - [Chef Starters](https://some-url)
+  - [Habitat Starters](https://some-url)
+  - [Inspec Starters](https://some-url)
+  - [Automate Starters](https://some-url)
 
 If you'd like to help, but don't feel confident jumping right into a code contribution another great form of contribution is improving documentation. Many Chef projects include documentation directly in their repository, and we also maintain the code for [docs.chef.io](https://docs.chef.io) in our [chef-web-docs](https://github.com/chef/chef-web-docs) repository. Documentation contributions are an excellent exposure to the code submission/review process without the added complication of technical depth. Please see [Contributing](#contributing) below for the workflow.
 
