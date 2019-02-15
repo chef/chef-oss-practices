@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Explain how the Chef Software Communities documentation is incorrect
+about: Explain how the Chef Software Open Source Communities documentation is incorrect
 labels: 'Type: Bug'
 ---
 

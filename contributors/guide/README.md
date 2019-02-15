@@ -185,7 +185,7 @@ Refer to the [Issue Triage Guidelines](issue-triage.md) for more information.
 
 If you haven't noticed by now, we have a large, lively, and friendly open-source community.
 We depend on new people becoming project members and regular code contributors, so we would like you to come join us!
-The [Project Membership Document](/projecrt-membership.md) covers membership processes and roles.
+The [Project Membership Document](/project-membership.md) covers membership processes and roles.
 
 ## Communication
 
