@@ -80,14 +80,13 @@ Often, new contributors ask to be assigned an issue they are willing to take on.
 
 #### Team structure
 
-We organize the community into teams in order to improve our workflow and more easily manage what amounts to multiple very large community projects. The developers within each team have autonomy and ownership over that team's project(s) and frequently a team will be working on more than one project at once.
+We organize our community into teams in order to improve our workflow and more easily manage what amounts to multiple very large community projects. The developers within each team have autonomy and ownership over that team's project(s) and frequently a team will be working on more than one project at once.
 
-Some teams also have their own `CONTRIBUTING.md` files, which may contain extra information or guidelines in addition to these general ones. These are located in the team-specific community directories in this repo and frequently will also exist in the root of any repos that team owns. For example: the contributor's guide for the Habitat supervisor is located in the *chef/chef-oss-practices* repo, as [`/teams/hab-sup/CONTRIBUTING.md`](/teams/hab-sup/CONTRIBUTING.md) as well as in the root of _habitat-sh/habitat_ as `CONTRIBUTING.md`.
+Some teams also have their own `CONTRIBUTING.md` files, which may contain extra information or guidelines in addition to these general ones. These are located in the team-specific community directories in this repo and frequently will also exist in the root of any repos that team owns. For example: the contributor's guide for the Habitat supervisor is located in the *chef/chef-oss-practices* repo, as [`/teams/hab-sup/CONTRIBUTING.md`](../teams/hab-sup/CONTRIBUTING.md) as well as in the root of _habitat-sh/habitat_ as `CONTRIBUTING.md`.
 
-All projects at Chef are operated as open, community efforts supported with internal development teams. Anybody is welcome to jump into a project or engage with a specific team and begin fixing issues, critiquing design proposals and reviewing code. Each team should have a public chat channel that can be joined for development discussions though any team is welcome to share a public development channel with any other team.
+All projects at Chef are operated as open, community efforts supported with internal development teams. Anyone is welcome to jump into a project or engage with a specific team and begin fixing issues, critiquing design proposals, or reviewing code. Each team should have a public Slack channel for development discussions though any team is welcome to share a public development channel with any other team.
 
-Contributing to any of Chef's projects should be easy.
-If you find a rough edge, let us know! Better yet, join the community and help us fix it;
+Contributing to any of Chef's projects should be easy. If you find a rough edge, let us know! Better yet, join the community and help us fix it.
 
 #### Find a team that is related to your contribution
 
