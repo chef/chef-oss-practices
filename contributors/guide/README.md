@@ -43,8 +43,8 @@ Please make sure to read and observe our [Code of Conduct](https://github.com/cn
 
 All Chef Software Inc. OSS projects are operated as community projects. Consequently, it is wholly dependent on its community to provide a productive, friendly and collaborative environment for all contributors.
 
-- Read and review the [Community Expectations](/contributors/guide/community-expectations.md) for an understanding of code and review expectations.
-- See [Project Membership](/project-membership.md) for a list the various responsibilities of contributor roles.
+- Read and review the [Community Expectations](community-expectations.md) for an understanding of code and review expectations.
+- See [Project Membership](../project-membership.md) for information on project roles and responsibilities.
 
 # Your First Contribution
 
@@ -52,9 +52,9 @@ We will help you understand the organization of the Chef Software Inc. OSS proje
 
 You'll be able to pick up issues, write code to fix them, and get your work reviewed and merged.
 
-Please be aware that due to the large number of issues, repos, and projects our teams deal with, we do not offer technical support in GitHub issues or slack.
+Please be aware that due to the large number of issues, repos, and projects our teams deal with, we do not offer technical support in GitHub issues or on Slack.
 
-If you have questions about the core development process, feel free to jump into specific project's public development channel or join the [forums](https://discourse.chef.io)
+If you have questions about the core development process, feel free to jump into specific project's public development Slack channel or join the [Chef Mailing List](https://discourse.chef.io)
 
 ## Find something to work on
 
@@ -71,11 +71,9 @@ If you have no idea what to start on, all projects in the greater Chef community
 
 Chef Software maintains over 500 software repositories in multiple GitHub organizations such as [chef](https://github.com/chef), [inspec](https://github.com/inspec), and [habitat-sh](https://github.com/habitat-sh). Each repository has beginner-friendly issues that have been labeled to help new contributors.
 
-For example, [habitat-sh/habitat](https://github.com/habitat-sh/habitat) has [help wanted](https://github.com/habitat-sh/habitat/labels/T-help-wanted) and [E-Easy](https://github.com/habitat-sh/habitat/labels/E-easy) labels for issues that should not need deep knowledge of the codebase.
+Issues ideal for first time contributors are labeled with the "Status: Good First Issue" label. These issues can be resolved without an in depth understanding of the codebase. Once you feel more confident working in a particular project codebase you can also look at issues tagged with the "Status: Help Wanted" issue. These issues require additional knowledge of the project codebase, but are ideal for community contributors.
 
-Some repos will use the `Good First Issue` label. This indicates that members have committed to providing [extra assistance](/contributors/guide/help-wanted.md) for new contributors. As a note: while many of the Chef Software Inc. repositories have the `Good First Issue` labels already, they are still being applied throughout the community.
-
-Another good strategy is to find a documentation improvement, such as a missing/broken link, which will give you exposure to the code submission/review process without the added complication of technical depth. Please see [Contributing](#contributing) below for the workflow.
+If you'd like to help, but don't feel confident jumping right into a code contribution another great form of contribution is improving documentation. Many Chef projects include documentation directly in their repository, and we also maintain the code for [docs.chef.io](https://docs.chef.io) in our [chef-web-docs](https://github.com/chef/chef-web-docs) repository. Documentation contributions are an excellent exposure to the code submission/review process without the added complication of technical depth. Please see [Contributing](#contributing) below for the workflow.
 
 #### Issue Assignment in Github
 
