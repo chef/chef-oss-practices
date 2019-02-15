@@ -1,4 +1,5 @@
 # Pull Request Process
+
 This doc explains the process and best practices for submitting a pull request to any of the Chef Software Inc. projects and their associated subrepositories. It should serve as a reference for all contributors, and be useful especially to new and infrequent submitters.
 
 - [Pull Request Process](#pull-request-process)
@@ -43,7 +44,7 @@ Merging a pull request requires the following steps to be completed before the p
 - [Sign your commits with a DCO](/DCO.md) (prerequisite)
 - [Open a pull request](https://help.github.com/articles/about-pull-requests/)
 - Pass all e2e tests (check projects CONTRIBUTING.md)
-- Get all necessary approvals from Reviewers and Approvers 
+- Get all necessary approvals from Reviewers and Approvers
 
 ## The Testing and Merge Workflow
 
