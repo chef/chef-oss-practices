@@ -5,7 +5,7 @@ Feel free to browse the [open issues](https://github.com/chef/chef-oss-practices
 
 # Welcome
 
-Welcome to the Chef Software Inc. OSS Community! 
+Welcome to the Chef Software Inc. OSS Community!
 
 - [Chef Software Inc. Contributor Guide](#chef-software-inc-contributor-guide)
 - [Welcome](#welcome)
@@ -41,8 +41,7 @@ Please make sure to read and observe our [Code of Conduct](https://github.com/cn
 
 ## Community Expectations and Roles
 
-All Chef Software Inc. OSS projects are operated as community projects.
-Consequently, it is wholly dependent on its community to provide a productive, friendly and collaborative environment for all contributors.
+All Chef Software Inc. OSS projects are operated as community projects. Consequently, it is wholly dependent on its community to provide a productive, friendly and collaborative environment for all contributors.
 
 - Read and review the [Community Expectations](/contributors/guide/community-expectations.md) for an understanding of code and review expectations.
 - See [Project Membership](/project-membership.md) for a list the various responsibilities of contributor roles.
@@ -62,16 +61,16 @@ If you have questions about the core development process, feel free to jump into
 Help is always welcome! For example, documentation (like the text you are reading now) can always use improvement. There's always a need for more test coverage. There are surely unprioritized features you could work on. Commenting on an issue that a bug or error is reproducible and including the environment and steps to reproduce will help with issue triage. Blog posts and example projects don't hack themselves! You get the idea - if you ever see something you think should be fixed, you should own it.
 
 Here is how you get started:
-If you have no idea what to start on, all projects in the greater Chef community should have issues labeled with "Good first PR", "Help Wanted". These issues are frequently identified during triage as things that we would love to have but as an organization aren't prioritizing at the moment. Some of the projects also have tools to help expose these issues in a meaningful way: 
+If you have no idea what to start on, all projects in the greater Chef community should have issues labeled with "Good first PR", "Help Wanted". These issues are frequently identified during triage as things that we would love to have but as an organization aren't prioritizing at the moment. Some of the projects also have tools to help expose these issues in a meaningful way:
   - [Chef Starters](https://some-url)
   - [Habitat Starters](https://some-url)
-  - [Inspec Starters](https://some-url) 
+  - [Inspec Starters](https://some-url)
   - [Automate Starters](https://some-url)
 
 ### Find a good first topic
 
-There are [multiple repositories](https://github.com/chef) within the [various Chef inc. organizations](https://github.com/habitat-sh).
-Each repository has beginner-friendly issues that provide a good first issue.
+Chef Software maintains over 500 software repositories in multiple GitHub organizations such as [chef](https://github.com/chef), [inspec](https://github.com/inspec), and [habitat-sh](https://github.com/habitat-sh). Each repository has beginner-friendly issues that have been labeled to help new contributors.
+
 For example, [habitat-sh/habitat](https://github.com/habitat-sh/habitat) has [help wanted](https://github.com/habitat-sh/habitat/labels/T-help-wanted) and [E-Easy](https://github.com/habitat-sh/habitat/labels/E-easy) labels for issues that should not need deep knowledge of the codebase.
 
 Some repos will use the `Good First Issue` label. This indicates that members have committed to providing [extra assistance](/contributors/guide/help-wanted.md) for new contributors. As a note: while many of the Chef Software Inc. repositories have the `Good First Issue` labels already, they are still being applied throughout the community.
@@ -140,12 +139,12 @@ Common new contributor PR conflicts are:
 
 * not having correctly signed the DCO on the commits of your first PR (see [Signing the DCO](#signing-the-dco) section)
 * finding the right team or reviewer(s) for the PR (see [Code Review](#code-review) section) and following any team or repository specific contributing guidelines (see [Learn about teams](#learn-about-teams) section)
-* dealing with test cases which fail on your PR, unrelated to the changes you introduce 
+* dealing with test cases which fail on your PR, unrelated to the changes you introduce
 * Not following [scalability good practices](scalability-good-practices.md)
 
 ## Code Review
 
-For a brief description of the importance of code review, please read [On Code Review](/contributors/guide/community-expectations.md#code-review). 
+For a brief description of the importance of code review, please read [On Code Review](/contributors/guide/community-expectations.md#code-review).
 There are two aspects of code review: giving and receiving.
 
 To make it easier for your PR to receive reviews, consider the reviewers will need you to:
@@ -155,7 +154,7 @@ To make it easier for your PR to receive reviews, consider the reviewers will ne
 * break large changes into a logical series of smaller commits which individually make easily understandable changes, and in aggregate solve a broader issue
 * label PRs appropriately: check out our section on [github labels](/repo-management/github-labels.md)
 
-Reviewers, the people giving the review, are highly encouraged to revisit the [Code of Conduct](/CODE_OF_CONDUCT.md) and must go above and beyond to promote a collaborative, respectful community. 
+Reviewers, the people giving the review, are highly encouraged to revisit the [Code of Conduct](/CODE_OF_CONDUCT.md) and must go above and beyond to promote a collaborative, respectful community.
 When reviewing PRs from others [The Gentle Art of Patch Review](http://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/) suggests an iterative series of focuses which is designed to lead new contributors to positive collaboration without inundating them initially with nuances:
 
 * Is the idea behind the contribution sound?
@@ -164,7 +163,7 @@ When reviewing PRs from others [The Gentle Art of Patch Review](http://sage.thes
 
 ## Testing
 
-Testing is the responsibility of all contributors and is in part owned by each individual team, but is also partially coordinated by chef [releng-testing](/releng-testing). 
+Testing is the responsibility of all contributors and is in part owned by each individual team, but is also partially coordinated by chef [releng-testing](/releng-testing).
 Refer to the [Testing Guide](/contributors/devel/testing.md) for more information.
 
 There are multiple types of tests.
@@ -172,9 +171,9 @@ The location of the test code varies with type, as do the specifics of the envir
 
 * Unit: These confirm that a particular function behaves as intended. Various languages handle unit testing differently and it will be best to discuss with the team responsible for the project you're targeting on how best to write,run, and validate these before opening a PR. It is a requirement for Chef Inc. projects for unit tests to be easily run locally by any developer on any supported OS.
 * Integration: These tests cover interactions of package components or interactions between components and some other separate system resource (eg: chef + Hashi Vault or similar). An example would be testing whether a piece of code can correctly store data to or retrieve data from a Vault. Running these can require the developer set up additional functionality on their development system but if integration tests are available we highly recommend you running them before opening your PR.
-* End-to-end ("e2e"): These are broad tests of overall system behavior and coherence. These are more complicated as they could require multiple services or tools built from the sources to be tested. 
+* End-to-end ("e2e"): These are broad tests of overall system behavior and coherence. These are more complicated as they could require multiple services or tools built from the sources to be tested.
 
-Continuous integration will run these tests either as pre-submits on PRs, post-submits against master/release branches, or both. 
+Continuous integration will run these tests either as pre-submits on PRs, post-submits against master/release branches, or both.
 The results appear on each project's buildkite dashboard.
 
 Chef release engineering is responsible for that official infrastructure and providing teams access to CI.
