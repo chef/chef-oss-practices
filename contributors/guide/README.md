@@ -173,7 +173,6 @@ The location of the test code varies with type, as do the specifics of the envir
 * End-to-end ("e2e"): These are broad tests of overall system behavior and coherence. These are more complicated as they could require multiple services or tools built from the sources to be tested.
 
 Continuous integration will run these tests either as pre-submits on PRs, post-submits against master/release branches, or both.
-The results appear on each project's buildkite dashboard.
 
 Chef release engineering is responsible for that official infrastructure and providing teams access to CI.
 
