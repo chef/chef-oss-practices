@@ -42,7 +42,7 @@ Reviewer status is scoped to a project.
     - Sponsors must be reviewers or approvers in the related Chef Software Inc. OSS project
 - ** Open a membership request issue against the project repo**
    - Ensure your sponsors are @mentioned on the issue
-   - Complete every item on [the checklist](/.github/ISSUE_TEMPLATE/membership.md) in the issue template
+   - Complete every item on [the checklist](.github/ISSUE_TEMPLATE/membership.md) in the issue template
    - Make sure that the list of contributions included is representative of your work on the project.
 - Have your sponsoring reviewers confirm their sponsorship with a GitHub PR approval
 - Once your sponsors have responded, your request will be reviewed by the project's approvers, in accordance with their PR [SLA]. Any missing information will be requested.
@@ -51,12 +51,12 @@ Reviewer status is scoped to a project.
 
 There are many interrelated [Chef Software GitHub organizations], such as [habitat-sh](https://github.com/habitat-sh/habitat), [chef](https://github.com/chef), and [inspec](https://github.com/chef/inspec). Membership to one of these organizations doesn't inherently grant membership to another, however the perks and membership process are uniform no matter what organization or Chef Software Inc. project you contribute to.
 
-### Responsibilities and privileges
+### Responsibilities and Privileges
 
 The following applies to the codebases for which one is listed as a reviewer in a [CODEOWNERS] file.
 
 - Responsible for project quality control via [code reviews]
-  - Focus on code quality and correctness, including [testing](/contributors/guide#testing)
+  - Focus on code quality and correctness, including [testing](contributors/guide/README.md#testing)
   - Encouraged to review for more holistic issues, but not a requirement
 - Expected to be responsive to review requests, issues, and mentions and as per [community expectations]
 - Assigned PRs to review related to a reviewer's areas of interest or experience

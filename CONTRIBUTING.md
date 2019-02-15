@@ -6,8 +6,8 @@ Welcome to the Chef Community contributing guide. We are excited about the prosp
 
 This document outlines the process of contributing to this specific repo. See our overall community contribution documentation for more information on contributing to our various projects:
 
-- [Contributor Guide](http://github.com/chef/chef-oss-practices/contributors/guide) - Main contributor documentation
-- [Contributor Cheat Sheet](https://github.com/chef/chef-oss-practices/contributors/guide/contributor-cheatsheet.md) - Common resources for existing developers
+- [Contributor Guide](contributors/guide/README.md) - Main contributor documentation
+- [Contributor Cheat Sheet](contributors/guide/contributor-cheatsheet.md) - Common resources for existing developers
 
 ## Contributing to Project Specific Sections
 

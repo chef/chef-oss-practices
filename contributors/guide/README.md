@@ -114,7 +114,7 @@ For quick reference on contributor resources, we have a handy [contributor cheat
 
 ### Signing the DCO
 
-Before you can contribute, you'll need to know how to sign your commits with a [Developer Certificate of Origin](/DCO.md)
+Before you can contribute, you'll need to know how to sign your commits with a [Developer Certificate of Origin](DCO.md)
 
 ### Communication
 
@@ -142,12 +142,12 @@ There are two aspects of code review: giving and receiving.
 
 To make it easier for your PR to receive reviews, consider the reviewers will need you to:
 
-* follow the project coding conventions which are typically defined by a [language specific guild](/guilds)
+* follow the project coding conventions which are typically defined by a [language specific guild](../../guilds/README.md)
 * write [good commit messages](https://chris.beams.io/posts/git-commit/)
 * break large changes into a logical series of smaller commits which individually make easily understandable changes, and in aggregate solve a broader issue
 * label PRs appropriately: check out our section on [github labels](/repo-management/github-labels.md)
 
-Reviewers, the people giving the review, are highly encouraged to revisit the [Code of Conduct](/CODE_OF_CONDUCT.md) and must go above and beyond to promote a collaborative, respectful community.
+Reviewers, the people giving the review, are highly encouraged to revisit the [Code of Conduct](../../CODE_OF_CONDUCT.md) and must go above and beyond to promote a collaborative, respectful community.
 When reviewing PRs from others [The Gentle Art of Patch Review](http://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/) suggests an iterative series of focuses which is designed to lead new contributors to positive collaboration without inundating them initially with nuances:
 
 * Is the idea behind the contribution sound?
