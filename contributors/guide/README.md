@@ -140,7 +140,6 @@ Common new contributor PR conflicts are:
 * not having correctly signed the DCO on the commits of your first PR (see [Signing the DCO](#signing-the-dco) section)
 * finding the right team or reviewer(s) for the PR (see [Code Review](#code-review) section) and following any team or repository specific contributing guidelines (see [Learn about teams](#learn-about-teams) section)
 * dealing with test cases which fail on your PR, unrelated to the changes you introduce
-* Not following [scalability good practices](scalability-good-practices.md)
 
 ## Code Review
 
