@@ -19,7 +19,7 @@ Established project members are expected to demonstrate their adherence to the p
 
 ## Reviewer
 
-Project Reviewers are continuously active contributors in the community. They can have issues and PRs assigned to them, participate in project development. Reviewers are expected to remain active contributors to the project. In the case that a reviewer becomes inactive their review privileges will be removed.
+Project Reviewers are continuously active contributors in the community. They can have issues and PRs assigned to them, participate in project development. Reviewers are expected to remain active contributors to the project. In the case that a reviewer becomes inactive their review priviliges will be removed. 
 
 Reviewers are able to review code for quality and correctness on some part of a project. They are knowledgeable about both the codebase and software engineering principles.
 
