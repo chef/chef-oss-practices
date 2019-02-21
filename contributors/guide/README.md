@@ -52,7 +52,7 @@ Please be aware that due to the large number of issues, repos, and projects our 
 
 We're glad you're interested in contributing to a Chef project, and we're here to do everything we can to make your first contribution experience a great one.
 
-We hope this guide will help you to choose where to contribute and show you the ropes of crafting your first contribution. If you have questions about the development process or are feeling stuck with your first contribution, feel free to jump into specific project's public development Slack channel or join a project specific mailing list. zThe specific channels and mailing list URLs can be found in the CONTRIBUTING.md file found in each project repository.
+We hope this guide will help you to choose where to contribute and show you the ropes of crafting your first contribution. If you have questions about the development process or are feeling stuck with your first contribution, feel free to jump into specific project's public development Slack channel or join a project specific mailing list. The specific channels and mailing list URLs can be found in the CONTRIBUTING.md file found in each project repository.
 
 ## Find something to work on
 
