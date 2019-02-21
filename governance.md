@@ -11,11 +11,11 @@ The Chef OSS communities adhere to the following principles:
 
 ## Code of Conduct
 
-All members of the Chef community, including employees, must abide by the Chef Code of Conduct. For the complete text see the [Chef Code of Conduct](/CODE_OF_CONDUCT.md)
+All members of the Chef community, including employees, must abide by the Chef Code of Conduct. For the complete text see the [Chef Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## Project membership
 
-See [project membership](/project-membership.md)
+See [project membership](project-membership.md)
 
 ## Community Groups
 
@@ -27,11 +27,11 @@ The Chef OSS Communities have 3 main types of groups:
 
 ### Teams
 
-Teams are sets of [people within an individual project](/project-membership.md) that focus on various parts of that project. Teams _must_ have open and transparent proceedings and communication. Anyone is welcome to participate and contribute to a team provided they follow the Chef OSS Code of Conduct and read to understand the group's governance policy.
+Teams are sets of people within an individual project that focus on various parts of that project. Teams _must_ have open and transparent proceedings and communication. Anyone is welcome to participate and contribute to a team provided they follow the Chef OSS Code of Conduct and read to understand the group's governance policy.
 
 ### Guilds
 
-[Guilds](/guilds/) are groups of individuals with shared interests in specific subjects that may be tangential to the project they are a member of. The purpose of guilds is to provide knowledge cross-pollination as well as establish standards and practices (within the scope of the interest) to the larger community. These can be anything from a group sharing knowledge on a specific language - e.g. the Go guild, to a group discussing the merits of various web frameworks - e.g. the Web Guild, and anything in between.
+[Guilds](guilds/README.MD) are groups of individuals with shared interests in specific subjects that may be tangential to the project they are a member of. The purpose of guilds is to provide knowledge cross-pollination as well as establish standards and practices (within the scope of the interest) to the larger community. These can be anything from a group sharing knowledge on a specific language - e.g. the Go guild, to a group discussing the merits of various web frameworks - e.g. the Web Guild, and anything in between.
 
 ### Committees
 
@@ -39,11 +39,11 @@ Committees are named sets of people that are chartered to take on sensitive or s
 
 ## Repository Guidelines
 
-All new repositories under the Chef, Habitat, or Inspec github orgs should follow the processes outlined in the [Chef OSS repository guidelines](/repo-management).
+All new repositories under the Chef, Habitat, or Inspec github orgs should follow the processes outlined in the [Chef OSS repository guidelines](repo-management/README.md).
 
 ## DCO
 
-This project uses a [Developer Certificate of Origin (DCO)](/DCO.md) to ensure that each commit was written by the author or that the author has the appropriate rights necessary to contribute the change.
+This project uses a [Developer Certificate of Origin (DCO)](DCO.md) to ensure that each commit was written by the author or that the author has the appropriate rights necessary to contribute the change.
 
 ## End of Life for a Project
 

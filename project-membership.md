@@ -8,15 +8,14 @@
 
 Established project members are expected to demonstrate their adherence to the principles in this document, familiarity with project organization, roles, policies, procedures, conventions, etc., and technical and/or writing ability. Role-specific expectations, responsibilities, and requirements are enumerated below.
 
-**Note:** This document is in progress, it outlines the various responsibilities of project roles in the Chef Software Inc. OSS Communities. Chef's software organized as projects under teams. Responsibilities/Privileges for most roles are scoped to a project or subproject.
+**Note:** This document is in progress, it outlines the various responsibilities of project roles in the Chef Software Inc. OSS Communities. Chef's software is organized into projects under teams. Responsibilities/Privileges for most roles are scoped to a project or subproject.
 
 | Project Role | Responsibilities | Requirements | Defined by |
 | ----- | ---------------- | ------------ | ------- |
-| contributor | you become a contributor to the project by opening a PR or an Issue | No requirements | Having your GitHub handle recognized in the Changelog |
+| contributor | you become a contributor to the project by opening a PR or an Issue | No requirements | Having your GitHub handle recognized in the project changelog and/or release notes |
 | reviewer | review contributions from other members | history of review and authorship in a project | project [CODEOWNERS] entry, Chef OSS [TEAMS] file *reviewer* entry. |
 | approver | final approval and acceptance of contributions | highly experienced and active reviewer + contributor to a project | Chef OSS [TEAMS] file *approver* entry, project [CODEOWNERS] entry|
 | project owner | set direction and priorities for a project | demonstrated responsibility and excellent technical judgement for the project | project [CODEOWNERS] entry, Chef OSS [TEAMS] file *owners* entry |
-
 
 ## Reviewer
 
@@ -33,32 +32,31 @@ Reviewer status is scoped to a project.
 ### Requirements
 
 - Enabled [two-factor authentication] on their GitHub account
-- Have made multiple contributions to the project. Contributions may include, but are not limited to:
+- Actively contributes to the project. Contributions may include, but are not limited to:
     - Authoring or reviewing PRs on GitHub
     - Filing or commenting on issues on GitHub
-- Have read the [contributor guide]
+- Have read the [Chef Software Inc. Contributor Guide]
 - Subscribed to the project's core-development mailing list and/or chat channel
-- Actively contributing to 1 or more projects.
 - Sponsored by 2 reviewers (or approvers). **Note the following requirements for sponsors**:
     - Sponsors must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating on issues, etc.
     - Sponsors must be reviewers or approvers in the related Chef Software Inc. OSS project
-- **[Open an issue][membership request] against the project repo**
+- ** Open a membership request issue against the project repo**
    - Ensure your sponsors are @mentioned on the issue
-   - Complete every item on [the checklist](/.github/ISSUE_TEMPLATE/membership.md) in the issue template
+   - Complete every item on [the checklist](.github/ISSUE_TEMPLATE/membership.md) in the issue template
    - Make sure that the list of contributions included is representative of your work on the project.
-- Have your sponsoring reviewers reply confirmation of sponsorship: `+1` or PR GitHub approvals
+- Have your sponsoring reviewers confirm their sponsorship with a GitHub PR approval
 - Once your sponsors have responded, your request will be reviewed by the project's approvers, in accordance with their PR [SLA]. Any missing information will be requested.
 
 ### Chef Software Ecosystem
 
-There are many interrelated [Chef Software GitHub organizations], such as [habitat](https://github.com/habitat-sh/habitat), [chef](https://github.com/chef), and [inspec](https://github.com/chef/inspec). Membership to 1 organization doesn't inherently grant membership to another, however the perks and membership process are uniform no matter what organization or Chef Software Inc. project you contribute to.
+There are many interrelated [Chef Software GitHub organizations], such as [habitat-sh](https://github.com/habitat-sh/habitat), [chef](https://github.com/chef), and [inspec](https://github.com/chef/inspec). Membership to one of these organizations doesn't inherently grant membership to another, however the perks and membership process are uniform no matter what organization or Chef Software Inc. project you contribute to.
 
-### Responsibilities and privileges
+### Responsibilities and Privileges
 
 The following applies to the codebases for which one is listed as a reviewer in a [CODEOWNERS] file.
 
 - Responsible for project quality control via [code reviews]
-  - Focus on code quality and correctness, including [testing](/contributors/guide#testing)
+  - Focus on code quality and correctness, including [testing](contributors/guide/README.md#testing)
   - Encouraged to review for more holistic issues, but not a requirement
 - Expected to be responsive to review requests, issues, and mentions and as per [community expectations]
 - Assigned PRs to review related to a reviewer's areas of interest or experience
@@ -83,7 +81,7 @@ The following requirements apply to the portions of a project for which one woul
 - Primary reviewer for several substantial PRs to the codebase (each project may define a minimum to qualify)
 - Nominated by an approver _and_ seconded by a project owner
   - With no objections from other project owners or approvers
-  - Done through PR to update the CODEOWNERS 
+  - Accomplished through a PR to update the CODEOWNERS file
   - On Merge project owner grants merge privileges to project trunk
 
 ### Responsibilities and privileges
@@ -132,7 +130,7 @@ The following apply to the project for which one would be an owner.
   - Adequate test coverage to confidently release
   - Tests pass reliably (i.e. not flaky) and are fixed when they fail
 - Ensure a healthy process for open discussion and public decision making is in place.
-- Work with other project owners to holistically maintain the project's health and success 
+- Work with other project owners to holistically maintain the project's health and success
 
 
 ## Alums
@@ -147,16 +145,12 @@ Alum status is straightforward - Thank you for being involved. An alum is welcom
 
 The Maintainer role has been removed and replaced with a greater focus on explicit roles as defined in the [TEAMS] file.
 
-[New contributors]: /CONTRIBUTING.md
-[contributor guide]: /contributors/guide/README.md
-[community expectations]: /contributors/guide/community-expectations.md
-[membership request]: /issues/new?template=membership.md&title=REQUEST%3A%20New%20membership%20for%20%3Cyour-GH-handle%3E
+[Chef Software Inc. Contributor Guide]: contributors/guide/README.md
+[community expectations]: contributors/guide/community-expectations.md
 
-[code reviews]: /contributors/?
-[Chef GitHub organizations]: /?
-[Chef org]: https://github.com/chef
+[code reviews]: contributors/?
 
-[CODEOWNERS]: /contributors/guide/owners.md
-[TEAMS]: /teams/
+[CODEOWNERS]: contributors/guide/owners.md
+[TEAMS]: teams/
 [SLA]: /github-management/org-owners-guide.md#slas
 [two-factor authentication]: https://help.github.com/articles/about-two-factor-authentication

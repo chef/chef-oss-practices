@@ -8,7 +8,7 @@ The Chef Community is committed to keeping our space a fun, safe, and productive
 
 ## Reporting Code of Conduct Violations
 
-Please directly email one of the Community Advocates listed in the [Code of Conduct](../code-of-conduct.md).
+Please directly email one of the Community Advocates listed in the [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## Reporting Security Vulnerabilities
 
@@ -18,9 +18,9 @@ Please email security@chef.io to report security vulnerabilities.
 
 We have four communication channels, each with its own specific purpose.
 
-If you have questions about why we choose to use certain channels in certain ways, please check out the [Frequently Asked Questions](./communication_faq.md).
+If you have questions about why we choose to use certain channels in certain ways, please check out the [Frequently Asked Questions](communication-faq.md).
 
-### GitHub 
+### GitHub
 
 GitHub is the Chef Community's preferred durable medium for open and transparent development of software. All development conversation must be captured in GitHub. Any decisions made in internal Chef Slack channels, Zoom sessions, or any other communication medium must be summarized in GitHub [the exact format for adding this info to GitHub is TBD]. Please also link to the GitHub issue or pull request in chat once it is opened.
 
@@ -62,5 +62,5 @@ Engage like a pro. Below are some best practice uses of the Community communicat
 | A Project Member | become a ***Reviewer*** | checkout an overview of Reviewer [responsibilities](../project-membership.md#reviewer) & [requirements](../project-membership.md#requirements) | Individual project requirements may vary; see project doc for more info |
 | A Project Member | report a ***CoC violation*** | email [tbd] | --- |
 | A Project Member | talk to a ***human*** | request access to Zoom or Google Hangouts office hours in [Community Slack](https://community-slack.chef.io/) | --- |
-| A Reviewer | become an ***Approver*** | check out an overview of Approver [responsibilities & requirements](../maintainership.md) | Individual project requirements may vary; see project doc for more info |
+| A Reviewer | become an ***Approver*** | check out an overview of Approver [responsibilities & requirements](../project-membership.md#approver) | Individual project requirements may vary; see project doc for more info |
 | An Approver | ***vote*** on a new Project Member, Reviewer, or Approver | review the general [requirements](../project-membership.md) and consult my project's documentation | General Approver information is [here](../maintainership.md). Individual project requirements may vary; please see project doc for more info |

@@ -26,6 +26,8 @@ All Chef Software Inc. OSS projects use the [developer certificate of origin](/D
 
 ## Files
 
+See the [oss_project_boilerplate repo](https://github.com/chef/oss_project_boilerplate) for samples of many of these files you can use in your project.
+
 ### README.md
 
 A project readme is the first thing a new user or contributor sees when interacting with a Chef Software project. We want to make sure this file is detailed and up to date. It should cover the following things:
@@ -34,27 +36,20 @@ A project readme is the first thing a new user or contributor sees when interact
   - Any system or runtime requirements.
   - Example uses.
   - Known issues or incompatibilies.
-  - The project license and copyrights.
+  - The Chef team responsible for the project
+  - The project license
 
 ### LICENSE
 
-The LICENSE file is an important legal requirement for open source code, and it is also parsed by Github for use in various places. Adding a license file allows users to search for projects with a specific license and also adds licensing badges to GitHub repository pages.
+The LICENSE file is an important legal requirement for open source code, and it is also parsed by Github for use in various places. Adding a license file allows users to search for projects with a specific license and also adds licensing badges to GitHub repository pages. Unless there is a specific reason all Chef projects should be [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0.html) licensed.
 
 ### CONTRIBUTING.md
 
-GitHub prompts new contributors to read a project's CONTRIBUTING.md file if present. Each project should include a file that details the contribution process. Example files will be provided in the future in this repository.
+GitHub prompts new contributors to read a project's CONTRIBUTING.md file if present. Each project should include a file that details the team specific contribution process and links to the [Contributor Guide](../contributors/README.md) guide in this repository.
 
 ### CODE_OF_CONDUCT.md
 
 GitHub displays the code of conduct file when a user opens a new PR or Issue. We want to make sure everyone reads and understands our code of conduct so this needs to be included in every project repository.
-
-Include the following in the project's `CODE_OF_CONDUCT.md`.
-
-```
-# Code of Conduct
-
-This project follows the [Chef Contributor Covenant Code of Conduct](https://github.com/chef/chef-oss-practices/CODE_OF_CONDUCT.md).
-```
 
 ### TEAMS.md
 
@@ -64,11 +59,15 @@ The TEAMS file in a repo is commonly seen in other projects as MAINTAINERS.md. M
 
 The GitHub codeowners file is used to auto assign reviewers to a project. Properly routing new pull requests to the appropriate humans decreases the time it takes to get code reviewed and merged. It also reduces the number of lost pull requests, which helps us engage new contributors and retain them for the future. CODEOWNERS can be setup to assign ownership of certain directories or files to particular teams or individuals. For example, changes to files under `readme/docs` can automatically assign the docs team for review.
 
+### .github/ISSUE_TEMPLATE.md
+
+Issue templates ensure that issues are filed with all the necessary information to make them actionable. GitHub allows including multiple issues, which can be used to provide different templates depending on the issue type (bug, proposal, etc.)
+
+### .github/PULL_REQUEST_TEMPLATE.md
+
+Pull Request templates ensure that the users have followed all the necessary steps before sumitting a PR. They also give us one last chance to point users to our contributing guides so we can ensure first time contributors have a good experience.
+
 ## Other Recommendations
-
-### Monitoring
-
-When a project runs as a service (i.e. Hosted Chef or the Builder SaaS service) it should definitely have monitoring tooling in place or another process for detecting and responding to outages.
 
 ### Pull Request Reminders
 

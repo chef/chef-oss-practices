@@ -2,12 +2,11 @@
 
 ## Summary
 
-Guilds have formed in the Chef OSS community in order to foster a culture of learning and empathy. These guilds serve as a place where like-minded people can gather and discuss shared interests tangential to their projects.
+Guilds have formed in the Chef OSS community in order to foster a culture of learning and empathy. These guilds serve as a place where like-minded people can gather and discuss shared interests tangential to their projects. Currently Chef has formed several language specific guilds (ruby, rust, go).
 
-## Goals of the Guilds
+## Goals of the Language Guilds
 
-These are the some of the goals of a language specific guild:
-  - Help establish recommended standards and styles
+  - Help establish recommended standards and styles for the language
   - Answer questions about the guild's language use within projects
   - (Mentor?)Assist new users and developers in learning the language and increasing skills
 

@@ -1,4 +1,5 @@
 # Pull Request Process
+
 This doc explains the process and best practices for submitting a pull request to any of the Chef Software Inc. projects and their associated subrepositories. It should serve as a reference for all contributors, and be useful especially to new and infrequent submitters.
 
 - [Pull Request Process](#pull-request-process)
@@ -28,7 +29,7 @@ This doc explains the process and best practices for submitting a pull request t
 
 This guide is for contributors who already have a pull request to submit or contributors looking for suggestions on how we interact with the larger community. If you're looking for information on setting up your developer environment and creating code to contribute to a specific project, we would suggest viewing that projects CONTRIBUTING.md file.
 
-First time contributors should head to the [Contributor Guide](/contributors/guide/README.md) to get started.
+First time contributors should head to the [Contributor Guide](README.md) to get started.
 
 **Make sure your pull request adheres to our best practices. These include following project conventions, making small pull requests, and commenting thoroughly. Please read the more detailed section on [Best Practices for Faster Reviews](#best-practices-for-faster-reviews) at the end of this doc.**
 
@@ -40,10 +41,10 @@ If a project's CONTRIBUTING.md covers local verifications you should _absolutely
 
 Merging a pull request requires the following steps to be completed before the pull request will be merged
 
-- [Sign your commits with a DCO](/DCO.md) (prerequisite)
+- [Sign your commits with a DCO](DCO.md) (prerequisite)
 - [Open a pull request](https://help.github.com/articles/about-pull-requests/)
 - Pass all e2e tests (check projects CONTRIBUTING.md)
-- Get all necessary approvals from Reviewers and Approvers 
+- Get all necessary approvals from Reviewers and Approvers
 
 ## The Testing and Merge Workflow
 
@@ -85,7 +86,7 @@ While either the label or title prefix is present, your pull request will not be
 
 If a pull request has been reviewed, but held or not approved, it might be due to the current phase in the [Release Cycle](/contributors/devel/release.md). Occasionally, a team may freeze their own code base when working towards a specific feature or goal that could impact other development. During this time, your pull request could remain unmerged while their release work is completed.
 
-If you feel your pull request is in this state, contact the appropriate [team](https://github.com/chef/chef-oss-practices/teams/team-list.md) for clarification.
+If you feel your pull request is in this state, contact the appropriate [team](teams/team-list.md) for clarification.
 
 
 ## Automation

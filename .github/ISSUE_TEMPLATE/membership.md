@@ -2,7 +2,7 @@
 name: Project Membership Request
 about: Request membership in a Chef Software Inc. OSS project
 title: 'REQUEST: New membership for <your-GH-handle>'
-labels: 
+labels:
 assignees: ''
 
 ---
@@ -28,4 +28,4 @@ e.g. chef/chef
 ### List of contributions to the project
 - PRs reviewed / authored
 - Issues responded to
-- Questions answered in GitHub/Mailing List/StackOverflow 
+- Questions answered in GitHub/Mailing List/StackOverflow

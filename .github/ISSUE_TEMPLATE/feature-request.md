@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Request new functionality for THIS_SOFTWARE
+about: Request new content for Chef Software Open Source Communities repo
 labels: 'Triage: Feature Request'
 ---
 

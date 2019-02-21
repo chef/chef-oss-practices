@@ -1,13 +1,13 @@
 # Overview
 
-We use two labels [Help Wanted](#help-wanted) and [Good First Issue](#good-first-issue) to flag issues that have been identified as well-suited for community contributors. The `Good First Issue` label is a subset of `Help Wanted` label, indicating that project members have committed to providing extra assistance for new contributors. All `Good First Issue` items also have the `Help Wanted` label. 
+We use two labels [Status: Help Wanted](#help-wanted) and [Status: Good First Issue](#good-first-issue) to flag issues that have been identified as well-suited for community contributors. The `Status: Good First Issue` label is a subset of `Status: Help Wanted` label, indicating that project members have committed to providing extra assistance for new contributors. All `Good First Issue` items also have the `Help Wanted` label.
 
 We also have some [suggestions](#suggestions) for using these labels to help
 grow and improve our community.
 
 ## Help Wanted
 
-Items marked with the `Help Wanted` label need to ensure that they are:
+Items marked with the `Status: Help Wanted` label need to ensure that they are:
 
 - **Low (enough) Barrier to Entry**
 
@@ -29,11 +29,11 @@ Items marked with the `Help Wanted` label need to ensure that they are:
 
 ## Good First Issue
 
-Items marked with the `Good First Issue` label are intended for _first-time contributors_. It indicates that members will keep an eye out for these pull requests and shepherd it through our processes.
+Items marked with the `Status: Good First Issue` label are intended for _first-time contributors_. It indicates that members will keep an eye out for these pull requests and shepherd it through our processes.
 
 **New contributors should not be left to find an approver, ping for reviews, or identify that their build had a transitive or irreproducible failure.** This makes new contributors feel welcome, valued, and assures them that they will have an extra level of help with their first contribution.
 
-These items need to ensure that they follow the guidelines for `Help Wanted` labels (above) in addition to meeting the following criteria:
+These items need to ensure that they follow the guidelines for `Status: Help Wanted` labels (above) in addition to meeting the following criteria:
 
 - **No Barrier to Entry**
 
