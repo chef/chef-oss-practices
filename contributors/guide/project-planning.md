@@ -1,6 +1,6 @@
 # Project Planning
 
-Long term project planning (which is different from [triage and prioritizaton](issue_triage.md)) is done through Aha! and GitHub.
+Long term project planning (which is different from [triage and prioritizaton](issue-triage.md)) is done through Aha! and GitHub.
 
 ## Aha!
 
