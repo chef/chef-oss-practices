@@ -8,7 +8,7 @@ When working in open source, it's essential to be as transparent about technical
 
 ## Why can't all development discussion be in public Community Slack?
 
-The main reason is that we use the free version of Slack, which limits records of conversations to 10,000 lines - which we can easily go over in a day. Crucial information can be lost, and if someone is away for a day or two then comes back they will not be able to catch up on conversations, messages, etc.
+The main reason is that we use the free version of Slack, which limits records of conversations to 10,000 messages. Crucial information can be lost, and if someone is away for a day or two then comes back they will not be able to catch up on conversations, messages, etc.
 
 ### Why don't we just pay for Community Slack?
 
@@ -16,7 +16,7 @@ The lowest price Slack will charge a for-profit organization is $5 per active us
 
 ### Why don't we just use a bot to export the chats from the Community Slack to some other archive?
 
-This is a possibility for specific channels in Slack, but channel chat is not the only place the 10,000 line limit applies. It also applies to DMs. If someone DMs someone else and they are on vacation or otherwise not able to access Slack for a bit, then that DM will be unreadable once the entire Slack goes over the 10,000 line limit. With a fairly active Slack, it's not uncommon to hit the 10,000 line limit on a daily basis. There is little more frustrating than to see that you received a DM (potentially a very high value one!) and not be able to access the content. Additionally, it is common for critical information to be exchanged in DMs - unless whoever is sending/receiving the DMs is very diligent about documenting them elsewhere (and if they see the DM before the 10,000 line limit is hit), that information will be lost.
+This is a possibility for specific channels in Slack, but channel chat is not the only place the 10,000 message limit applies. It also applies to DMs. If someone DMs someone else and they are on vacation or otherwise not able to access Slack for a bit, then that DM will be unreadable once the entire Slack goes over the 10,000 message limit. With a fairly active Slack the 10,000 message limit is reached fairly rapidly. There is little more frustrating than to see that you received a DM (potentially a very high value one!) and not be able to access the content. Additionally, it is common for critical information to be exchanged in DMs - unless whoever is sending/receiving the DMs is very diligent about documenting them elsewhere (and if they see the DM before the 10,000 message limit is hit), that information will be lost.
 
 ## Why don't we just go back to IRC?
 
