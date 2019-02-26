@@ -14,6 +14,7 @@ Laying out exact terms for contribution is difficult as we welcome and embrace t
 - Running a Chef meetup
 - Speaking about Chef products at meetups, conferences, and other events
 - Contributing documentation and tutorials for Chef products
+- Contributing work to a fork of a Chef project that is integrated into the upstream Chef product
 
 If you feel you have made a significant contribution that is not in this list, please feel free to apply for a license anyway - there are many, many ways to contribute to Chef and the Chef Community and we welcome those contributions with open arms!
 
