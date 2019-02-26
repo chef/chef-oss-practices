@@ -38,6 +38,7 @@ A project readme is the first thing a new user or contributor sees when interact
   - Known issues or incompatibilies.
   - The Chef team responsible for the project
   - The project license
+  - When a product requires a license to run the binary, link to document explaining Chef's licensing terms (license on code is different than license on binary) [This document is still to be written]
 
 ### LICENSE
 
