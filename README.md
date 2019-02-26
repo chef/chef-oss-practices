@@ -12,6 +12,8 @@ Chef Software (the company) produces many products such as Chef, InSpec, and Hab
 
 All Chef projects operate under governance determined by the Chef OSS Practices Committee. These policies are documented under [Governance](governance.md), however *Teams* can have their own [policy for contribution](repo-management/project-required-setup.md#CONTRIBUTING.md), communication standards, etc. so long as those policies meet the base governance policy.
 
+We decide on the long term plan for projects through [Project planning](contributors/guide/project-planning.md) and our [triage and prioritization](contributors/guide/issue-triage.md) processes.
+
 ## Communicating With Us
 
 The [communication](communication/README.md) page lists communications channels such as chat, GitHub issues, mailing lists, conferences, etc.
