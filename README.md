@@ -32,6 +32,10 @@ The [Contributor Guide](contributors/guide/README.md) provides detailed instruct
   2. How to [find something to work on](contributors/guide/README.md#find-something-to-work-on)
   3. How to [open a pull request](contributors/guide/README.md#open-a-pull-request)
 
+## Creating a New Chef Open Source Project
+
+Creating a new project? Checkout the [repo management directory](repo-management) for information on how to set your project up.
+
 ## Project Membership
 
 We encourage all contributors to become project members. We aim to grow an active, healthy community of contributors, reviewers, and code owners. Learn about requirements and perks of membership in our [Project Membership](project-membership.md) page.
