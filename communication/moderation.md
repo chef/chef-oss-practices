@@ -1,1 +1,0 @@
-If a community member is in or appears to be in crisis, please refer to [the Community Members in Crisis Guide](./community-members-in-crisis.md).
