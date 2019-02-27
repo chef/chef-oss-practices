@@ -1,6 +1,6 @@
 # Engineer Expectations
 
-How can a Chef Employee contribute to our community of contributors?
+How can an Chef Employee contribute to our community of contributors?
 
 ## GitHub
 
