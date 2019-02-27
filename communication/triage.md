@@ -4,7 +4,7 @@ The longrunning OSS projects at Chef have found hosting a public triage call on 
 
 ## Process
 
-The triage process is focused on identifying and categorizing issues with GitHub. The triage category labels should be used for general targets of development. To clarify, these labels do not guarantee that an issue will be addressed for any particular release/timeframe but instead allows the project team an awareness of the issue in the form of a backlog. At this point, you might want to check out our [recommended label scheme](github_labels.md). The rest of this document covers a common approach to a triage call.
+The triage process is focused on identifying and categorizing issues and pull requests for a project. Chef utilizes GitHub labels to track the status of issues and PRs and maintains a list of [recommended GitHub labels](github_labels.md) that greatly improve the triaging process. GitHub issue and PR templates should be setup to apply the 'Status: Untriaged' label to all new issues and PRs. During triage this label is removed and replaced with more descriptive labels. This allows us to track the untriaged, as well as triaged, work at a GitHub organization level.
 
 ### Tools
 
@@ -26,8 +26,7 @@ The actual activity of triage is relatively simple. The host of the call will wa
   - Rejected issues are issues that the project team has determined as being either not useful, not in line with project goals, or something that if implemented it would be far out in the project's future due to impact. These issues are closed.
   - Help Wanted issues are bits of work that the project team agree would be useful and within the scope of the project however that aren't likely to get prioritized on the immediate. Help Wanted issues are added to the backlog and labeled as help-wanted.
 
-Rejected issues should get a comment explaining the reason the issue was closed and (if the responsible team is using the "will-not-fix" label or the like) it should be appropriately labeled before getting closed. 
-
+Rejected issues should get a comment explaining the reason the issue was closed and (if the responsible team is using the "will-not-fix" label or the like) it should be appropriately labeled before getting closed.
 
 **Some important notes on this process:**
 
