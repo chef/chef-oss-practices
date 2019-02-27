@@ -46,10 +46,10 @@ Engage like a pro. Below are some best practice uses of the Community communicat
 | As... | if I want to... | I'll... | Notes |
 | --- | --- | --- | --- |
 | Anyone | become a ***Project Member*** | check out the [membership overview](../project-membership.md) | Individual project requirements may vary; see project doc for more info |
-| Anyone | report a ***bug*** | create an issue in GitHub | [link to basic template]. Individual projects may have their own templates; see project documentation for details |
-| Anyone | submit a ***feature request*** | create an issue in GitHub | [link to basic template]. Individual projects may have their own templates; see project documentation for details |
+| Anyone | report a ***bug*** | create an issue in GitHub | [sample bug template](https://raw.githubusercontent.com/chef/oss_project_boilerplate/master/.github/ISSUE_TEMPLATE/bug.md). Individual projects may have their own templates; see project documentation for details |
+| Anyone | submit a ***feature request*** | create an issue in GitHub | [sample feature request template](https://raw.githubusercontent.com/chef/oss_project_boilerplate/master/.github/ISSUE_TEMPLATE/feature-request.md). Individual projects may have their own templates; see project documentation for details |
 | Anyone | report an ***outage*** | email [email address tbd] | --- |
-| Anyone | report a ***security vulnerability*** in a Chef OSS project | email [email address tbd] | Encryption? |
+| Anyone | report a ***security vulnerability*** in a Chef OSS project | email [security@chef.io](mailto:security@chef.io) | Encryption? |
 | A Project Member | join a ***mailing list*** | head over to [Discourse](https://discourse.chef.io/) & sign up | See **unsubscribe** instructions [here](https://discourse.chef.io/t/update-on-notifications-from-discourse/7063) |
 | A Project Member | join a ***Community Slack*** channel | head over to [Community Slack](https://community-slack.chef.io/) | --- |
 | A Project Member | discuss ***technical issues*** | post in GitHub  | For ***general, non-technical questions & issues*** head over to [Community Slack](https://community-slack.chef.io/). Use the project's general channel |
@@ -63,4 +63,4 @@ Engage like a pro. Below are some best practice uses of the Community communicat
 | A Project Member | report a ***CoC violation*** | email [tbd] | --- |
 | A Project Member | talk to a ***human*** | request access to Zoom or Google Hangouts office hours in [Community Slack](https://community-slack.chef.io/) | --- |
 | A Reviewer | become an ***Approver*** | check out an overview of Approver [responsibilities & requirements](../project-membership.md#approver) | Individual project requirements may vary; see project doc for more info |
-| An Approver | ***vote*** on a new Project Member, Reviewer, or Approver | review the general [requirements](../project-membership.md) and consult my project's documentation | General Approver information is [here](../maintainership.md). Individual project requirements may vary; please see project doc for more info |
+| An Approver | ***vote*** on a new Project Member, Reviewer, or Approver | review the general [requirements](../project-membership.md) and consult my project's documentation | General Approver information is [here](../project-membership.md#approver) . Individual project requirements may vary; please see project doc for more info |
