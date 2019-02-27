@@ -1,10 +1,10 @@
-# Project membership
+# Project Membership
 
-## New contributors
+## New Contributors
 
 [New contributors] should be welcomed to the community by existing project members, helped with PR workflow, and directed to relevant documentation and communication channels.
 
-## Established project members
+## Established Project Members
 
 Established project members are expected to demonstrate their adherence to the principles in this document, familiarity with project organization, roles, policies, procedures, conventions, etc., and technical and/or writing ability. Role-specific expectations, responsibilities, and requirements are enumerated below.
 
@@ -19,7 +19,7 @@ Established project members are expected to demonstrate their adherence to the p
 
 ## Reviewer
 
-Project Reviewers are continuously active contributors in the community. They can have issues and PRs assigned to them, participate in project development. Reviewers are expected to remain active contributors to the project. In the case that a reviewer becomes inactive their review priviliges will be removed. 
+Project Reviewers are continuously active contributors in the community. They can have issues and PRs assigned to them, participate in project development. Reviewers are expected to remain active contributors to the project. In the case that a reviewer becomes inactive their review priviliges will be removed.
 
 Reviewers are able to review code for quality and correctness on some part of a project. They are knowledgeable about both the codebase and software engineering principles.
 
@@ -84,7 +84,7 @@ The following requirements apply to the portions of a project for which one woul
   - Accomplished through a PR to update the CODEOWNERS file
   - On Merge project owner grants merge privileges to project trunk
 
-### Responsibilities and privileges
+### Responsibilities and Privileges
 
 The following apply to the portions of a project for which one would be an approver.
 
@@ -118,7 +118,7 @@ The following apply to the project for which one would be an owner.
   - Identifying subtle or complex issues in designs and implementation PRs
 - Directly contributed to the project through implementation and / or review
 
-### Responsibilities and privileges
+### Responsibilities and Privileges
 
 The following apply to the project for which one would be an owner.
 
