@@ -65,10 +65,10 @@ Chef Software maintains over 500 software repositories in multiple GitHub organi
 Issues ideal for first time contributors are labeled with the "Status: Good First Issue" label. These issues can be resolved without an in depth understanding of the codebase. Once you feel more confident working in a particular project codebase you can also look at issues tagged with the "Status: Help Wanted" issue. These issues require additional knowledge of the project codebase, but are ideal for community contributors.
 
 Chef's core projects also have tools to help expose these issues in a meaningful way:
-  - [Chef Starters](https://some-url)
-  - [Habitat Starters](https://some-url)
-  - [Inspec Starters](https://some-url)
-  - [Automate Starters](https://some-url)
+  - [Chef Starters](https://chef.github.io/jump-in/)
+  - [Habitat Starters]
+  - [Inspec Starters]
+  - [Automate Starters]
 
 If you'd like to help, but don't feel confident jumping right into a code contribution another great form of contribution is improving documentation. Many Chef projects include documentation directly in their repository, and we also maintain the code for [docs.chef.io](https://docs.chef.io) in our [chef-web-docs](https://github.com/chef/chef-web-docs) repository. Documentation contributions are an excellent exposure to the code submission/review process without the added complication of technical depth. Please see [Contributing](#contributing) below for the workflow.
 
