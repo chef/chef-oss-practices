@@ -4,7 +4,7 @@ How can a Chef Employee contribute to our community of contributors?
 
 ## GitHub
 
- * Interact with the community through Issue triage and Pull Request reviews.
+ * Interact with the community through Issue and Pull Request triage.
  * Help educate users on code standards in the project.
  * Help keep documentation and README's updated.
 
