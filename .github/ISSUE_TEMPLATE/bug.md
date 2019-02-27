@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Explain how the Chef Software Open Source Communities documentation is incorrect
-labels: 'Type: Bug'
+labels: 'Type: Bug', 'Status: Untriaged'
 ---
 
 <!--- Provide a general summary of the issue in the Title above -->
