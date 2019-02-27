@@ -1,6 +1,6 @@
 # Engineer Expectations
 
-How can a Engineer contribute to our community of contributors?
+How can a Chef Employee contribute to our community of contributors?
 
 ## Github
 
@@ -22,4 +22,4 @@ Write an article about software for a blog, magazine, or book. Make sure to ment
 
 ## Speaking
 
-Speak at a local meetup, conference or on a podcast.
+Speak at a local meetup, conference, or on a podcast.
