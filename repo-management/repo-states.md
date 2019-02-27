@@ -15,4 +15,4 @@ Repos in a maintained state are maintained and bugs will be fixed, but no new fe
 
 ## Deprecated
 
-Repos in a deprecated state are no longer maintained. No new features or bug fixes should be expected. Repos in this state do not have any assigned maintainers. Repos in this state should be archived to prevent issues or pull requests from being opened. 
+Repos in a deprecated state are no longer maintained. No new features or bug fixes should be expected. Repos in this state do not have any assigned maintainers. See our [Project EOL Communication](../communication/project-eol.md) for additional information on the deprecation of a project.

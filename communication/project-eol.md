@@ -1,6 +1,6 @@
 # The end of a project's life
 
-As covered in our [governance documentation](governance.md) there can come a time in the life of a software project where it needs to be figuratively put out to pasture. This doc doesn't deal specifically with that process EoLing a project as much as what communication looks like for a project entering that status.
+As covered in our [governance documentation](../governance.md) there can come a time in the life of a software project where it needs to be figuratively put out to pasture. This doc doesn't deal specifically with that process EoLing a project as much as what communication looks like for a project entering that status.
 
 ## Repo Content
 
@@ -15,3 +15,7 @@ This project has officially been EoL'd by Chef Software Inc. but, have no fear! 
 ## Discourse Announcement
 
 If you believe the project being EOL'd may have active users a post should be made to the [Chef Discourse](https://discourse.chef.io) announcing the EOL of the project.
+
+## Archival and Boneyarding
+
+After a period of time decided by the project owners the codebase will be transferred to the `chef-boneyard` GitHub organization and archived. Thusly, projects will remain available for reference and forking. As an example, the timeframe for archiving could be immediate for libraries that the project contributors are confident are only used internally to other Chef projects. The timeframe could be months to accommodate a transfer of ownership of the repository and management responsibilities to a group of people who express interest in adopting a project destined for the boneyard.
