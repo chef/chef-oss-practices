@@ -10,7 +10,7 @@ Video conferencing is a fantastic tool for collaborating in realtime and sparkin
 
   - Difficult for non-native English speakers
   - Difficult to quickly catch up on after the fact
-  - Attendance is difficult for those not in US timezones
+  - Attendance is difficult for those not in common timezones (e.g. US)
 
 ## Video Conferencing Best Practices
 
