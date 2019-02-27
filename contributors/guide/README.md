@@ -15,7 +15,7 @@ Welcome to the Chef Software Inc. OSS Community!
 - [Your First Contribution](#your-first-contribution)
   - [Find something to work on](#find-something-to-work-on)
     - [Find a good first topic](#find-a-good-first-topic)
-      - [Issue Assignment in Github](#issue-assignment-in-github)
+      - [Issue Assignment in GitHub](#issue-assignment-in-github)
     - [Learn about Teams](#learn-about-teams)
       - [Team structure](#team-structure)
       - [Find a team that is related to your contribution](#find-a-team-that-is-related-to-your-contribution)
@@ -72,7 +72,7 @@ Chef's core projects also have tools to help expose these issues in a meaningful
 
 If you'd like to help, but don't feel confident jumping right into a code contribution another great form of contribution is improving documentation. Many Chef projects include documentation directly in their repository, and we also maintain the code for [docs.chef.io](https://docs.chef.io) in our [chef-web-docs](https://github.com/chef/chef-web-docs) repository. Documentation contributions are an excellent exposure to the code submission/review process without the added complication of technical depth. Please see [Contributing](#contributing) below for the workflow.
 
-#### Issue Assignment in Github
+#### Issue Assignment in GitHub
 
 Often, new contributors ask to be assigned an issue they are willing to take on. Unfortunately, due to GitHub limitations we can only assign issues to [org members](#community) or repo collaborators. Instead, please state in a comment that you intend to work on this issue and it will be assumed to be yours.
 
