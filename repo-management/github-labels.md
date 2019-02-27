@@ -71,6 +71,7 @@ Projects in the Chef Community should feel encouraged to use these labels in the
 
 ## Status
 
+ - `Untriaged` An issue that has yet to be triaged. This should be set on all new issues
  - `Adopted` An issue that is being worked on.
  - `Incomplete` A pull request that is not ready to be merged as noted by the author.
  - `Waiting on Contributor` An issue or pull request that has unresolved requested actions from the author.

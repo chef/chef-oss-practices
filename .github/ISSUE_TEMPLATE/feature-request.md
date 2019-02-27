@@ -1,7 +1,7 @@
 ---
 name: Feature Request
 about: Request new content for Chef Software Open Source Communities repo
-labels: 'Triage: Feature Request'
+labels: 'Triage: Feature Request', 'Status: Untriaged'
 ---
 
 <!--- Provide a general summary of the requested feature in the Title above. -->
