@@ -4,7 +4,7 @@ The longrunning OSS projects at Chef have found hosting a public triage call on 
 
 ## Process
 
-The triage process is focused on identifying and categorizing issues and pull requests for a project. Chef utilizes GitHub labels to track the status of issues and PRs and maintains a list of [recommended GitHub labels](github_labels.md) that greatly improve the triaging process. GitHub issue and PR templates should be setup to apply the 'Status: Untriaged' label to all new issues and PRs. During triage this label is removed and replaced with more descriptive labels. This allows us to track the untriaged, as well as triaged, work at a GitHub organization level.
+The triage process is focused on identifying and categorizing issues and pull requests for a project. Chef utilizes GitHub labels to track the status of issues and PRs and maintains a list of [recommended GitHub labels](../repo-management/github-labels.md) that greatly improve the triaging process. GitHub issue and PR templates should be setup to apply the 'Status: Untriaged' label to all new issues and PRs. During triage this label is removed and replaced with more descriptive labels. This allows us to track the untriaged, as well as triaged, work at a GitHub organization level.
 
 ### Tools
 
