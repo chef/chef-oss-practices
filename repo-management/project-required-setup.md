@@ -42,7 +42,7 @@ A project readme is the first thing a new user or contributor sees when interact
 
 ### LICENSE
 
-The LICENSE file is an important legal requirement for open source code, and it is also parsed by Github for use in various places. Adding a license file allows users to search for projects with a specific license and also adds licensing badges to GitHub repository pages. Unless there is a specific reason all Chef projects should be [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0.html) licensed.
+The LICENSE file is an important legal requirement for open source code, and it is also parsed by GitHub for use in various places. Adding a license file allows users to search for projects with a specific license and also adds licensing badges to GitHub repository pages. Unless there is a specific reason all Chef projects should be [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0.html) licensed.
 
 ### CONTRIBUTING.md
 
