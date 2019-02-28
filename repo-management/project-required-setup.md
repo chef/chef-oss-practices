@@ -22,7 +22,7 @@ New GitHub repositories ship with the Projects and Wiki features enabled by defa
 
 ### PR Status Check: Developer Certificate of Origin
 
-All Chef Software Inc. OSS projects use the [developer certificate of origin](/DCO.md) for contributed changes. Commits in a pull request must be signed off by the author(s) to be eligible for merging. You COULD spend the time manually confirming that the developers have signed off on their commits, but it's probably a good idea to automate this with Expeditor or another tool of your choosing.
+All Chef Software Inc. OSS projects use the [developer certificate of origin](/DCO.md) for contributed changes. Commits in a pull request must be signed off by the author(s) to be eligible for merging. [Expeditor](https://expeditor.chef.io/docs/getting-started/) is a bot that [by default will check the commits](https://expeditor.chef.io/docs/integrations/github/#configuration) on pull requests to Chef Software Inc. OSS project repositories.
 
 ## Files
 
