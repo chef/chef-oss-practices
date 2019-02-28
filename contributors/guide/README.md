@@ -146,7 +146,7 @@ Please read the [Code Review](collaborative-dev.md#code-reviews) section of the 
 
 Testing is critical to preventing regressions and for the general maintenance of high quality software over time. All Chef projects require testing and that testing is the responsibility of all contributors.
 
-Refer to the [Testing section](/contributors/devel/testing.md) of the Collaborative Development Principles guide for further information.
+Refer to the [Testing section](collaborative-dev.md#testing) of the Collaborative Development Principles guide for further information.
 
 ## Security
 

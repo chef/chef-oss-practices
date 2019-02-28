@@ -42,7 +42,7 @@ Pair programming is an excellent way to not only increase the quality of code, b
 
 Each Chef maintained project includes testing that helps ensure high software that can be released at any point in time. Testing is the responsibility of all project contributors with infrastructure assistance from Chef's Release Engineering team.
 
-### Testing Types
+### Types of Testing
 
 * Unit: These confirm that a particular function behaves as intended. Various languages handle unit testing differently and it will be best to discuss with the team responsible for the project you're targeting on how best to write,run, and validate these before opening a PR. It is a requirement for Chef Inc. projects for unit tests to be easily run locally by any developer on any supported OS.
 * Integration: These tests cover interactions of package components or interactions between components and some other separate system resource (eg: chef + Hashi Vault or similar). An example would be testing whether a piece of code can correctly store data to or retrieve data from a Vault. Running these can require the developer set up additional functionality on their development system but if integration tests are available we highly recommend you running them before opening your PR.
