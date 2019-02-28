@@ -1,6 +1,6 @@
 # Collaborative Development Principles
 
-Collaboration is key to ensuring high quality code for any project. In order to promote a collaborative coding environment Chef utilizes both code reviews and pairing.
+Collaboration is key to ensuring high quality code for any project. In order to promote a collaborative coding environment Chef utilizes testing, code reviews, and pairing.
 
 ## Code reviews
 
