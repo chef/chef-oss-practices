@@ -2,6 +2,14 @@
 
 Collaboration is key to ensuring high quality code for any project. In order to promote a collaborative coding environment Chef utilizes testing, code reviews, and pairing.
 
+## Open Design Process
+
+For a software community to be engaged they must have visibility and say in the process and direction of a project.
+
+In order to promote visibility into our projects we have outlined communication standards that focus on durable mediums and public facing discussions (See [Communication](../../communication/README.md)). Except in the case of confidential customer or business strategy information we aim to present our community with full insight into our day to day project development process.
+
+We also want our community to be able to participapte in that process. To offer input beyond just that of a feature requests each project implements a 'Design Proposal' process. Design Proposals allow community members to propose a change that _they_ plan to implement, and gives both the community and project maintainers the ability to discuss the potential change before a PR is opened. See the [Design Proposal](design-proposals.md) document for more details on this process. 
+
 ## Code Reviews
 
 As a community we believe in the value of code review for all contributions. Code review increases both the quality and readability of our codebase, which in turn produces high quality software.
