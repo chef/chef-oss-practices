@@ -38,6 +38,9 @@ Individual projects may host office hours on a periodic basis. This is a great w
 
 **Note:** Zoom is a good medium for office hours. Google Hangouts via YouTube is another great option for these calls for a number of reasons. It will allow all members of a team appropriate admin rights to schedule/start/stop the call, it has both a public viewing link and private invite link, and the calls can automatically be recorded and uploaded to a YouTube channel on completion.
 
+## Providing Support
+
+Please see our [support boundaries](support_boundaries.md) doc regarding the types of support that are provided by maintainers and the types of support that are not.
 
 ## Get In Touch
 
