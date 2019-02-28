@@ -5,7 +5,7 @@ Chef uses Design Proposals to discuss significant changes to a project before op
 ## Why Design Proposals
 
 - Allows all interested parties (including any community member) to discuss large impact changes to a project.
-- Serves as a durable papertrail for discussions regarding project architecture.
+- Serves as a durable paper trail for discussions regarding project architecture.
 - Forces design discussions to occur before PRs are created.
 - Reduces PR refactoring and rejected PRs.
 
@@ -29,4 +29,26 @@ A design proposal should be opened any time a change meets one of the following 
 
 ## How Does This Differ From RFCs
 
-Previously the Chef project used a RFC process involving proposal documents that were discussed over multiple community meetings and then voted on by the community. This process proved to be overly complex for most of our project needs and also incredibly lengthy as a debated proposal could easily take over a month. The Design Proposal process is built to revolve around individual projects in a way that gives more autonomy and speed to the process, and in general makes it easier on both the user submitting the proposal and other community members. All discussion is contained within issues in the invididual GitHub repositories making it easier to reference in the future. Also as the discussion happens in GitHub issues it's easier for those throughout the world to participate in the process.
+Previously the Chef project used a RFC process involving proposal documents that were discussed over multiple community meetings and then voted on by the community. This process proved to be overly complex for most of our project needs and also incredibly lengthy as a debated proposal could easily take over a month. The Design Proposal process is built to revolve around individual projects in a way that gives more autonomy and speed to the process, and in general makes it easier on both the user submitting the proposal and other community members. All discussion is contained within issues in the individual GitHub repositories making it easier to reference in the future. Also as the discussion happens in GitHub issues it's easier for those throughout the world to participate in the process.
+
+## Structure of a Design Proposal
+
+```
+# Title
+
+Description and rationale.
+
+## Motivation
+
+    As a <<user_profile>>,
+    I want to <<functionality>>,
+    so that <<benefit>>.
+
+## Specification
+
+A detailed description of the planned implementation.
+
+## Downstream Impact
+
+Which other tools will be impacted by this work?
+```
