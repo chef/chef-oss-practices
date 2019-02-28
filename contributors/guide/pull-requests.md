@@ -48,17 +48,15 @@ Merging a pull request requires the following steps to be completed before the p
 
 ## The Testing and Merge Workflow
 
-Each Chef project could have slightly different merge workflows but all use a [set of labels](/repo-management/github-labels.md) to flag various aspects of a pull request. Different projects _could_ require different labels on the path to approval. A generic explanation of how labels are used in pull requests can be found [here](/contributors/guide/owners.md#code-review-using-codeowners-files). In fully automated projects an expeditor bot will also automatically apply and/or suggest labels.
+Each Chef project could have slightly different merge workflows but all use a [set of labels](../../repo-management/github-labels.md) to flag various aspects of a pull request. Different projects _could_ require different labels on the path to approval. A generic explanation of how labels are used in pull requests can be found [here](owners.md#code-review-using-codeowners-files). In fully automated projects an expeditor bot will also automatically apply and/or suggest labels.
 
-*NOTE: For pull requests that are in progress but not ready for review,
-prefix the pull request title with `WIP` or `[WIP]` and track any remaining TODOs
-in a checklist in the pull request description.*
+*NOTE: For pull requests that are in progress but not ready for review please open the pull request using GitHub's [Draft Pull Request](https://help.github.com/en/articles/about-pull-requests#draft-pull-requests) functionality.
 
 ****************************************************************************************
 Here's the process the pull request goes through on its way from submission to merging:
 
 1. Make the pull request
-2. `CODEOWNERS` assigns reviewers
+2. Reviewers are assigned automatically based on `CODEOWNERS`
 
 3. Pre-submit tests will run:
 
@@ -75,12 +73,7 @@ Here's the process the pull request goes through on its way from submission to m
 
 ## Marking Unfinished Pull Requests
 
-If you want to solicit reviews before the implementation of your pull request is complete, you should label your pull request to ensure that an Approver does not pick it up and attempt to merge it. There are two methods to achieve this:
-
-1. You may add the `WIP` label
-2. You may add or remove a `WIP` or `[WIP]` prefix to your pull request title
-
-While either the label or title prefix is present, your pull request will not be considered for merging.
+If you want to solicit reviews before the implementation of your pull request is complete, you should open the pull request using GitHub's [Draft Pull Request](https://help.github.com/en/articles/about-pull-requests#draft-pull-requests) functionality. This will prevent incomplete code from being merged into a project.
 
 ## Pull Requests and the Release Cycle
 
@@ -91,7 +84,7 @@ If you feel your pull request is in this state, contact the appropriate [team](t
 
 ## Automation
 
-The Chef Software Inc. OSS community uses a variety of automation to manage pull requests. This automation is described in detail [in the automation doc](/contributors/devel/automation.md).
+The Chef Software Inc. OSS community uses a variety of automation to manage pull requests. This automation is described in detail [in the automation doc](devel/automation.md).
 
 # Why was my pull request closed?
 
@@ -137,16 +130,16 @@ Let's talk about best practices so your pull request gets reviewed quickly.
 
 ## 0. Familiarize yourself with project conventions
 
-* [Development guide](/contributors/devel/development.md)
-* [Coding conventions](../guide/coding-conventions.md)
-* [API conventions](/contributors/devel/api-conventions.md)
+* [Development guide](devel/development.md)
+* [Coding conventions](coding-conventions.md)
+* [API conventions](devel/api-conventions.md)
 
 ## 1. Is the feature wanted? File an Enhancement Proposal
 Are you sure Feature-X is something the project team wants or will accept? Is it implemented to fit with other changes in flight? Are you willing to bet a few days or weeks of work on it?
 
 It's better to get confirmation beforehand.
 
-Even for small changes, it is often a good idea to gather feedback on an issue you filed, or even simply ask in the appropriate team's Slack channel to invite discussion and feedback from code owners. Here's a [list of teams](/teams/team-list.md).
+Even for small changes, it is often a good idea to gather feedback on an issue you filed, or even simply ask in the appropriate team's Slack channel to invite discussion and feedback from code owners. Here's a [list of teams](../../team-list.md).
 
 
 ## 2. Smaller Is Better: Small Commits, Small Pull Requests
