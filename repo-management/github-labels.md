@@ -97,3 +97,7 @@ Projects in the Chef Community should feel encouraged to use these labels in the
  - `Regression` It used to work, now it doesn't.
  - `RFC` Community survey of a proposal.
  - `Tech Debt` Refactoring
+
+ # Automating Label Application
+
+ Currently we utilize [repoman](https://github.com/thommay/repo_man) to apply labels to individual GitHub repositories or all public repositories in a particular org. See the [chef example config](https://github.com/thommay/repo_man/blob/master/examples/chef.toml) for our current label setup. Repoman will not only add the appropriate labels, but it will also migrate existing labels and remove non-standard labels.
