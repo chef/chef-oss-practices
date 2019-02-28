@@ -84,7 +84,7 @@ Even more useful than filing new issues is triaging existing issues. Providing r
 
 Once you've found your first project and an issue it's important to learn about the team responsible for that project.
 
-### Team structure
+### Team Structure
 
 We organize our community into teams in order to improve our workflow and more easily manage what amounts to multiple very large community projects. The developers within each team have autonomy and ownership over that team's project(s) and frequently a team will be working on more than one project at once.
 
@@ -106,7 +106,7 @@ All Chef Software Inc. projects are open source, but many of the people working 
 
 As a potential contributor, your changes and ideas are welcome at any hour of the day or night, weekdays, weekends, and holidays. Please do not ever hesitate to ask a question or send a pull request.
 
-Check out our [community guiding principles](collaborative-dev.md) on how to create great code as a big group.
+Check out our [Collaborative Development Principles](collaborative-dev.md) on how to create great code as a big group.
 
 Beginner focused information can be found below in [Open a Pull Request](#open-a-pull-request) and [Code Review](#code-review).
 
