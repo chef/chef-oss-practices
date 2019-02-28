@@ -3,6 +3,8 @@
 This document is a guide on how to contribute to and maintain Chef Software Inc. projects.
 Feel free to browse the [open issues](https://github.com/chef/chef-oss-practices/issues?q=is%3Aissue+is%3Aopen) and file new ones, all feedback welcome!
 
+Contributing to any of Chef's projects should be easy. If you find a rough edge, let us know! Better yet, join the community and help us fix it.
+
 # Welcome
 
 Welcome to the Chef Software Inc. OSS Community!
@@ -80,8 +82,6 @@ We organize our community into teams in order to improve our workflow and more e
 Some teams also have their own `CONTRIBUTING.md` files, which may contain extra information or guidelines in addition to these general ones. These are located in the team-specific community directories in this repo and frequently will also exist in the root of any repos that team owns. For example: the contributor's guide for the Habitat supervisor is located in the *chef/chef-oss-practices* repo, as [`/teams/hab-sup/CONTRIBUTING.md`](../teams/hab-sup/CONTRIBUTING.md) as well as in the root of _habitat-sh/habitat_ as `CONTRIBUTING.md`.
 
 All projects at Chef are operated as open, community efforts supported with internal development teams. Anyone is welcome to jump into a project or engage with a specific team and begin fixing issues, critiquing design proposals, or reviewing code. Each team should have a public Slack channel for development discussions though any team is welcome to share a public development channel with any other team.
-
-Contributing to any of Chef's projects should be easy. If you find a rough edge, let us know! Better yet, join the community and help us fix it.
 
 #### Find a team that is related to your contribution
 
