@@ -8,7 +8,7 @@ grow and improve our community.
 Chef's core projects also have tools to help expose these issues in a meaningful way:
   - [Chef First Issues](https://chef.github.io/jump-in/)
   - [Habitat First Issues]
-  - [Inspec First Issues]
+  - [InSpec First Issues]
   - [Automate First Issues]
 
 ## Help Wanted

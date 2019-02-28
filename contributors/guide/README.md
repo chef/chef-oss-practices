@@ -92,7 +92,7 @@ All projects at Chef are operated as open, community efforts supported with inte
 
 ### Find the Project's Team
 
-Finding the appropriate team for your contribution and asking your questions in the correct place can give your contribution higher visibility and a faster community response. We do our best to keep response time on any of our projects low, but engaging a team directly on a contribution is a great way to get connected and have a more direct interactiaround your contribution.
+Finding the appropriate team for your contribution and asking your questions in the correct place can give your contribution higher visibility and a faster community response. We do our best to keep response time on any of our projects low, but engaging a team directly on a contribution is a great way to get connected and have a more direct interaction around your contribution.
 
 The readme in each project repository will contain information on the team responsible for the code. Some teams also have their own `CONTRIBUTING.md` files, which may contain extra information or guidelines in addition to these general ones. These are located in the team-specific community directories in _this repository_ and will be linked to from any repository that team owns. For example: the contributor's guide for the Habitat supervisor is located in the *chef/chef-oss-practices* repo, as [`../../teams/hab-sup/CONTRIBUTING.md`](../teams/hab-sup/CONTRIBUTING.md) as well as in the root of _habitat-sh/habitat_ as `CONTRIBUTING.md`.
 
@@ -126,9 +126,9 @@ For general questions and troubleshooting, see the [standard lines of communicat
 
 ## Open a Pull Request
 
-Pull requests are often called simply "PR"s. Our community generally follows the standard [github pull request](https://help.github.com/articles/about-pull-requests/) process, but there is a layer of additional project specific (and sometimes team specific) differences:
+Pull requests are often called simply "PR"s. Our community generally follows the standard [GitHub pull request](https://help.github.com/articles/about-pull-requests/) process, but there is a layer of additional project specific (and sometimes team specific) differences:
 
-- [Chef-specific github workflow](pull-requests.md#the-testing-and-merge-workflow).
+- [Chef-specific GitHub workflow](pull-requests.md#the-testing-and-merge-workflow).
 
 Common new contributor PR conflicts are:
 

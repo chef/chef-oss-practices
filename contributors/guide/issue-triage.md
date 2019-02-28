@@ -1,6 +1,6 @@
 # Triaging and Prioritizing Issues
 
-There is a difference between triaging and priortizing issues that come into GitHub. This outline documents the differences between the two.
+There is a difference between triaging and prioritizing issues that come into GitHub. This outline documents the differences between the two.
 
 ## Triage
 

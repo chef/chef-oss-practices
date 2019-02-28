@@ -23,7 +23,7 @@ To make it easier for your PR to receive reviews, consider the reviewers will ne
 * follow the project coding conventions which are typically defined by a [language specific guild](../../guilds/README.md)
 * write [good commit messages](https://chris.beams.io/posts/git-commit/)
 * break large changes into a logical series of smaller commits which individually make easily understandable changes, and in aggregate solve a broader issue
-* label PRs appropriately: check out our section on [github labels](/repo-management/github-labels.md)
+* label PRs appropriately: check out our section on [GitHub labels](/repo-management/github-labels.md)
 
 ### Performing Quality Reviews
 

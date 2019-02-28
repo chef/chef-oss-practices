@@ -39,7 +39,7 @@ A list of common resources when contributing to Chef Software Inc. Projects.
 - [Habitat Forums](https://forums.habitat.sh)
 - [Habitat Slack channels](http://slack.habitat.sh)
 - [StackOverflow: Chef](https://stackoverflow.com/questions/tagged/chef)
-- [StackOverflow: Inspec](https://stackoverflow.com/questions/tagged/inspec)
+- [StackOverflow: InSpec](https://stackoverflow.com/questions/tagged/inspec)
 - [Chef OSS YouTube Channel](https://www.youtube.com/channel/UCvwl5-yXsQR5zluYPl8NEeQ)
 - [Habitat YouTube Channel](https://www.youtube.com/channel/UC0wJZeP2dfPZaDUPgvpVpSg/)
 
