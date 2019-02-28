@@ -12,7 +12,7 @@ The main reason is that we use the free version of Slack, which limits records o
 
 ### Why don't we just pay for Community Slack?
 
-The lowest price Slack will charge a for-profit organization is $5 per active user (Ben Rockwood has talked extensively with them on this). As anyone can join Community Slack (and we want to keep it that way), it would be an uncontrolled cost, which is a non-starter for Chef as a business.
+The lowest price Slack will charge a for-profit organization is $5 per active user (Chef IT has talked extensively with Slack them on this). As anyone can join Community Slack (and we want to keep it that way), it would be an uncontrolled cost, which is a non-starter for Chef as a business.
 
 ### Why don't we just use a bot to export the chats from the Community Slack to some other archive?
 
@@ -36,7 +36,7 @@ This does bring us to the larger question - should our development conversations
 
 There are a few clear issues with synchronous chat tools which have the tendency to alienate parts of our community.
 * Synchronous chat works best when all participants are within near time zones. We have contributors in Europe, Asia, and Australia (at least) - it's very easy for them to lose the development conversation when it is held in a synchronous matter. They often do not have a chance to interact with us as or before decisions are made.
-* Synchronous chat is difficult for non-native English speakers. Due to the high volume and speed of synchronous chat it can be easy for non-native English speakers to quickly lose the context. When there is a language barrier, it's much easier to hold conversations in an asynch matter, when translation tools can be used and there is just more time for comprehension to happen.
+* Synchronous chat is difficult for non-native English speakers. Due to the high volume and speed of synchronous chat it can be easy for non-native English speakers to quickly lose the context. When there is a language barrier, it's much easier to hold conversations in an async matter, when translation tools can be used and there is just more time for comprehension to happen.
 * Non-majority contributors (women, Non-binary folks, etc.) face unique challenges when interacting on the web, especially about technology. People who don't know them personally have a tendency to assume them incompetent until proven otherwise - which very much hinders their ability to drive conversation around technical topics. Yes, we do have clear examples of that happening in our community. Async communication forces more thought into the responses and relieves the pressure of being questioned constantly while trying to formulate a response.
 
 ## So when would we use a synchronous chat tool?

@@ -15,11 +15,11 @@ Established project members are expected to demonstrate their adherence to the p
 | contributor | you become a contributor to the project by opening a PR or an Issue | No requirements | Having your GitHub handle recognized in the project changelog and/or release notes |
 | reviewer | review contributions from other members | history of review and authorship in a project | project [CODEOWNERS] entry, Chef OSS [TEAMS] file *reviewer* entry. |
 | approver | final approval and acceptance of contributions | highly experienced and active reviewer + contributor to a project | Chef OSS [TEAMS] file *approver* entry, project [CODEOWNERS] entry|
-| project owner | set direction and priorities for a project | demonstrated responsibility and excellent technical judgement for the project | project [CODEOWNERS] entry, Chef OSS [TEAMS] file *owners* entry |
+| project owner | set direction and priorities for a project | demonstrated responsibility and excellent technical judgment for the project | project [CODEOWNERS] entry, Chef OSS [TEAMS] file *owners* entry |
 
 ## Reviewer
 
-Project Reviewers are continuously active contributors in the community. They can have issues and PRs assigned to them, participate in project development. Reviewers are expected to remain active contributors to the project. In the case that a reviewer becomes inactive their review priviliges will be removed.
+Project Reviewers are continuously active contributors in the community. They can have issues and PRs assigned to them, participate in project development. Reviewers are expected to remain active contributors to the project. In the case that a reviewer becomes inactive their review privileges will be removed.
 
 Reviewers are able to review code for quality and correctness on some part of a project. They are knowledgeable about both the codebase and software engineering principles.
 
@@ -88,7 +88,7 @@ The following requirements apply to the portions of a project for which one woul
 
 The following apply to the portions of a project for which one would be an approver.
 
-- Demonstrate sound technical judgement
+- Demonstrate sound technical judgment
 - Responsible for project quality control via [code reviews]
   - Focus on holistic acceptance of contribution such as dependencies with other features, backwards / forwards compatibility, API and flag definitions, etc
 - Expected to be responsive to review requests as per [community expectations]
@@ -100,7 +100,7 @@ The following apply to the portions of a project for which one would be an appro
 
 **Note:** This is a generalized high-level description of the role, and the specifics of the project owner role's responsibilities and related processes *MUST* be defined for individual teams or projects.
 
-Project Owners are the technical authority for all Chef Software Inc. OSS projects. They *MUST* have demonstrated both good judgement and responsibility towards the health of that project. Project Owners *MUST* set _technical_ direction and make or approve _technical_ design decisions for their project - either directly or through delegation of these responsibilities.
+Project Owners are the technical authority for all Chef Software Inc. OSS projects. They *MUST* have demonstrated both good judgment and responsibility towards the health of that project. Project Owners *MUST* set _technical_ direction and make or approve _technical_ design decisions for their project - either directly or through delegation of these responsibilities.
 
 **Defined by:** *owners* entry in project [CODEOWNERS] files. An *owner* entry in the Chef OSS [TEAMS] file  *project.owners*
 

@@ -39,7 +39,7 @@ Committees are named sets of people that are chartered to take on sensitive or s
 
 ## Repository Guidelines
 
-All new repositories under the Chef, Habitat, or Inspec github orgs should follow the processes outlined in the [Chef OSS repository guidelines](repo-management/README.md).
+All new repositories under the Chef, Habitat, or Inspec GitHub orgs should follow the processes outlined in the [Chef OSS repository guidelines](repo-management/README.md).
 
 ## DCO
 

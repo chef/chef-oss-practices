@@ -32,10 +32,10 @@ See the [oss_project_boilerplate repo](https://github.com/chef/oss_project_boile
 
 A project readme is the first thing a new user or contributor sees when interacting with a Chef Software project. We want to make sure this file is detailed and up to date. It should cover the following things:
 
-  - What the project is itended to be used for.
+  - What the project is intended to be used for.
   - Any system or runtime requirements.
   - Example uses.
-  - Known issues or incompatibilies.
+  - Known issues or incompatibilities.
   - The Chef team responsible for the project
   - The project license
   - When a product requires a license to run the binary, link to document explaining Chef's licensing terms (license on code is different than license on binary) [This document is still to be written]
@@ -66,7 +66,7 @@ Issue templates ensure that issues are filed with all the necessary information 
 
 ### .github/PULL_REQUEST_TEMPLATE.md
 
-Pull Request templates ensure that the users have followed all the necessary steps before sumitting a PR. They also give us one last chance to point users to our contributing guides so we can ensure first time contributors have a good experience.
+Pull Request templates ensure that the users have followed all the necessary steps before submitting a PR. They also give us one last chance to point users to our contributing guides so we can ensure first time contributors have a good experience.
 
 ## Other Recommendations
 
