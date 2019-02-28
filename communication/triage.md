@@ -19,6 +19,12 @@ Each team should feel free to use whatever tools they want so long as they can m
 
 Some projects at Chef are larger than others. Some projects have a couple of repositories attached to them, others have 10s/100s of repos. Depending on how each project decides to roll out their public triage might have an effect on the number of project/sub-project repos that are covered by a single triage. For example in Habitat, we have a single triage call for core-plans, habitat cli, habitat supervisor, builder, on-prem depot, hab k8s modules, hab studio, etc. This is a significant number of repositories and a significant number of projects/sub-projects. Because of the decision to operate this way we have a responsibility to have appropriate project representation on each call. What this means is - if your public triage call cross-cuts an organization a representative from each team/vertical/project/sub-project within that organization **must be present on the call** and one person will likely need to act as a meeting host.
 
+## Prioritization
+
+When issues are triaged and added to the backlog, they must then be prioritized. Factors in an issue's assigned priority include current workload, business strategy, customer impact, and more.
+
+Because customer impact and business strategy may be confidential, prioritizing issues on Chef projects may be done in private by both the Product manager and Engineering manager associated with the project.
+
 ### Sifting and Sorting
 
 The actual activity of triage is relatively simple. The host of the call will walk the group through inbound issues. Generally we recommend fully labeling (within reason) each accepted issue and adding them to the backlog. There are 3 primary statuses an inbound issue can take:

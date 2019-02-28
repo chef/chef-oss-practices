@@ -4,12 +4,6 @@ There is a difference between triaging and priortizing issues that come into Git
 
 ## Triage
 
-Open Source triages are held in public.
+Each project team holds public issue and pull request triage, with a schedule listed in their team documentation.
 
-For more information, please check out [the Triage document in this repo](./communication/triage.md).
-
-## Prioritization
-
-When issues are triaged and added to the backlog, they must then be prioritized. Factors in an issue's assigned priority include current workload, business strategy, customer impact, and more.
-
-Because customer impact and business strategy may be confidential, prioritizing issues on Chef projects must be done in private by both the Product manager and Engineering manager associated with the project.
+For more information on the triage process, please check out [the Triage document in this repo](./communication/triage.md).
