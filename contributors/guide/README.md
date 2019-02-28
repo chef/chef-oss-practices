@@ -114,7 +114,7 @@ For quick reference on contributor resources, we have a handy [contributor cheat
 
 ### Signing the DCO
 
-Before you can contribute, you'll need to know how to sign your commits with a [Developer Certificate of Origin](DCO.md)
+Chef requires that all commits to projects be signed for the DCO. See [Developer Certificate of Origin](../../DCO.md) for more information on why we use the DCO and how to sign a commit for the DCO.
 
 ### Communication
 
