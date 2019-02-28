@@ -1,4 +1,4 @@
-# Chef OSS Cheat Sheet
+# Chef OSS Contribution Cheat Sheet
 
 A list of common resources when contributing to Chef Software Inc. Projects.
 
