@@ -5,6 +5,12 @@ We use two labels [Status: Help Wanted](#help-wanted) and [Status: Good First Is
 We also have some [suggestions](#suggestions) for using these labels to help
 grow and improve our community.
 
+Chef's core projects also have tools to help expose these issues in a meaningful way:
+  - [Chef First Issues](https://chef.github.io/jump-in/)
+  - [Habitat First Issues]
+  - [Inspec First Issues]
+  - [Automate First Issues]
+
 ## Help Wanted
 
 Items marked with the `Status: Help Wanted` label need to ensure that they are:
@@ -61,7 +67,7 @@ These items need to ensure that they follow the guidelines for `Status: Help Wan
 
 # Suggestions
 
-We encourage our more experienced members to help new contributors, so that the Chef Software Inc. community can continue to grow and maintain the kind, inclusive community that we all enjoy today.
+We encourage our more experienced members to help new contributors, so that our community can continue to grow and maintain the kind, inclusive community that we all enjoy today.
 
 The following suggestions go a long way toward preventing "drive-by" PRs, and ensure that our investment in new contributors is rewarded by them coming back and becoming regulars.
 
