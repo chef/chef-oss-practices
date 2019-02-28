@@ -34,7 +34,7 @@ The [Contributor Guide](contributors/guide/README.md) provides detailed instruct
 
 ## Creating a New Chef Open Source Project
 
-Creating a new project? Checkout the [repo management directory](repo-management) for information on how to set your project up.
+Creating a new project? Checkout the [repo management](repo-management/README.md) documentation for information on how to set your project up.
 
 ## Project Membership
 
