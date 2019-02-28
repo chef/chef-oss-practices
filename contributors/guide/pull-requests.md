@@ -81,7 +81,6 @@ If a pull request has been reviewed, but held or not approved, it might be due t
 
 If you feel your pull request is in this state, contact the appropriate [team](teams/team-list.md) for clarification.
 
-
 ## Automation
 
 The Chef Software Inc. OSS community uses a variety of automation to manage pull requests. This automation is described in detail [in the automation doc](devel/automation.md).
