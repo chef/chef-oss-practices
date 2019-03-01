@@ -47,6 +47,6 @@ This project uses a [Developer Certificate of Origin (DCO)](DCO.md) to ensure th
 
 ## End of Life for a Project
 
-Sometimes in the life of a project, there comes a time where the humans contributing to it have reasons to stop. Maybe a new project is developed that solves the original problem better. Maybe the humans have other priorities in there life. Whatever the reason, we intend for the project to clearly communicate how well-supported it is.
+Sometimes in the life of a project, there comes a time where the humans contributing to it have reasons to stop. Maybe a new project is developed that solves the original problem better. Maybe the humans have other priorities in their life. Whatever the reason, we intend for the project to clearly communicate how well-supported it is.
 
 For Chef Software (the company) to continue providing resources to a project, there must be two or more Chef employees active in the project. At a point where Chef Software has decided to reduce or end involvement with a project under its purview, the project owners will make announcements, post notices, and archive the repository in according to the [communication plan for project end-of-life](communication/project-eol.md).
