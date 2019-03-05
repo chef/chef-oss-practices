@@ -156,7 +156,7 @@ Refer to the [Testing section](collaborative-dev.md#testing) of the Collaborativ
 ## Issues Management or Triage
 
 Helping to manage or triage open issues can be a great contribution and a great opportunity to learn about the various areas of the project. Triaging is the word we use to describe the process of adding multiple types of descriptive labels to GitHub issues, in order to speed up routing issues to the right folks.
-Refer to the [issue triage guide](../communication/triage.mdfor more information.
+Refer to the [issue triage guide](../communication/triage.md) for more information.
 
 # Community
 
