@@ -138,7 +138,7 @@ Are you sure Feature-X is something the project team wants or will accept? Is it
 
 It's better to get confirmation beforehand.
 
-Even for small changes, it is often a good idea to gather feedback on an issue you filed, or even simply ask in the appropriate team's Slack channel to invite discussion and feedback from code owners. Here's a [list of teams](../../team-list.md).
+Even for small changes, it is often a good idea to gather feedback on an issue you filed, or even simply ask in the appropriate team's Slack channel to invite discussion and feedback from project owners. Here's a [list of teams](../../team-list.md).
 
 
 ## 2. Smaller Is Better: Small Commits, Small Pull Requests

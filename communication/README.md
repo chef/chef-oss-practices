@@ -26,7 +26,7 @@ GitHub is the Chef Community's preferred durable medium for open and transparent
 
 ### Community Slack
 
- Sometimes it will make sense to have a brief, non-durable conversation about the development on a project. Have these exchanges in Community Slack (either in a dev channel or via DM). Document any development decisions, etc. arising from the Slack interaction in GitHub. Limit these conversations in Community Slack to development for a given project. The '#general' community Slack channel is the proper place for non-technical discussion and questions.
+ Sometimes it will make sense to have a brief, non-durable conversation about the development on a project. Have these exchanges in Community Slack (either in a dev channel or via DM). Document any development decisions, etc. arising from the Slack interaction in GitHub. Limit these conversations in Community Slack to development for a given project.
 
 ### Mailing Lists
 
