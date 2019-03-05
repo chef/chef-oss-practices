@@ -78,7 +78,7 @@ Documentation is critical to the success of any project and can always use expan
 
 Both filing issues and triaging existing issues are incredibly helpful to maintain high quality software. Finding new issues in projects and filing detailed issues help the maintainers to provide the best possible experience to users. Make sure to adhere to the prompted submission guidelines while opening an issue to give the maintainers all the information necessary to resolve your issue.
 
-Even more useful than filing new issues is triaging existing issues. Providing reproduction cases or more detailed information to existing issues ensures they can be more easily resolved by developers. See the [issue triage guide](../communication/triage.md) for more information.
+Even more useful than filing new issues is confirming existing issues. Providing reproduction cases or more detailed information to existing issues smooths [the triage process](../communication/triage.md) and ensures issues can be more easily resolved by developers.
 
 ## Learn About the Project's Team
 
