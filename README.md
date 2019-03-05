@@ -8,7 +8,7 @@ To learn more about each of our project's structure and organization, please ref
 
 ## How We're Organized
 
-Chef Software (the company) produces many products such as Chef, InSpec, and Habitat. Each of these products is fully open source and comprised of one or more open source projects. For instance the Chef product is comprised of chef, ohai, various mixlib projects, and other interdependent libraries. The project and/or sub-project scope is defined in the README.md file in each individual projects GitHub repository.
+Chef Software (the company) produces many products such as Chef, InSpec, Habitat, and Automate. Each of these products is fully open source and comprised of one or more open source projects. For instance the Chef product is comprised of chef, ohai, various mixlib projects, and other interdependent libraries. The project and/or sub-project scope is defined in the README.md file in each individual projects GitHub repository.
 
 All Chef projects operate under governance determined by the Chef OSS Practices Committee. These policies are documented under [Governance](governance.md), however *Teams* can have their own [policy for contribution](repo-management/project-required-setup.md#CONTRIBUTING.md), communication standards, etc. so long as those policies meet the base governance policy.
 
