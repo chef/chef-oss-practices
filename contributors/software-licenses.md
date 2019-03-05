@@ -1,4 +1,4 @@
-# Contributor Licenses
+# Software Licenses for Contributors
 
 **NOTE: This is still in draft form and is being reviewed by Chef Legal/Leadership**
 
