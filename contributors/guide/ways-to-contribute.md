@@ -8,7 +8,7 @@
 
 ## Slack and Discourse
 
-Interact with existing community members on Slack and Discourse and inform others of their existence. Its Helpful to educate users by answering questions about how our software works and how the community can help improve it.
+Interact with existing community members on Slack and Discourse and inform others of their existence. Its helpful to educate users by answering questions about how our software works and how the community can help improve it.
 
 ## Learn Chef Rally
 
