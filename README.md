@@ -6,6 +6,10 @@ This is a starting point for contributing to all of Chef's software and a wonder
 
 To learn more about each of our project's structure and organization, please refer to [Project Governance](governance.md) information.
 
+## Inspiration
+
+The practices in this repo are inspired by [Adam Jacob's book on Free and Sustainable Open Source Communities](https://sfosc.org/). Although we are inspired by it, this repo is not a full implementation of the practices described in that book. However, this is only the first iteration of this repo, we expect this repo to continue to evolve and grow as we learn. We may integrate more of Adam's book into this repo in the future.
+
 ## How We're Organized
 
 Chef Software (the company) produces many products such as Chef, InSpec, and Habitat. Each of these products is fully open source and comprised of one or more open source projects. For instance the Chef product is comprised of chef, ohai, various mixlib projects, and other interdependent libraries. The project and/or sub-project scope is defined in the README.md file in each individual projects GitHub repository.
