@@ -1,6 +1,4 @@
-# Ways to Contribute
-
-How can an Chef Employee contribute to our community of contributors?
+# More Ways to Contribute
 
 ## GitHub
 
