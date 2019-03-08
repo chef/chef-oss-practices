@@ -46,7 +46,7 @@ The LICENSE file is an important legal requirement for open source code, and it 
 
 ### CONTRIBUTING.md
 
-GitHub prompts new contributors to read a project's CONTRIBUTING.md file if present. Each project should include a file that details the team specific contribution process and links to the [Contributor Guide](../contributors/README.md) guide in this repository.
+GitHub prompts new contributors to read a project's CONTRIBUTING.md file if present. Each project should include a file that details the team specific contribution process and links to the [Contributor Guide](../contributors/README.md) in this repository.
 
 ### CODE_OF_CONDUCT.md
 
