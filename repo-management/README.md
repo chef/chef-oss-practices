@@ -8,7 +8,7 @@ For information about how to set up a Chef Open Source project (including requir
 
 ## Repo States
 
-Repos are born and eventually they die. For information about the states a repo can be in, check out the [Repo States documentation](repo-states.md).
+Repos are born and eventually they die. For information about the different states a repo can be in, check out the [Repo States documentation](repo-states.md).
 
 ## GitHub Labels
 
