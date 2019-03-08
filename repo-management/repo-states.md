@@ -7,11 +7,11 @@ A Chef OSS repo can be in one of 3 states
 
 ## Active
 
-Repos in an active state are under active development - including bug fixes, new features, and more. Repos that are in this state must have at least two maintainers who are current employees of Chef Software, Inc. SLA on response to issues or pull requests should be less than 1 business week.
+Repos in an active state are under active development - including bug fixes, new features, and more. Repos in this active state must have at least two maintainers, who are current employees of Chef Software, Inc. SLA on response to issues or pull requests should be less than 1 business week.
 
 ## Maintained
 
-Repos in a maintained state are maintained and bugs will be fixed, but no new feature work should be expected. Repos that are in this state must have at least one maintainer who is a current employee of Chef Software, Inc. SLA on response to issues or pull requests should be anywhere from 1 business week to never.
+Repos in a maintained state are maintained where bugs will be fixed, but no new feature work should be expected. Repos in this maintained state must have at least one maintainer, who is a current employee of Chef Software, Inc. SLA on response to issues or pull requests should be anywhere from 1 business week to never.
 
 ## Deprecated
 

@@ -1,6 +1,6 @@
 # Repo Management
 
-Ready to create a new Chef Open Source project? Looking for some guidance on how to manage repositories for existing projects? You have come to the right place!
+Ready to create a new Chef Open Source Software project? Looking for some guidance on how to manage repositories for existing projects? You have come to the right place!
 
 ## Project Setup
 
