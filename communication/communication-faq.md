@@ -21,8 +21,8 @@ This is a possibility for specific channels in Slack, but channel chat is not th
 ## Why don't we just go back to IRC?
 
 There were two major reasons we moved from IRC to Slack in the first place.
-- IRC is blocked completely on many corporate networks. Slack has managed to achieve enough usage in the corporate world that it is usually allowed.
-- IRC is extremely unfriendly to anyone without an extensive development/sysadmin/terminal background. Our community is made of more than coders, and coders with widely different levels of skill.
+* IRC is blocked completely on many corporate networks. Slack has managed to achieve enough usage in the corporate world that it is usually allowed.
+* IRC is extremely unfriendly to anyone without an extensive development/sysadmin/terminal background. Our community is made of more than coders, and coders with widely different levels of skill.
 
 ## Why don't we use Discord/Gitter/some other chat tool instead?
 

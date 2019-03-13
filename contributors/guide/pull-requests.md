@@ -1,6 +1,6 @@
 # Pull Request Process
 
-This doc explains the process and best practices for submitting a pull request to any of the Chef Software Inc. projects and their associated subrepositories. It should serve as a reference for all contributors, and be useful especially to new and infrequent submitters.
+This document explains the process and best practices for submitting a pull request to any of the Chef Software, Inc. projects and their associated sub-repositories. It should serve as a reference for all contributors, and be useful, especially to new and infrequent submitters.
 
 - [Pull Request Process](#pull-request-process)
 - [Before You Submit a Pull Request](#before-you-submit-a-pull-request)
@@ -27,7 +27,7 @@ This doc explains the process and best practices for submitting a pull request t
 
 # Before You Submit a Pull Request
 
-This guide is for contributors who already have a pull request to submit or contributors looking for suggestions on how we interact with the larger community. If you're looking for information on setting up your developer environment and creating code to contribute to a specific project, we would suggest viewing that projects CONTRIBUTING.md file.
+This guide is for contributors who already have a pull request to submit, or contributors looking for suggestions on how we interact with the larger community. If you're looking for information on setting up your developer environment and creating code to contribute to a specific project, we would suggest viewing that projects CONTRIBUTING.md file.
 
 First time contributors should head to the [Contributor Guide](README.md) to get started.
 
@@ -35,32 +35,32 @@ First time contributors should head to the [Contributor Guide](README.md) to get
 
 ## Run Local Verifications
 
-If a project's CONTRIBUTING.md covers local verifications you should _absolutely_ run them before you submit your pull request. Often these verifications help predict the pass or fail of automated continuous integration which will be a requirement for merge in 99.9% of cases.
+If a project's CONTRIBUTING.md covers local verifications, you should _absolutely_ run them before you submit your pull request. Often these verifications help predict the pass or fail of automated continuous integration, which will be a requirement for merge in 99.9% of cases.
 
 # The Pull Request Submit Process
 
-Merging a pull request requires the following steps to be completed before the pull request will be merged
+Merging a pull request requires the following steps to be completed before the pull request will be merged:
 
-- [Sign your commits with a DCO](DCO.md) (prerequisite)
+- [Sign your commits with a DCO](DCO.md) (pre-requisite)
 - [Open a pull request](https://help.github.com/articles/about-pull-requests/)
-- Pass all e2e tests (check projects CONTRIBUTING.md)
+- Pass all e2e tests (check the project's CONTRIBUTING.md)
 - Get all necessary approvals from Reviewers and Approvers
 
 ## The Testing and Merge Workflow
 
-Each Chef project could have slightly different merge workflows but all use a [set of labels](../../repo-management/github-labels.md) to flag various aspects of a pull request. Different projects _could_ require different labels on the path to approval. A generic explanation of how labels are used in pull requests can be found [here](owners.md#code-review-using-codeowners-files). In fully automated projects an expeditor bot will also automatically apply and/or suggest labels.
+Each Chef project could have slightly different merge workflows, but all use a [set of labels](../../repo-management/github-labels.md) to flag various aspects of a pull request. Different projects _could_ require different labels on the path to approval. A generic explanation of how labels are used in pull requests can be found [here](owners.md#code-review-using-codeowners-files). In fully automated projects, an expeditor bot will also automatically apply and/or suggest labels.
 
-*NOTE: For pull requests that are in progress but not ready for review please open the pull request using GitHub's [Draft Pull Request](https://help.github.com/en/articles/about-pull-requests#draft-pull-requests) functionality.
+*NOTE: For pull requests that are in progress, but not ready for review, please open the pull request using GitHub's [Draft Pull Request](https://help.github.com/en/articles/about-pull-requests#draft-pull-requests) functionality.
 
 ****************************************************************************************
-Here's the process the pull request goes through on its way from submission to merging:
+Here's the process the pull request goes through from submission to merging:
 
 1. Make the pull request
 2. Reviewers are assigned automatically based on `CODEOWNERS`
 
 3. Pre-submit tests will run:
 
-    1. Automatic tests run.
+    1. Automatic tests run
     2. If tests fail, resolve issues by pushing edits to your pull request branch
     3. If the failure is a flake, anyone with build system access can simply click retry
 
@@ -68,7 +68,7 @@ Here's the process the pull request goes through on its way from submission to m
 5. Push edits to your pull request branch
 6. Repeat the prior two steps as needed until reviewer(s) add `LGTM` label. The `LGTM` label, when applied by someone listed as a Reviewer in the corresponding project's `TEAMS` file, is a signal that the code has passed review from one or more trusted reviewers for that project
 7. (Optional) Some reviewers prefer that you squash commits at this step
-8. Approver will add the `Approved` label (as well as any other labels unique to their merge process), when applied by someone listed as an Approver in the corresponding project `TEAMS` file, is a signal that the code has passed final review and the Approver is free to merge the PR.
+8. Approver will add the `Approved` label (as well as any other labels unique to their merge process). When applied by someone listed as an Approver in the corresponding project `TEAMS` file, the `Approved` label is a signal that the code has passed final review and the Approver is free to merge the PR
 ***************************************************************************************
 
 ## Marking Unfinished Pull Requests
@@ -83,7 +83,7 @@ If you feel your pull request is in this state, contact the appropriate [team](t
 
 ## Automation
 
-The Chef Software Inc. OSS community uses a variety of automation to manage pull requests. This automation is described in detail [in the automation doc](devel/automation.md).
+The Chef Software, Inc. OSS community uses a variety of automation to manage pull requests. This automation is described in detail [in the automation doc](devel/automation.md).
 
 # Why was my pull request closed?
 
@@ -96,14 +96,13 @@ Pull requests older than 90 days will be closed. Exceptions can be made for pull
 
 A few factors affect how long your pull request might wait for review.
 
-If it's the last few weeks of a milestone, a team may prefer to reduce churn and stabilize.
+If it is the last few weeks of a milestone, a team may prefer to reduce churn and stabilize.
 
-Or, it could be related to best practices. One common issue is that the pull request is too big to review. Let's say you've touched 39 files and have 8657 insertions. When your would-be reviewers pull up the diffs, they run away - this pull request is going to take 4 hours to review and they don't have 4 hours right now. They'll get to it later, just as soon as they have more free time (ha!).
+Or, it could be related to best practices. One common issue is that the pull request is too big to review. Let's say that you've touched 39 files and have 8657 insertions. When your would-be reviewers pull up the diffs, they run away - this pull request is going to take 4 hours to review and they don't have 4 hours right now. They'll get to it later, just as soon as they have more free time (ha!).
 
 There is a detailed rundown of best practices, including how to avoid too-lengthy pull requests, in the next section.
 
-But, if you've already followed the best practices and you still aren't getting any pull request love, here are some
-things you can do to move the process along:
+But, if you've already followed the best practices and you still aren't getting any pull request attention, here are some things you can do to move the process along:
 
    * Make sure that your pull request has an assigned reviewer (assignee in GitHub). If not, reply to the pull request comment stream asking for a reviewer to be assigned.
 
@@ -111,11 +110,11 @@ things you can do to move the process along:
 
    * Ping the assignee in [Slack](http://slack.habitat.sh). Remember that a person's GitHub username might not be the same as their Slack username.
 
-   * Ping the assignee by email (many of us have publicly available email addresses).
+   * Ping the assignee by email. Many of us have publicly available email addresses.
 
-   * If you're a member of the organization ping the [team](https://github.com/orgs/chef/teams) (via @team-name) that works in the area you're submitting code.
+   * If you're a member of the organization, ping the [team](https://github.com/orgs/chef/teams) (via @team-name) that works in the area you're submitting code.
 
-   * If you have fixed all the issues from a review, and you haven't heard back, you should ping the assignee on the comment stream with a "please take another look" (`PTAL`) or similar comment indicating that you are ready for another review.
+   * If you have fixed all the issues from a review, and you haven't heard back, you should ping the assignee on the comment stream with a "please take another look" (`PTAL`), or similar comment indicating that you are ready for another review.
 
 Read on to learn more about how to get faster reviews by following best practices.
 
@@ -123,7 +122,7 @@ Read on to learn more about how to get faster reviews by following best practice
 
 Most of this section is not specific to Chef, but it's good to keep these best practices in mind when you're making a pull request.
 
-You've just had a brilliant idea on how to make a Chef Software Inc. project better. Let's call that idea Feature-X. Feature-X is not even that complicated. You have a pretty good idea of how to implement it. You jump in and implement it, fixing a bunch of stuff along the way. You send your pull request - this is awesome! And it sits. And sits. A week goes by and nobody reviews it. Finally, someone offers a few comments, which you fix up and wait for more review. And you wait. Another week or two go by. This is horrible.
+You've just had a brilliant idea on how to make a Chef Software Inc. project better. Let's call that idea: Feature-X. Feature-X is not even that complicated. You have a pretty good idea of how to implement it. You jump in and implement it, fixing a bunch of stuff along the way. You send your pull request - this is awesome! And it sits. And sits. A week goes by and nobody reviews it. Finally, someone offers a few comments, which you fix up and wait for more review. And you wait. Another week or two go by. This is horrible.
 
 Let's talk about best practices so your pull request gets reviewed quickly.
 
@@ -154,7 +153,7 @@ Break up your pull request into multiple commits, at logical break points.
 Making a series of discrete commits is a powerful way to express the evolution of an idea or the
 different ideas that make up a single feature. Strive to group logically distinct ideas into separate commits.
 
-For example, if you found that Feature-X needed some prefactoring to fit in, make a commit that JUST does that prefactoring. Then make a new commit for Feature-X.
+For example, if you found that Feature-X needed some prefactoring to fit in, make a commit that JUST does that prefactoring. Then, make a new commit for Feature-X.
 
 Strike a balance with the number of commits. A pull request with 25 commits is still very cumbersome to review, so use your best judgment.
 
@@ -168,7 +167,7 @@ Multiple small pull requests are often better than multiple commits. Don't worry
 
 We want every pull request to be useful on its own, so use your best judgment on what should be a pull request vs. a commit.
 
-As a general rule, if your pull request is directly related to Feature-X and nothing else, it should probably be part of the Feature-X pull request. If you can explain why you are doing seemingly no-op work ("it makes the Feature-X change easier, I promise") we'll probably be OK with it. If you can imagine someone finding value independently of Feature-X, try it as a pull request. (Do not link pull requests by `#` in a commit description, because GitHub creates lots of spam. Instead, reference other pull requests via the pull request your commit is in.)
+As a general rule, if your pull request is directly related to Feature-X and nothing else, it should probably be part of the Feature-X pull request. If you can explain why you are doing seemingly no-op work - "it makes the Feature-X change easier, I promise" - we'll probably be OK with it. If you can imagine someone finding value independently of Feature-X, try it as a pull request. (Do not link pull requests by `#` in a commit description, because GitHub creates lots of spam. Instead, reference other pull requests via the pull request your commit is in.)
 
 ## 3. Open a Different pull request for Fixes and Generic Features
 
@@ -176,14 +175,13 @@ As a general rule, if your pull request is directly related to Feature-X and not
 
 Often, as you are implementing Feature-X, you will find bad comments, poorly named functions, bad structure, weak type-safety, etc.
 
-You absolutely should fix those things (or at least file issues, please) - but not in the same pull request as your feature. Otherwise, your diff will have way too many changes, and your reviewer won't see the forest for the trees.
+You absolutely should fix those things -- or at least file issues, please -- but not in the same pull request as your feature. Otherwise, your diff will have way too many changes, and your reviewer won't see the forest for the trees.
 
 **Look for opportunities to pull out generic features.**
 
-For example, if you find yourself touching a lot of modules, think about the dependencies you are introducing between packages. Can some of what you're doing be made more generic and moved up and out of the Feature-X package? Do you need to use a function or type from an otherwise unrelated package? If so, promote! We have places for hosting more generic code.
+For example, if you find yourself touching a lot of modules, think about the dependencies you are introducing between packages. Can some of what you're doing be made more generic, and moved up and out of the Feature-X package? Do you need to use a function or type from an otherwise unrelated package? If so, promote! We have places for hosting more generic code.
 
-Likewise, if Feature-X is similar in form to Feature-W which was checked in last month, and you're duplicating some tricky stuff from Feature-W, consider prefactoring the core logic out and using it in both Feature-W and
-Feature-X. (Do that in its own commit or pull request, please.)
+Likewise, if Feature-X is similar in form to Feature-W, which was checked in last month, and you're duplicating some tricky stuff from Feature-W, consider prefactoring the core logic out and using it in both Feature-W and Feature-X. (Do that in its own commit or pull request, please.)
 
 ## 4. Comments Matter
 
@@ -195,7 +193,7 @@ If you think there's something pretty obvious that we could follow up on, add a 
 
 Nothing is more frustrating than starting a review, only to find that the tests are inadequate or absent. Very few pull requests can touch code and NOT touch tests.
 
-If you don't know how to test Feature-X, please ask!  We'll be happy to help you design things for easy testing or to suggest appropriate test cases.
+If you don't know how to test Feature-X, please ask!  We'll be happy to help you design things for easy testing, or to suggest appropriate test cases.
 
 ## 6. Squashing and Commit Titles
 
