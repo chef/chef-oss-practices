@@ -46,9 +46,9 @@ A list of common resources when contributing to Chef Software Inc. Projects.
 ## Email Aliases
 
 - community@chef.io - Mail someone on the Chef Software Inc. community advocacy team about a community issue.
-- humans@habitat.sh - Contact the Habitat team; inquiries, website, partnerships etc.
+- humans@habitat.sh - Contact the Habitat team - inquiries, website, partnerships etc.
 - security@chef.io  - Submit your findings on a security bug/vulnerability in any of our OSS projects.
-- docs@chef.io      - Get in touch with the Chef Inc. docs team.
+- docs@chef.io      - Get in touch with the Chef Software, Inc. docs team.
 
 ## Other
 
