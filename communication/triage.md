@@ -13,8 +13,6 @@ Each team should feel free to use whatever tools they want so long as they can m
   - The call should be recorded each time the call occurs.
   - Following the end of the call, the recording must be published to a public location.
 
-**Note:** We've found that Google Hangouts via YouTube is a great tool for triage calls for a number of reasons. It will allow all members of a team the appropriate admin rights to schedule/start/stop the call; it has both a public viewing link and private invite link; and the calls can automatically be recorded and uploaded to a YouTube channel on completion.
-
 ### Representation
 
 Some projects at Chef are larger than others. Some projects have a few repositories attached to them, others have tens or hundreds of repositories. Depending on how each project decides to roll out their public triage, this may have an effect on the number of project or sub-project repos that are covered by a single triage. For example in Habitat, we have a single triage call for core-plans, habitat cli, habitat supervisor, builder, on-prem depot, hab k8s modules, hab studio, etc. This is a significant number of repositories and a significant number of projects and sub-projects. Because of the decision to operate this way, we have a responsibility to have appropriate project representation on each call. What this means is - if your public triage call cross-cuts an organization, a representative from each team/vertical/project/sub-project within that organization **must be present on the call** and one person will likely need to act as a meeting host.

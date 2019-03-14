@@ -36,7 +36,7 @@ The Chef Community mailing lists are hosted via [Discourse](https://discourse.ch
 
 Individual projects may host office hours on a periodic basis. This is a great way to get some face time with other Project Members. Each project should record and archive sessions to a public location; see individual project documentation for more details.
 
-**Note:** Zoom is a good medium for office hours. Google Hangouts via YouTube is another great option for these calls for a number of reasons. It will allow all members of a team appropriate admin rights to schedule/start/stop the call, it has both a public viewing link and private invite link, and the calls can automatically be recorded and uploaded to a YouTube channel on completion.
+**Note:** Zoom is a good medium for office hours.
 
 ## Providing Support
 
@@ -64,6 +64,6 @@ Engage like a pro. Below are some best practice uses of the Community communicat
 | A Project Member | have a ***brief non-durable chat*** | [Community Slack](https://community-slack.chef.io/) | For technical topics, use the project's dev channel. Non-technical topics belong in the general channel. |
 | A Project Member | become a ***Reviewer*** | checkout an overview of Reviewer [responsibilities](../project-membership.md#reviewer) & [requirements](../project-membership.md#requirements) | Individual project requirements may vary; see project doc for more info. |
 | A Project Member | report a ***CoC violation*** | email [tbd] | --- |
-| A Project Member | talk to a ***human*** | request access to Zoom or Google Hangouts office hours in [Community Slack](https://community-slack.chef.io/). | --- |
+| A Project Member | talk to a ***human*** | request access to Zoom office hours in [Community Slack](https://community-slack.chef.io/). | --- |
 | A Reviewer | become an ***Approver*** | check out an overview of Approver [responsibilities & requirements](../project-membership.md#approver) | Individual project requirements may vary; see project doc for more info. |
 | An Approver | ***vote*** on a new Project Member, Reviewer, or Approver | review the general [requirements](../project-membership.md) and consult my project's documentation | General Approver information is [here](../project-membership.md#approver). Individual project requirements may vary; please see project doc for more info. |
