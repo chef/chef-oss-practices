@@ -32,7 +32,7 @@ The actual activity of triage is relatively simple. The host of the call will wa
   - _Rejected_ issues are issues that the project team has determined as being either not useful, not in line with project goals, or something that if implemented it would be far out in the project's future due to impact. These issues are closed.
   - _Help Wanted_ issues are bits of work that the project team agree would be useful and within the scope of the project however that aren't likely to get prioritized on the immediate. Help Wanted issues are added to the backlog and labeled as help-wanted.
 
-Rejected issues should get a comment explaining the reason the issue was closed. If the responsible team is using the "will-not-fix" label or the like, the rejected issue should be appropriately labeled before getting closed.
+If an issue is rejected, a project member should leave a comment on the issue explaining why it was closed, then close the issue. Additionally, if project members are using the "will-not-fix" label on issues in that repository, they should make sure to attach that label to the issue before closing it.
 
 **Some important notes on this process:**
 

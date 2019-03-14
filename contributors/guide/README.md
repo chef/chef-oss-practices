@@ -162,6 +162,7 @@ Refer to the [issue triage guide](../communication/triage.md) for more informati
 
 If you haven't noticed by now, we have a large, lively, and friendly open-source community.
 We depend on new people becoming project members and regular code contributors, so we would like you to join us!
+
 The [Project Membership Document](/project-membership.md) covers membership processes and roles.
 
 ## Communication

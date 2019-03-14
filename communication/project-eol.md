@@ -23,4 +23,6 @@ If you believe the project being EOL'd may have active users, a post should be m
 
 ## Archival and Boneyarding
 
-After a period of time decided by the project owners, the codebase will be transferred to the `chef-boneyard` GitHub organization and archived. Thus, projects will remain available for reference and forking. For an example, the timeframe for archiving could be immediate for libraries if the project contributors are confident are only used internally to other Chef projects. Alternatively, the timeframe for archiving could be months to accommodate a transfer of ownership of the repository and management responsibilities to a group of people who express interest in adopting a project destined for the boneyard.
+After a period of time -- the length of which will be determined by the project owners -- the repository should be transferred to the `chef-boneyard` GitHub organization and archived. When a repository is in the boneyard, it is still available for anyone to reference, clone, or fork.
+
+The time it takes before a repository is archived and transferred to the chef-boneyard can be highly variable. For example, if a repository is a library that project owners are confident is only used internally by Chef, they may choose to archive and move the repository immediately. Alternately, if there needs to be a transfer of ownership of the repository and management responsibilities, it may take several months before the repository is ready to be archived and transferred.

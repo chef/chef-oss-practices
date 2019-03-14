@@ -18,11 +18,11 @@ A project should include [the standard set of labels](github-labels.md) for issu
 
 ### Disable Unused Features
 
-New GitHub repositories ship with the Projects and Wiki features enabled by default. If these are not being used by a project, they should be disabled.
+When a new repository is created on GitHub, it is automatically includes the Projects and Wiki features. If you are not going to use these features, please disable them on the repository.
 
 ### PR Status Check: Developer Certificate of Origin
 
-All Chef Software Inc. OSS projects use the [developer certificate of origin](/DCO.md) for contributed changes. Commits in a pull request must be signed off by the author(s) to be eligible for merging. [Expeditor](https://expeditor.chef.io/docs/getting-started/) is a bot that [by default, will check the commits](https://expeditor.chef.io/docs/integrations/github/#configuration) on pull requests to Chef Software Inc. OSS project repositories.
+All Chef Software Inc. OSS projects use the [developer certificate of origin](/DCO.md) for contributed changes. Commits in a pull request must be signed off by the author(s) to be eligible for merging. [Expeditor](https://expeditor.chef.io/docs/getting-started/) is a bot that [by default, will check the commits](https://expeditor.chef.io/docs/integrations/github/#configuration) on pull requests to Chef Software Inc. OSS project repositories, and is recommended to use.
 
 ## Files
 
@@ -38,7 +38,7 @@ A project readme is the first thing a new user or contributor sees when interact
   - Known issues or incompatibilities
   - The Chef team responsible for the project
   - The project license
-  - When a product requires a license to run the binary, a link to document explaining Chef's licensing terms, as license on code is different than license on binary. [This document is still to be written]
+  - When a product requires a license to run the binary, a link to document explaining Chef's licensing terms, as license on code is different than license on binary. [This document is still to be written.]
 
 ### LICENSE
 
@@ -62,7 +62,7 @@ The GitHub codeowners file is used to auto-assign reviewers to a project. Proper
 
 ### .github/ISSUE_TEMPLATE.md
 
-Issue templates ensure that issues are filed with all the necessary information to make them actionable. GitHub allows including multiple issues, which can be used to provide different templates depending on the issue type (bug, proposal, etc.).
+Issue templates ensure that issues are filed with all the necessary information to make them actionable. GitHub allows you to define multiple templates for different types of issues (bug, proposal, etc.).
 
 ### .github/PULL_REQUEST_TEMPLATE.md
 

@@ -8,7 +8,7 @@ The Chef Community is committed to keeping our space a fun, safe, and productive
 
 ## Reporting Code of Conduct Violations
 
-Please directly email one of the Community Advocates listed in the [Code of Conduct](../CODE_OF_CONDUCT.md).
+Please directly email one of the Community Advocates listed in the [Code of Conduct](../CODE_OF_CONDUCT.md#roles).
 
 ## Reporting Security Vulnerabilities
 
@@ -22,7 +22,7 @@ If you have questions about why we choose to use certain channels in certain way
 
 ### GitHub
 
-GitHub is the Chef Community's preferred durable medium for open and transparent development of software. All development conversation must be captured in GitHub. Any decisions made in internal Chef Slack channels, Zoom sessions, or any other communication medium must be summarized in GitHub. [The exact format for adding this info to GitHub is TBD.] Please also link to the GitHub issue or pull request in chat once it is opened.
+GitHub is the Chef Community's preferred durable medium for open and transparent development of software. All development conversation must be captured in GitHub. Any decisions made in internal Chef Slack channels, Zoom sessions, or any other communication medium must be summarized in GitHub. Please also link to the GitHub issue or pull request in chat once it is opened.
 
 ### Community Slack
 

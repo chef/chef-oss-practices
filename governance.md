@@ -4,9 +4,9 @@ This is a Work in Progress, documenting approximately how we believe we should b
 
 The Chef OSS communities adhere to the following principles:
 
-  - Open: All Chef software is open source. See repository guidelines and DCO information below.
-  - Welcoming and respectful: See Code of Conduct below.
-  - Transparent and accessible: Work and collaboration should be done in public. See team governance below.
+  - Open: All Chef software is open source. See [repository guidelines](../governance.md#repository-guidelines) and [DCO](../governance.md#dco) information below.
+  - Welcoming and respectful: See [Code of Conduct](../governance.md#code-of-conduct) below.
+  - Transparent and accessible: Work and collaboration should be done in public. See [community groups](../governance.md#community-groups) below.
   - Benefit: Ideas and contributions are accepted according to their technical benefit and alignment with project objectives, scope, and design principles.
 
 ## Code of Conduct
@@ -31,7 +31,7 @@ Teams are sets of people within an individual project that focus on various part
 
 ### Guilds
 
-[Guilds](guilds/README.MD) are groups of individuals with shared interests in specific subjects that may be tangential to the project they are a member of. The purpose of guilds is to provide knowledge cross-pollination as well as establish standards and practices within the scope of the interest to the larger community. These can be anything from a group sharing knowledge on a specific language - e.g. the Go guild - to a group discussing the merits of various web frameworks - e.g. the Web Guild - and anything in between.
+[Guilds](guilds/README.md) are groups of individuals with shared interests in specific subjects that may be tangential to the project they are a member of. The purpose of guilds is to provide knowledge cross-pollination as well as establish standards and practices within the scope of the interest to the larger community. These can be anything from a group sharing knowledge on a specific language - e.g. the Go guild - to a group discussing the merits of various web frameworks - e.g. the Web Guild - and anything in between.
 
 ### Committees
 
