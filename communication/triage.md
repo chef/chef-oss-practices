@@ -19,7 +19,7 @@ Some projects at Chef are larger than others. Some projects have a few repositor
 
 ## Prioritization
 
-When issues are triaged and added to the backlog, then they must be prioritized. Factors in an issue's assigned priority include: current workload, business strategy, customer impact, and more.
+When issues are triaged and added to the backlog, then they must be prioritized. Factors in an issue's assigned priority include current workload, business strategy, customer impact, etc.
 
 Because customer impact and business strategy may be confidential, prioritizing issues on Chef projects may be done in private by both the Product manager and Engineering manager associated with the project.
 

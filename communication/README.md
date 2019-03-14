@@ -36,7 +36,7 @@ The Chef Community mailing lists are hosted via [Discourse](https://discourse.ch
 
 Individual projects may host office hours on a periodic basis. This is a great way to get some face time with other Project Members. Each project should record and archive sessions to a public location; see individual project documentation for more details.
 
-**Note:** Zoom is a good medium for office hours.
+**Note:** Zoom is a good medium for office hours. More guidance on this will be coming in the near future.
 
 ## Providing Support
 
