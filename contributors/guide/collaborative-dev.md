@@ -14,11 +14,11 @@ We also want our community to be able to participate in that process. To offer i
 
 As a community, we believe in the value of code review for all contributions. Code review increases both the quality and readability of our codebase, which in turn produces high quality software.
 
-All contributions to a Chef project must be reviewed. This applies not only to submissions from outside authors, but also also to project members with reviewer / approver status. All changes should be reviewed by at least one project member familiar with the changing code. For significant changes, _two_ reviewers may be required at the discretion of a project approver. Except for trivial changes, PRs should not be merged until relevant parties have had a reasonable chance to look at the PR in their local business hours.
+All contributions to a Chef project must be reviewed. This applies not only to submissions from outside authors, but also also to project members with reviewer / approver status. All changes should be reviewed by at least one project member familiar with the changing code. For significant changes, _two_ reviewers may be required at the discretion of a project approver. Except for trivial changes, PRs should not be merged until relevant parties have had a reasonable chance to look at PR in their local business hours.
 
 ### Who Performs a Review
 
-Most PRs will find reviewers / approvers organically. If a maintainer intends to be the primary approver of a PR, they should set themselves as the assignee on GitHub and say so in a reply to the PR. Only the primary approver of a change should actually do the merge, except in rare cases (e.g. they are unavailable in a reasonable timeframe).
+Most PRs will find reviewers/approvers organically. If a maintainer intends to be the primary approver of a PR, they should set themselves as the assignee on GitHub and say so in a reply to the PR. Only the primary approver of a change should actually do the merge, except in rare cases (e.g. they are unavailable in a reasonable timeframe).
 
 Project Approvers can assign approvals to other project members when appropriate. The assignee becomes the shepherd for that PR and is responsible for merging the PR once they are satisfied with it, or else closing it. The assignee might request reviews from non-maintainers.
 
@@ -48,12 +48,12 @@ Pair programming is an excellent way to not only increase the quality of code, b
 
 ## Testing
 
-Each Chef-maintained project includes testing that helps ensure high-quality software that can be released at any point in time. Testing is the responsibility of all project contributors with infrastructure assistance from Chef's Release Engineering team.
+Each Chef-maintained project includes testing that helps ensure high software that can be released at any point in time. Testing is the responsibility of all project contributors with infrastructure assistance from Chef's Release Engineering team.
 
 ### Types of Testing
 
-* Unit: These tests confirm that a particular function behaves as intended. Various languages handle unit testing differently. It will be best to discuss with the team responsible for the project you're targeting on how best to write, run, and validate these unit tests before opening a PR. It is a requirement for Chef Software, Inc. projects to have unit tests that is easily run locally by any developer on any supported OS.
-* Integration: These tests cover interactions of package components, or interactions between components and some other separate system resource (e.g. chef + Hashi Vault, or similar). An example would be testing whether a piece of code can correctly store data to a Vault or retrieve data from a Vault. Running these tests can require the developer to set up additional functionality on their development system, but if integration tests are available, we highly recommend you running them before opening your PR.
+* Unit: These tests confirm that a particular function behaves as intended. Various languages handle unit testing differently. It will be best to discuss with the team responsible for the project you're targeting on how best to write, run, and validate these before opening a PR. It is a requirement for Chef Software, Inc. projects to have unit tests that is easily run locally by any developer on any supported OS.
+* Integration: These tests cover interactions of package components or interactions between components and some other separate system resource (e.g. chef + Hashi Vault, or similar). An example would be testing whether a piece of code can correctly store data to or retrieve data from a Vault. Running these tests can require the developer set up additional functionality on their development system, but if integration tests are available, we highly recommend you running them before opening your PR.
 * End-to-end ("e2e"): These tests are broad tests of overall system behavior and coherence. These are more complicated as they could require multiple services or tools built from the sources to be tested.
 
 The location of the test code varies with type, as do the specifics of the environment needed to successfully run the test. Our continuous integration systems will run these tests either as pre-submits on PRs, post-submits against master/release branches, or both.
