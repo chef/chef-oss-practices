@@ -50,7 +50,7 @@ GitHub prompts new contributors to read a project's CONTRIBUTING.md file if pres
 
 ### CODE_OF_CONDUCT.md
 
-GitHub displays the code of conduct file when a user opens a new PR or Issue. We want to make sure everyone reads and understands our code of conduct, so this file needs to be included in every project repository.
+GitHub displays the Code of Conduct file when a user opens a new PR or Issue. We want to make sure everyone reads and understands our Code of Conduct, so this file needs to be included in every project repository.
 
 ### TEAMS.md
 
