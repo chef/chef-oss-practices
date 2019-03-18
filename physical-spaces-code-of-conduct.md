@@ -30,7 +30,7 @@ event.
 ## Code of Conduct
 
 Chef is dedicated to providing a harassment-free experience for everyone,
-regardless of gender, sexual orientation, disability, physical appearance, body
+regardless of gender, sexual orientation, age, disability, physical appearance, body
 size, race, veteran status, or religion. We do not tolerate harassment of event
 participants in any form.
 
@@ -39,13 +39,13 @@ people of many different backgrounds. Sexual language and imagery is not
 appropriate for any event venue, including talks.
 
 Be kind to others. Do not insult or put down other attendees. Behave
-professionally. Remember that harassment and sexist, racist, or exclusionary
+professionally. Remember that harassment and sexist, racist, ageist, or exclusionary
 jokes are not appropriate for any event.
 
 ### Anti-Harassment Policy
 
 Harassment comes in many forms, including but not limited to:
-  - Offensive comments related to gender, sexual orientation, disability,
+  - Offensive comments related to gender, sexual orientation, age, disability,
     physical appearance, body size, race, veteran status, or religion
   - Posting/Exposing sexually explicit or violent images
   - Deliberate (or implied) intimidation
@@ -53,8 +53,7 @@ Harassment comes in many forms, including but not limited to:
   - Intrusive or otherwise unwanted photography or recording
   - Sustained disruption of talks or other events
   - Inappropriate physical contact or unwelcome sexual attention
-  - Posting (or threatening to post) other people’s personally identifying
-    information (“doxing”).
+  - Posting (or threatening to post) other people’s personally identifying information (“doxing”)
   - Advocation for, or encouraging, any of the above behavior
 
 Participants asked to stop any harassing behavior are expected to comply
@@ -66,7 +65,7 @@ use sexualized images, activities, or other material. Booth staff (including
 volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise
 create an unprofessional environment.
 
-Be careful in the words that you choose. Remember that sexist, racist, and other
+Be careful in the words that you choose. Remember that sexist, racist, ageist, and other
 exclusionary jokes can be offensive to those around you. If you think your
 conversation is making another community member uncomfortable, try to make
 amends and move forward.
@@ -86,16 +85,15 @@ writing) to an event staff member. All reports are confidential. Please do not
 disclose public information about the incident until the staff have had
 sufficient time in which to address the situation. This is as much for your
 safety and protection as it is the other attendees. When reporting the event to
-staff, try to gather as much information as available but do not interview
+staff, try to gather as much information as available, but do not interview
 people about the incident. Staff will assist you in writing the
 report/collecting information.
 
 The important information consists of:
 
-  - Identifying information (name/badge number) of the participant doing the
-    harassing
+  - Identifying information (name/badge number) of the participant doing the harassing
   - The behavior that was in violation
-  - The approximate time of the behavior
+  - The approximate time and date of the behavior
   - The circumstances surrounding the incident
   - Other people involved in the incident
 
@@ -103,7 +101,7 @@ The staff is well informed on how to deal with the incident and how to further
 proceed with the situation.
 
 If everyone is presently physically safe, involve law enforcement or security
-only at a victim's request. If you do feel your safety in jeopardy please do not
+only at a victim's request. If you do feel your safety in jeopardy, please do not
 hesitate to contact local law enforcement by dialing 911. If you do not have a
 cell phone, you can use any hotel phone or simply ask a staff member.
 
@@ -121,7 +119,7 @@ This procedure has been adopted from the Ada Initiative’s guide titled
 
 ### Gather Details
 
-In addition to understanding our Code of Conduct Policy, also have a good
+In addition to understanding our Code of Conduct policy, also have a good
 understanding of what is expected from an attendee that wants to report a
 harassment incident. These guidelines can be found in the [Attendee Procedure
 for Incident Handling](#Attendee-Procedure-for-Incident-Handling).
@@ -133,7 +131,7 @@ information to gather includes the following:
   - Identifying information (name/badge number) of the participant doing the
     harassing
   - The behavior that was in violation
-  - The approximate time of the behavior
+  - The approximate time and date of the behavior
   - The approximate time the report was made
   - The circumstances surrounding the incident
   - Other people involved in the incident
@@ -147,7 +145,7 @@ Depending on the severity/details of the incident, please follow these
 guidelines:
   - If there is any general threat to attendees or the safety of anyone
     including event staff is in doubt, summon security or police
-  - Offer the victim a private place to sit.
+  - Offer the victim a private place to sit
   - Ask "Is there a friend or trusted person who you would like to be with you?"
     (if so, arrange for someone to fetch this person)
   - Ask them "how can I help?"
@@ -155,21 +153,21 @@ guidelines:
   - If everyone is presently physically safe, involve law enforcement or
     security only at a victim’s request
 
-There are also some guidelines as to what <b>not</b> to do as an initial
+There are also some guidelines as to what **not** to do as an initial
 response:
 
   - Do not overtly invite them to withdraw the complaint or mention that
     withdrawal is OK. This suggests that you want them to do so, and is
     therefore coercive. "If you're OK with it [pursuing the complaint]" suggests
-    that you are by default pursuing it and is not coercive.
+    that you are by default pursuing it and is not coercive
   - Do not ask for their advice on how to deal with the complaint. This is a
-    staff responsibility.
-  - Do not offer them input into penalties. This is the staff’s responsibility.
+    staff responsibility
+  - Do not offer them input into penalties. This is the staff’s responsibility
 
 ### After Reporting
 
 Once something is reported to a staff member, immediately meet with the event
-chair and/or event manager. The main objectives of this meeting is to find out
+chair and/or the event manager. The main objectives of this meeting is to find out
 the following:
 
   - What happened?
@@ -177,9 +175,9 @@ the following:
   - Who is doing those things?
   - When are they doing them?
 
-After the staff meeting and discussion, have a staff member (preferably the
-event chair or event manager if available) communicate with the alleged
-harasser. Make sure to inform them of what has been reported about them.
+After the staff meeting and discussion, have a staff member -- preferably the
+event chair or event manager if available -- communicate with the alleged
+harasser. Make sure to inform the alleged harasser of what has been reported about them.
 
 Allow the alleged harasser to give their side of the story to the staff. After
 this point, if the report stands, let the alleged harasser know what actions
@@ -207,12 +205,12 @@ offenders:
     certain time period)
   - Publishing an account of the harassment and calling for the resignation of
     the harasser from their responsibilities (usually pursued by people without
-    formal authority: may be called for if the harasser is the event leader, or
+    formal authority: this may be called for if the harasser is the event leader, or
     refuses to stand aside from the conflict of interest, or similar, typically
     event staff have sufficient governing rights over their space that this
-    isn't as useful)
+    is not as useful)
 
-Give accused attendees a place to appeal to if there is one, but in the meantime
+Give accused attendees a place to appeal if there is one, but in the meantime,
 the report stands. Keep in mind that it is not a good idea to encourage an
 apology from the harasser.
 

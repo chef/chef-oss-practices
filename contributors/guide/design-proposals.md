@@ -2,7 +2,7 @@
 
 Chef uses Design Proposals to discuss significant changes to a project before opening a PR.
 
-## Why Design Proposals?
+## Why Design Proposals
 
 - Allows all interested parties (including any community member) to discuss large impact changes to a project.
 - Serves as a durable paper trail for discussions regarding project architecture.

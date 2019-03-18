@@ -17,13 +17,13 @@ Issues marked with the `Status: Help Wanted` label need to ensure that they are:
 
 - **Low (enough) Barrier to Entry**
 
-  It should be tractable for external contributors who don't have 100% context on a project. Documentation should already exist on how that type of change should be made.
+  It should be tractable for external contributors who don't have 100% context on a project. Documentation on how that type of change should be made should already exist.
 
 - **Clear Task**
 
   The task is agreed upon and does not require further discussions in the community. Call out if that area of code is untested and requires new fixtures.
 
-  e.g. API / CLI behavior is decided and included in the original issue, for (a completely fabricated and unrealistic) example: _"The new command syntax is `hab origin duplicate NAME [--url] [--auth <some_key>]`"_, with expected validations called out.
+  API / CLI behavior is decided and included in the original issue, for (a completely fabricated and unrealistic) example: _"The new command syntax is `hab origin duplicate NAME [--url] [--auth <some_key>]`"_, with expected validations called out.
 
 - **Priority**
 
@@ -37,7 +37,7 @@ Issues marked with the `Status: Help Wanted` label need to ensure that they are:
 
 Issues marked with the `Status: Good First Issue` label are intended for _first-time contributors_. It indicates that members will keep an eye out for these pull requests and shepherd it through our processes.
 
-**New contributors should not be left to find an approver, ping for reviews, or identify that their build had a transitive or irreproducible failure.** Proactive attention to a pull request makes new contributors feel welcome, valued, and assures them that they will have an extra level of help with their first contribution.
+**New contributors should not be left to find an approver, ping for reviews, or identify that their build had a transitive or irreproducible failure.** This makes new contributors feel welcome, valued, and assures them that they will have an extra level of help with their first contribution.
 
 These issues need to ensure that they follow the guidelines for `Status: Help Wanted` labels (above) in addition to meeting the following criteria:
 
@@ -63,18 +63,19 @@ These issues need to ensure that they follow the guidelines for `Status: Help Wa
 
 - **Ready to Test**
 
-  There should be existing tests that can be modified, or existing test cases fit to be copied. If the area of code doesn't have tests, add a test fixture before labeling the issue `Status: Good First Issue`. This prep often makes a great `Help Wanted` task!
+  There should be existing tests that can be modified, or existing test cases fit to be copied. If the area of code doesn't have tests, before labeling the issue, add a test fixture. This prep often makes a great `Help Wanted` task!
 
 # Suggestions
 
 We encourage our more experienced members to help new contributors, so that our community can continue to grow and maintain the kind, inclusive community that we all enjoy today.
 
-The following suggestions go a long way toward preventing "drive-by" PRs, and ensure that our investment in new contributors is rewarded by new contributors coming back and becoming regulars.
+The following suggestions go a long way toward preventing "drive-by" PRs, and ensure that our investment in new contributors is rewarded by them coming back and becoming regulars.
 
 Provide extra assistance during reviews on `Good First Issue` pull requests:
-- Answer questions and identify useful documentation.
-- Offer advice such as _"One way to reproduce this in a cluster is to do use docker compose, then you can use curl to poke around"_, _"Did you know that you can use fake clients to setup and test this easier?"_, etc.
-- Help new contributors learn enough about the project, setting up their environment, running tests, and navigating this area of the code, so that they can tackle a related `Help Wanted` issue next time.
+- Answer questions and identify useful docs.
+- Offer advice such as _"One way to reproduce this in a cluster is to do use docker compose then you can use curl to poke around"_, or _"Did you know that you can use fake clients to setup and test this easier?"_ etc.
+- Help new contributors learn enough about the project, setting up their environment, running tests, and navigating this area of the code so that they can tackle a related `Help Wanted` issue next time.
+
 - Encourage new contributors to seek help on the appropriate Slack channels, introduce them, and include them in your conversations.
 - Invite them to Team meetings.
 - Give credit to new contributors so that others get to know them, _"Hey, would someone help give a second LGTM on @newperson's first PR on Chef Client?"_. Mention them in the team channel/meeting and/or thank them on twitter!
