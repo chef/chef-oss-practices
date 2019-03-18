@@ -2,7 +2,7 @@
 
 In order to provide community members with everything necessary to succeed in a project, we require a minimum set of files and configuration for each project repository. This provides potential users and contributors with information that they will need to interact with the project, and increases the likelihood of successful project contributions.
 
-## Configuration
+## GitHub Repo Configuration
 
 ### Repository Description
 
