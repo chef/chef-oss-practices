@@ -81,6 +81,9 @@ As a community that meets in physical public spaces, harassment also includes:
   - Sustained disruption of talks or other events
   - Inappropriate physical contact or unwelcome sexual attention
 
+**NOTE**: If you are in a physical space -- e.g. Chef Conf, Meetup, etc. -- please
+see the [Physical Spaces Code of Conduct](physical-spaces-code-of-conduct.md).
+
 If you have any lack of clarity about behaviors we include in the definition of
 "harassment", please read the [Citizen Code of
 Conduct](http://citizencodeofconduct.org/). In particular, we do not tolerate
@@ -115,7 +118,7 @@ person(s) assigned to each role:
   - The **Project Maintainers** are expected to conduct their
     behavior in line with the Code of Conduct and are individually responsible
     for both escalating to a **Community Advocate** in case of witnessing an
-    incident, and helping to foster the community and its members
+    incident, and helping to foster the community
   - A **Community Member** is anyone who participates with the community
     whether in-person or via online channels. Community members are responsible
     for following the community guidelines, suggesting updates to the guidelines
