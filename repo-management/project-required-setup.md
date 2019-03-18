@@ -54,7 +54,7 @@ GitHub displays the Code of Conduct file when a user opens a new PR or Issue. We
 
 ### TEAMS.md
 
-The TEAMS file in a repo is commonly seen in other projects as MAINTAINERS.md. Most TEAMS definitions are managed in a [central teams directory](../teams). Teams are encouraged to include a `TEAMS.md` in the root of their project repos with a link back to the central teams directory.
+The `TEAMS.md` file defines the team responsible for the project repository. This file should exist in the base of the GitHub repository and include a link back to team document in *this* repository. The specific details of the team will be stored in the [central teams directory](../teams) of this repository so that we don't need to replicate information accross multiple repositories.
 
 ### .github/CODEOWNERS
 
