@@ -27,11 +27,11 @@ This document explains the process and best practices for submitting a pull requ
 
 # Before You Submit a Pull Request
 
-This guide is for contributors who already have a pull request to submit, or contributors looking for suggestions on how we interact with the larger community. If you're looking for information on setting up your developer environment and creating code to contribute to a specific project, we would suggest viewing that projects CONTRIBUTING.md file.
+This guide is for contributors who already have a pull request to submit, or contributors looking for suggestions on how we interact with the larger community. If you're looking for information on setting up your developer environment and creating code to contribute to a specific project, we suggest viewing that project's CONTRIBUTING.md file.
 
 First time contributors should head to the [Contributor Guide](README.md) to get started.
 
-**Make sure your pull request adheres to our best practices. These include following project conventions, making small pull requests, and commenting thoroughly. Please read the more detailed section on [Best Practices for Faster Reviews](#best-practices-for-faster-reviews) at the end of this doc.**
+**Make sure your pull request adheres to our best practices. These best practices include following project conventions, making small pull requests, and commenting thoroughly. Please read the more detailed section on [Best Practices for Faster Reviews](#best-practices-for-faster-reviews) at the end of this doc.**
 
 ## Run Local Verifications
 
@@ -43,32 +43,31 @@ Merging a pull request requires the following steps to be completed before the p
 
 - [Sign your commits with a DCO](DCO.md) (pre-requisite)
 - [Open a pull request](https://help.github.com/articles/about-pull-requests/)
-- Pass all e2e tests (check the project's CONTRIBUTING.md)
+- Pass all End to End (e2e) tests (Check the project's CONTRIBUTING.md for more information.)
 - Get all necessary approvals from Reviewers and Approvers
 
 ## The Testing and Merge Workflow
 
-Each Chef project could have slightly different merge workflows, but all use a [set of labels](../../repo-management/github-labels.md) to flag various aspects of a pull request. Different projects _could_ require different labels on the path to approval. A generic explanation of how labels are used in pull requests can be found [here](owners.md#code-review-using-codeowners-files). In fully automated projects, an expeditor bot will also automatically apply and/or suggest labels.
+Each Chef project may have slightly different merge workflows, but all use a [set of labels](../../repo-management/github-labels.md) to flag various aspects of a pull request. Different projects _could_ require different labels on the path to approval. A generic explanation of how labels are used in pull requests can be found [here](owners.md#code-review-using-codeowners-files). In fully automated projects, an Expeditor bot will also automatically apply and/or suggest labels.
 
-*NOTE: For pull requests that are in progress, but not ready for review, please open the pull request using GitHub's [Draft Pull Request](https://help.github.com/en/articles/about-pull-requests#draft-pull-requests) functionality.
+**Note:** For pull requests that are in progress, but not ready for review, please open the pull request using GitHub's [Draft Pull Request](https://help.github.com/en/articles/about-pull-requests#draft-pull-requests) functionality.
 
 ****************************************************************************************
 Here's the process the pull request goes through from submission to merging:
 
-1. Make the pull request
+1. The pull request is submitted
 2. Reviewers are assigned automatically based on `CODEOWNERS`
-
 3. Pre-submit tests will run:
 
     1. Automatic tests run
     2. If tests fail, resolve issues by pushing edits to your pull request branch
-    3. If the failure is a flake, anyone with build system access can simply click retry
+    3. If the failure is a flake, anyone with build system access can simply restart the automatic tests
 
 4. Reviewer suggests edits
 5. Push edits to your pull request branch
-6. Repeat the prior two steps as needed until reviewer(s) add `LGTM` label. The `LGTM` label, when applied by someone listed as a Reviewer in the corresponding project's `TEAMS` file, is a signal that the code has passed review from one or more trusted reviewers for that project
+6. Repeat the prior two steps as needed until reviewer(s) add the `LGTM` label. When applied by someone listed as a Reviewer in the corresponding project's `TEAMS` file, the `LGTM` label is a signal that the code has passed review from one or more trusted reviewers for that project
 7. (Optional) Some reviewers prefer that you squash commits at this step
-8. Approver will add the `Approved` label (as well as any other labels unique to their merge process). When applied by someone listed as an Approver in the corresponding project `TEAMS` file, the `Approved` label is a signal that the code has passed final review and the Approver is free to merge the PR
+8. Approver will add the `Approved` label, as well as any other labels unique to their merge process. When applied by someone listed as an Approver in the corresponding project `TEAMS` file, the `Approved` label is a signal that the code has passed final review and the Approver is free to merge the PR
 ***************************************************************************************
 
 ## Marking Unfinished Pull Requests
@@ -98,17 +97,17 @@ A few factors affect how long your pull request might wait for review.
 
 If it is the last few weeks of a milestone, a team may prefer to reduce churn and stabilize.
 
-Or, it could be related to best practices. One common issue is that the pull request is too big to review. Let's say that you've touched 39 files and have 8657 insertions. When your would-be reviewers pull up the diffs, they run away - this pull request is going to take 4 hours to review and they don't have 4 hours right now. They'll get to it later, just as soon as they have more free time (ha!).
+Or, it could be related to best practices. One common issue is that the pull request is too big to review. Let's say that you've touched 39 files and have 8657 insertions. When your would-be reviewers pull up the diffs, they run away - this pull request is going to take 4 hours to review and they don't have 4 hours right now. They'll get to it later, just as soon as they have more free time.
 
 There is a detailed rundown of best practices, including how to avoid too-lengthy pull requests, in the next section.
 
 But, if you've already followed the best practices and you still aren't getting any pull request attention, here are some things you can do to move the process along:
 
-   * Make sure that your pull request has an assigned reviewer (assignee in GitHub). If not, reply to the pull request comment stream asking for a reviewer to be assigned.
+   * Make sure that your pull request has an assigned reviewer (assignee in GitHub). If not, reply to the pull request comment stream and ask for a reviewer to be assigned.
 
    * Ping the assignee (@username) on the pull request comment stream, and ask for an estimate of when they can get to the review.
 
-   * Ping the assignee in [Slack](http://slack.habitat.sh). Remember that a person's GitHub username might not be the same as their Slack username.
+   * Ping the assignee in [Slack](https://community-slack.chef.io/). Remember that a person's GitHub username might not be the same as their Slack username.
 
    * Ping the assignee by email. Many of us have publicly available email addresses.
 
@@ -122,7 +121,7 @@ Read on to learn more about how to get faster reviews by following best practice
 
 Most of this section is not specific to Chef, but it's good to keep these best practices in mind when you're making a pull request.
 
-You've just had a brilliant idea on how to make a Chef Software Inc. project better. Let's call that idea: Feature-X. Feature-X is not even that complicated. You have a pretty good idea of how to implement it. You jump in and implement it, fixing a bunch of stuff along the way. You send your pull request - this is awesome! And it sits. And sits. A week goes by and nobody reviews it. Finally, someone offers a few comments, which you fix up and wait for more review. And you wait. Another week or two go by. This is horrible.
+You've just had a brilliant idea on how to make a Chef Software Inc. project better. Let's call that idea: Feature-X. Feature-X is not even that complicated. You have a pretty good idea of how to implement it. You jump in and implement it, and fix a bunch of stuff along the way. You send your pull request - this is awesome! And it sits. And sits. A week goes by and nobody reviews it. Finally, someone offers a few comments, which you fix up and wait for more review. And you wait. Another week or two go by. This is horrible.
 
 Let's talk about best practices so your pull request gets reviewed quickly.
 
@@ -139,12 +138,11 @@ It's better to get confirmation beforehand.
 
 Even for small changes, it is often a good idea to gather feedback on an issue you filed, or even simply ask in the appropriate team's Slack channel to invite discussion and feedback from project owners. Here's a [list of teams](../../team-list.md).
 
-
 ## 2. Smaller Is Better: Small Commits, Small Pull Requests
 
 Small commits and small pull requests get reviewed faster and are more likely to be correct than big ones.
 
-Attention is a scarce resource. If your pull request takes 60 minutes to review, the reviewer's eye for detail is not as keen in the last 30 minutes as it was in the first. It might not get reviewed at all if it requires a large continuous block of time from the reviewer.
+Attention is a scarce resource. If your pull request takes 60 minutes to review, the reviewer's eye for detail is not as keen in the last 30 minutes as it was in the first 30 minutes. It might not get reviewed at all if it requires a large continuous block of time from the reviewer.
 
 **Breaking up commits**
 
@@ -167,7 +165,7 @@ Multiple small pull requests are often better than multiple commits. Don't worry
 
 We want every pull request to be useful on its own, so use your best judgment on what should be a pull request vs. a commit.
 
-As a general rule, if your pull request is directly related to Feature-X and nothing else, it should probably be part of the Feature-X pull request. If you can explain why you are doing seemingly no-op work - "it makes the Feature-X change easier, I promise" - we'll probably be OK with it. If you can imagine someone finding value independently of Feature-X, try it as a pull request. (Do not link pull requests by `#` in a commit description, because GitHub creates lots of spam. Instead, reference other pull requests via the pull request your commit is in.)
+As a general rule, if your pull request is directly related to Feature-X and nothing else, it should probably be part of the Feature-X pull request. If you can explain why you are doing seemingly no-op work - "it makes the Feature-X change easier, I promise" - we'll probably be OK with it. If you can imagine someone finding value independently of Feature-X, try it as a pull request. (Do not link pull requests by including `#` with pull request number(s) in a commit description, because GitHub creates lots of spam. Instead, reference other pull requests via the pull request your commit is in.)
 
 ## 3. Open a Different pull request for Fixes and Generic Features
 
@@ -179,7 +177,7 @@ You absolutely should fix those things -- or at least file issues, please -- but
 
 **Look for opportunities to pull out generic features.**
 
-For example, if you find yourself touching a lot of modules, think about the dependencies you are introducing between packages. Can some of what you're doing be made more generic, and moved up and out of the Feature-X package? Do you need to use a function or type from an otherwise unrelated package? If so, promote! We have places for hosting more generic code.
+For example, if you find yourself touching a lot of modules, think about the dependencies you are introducing between packages. Can some of what you're doing be made more generic, and moved up and out of the Feature-X package? Do you need to use a function or type from an otherwise unrelated package? If so, let us know! We have places for hosting more generic code.
 
 Likewise, if Feature-X is similar in form to Feature-W, which was checked in last month, and you're duplicating some tricky stuff from Feature-W, consider prefactoring the core logic out and using it in both Feature-W and Feature-X. (Do that in its own commit or pull request, please.)
 
@@ -199,17 +197,17 @@ If you don't know how to test Feature-X, please ask!  We'll be happy to help you
 
 Your reviewer has finally sent you feedback on Feature-X.
 
-Make the fixups, and don't squash yet. Put them in a new commit, and re-push. That way your reviewer can look at the new commit on its own, which is much faster than starting over.
+Make the fixes, and don't squash yet. Put them in a new commit, and re-push. That way, your reviewer can look at the new commit on its own, which is much faster than starting over.
 
-We might still ask you to clean up your commits at the very end for the sake of a more readable history, but don't do this until asked: typically at the point where the pull request would otherwise be tagged `LGTM`.
+We might still ask you to clean up your commits at the very end for the sake of a more readable history, but don't do this until asked. Typically, this request for clean-up happens at the point where the pull request would otherwise be tagged `LGTM`.
 
-Each commit should have a good title line (<70 characters) and include an additional description paragraph describing in more detail the change intended.
+Each commit should have a good title line, containing less than 70 characters, and include an additional description paragraph describing in more detail the change intended.
 
 **General squashing guidelines:**
 
 * Sausage => squash
 
- Do squash when there are several commits to fix bugs in the original commit(s), address reviewer feedback, etc. Really we only want to see the end state and commit message for the whole pull request.
+ Do squash when there are several commits to fix bugs in the original commit(s), address reviewer feedback, etc. Ideally, we only want to see the end state and commit message for the whole pull request.
 
 * Layers => don't squash
 
@@ -227,18 +225,18 @@ Sometimes reviewers make mistakes. It's OK to push back on changes your reviewer
 
 You might be overruled, but you might also prevail. We're pretty reasonable people. Mostly.
 
-Another phenomenon of open-source projects (where anyone can comment on any issue) is the dog-pile - your pull request gets so many comments from so many people it becomes hard to follow. In this situation, you can ask the primary reviewer (assignee) whether they want you to fork a new pull request to clear out all the comments. You don't HAVE to fix every issue raised by every person who feels like commenting, but you should answer reasonable comments with an explanation.
+Another phenomenon of open-source projects, where anyone can comment on any issue, is the dog-pile of comments. If your pull request gets many comments from many people, it becomes hard to follow. In this situation, you can ask the primary reviewer (assignee) whether they want you to fork a new pull request to clear out all the comments. You don't HAVE to fix every issue raised by every person who feels like commenting, but you should answer reasonable comments with an explanation.
 
 ## 9. Common Sense and Courtesy
 
 No document can take the place of common sense and good taste. Use your best judgment, while you put
-a bit of thought into how your work can be made easier to review. If you do these things your pull requests will get merged with less friction.
+a bit of thought into how your work can be made easier to review. If you do these things, your pull requests will get merged with less friction.
 
 ## 10. Trivial Edits
 
 Each incoming Pull Request needs to be reviewed, checked, and then merged.
 
-While automation helps with this, each contribution also has an engineering cost. Therefore it is appreciated if you do NOT make trivial edits and fixes, but instead focus on giving the entire file a review.
+While automation helps with this, each contribution also has an engineering cost. Therefore, it is appreciated if you do NOT make trivial edits and fixes, but instead focus on giving the entire file a review.
 
 If you find one grammatical or spelling error, it is likely there are more in that file, you can really make your Pull Request count by checking formatting, checking for broken links, and fixing errors and then submitting all the fixes at once to that file.
 
@@ -246,4 +244,3 @@ If you find one grammatical or spelling error, it is likely there are more in th
 
 * Can the file be improved further?
 * Does the trivial edit greatly improve the quality of the content?
-!
