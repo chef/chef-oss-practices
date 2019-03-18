@@ -95,7 +95,7 @@ Projects in the Chef Community should feel encouraged to use these labels in the
  - `Deprecation` - Removal of existing features
  - `Enhancement` - Adds new functionality.
  - `Regression` - It used to work, now it doesn't.
- - `RFC` - Community survey of a proposal
+ - `Design Proposal` - Community survey of a proposal
  - `Tech Debt` - Refactoring
 
  # Automating Label Application
