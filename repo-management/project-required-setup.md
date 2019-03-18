@@ -20,6 +20,10 @@ A project should include [the standard set of labels](github-labels.md) for issu
 
 When a new repository is created on GitHub, it is automatically includes the Projects and Wiki features. If you are not going to use these features, please disable them on the repository.
 
+### Branch Protection
+
+Branch protection should be enabled on release branches, such as master, to require status checks and reviews before a change can be merged.
+
 ### PR Status Check: Developer Certificate of Origin
 
 All Chef Software Inc. OSS projects use the [developer certificate of origin](/DCO.md) for contributed changes. Commits in a pull request must be signed off by the author(s) to be eligible for merging. [Expeditor](https://expeditor.chef.io/docs/getting-started/) is a bot that [by default, will check the commits](https://expeditor.chef.io/docs/integrations/github/#configuration) on pull requests to Chef Software Inc. OSS project repositories, and is recommended to use.
