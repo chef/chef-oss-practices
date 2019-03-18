@@ -1,6 +1,6 @@
 # Overview
 
-We use two labels [Status: Help Wanted](#help-wanted) and [Status: Good First Issue](#good-first-issue) to flag issues that have been identified as well-suited for community contributors. The `Status: Good First Issue` label is a subset of `Status: Help Wanted` label, and indicates that project members have committed to providing extra assistance for new contributors. All `Good First Issue` items also have the `Help Wanted` label applied.
+We use two labels [Status: Help Wanted](#help-wanted) and [Status: Good First Issue](#good-first-issue) to flag issues that have been identified as well-suited for community contributors. The `Status: Good First Issue` label is a subset of `Status: Help Wanted` label, and indicates that project members have committed to providing extra assistance for new contributors. All `Good First Issue` issues also have the `Help Wanted` label applied.
 
 We also have some [suggestions](#suggestions) for using these labels to help
 grow and improve our community.
@@ -13,7 +13,7 @@ Chef's core projects also have tools to help expose these issues in a meaningful
 
 ## Help Wanted
 
-Items marked with the `Status: Help Wanted` label need to ensure that they are:
+Issues marked with the `Status: Help Wanted` label need to ensure that they are:
 
 - **Low (enough) Barrier to Entry**
 
@@ -35,11 +35,11 @@ Items marked with the `Status: Help Wanted` label need to ensure that they are:
 
 ## Good First Issue
 
-Issue items marked with the `Status: Good First Issue` label are intended for _first-time contributors_. It indicates that members will keep an eye out for these pull requests and shepherd it through our processes.
+Issues marked with the `Status: Good First Issue` label are intended for _first-time contributors_. It indicates that members will keep an eye out for these pull requests and shepherd it through our processes.
 
 **New contributors should not be left to find an approver, ping for reviews, or identify that their build had a transitive or irreproducible failure.** Proactive attention to a pull request makes new contributors feel welcome, valued, and assures them that they will have an extra level of help with their first contribution.
 
-These issue items need to ensure that they follow the guidelines for `Status: Help Wanted` labels (above) in addition to meeting the following criteria:
+These issues need to ensure that they follow the guidelines for `Status: Help Wanted` labels (above) in addition to meeting the following criteria:
 
 - **No Barrier to Entry**
 
@@ -78,8 +78,8 @@ Provide extra assistance during reviews on `Good First Issue` pull requests:
 - Encourage new contributors to seek help on the appropriate Slack channels, introduce them, and include them in your conversations.
 - Invite them to Team meetings.
 - Give credit to new contributors so that others get to know them, _"Hey, would someone help give a second LGTM on @newperson's first PR on Chef Client?"_. Mention them in the team channel/meeting and/or thank them on twitter!
-- Use all the GIFS in your approve or LGTM comments.
-- Let them know that their `Good First Issue` PR is getting extra attention to make the first PR easier and help them find a follow-up issue.
-- Suggest a related `Help Wanted` Issue so that they can build up experience in an area.
+- Feel free to use all the GIFs as you wish in your approve or LGTM comments.
+- If someone opens a PR that fixes an issue labeled `Good First Issue`, let them know their PR is getting extra attention to make the process easier. Additionally, once the PR is merged, help them find a follow-up issue.
+- Suggest a related `Help Wanted` issue so that they can build up experience in an area.
 - People are more likely to continue contributing when they know what to expect, what's the acceptable way to ask for people to review a PR, or how to nudge things along when a PR is stalled. Show them how we operate by helping move their first PR along.
 - If you have time, let the contributor know that they can DM you with questions that they aren't yet comfortable asking the wider group.

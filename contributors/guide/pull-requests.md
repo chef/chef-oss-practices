@@ -43,7 +43,7 @@ Merging a pull request requires the following steps to be completed before the p
 
 - [Sign your commits with a DCO](DCO.md) (pre-requisite)
 - [Open a pull request](https://help.github.com/articles/about-pull-requests/)
-- Pass all e2e tests (Check the project's CONTRIBUTING.md for more information.)
+- Pass all End to End (e2e) tests (Check the project's CONTRIBUTING.md for more information.)
 - Get all necessary approvals from Reviewers and Approvers
 
 ## The Testing and Merge Workflow
@@ -107,7 +107,7 @@ But, if you've already followed the best practices and you still aren't getting 
 
    * Ping the assignee (@username) on the pull request comment stream, and ask for an estimate of when they can get to the review.
 
-   * Ping the assignee in [Slack](http://slack.habitat.sh ). Remember that a person's GitHub username might not be the same as their Slack username.
+   * Ping the assignee in [Slack](https://community-slack.chef.io/). Remember that a person's GitHub username might not be the same as their Slack username.
 
    * Ping the assignee by email. Many of us have publicly available email addresses.
 
@@ -177,7 +177,7 @@ You absolutely should fix those things -- or at least file issues, please -- but
 
 **Look for opportunities to pull out generic features.**
 
-For example, if you find yourself touching a lot of modules, think about the dependencies you are introducing between packages. Can some of what you're doing be made more generic, and moved up and out of the Feature-X package? Do you need to use a function or type from an otherwise unrelated package? If so, promote! We have places for hosting more generic code.
+For example, if you find yourself touching a lot of modules, think about the dependencies you are introducing between packages. Can some of what you're doing be made more generic, and moved up and out of the Feature-X package? Do you need to use a function or type from an otherwise unrelated package? If so, let us know! We have places for hosting more generic code.
 
 Likewise, if Feature-X is similar in form to Feature-W, which was checked in last month, and you're duplicating some tricky stuff from Feature-W, consider prefactoring the core logic out and using it in both Feature-W and Feature-X. (Do that in its own commit or pull request, please.)
 
