@@ -24,7 +24,7 @@ Because reviewers are often the first point of contact between new members of th
 
 Reviewers are expected to respond in a timely fashion to PRs that are assigned to them. Reviewers are expected to respond to an *active* PRs with reasonable latency, and if reviewers fail to respond, those PRs may be assigned to other reviewers.
 
-*Active* PRs are considered those which have all commits with a proper DCO signature and do not need rebase to be merged. PRs that do not have a proper DCO, or require a rebase are not considered active PRs. The same is true for open PR's with the `WIP` label or title prefix.
+A PR is considered active when all commits have a proper DCO signature and there are no merge conflicts. PRs are considered inactive when they do not have a proper DCO or have merge conflicts that require a rebase. PRs are also considered inactive when they have the WIP label or title prefix.
 
 **Note:** PRs being held with an `Incomplete` label are not considered active until the contributor responds to the Reviewer or Approver feedback.
 
