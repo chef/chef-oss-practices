@@ -4,7 +4,7 @@
 
 Under Chef's license terms [LINK TO EXACT TERMS TO BE ADDED], Chef's binaries are free for individual use, however they are not free for use (except under circumstances outlined in the license) by organizations or corporations.  Normally these entities must pay for a license to use the binaries of Chef's software.
 
-However, Chef does offer free Contributor Licenses to corporations/organizations in exchange for significant contribution. This contribution can include employees (on company time) contributing to Chef Open Source projects, speaking about Chef at meetups and conferences, running a Chef meetup, and more.  These corporations/organizations can then apply for a Contributor License from Chef Software. Granting the license is at the sole discretion of Chef Software.
+However, Chef does offer free Contributor Licenses to corporations/organizations in exchange for significant contribution. This contribution can include employees (on  company time) contributing to Chef Open Source projects and more.  These corporations/organizations can then apply for a Contributor License from Chef Software. Granting the license is at the sole discretion of Chef Software.
 
 Laying out exact terms for contribution is difficult as we welcome and embrace the many ways someone can contribute to Chef and the Chef Community. Here are some examples of what we would consider significant contribution:
 
