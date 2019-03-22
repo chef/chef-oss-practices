@@ -3,7 +3,7 @@
 The Chef Community is committed to keeping our space a fun, safe, and productive place to be, so please review the Community [Code of Conduct](../CODE_OF_CONDUCT.md) before getting started. In general:
 
 - *Be Kind.* We get more done when people are helpful and respectful of one another. Plus, it feels better.
-- *Listen.* Try to understand someone's position before you negate a suggestion or idea. Ask clarifying questions if something doesn't make sense to you.
+- *Listen.* Try to understand someone's position before you respond to their suggestion or idea. Ask clarifying questions if something doesn't make sense to you.
 - *Be Patient.* We have no team dedicated solely to Community support, so responses will be semi-synchronous, or, more likely, asynchronous. Know that the Community appreciates all your contributions, and we're working to be as responsive as possible.
 
 ## Reporting Code of Conduct Violations

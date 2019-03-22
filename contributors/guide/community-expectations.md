@@ -18,11 +18,11 @@ For more information on the review process, see the [Code Reviews section](colla
 
 ## Expectations of reviewers: Review comments
 
-Because reviewers are often the first point of contact between new members of the community and can significantly impact the first impression of the community, reviewers are especially important in shaping the Chef Software Inc. community. Reviewers are highly encouraged to review the [Code of Conduct](/governance.md#code-of-conduct) and are strongly encouraged to go above and beyond the Code of Conduct to promote a collaborative, respectful community.
+Because reviewers are often the first point of contact between new members of the community and can significantly impact the first impression of the community, reviewers are especially important in shaping the Chef Software Inc. community. Reviewers are required to abide by the [Code of Conduct](/governance.md#code-of-conduct) and are strongly encouraged to go above and beyond the Code of Conduct to promote a collaborative, respectful community.
 
 ## Expectations of reviewers: Review latency
 
-Reviewers are expected to respond in a timely fashion to PRs that are assigned to them. Reviewers are expected to respond to an *active* PRs with reasonable latency, and if reviewers fail to respond, those PRs may be assigned to other reviewers.
+Reviewers are expected to respond in a timely fashion to PRs that are assigned to them. All PRs should recieve a response (though not necessarily be merged) within the SLA specified for that project. When a reviewer is assigned to an *active* PR, they are expected to respond as soon as possible. If reviewers fail to respond, those PRs may be assigned to other reviewers.
 
 A PR is considered active when all commits have a proper DCO signature and there are no merge conflicts. PRs are considered inactive when they do not have a proper DCO or have merge conflicts that require a rebase. PRs are also considered inactive when they have the WIP label or title prefix.
 

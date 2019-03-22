@@ -15,6 +15,6 @@ These guilds consist of multiple people, so that decisions are made democratical
 ## Recommended Implementation
 
 Successful language-specific guilds:
-  - Have a channel for communication (e.g. #rust-guild in Slack)
+  - Have a channel for communication (e.g. #rust-guild)
   - Have periodic meetings where topics can be discussed
   - Catalog information and results of conversations in a discoverable and accessible way

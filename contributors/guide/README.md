@@ -88,7 +88,7 @@ Once you've found your first project and an issue, it's important to learn about
 
 We organize our community into teams in order to improve our workflow and more easily manage what amounts to multiple very large community projects. The developers within each team have autonomy and ownership over that team's project(s) and frequently a team will be working on more than one project at once.
 
-All projects at Chef are operated as open, community efforts supported with internal development teams. Anyone is welcome to jump into a project or engage with a specific team and begin fixing issues, critiquing design proposals, or reviewing code. Each team should have a public Slack channel for development discussions though any team is welcome to share a public development channel with any other team.
+All projects at Chef are operated as open, community efforts supported with internal development teams. Anyone is welcome to jump into a project or engage with a specific team and begin filing/updating issues, writing/updating documentation, fixing issues, participating in design discussions, or reviewing code. Each team should have a public Slack channel for development discussions though any team is welcome to share a public development channel with any other team.
 
 ### Find the Project's Team
 
@@ -102,7 +102,7 @@ You've found the issue you want to work on and now you want to make sure that no
 
 # Contributing
 
-All Chef Software Inc. projects are open source, but many of the people working on it do so as their day job. In order to avoid forcing people to be "at work" effectively 24/7, we want to establish some semi-formal protocols around development. Hopefully, these rules make things go more smoothly. If you find that this is not the case, please complain loudly.
+All Chef Software Inc. projects are open source, but many of the people working on it do so as their day job. In order to avoid forcing people to be "at work" effectively 24/7, we want to establish some semi-formal protocols around development. Hopefully, these rules make things go more smoothly. If you find that this is not the case, please open an Issue on this repository.
 
 As a potential contributor, your changes and ideas are welcome at any hour of the day or night, weekdays, weekends, and holidays. Please do not ever hesitate to ask a question or send a pull request.
 
@@ -138,7 +138,7 @@ Common new contributor PR conflicts are:
 
 ## Code Review
 
-It is critical that all code changes to projects be reviewed to promote high quality work and prevent mistakes.
+It is critical that all code changes to projects be reviewed to promote high quality work, foster development norms, and keep contributors and community members engaged and apprised of changes.
 
 Please read the [Code Review](collaborative-dev.md#code-reviews) section of the Collaborative Development Principles guide for further information on helping project members to better review your changes.
 
