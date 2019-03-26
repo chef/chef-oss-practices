@@ -66,8 +66,8 @@ Here's the process the pull request goes through from submission to merging:
 
 4. Reviewer suggests edits
 5. Push edits to your pull request branch
-6. Repeat the prior two steps as needed until reviewer(s) add `LGTM` label. The `LGTM` label, when applied by someone listed as a Reviewer in the corresponding project's `TEAMS` file, is a signal that the code has passed review from one or more trusted reviewers for that project
-7. (Optional) Some reviewers prefer that you squash commits at this step
+6. Repeat the prior two steps as needed until reviewer(s) approve the pull request. 
+7. (Optional) Some reviewers prefer that you squash commits at this step - whether or not this is required is at the discretion of the individual project and team. This repository takes no position on this, other than requiring that projects decide to do or not to do this consistently.
 8. Approver will add the `Approved` label (as well as any other labels unique to their merge process). When applied by someone listed as an Approver in the corresponding project `TEAMS` file, the `Approved` label is a signal that the code has passed final review and the Approver is free to merge the PR
 ***************************************************************************************
 
@@ -161,7 +161,7 @@ Strike a balance with the number of commits. A pull request with 25 commits is s
 
 Or, going back to our prefactoring example, you could also fork a new branch, do the prefactoring there and send a pull request for that. If you can extract whole ideas from your pull request and send those as pull requests of their own, you can avoid the painful problem of continually rebasing.
 
-Open source software projects are usually fast-moving codebases - lock in your changes ASAP with your small pull request, and make merges be someone else's problem.
+Open source software projects are usually fast-moving codebases - lock in your changes ASAP with your small pull request and avoid merge headaches.
 
 Multiple small pull requests are often better than multiple commits. Don't worry about flooding us with pull requests. We'd rather have 100 small, obvious pull requests than 10 unreviewable monoliths.
 
@@ -191,7 +191,7 @@ If you think there's something pretty obvious that we could follow up on, add a 
 
 ## 5. Test
 
-Nothing is more frustrating than starting a review, only to find that the tests are inadequate or absent. Very few pull requests can touch code and NOT touch tests.
+Nothing is more frustrating than starting a review, only to find that the tests are inadequate or absent. Very few pull requests can touch code and NOT touch tests. If the code you are adding does not touch existing tests, consider adding test coverage.
 
 If you don't know how to test Feature-X, please ask!  We'll be happy to help you design things for easy testing, or to suggest appropriate test cases.
 
@@ -217,15 +217,15 @@ Each commit should have a good title line (<70 characters) and include an additi
 
 A commit, as much as possible, should be a single logical change.
 
-## 7. KISS, YAGNI, MVP, etc.
+## 7. KISS, YAGNI, MVP, DRY, etc.
 
-Sometimes we need to remind each other of core tenets of software design - Keep It Simple, You Aren't Gonna Need It, Minimum Viable Product, and so on. Adding a feature "because we might need it later" is antithetical to software that ships. Add the things you need NOW and (ideally) leave room for things you might need later - but don't implement them now.
+Sometimes we need to remind each other of core tenets of software design - Keep It Simple, You Aren't Gonna Need It, Minimum Viable Product, Don't Repeat Yourself, and so on. Adding a feature "because we might need it later" is antithetical to software that ships. Add the things you need NOW and (ideally) leave room for things you might need later - but don't implement them now.
 
 ## 8. It's OK to Push Back
 
 Sometimes reviewers make mistakes. It's OK to push back on changes your reviewer requested. If you have a good reason for doing something a certain way, you are absolutely allowed to debate the merits of a requested change. Both the reviewer and reviewee should strive to discuss these issues in a polite and respectful manner.
 
-You might be overruled, but you might also prevail. We're pretty reasonable people. Mostly.
+You might be overruled, but you might also change someone's mind. Working to better understand each other can sometimes be challenging, but often leads to better solutions.
 
 Another phenomenon of open-source projects (where anyone can comment on any issue) is the dog-pile - your pull request gets so many comments from so many people it becomes hard to follow. In this situation, you can ask the primary reviewer (assignee) whether they want you to fork a new pull request to clear out all the comments. You don't HAVE to fix every issue raised by every person who feels like commenting, but you should answer reasonable comments with an explanation.
 

@@ -20,9 +20,9 @@ All contributions to a Chef project must be reviewed. This applies not only to s
 
 Most PRs will find reviewers/approvers organically. If a maintainer intends to be the primary approver of a PR, they should set themselves as the assignee on GitHub and say so in a reply to the PR. Only the primary approver of a change should actually do the merge, except in rare cases (e.g. they are unavailable in a reasonable timeframe).
 
-Project Approvers can assign approvals to other project members when appropriate. The assignee becomes the shepherd for that PR and is responsible for merging the PR once they are satisfied with it, or else closing it. The assignee might request reviews from non-maintainers.
+Project Approvers can delegate approvals to other project members when appropriate. The assignee becomes the shepherd for that PR and is responsible for merging the PR once they are satisfied with it, or else closing it. The assignee might request reviews from non-maintainers.
 
-Except for rare cases, such as trivial changes (e.g. typos, comments) or emergencies (e.g. broken builds), project members should not merge their own changes.
+Except for rare cases, such as trivial changes (e.g. typos, comments) or emergencies (e.g. broken builds), project members should not approve their own changes.
 
 ### Writing PRs for Review
 
@@ -44,7 +44,7 @@ When reviewing PRs from others, [The Gentle Art of Patch Review](http://sage.the
 
 ## Pairing
 
-Pair programming is an excellent way to not only increase the quality of code, but also to transfer knowledge from experienced developers to those new to a codebase. Chef highly encourages pair programming between its employees and with community members.
+Pair programming is an excellent way to not only increase the quality of code, but also to transfer knowledge from experienced developers to those new to a codebase. Chef encourages pair programming between its employees and with community members.
 
 ## Testing
 

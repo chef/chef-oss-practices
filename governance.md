@@ -7,7 +7,7 @@ The Chef OSS communities adhere to the following principles:
   - Open: All Chef software is open source. See [repository guidelines](#repository-guidelines) and [DCO](#dco) information below.
   - Welcoming and respectful: See [Code of Conduct](#code-of-conduct) below.
   - Transparent and accessible: Work and collaboration should be done in public. See [community groups](#community-groups) below.
-  - Benefit: Ideas and contributions are accepted according to their technical benefit and alignment with project objectives, scope, and design principles.
+  - Inclusiveness: Ideas and contributions are welcome from all those willing to participate in alignment with project objectives. We value the power of different perspectives and enjoy working to understand one another so we can create better solutions than we would separately.
 
 ## Code of Conduct
 
