@@ -2,7 +2,7 @@
 
 ## Why can't all development discussion be in private Chef Slack?
 
-When working in open source, it's essential to be as transparent about technical decisions as possible with external contributors - particularly as we work with them on our projects, etc. If we were to only do development discussion in Chef internal slack (and not document decisions, etc. somewhere that external contributors can access them), we would seriously hinder any contributions from the community outside of Chef. The beauty of Open Source is with so many eyes on the code, the design, etc., it results in better products and a higher impact on the world. This greater potential carries its own challenges, the practices defined in this repository are to help us navigate those challenges and achieve our goals.
+When working in open source, it's essential to be as transparent about technical decisions as possible with external contributors - particularly as we work with them on our projects, etc. If we were to only do development discussion in Chef internal slack (and not document decisions, etc. somewhere that external contributors can access them), we would seriously hinder any contributions from the community outside of Chef. The beauty of Open Source is with so many eyes on the code, the design, etc., it results in better products and a higher impact on the world. This greater potential carries its own challenges. The practices defined in this repository are to help us navigate those challenges and achieve our goals.
 
 **Note: There are things that will need to stay private - including when work we are doing is for specific customers or for business strategy reasons that have not been made public. This will be addressed in a separate issue**
 
