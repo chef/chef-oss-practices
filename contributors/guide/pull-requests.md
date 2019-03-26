@@ -67,7 +67,7 @@ Here's the process the pull request goes through from submission to merging:
 4. Reviewer suggests edits
 5. Push edits to your pull request branch
 6. Repeat the prior two steps as needed until reviewer(s) approve the pull request. 
-7. (Optional) Some reviewers prefer that you squash commits at this step - whether or not this is required is at the discretion of the individual project and team. This repository take no position on this, other than requiring that projects decide to do or not to do this consistently.
+7. (Optional) Some reviewers prefer that you squash commits at this step - whether or not this is required is at the discretion of the individual project and team. This repository takes no position on this, other than requiring that projects decide to do or not to do this consistently.
 8. Approver will add the `Approved` label (as well as any other labels unique to their merge process). When applied by someone listed as an Approver in the corresponding project `TEAMS` file, the `Approved` label is a signal that the code has passed final review and the Approver is free to merge the PR
 ***************************************************************************************
 
