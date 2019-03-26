@@ -34,6 +34,7 @@ Welcome to the Chef Software Inc. OSS Community!
   - [Communication](#communication-1)
   - [Events](#events)
   - [Mentorship](#mentorship)
+- [More Ways to Contribute](#more-ways-to-contribute)
 
 # Before You Get Started
 
@@ -171,4 +172,12 @@ The [Project Membership Document](/project-membership.md) covers membership proc
 
 ## Events
 
-Chef Software, Inc. participates in an extremely diverse and distributed list of events every year across Asia, Europe and North America. Information about these and other community events is available on the Chef [events](https://events.chef.io/) pages.
+Chef Inc. participates in an extremely diverse and distributed list of events every year across Asia, Europe and North America. Information about these and other community events is available on the Chef [events](https://events.chef.io/) pages.
+
+## Mentorship
+
+Please learn about our mentoring initiatives [here](/mentoring/README.md).
+
+## More Ways to Contribute
+
+Code is certainly not the only way to contribute, check out [this list of ways to contribute](ways-to-contribute.md)
