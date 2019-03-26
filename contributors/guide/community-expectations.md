@@ -22,7 +22,7 @@ Because reviewers are often the first point of contact between new members of th
 
 ## Expectations of reviewers: Review latency
 
-Reviewers are expected to respond in a timely fashion to PRs that are assigned to them. All PRs should recieve a response (though not necessarily be merged) within the SLA specified for that project. When a reviewer is assigned to an *active* PR, they are expected to respond as soon as possible. If reviewers fail to respond, those PRs may be assigned to other reviewers.
+Reviewers are expected to respond in a timely fashion to PRs that are assigned to them. All PRs should receive a response (though not necessarily be merged) within the Service Level Agreement (SLA) specified for that project. When a reviewer is assigned to an *active* PR, they are expected to respond as soon as possible. If reviewers fail to respond, those PRs may be assigned to other reviewers.
 
 A PR is considered active when all commits have a proper DCO signature and there are no merge conflicts. PRs are considered inactive when they do not have a proper DCO or have merge conflicts that require a rebase. PRs are also considered inactive when they have the WIP label or title prefix.
 
