@@ -104,7 +104,7 @@ You've found the issue you want to work on and now you want to make sure that no
 
 All Chef Software Inc. projects are open source, but many of the people working on it do so as their day job. In order to avoid forcing people to be "at work" effectively 24/7, we want to establish some semi-formal protocols around development. Hopefully, these rules make things go more smoothly. If you find that this is not the case, please open an Issue on this repository.
 
-As a potential contributor, your changes and ideas are welcome at any hour of the day or night, weekdays, weekends, and holidays. Please do not ever hesitate to ask a question or send a pull request.
+As a potential contributor, your changes and ideas are welcome at any hour of the day or night, weekdays, weekends, and holidays. Please do not ever hesitate to ask a question or send a pull request. Don't assume that a contribution is 'too small' or 'not important' - all inputs are welcome, and will be discussed in a friendly and inclusive manner.
 
 Check out our [Collaborative Development Principles](collaborative-dev.md) on how to create great code as a big group.
 
