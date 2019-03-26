@@ -217,7 +217,7 @@ Each commit should have a good title line (<70 characters) and include an additi
 
 A commit, as much as possible, should be a single logical change.
 
-## 7. KISS, YAGNI, MVP, DRY etc.
+## 7. KISS, YAGNI, MVP, DRY, etc.
 
 Sometimes we need to remind each other of core tenets of software design - Keep It Simple, You Aren't Gonna Need It, Minimum Viable Product, Don't Repeat Yourself, and so on. Adding a feature "because we might need it later" is antithetical to software that ships. Add the things you need NOW and (ideally) leave room for things you might need later - but don't implement them now.
 
