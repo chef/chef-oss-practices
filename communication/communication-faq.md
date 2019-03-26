@@ -21,7 +21,7 @@ This is a possibility for specific channels in Slack, but channel chat is not th
 ## Why don't we just go back to IRC?
 
 There were two major reasons we moved from IRC to Slack in the first place.
-* IRC is blocked completely on many corporate networks - this comes directly from Chef's Customer Facing teams. Slack has managed to achieve enough usage in the corporate world that it is usually allowed. 
+* IRC is blocked completely on many corporate networks - this comes directly from Chef's Customer Facing teams, and is a matter of codified security policy in Federal and Financial organizations. Slack has managed to achieve enough usage in the corporate world with corresponding security approvals that it is usually allowed. 
 * IRC isn't as user-friendly as other options - we want our community to be as accessible and inclusive as possible.
 
 ## Why don't we use Discord/Gitter/some other chat tool instead?
