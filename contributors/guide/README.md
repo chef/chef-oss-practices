@@ -40,26 +40,26 @@ Welcome to the Chef Software Inc. OSS Community!
 
 ## Code of Conduct
 
-Please make sure to read and observe our [Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
+Please make sure to read and observe our [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ## Community Expectations and Roles
 
-All Chef Software Inc. OSS projects are operated as community projects. Consequently, it is wholly dependent on its community to provide a productive, friendly and collaborative environment for all contributors.
+All Chef Software, Inc. OSS projects are operated as community projects. Consequently, it is wholly dependent on its community to provide a productive, friendly, and collaborative environment for all contributors.
 
 - Read and review the [Community Expectations](community-expectations.md) for an understanding of code and review expectations.
 - See [Project Membership](../project-membership.md) for information on project roles and responsibilities.
 
-Please be aware that due to the large number of issues, repos, and projects our teams deal with, we do not offer technical support in GitHub issues or on Slack.
+Please be aware that due to the large number of issues, repos, and projects our teams administer, we do not offer technical support in GitHub issues or on Slack.
 
 # Your First Contribution
 
-We're glad you're interested in contributing to a Chef project, and we're here to do everything we can to make your first contribution experience a great one.
+We're glad you're interested in contributing to a Chef project! We're here to do everything we can to make your first contribution experience a great one.
 
-We hope this guide will help you to choose where to contribute and show you the ropes of crafting your first contribution. If you have questions about the development process or are feeling stuck with your first contribution, feel free to jump into specific project's public development Slack channel or join a project specific mailing list. The specific channels and mailing list URLs can be found in the CONTRIBUTING.md file found in each project repository.
+We hope this guide will help you to choose where to contribute, and show you the ropes of crafting your first contribution. If you have questions about the development process, or are feeling stuck with your first contribution, feel free to jump into specific project's public development Slack channel, or join a project-specific mailing list. The specific channels and mailing list URLs can be found in the CONTRIBUTING.md file found in each project repository.
 
 ## Find Something To Work On
 
-Help is always welcome! For example, documentation (like the text you are reading now) can always use improvement. There's always a need for more test coverage. There are surely unprioritized features you could work on. Commenting on an issue that a bug or error is reproducible and including the environment and steps to reproduce will help with issue triage. Blog posts and example projects don't hack themselves! You get the idea - if you ever see something you think should be fixed, you should own it.
+Help is always welcome! For example, documentation -- like the text you are reading now -- can always use improvement. There's always a need for more test coverage. There are surely un-prioritized features, which could use your work. Commenting on an issue that a bug or error is reproducible and including the environment and steps to reproduce will help with issue triage. Blog posts and example projects don't hack themselves! You get the idea - if you ever see something you think should be fixed, you should own it.
 
 ### Find a Good First Issue
 
@@ -77,13 +77,13 @@ Documentation is critical to the success of any project and can always use expan
 
 #### File or Triage Issues
 
-Both filing issues and triaging existing issues are incredibly helpful to maintain high quality software. Finding new issues in projects and filing detailed issues help the maintainers to provide the best possible experience to users. Make sure to adhere to the prompted submission guidelines while opening an issue to give the maintainers all the information necessary to resolve your issue.
+Both filing issues and triaging existing issues are incredibly helpful to maintain high quality software. Finding new issues in projects and filing detailed issues help the maintainers to provide the best possible experience to users. Be sure to adhere to the prompted submission guidelines when opening an issue to give the maintainers all the information necessary to resolve your issue.
 
 Even more useful than filing new issues is confirming existing issues. Providing reproduction cases or more detailed information to existing issues smooths [the triage process](../communication/triage.md) and ensures issues can be more easily resolved by developers.
 
 ## Learn About the Project's Team
 
-Once you've found your first project and an issue it's important to learn about the team responsible for that project.
+Once you've found your first project and an issue, it's important to learn about the team responsible for that project.
 
 ### Team Structure
 
@@ -93,9 +93,9 @@ All projects at Chef are operated as open, community efforts supported with inte
 
 ### Find the Project's Team
 
-Finding the appropriate team for your contribution and asking your questions in the correct place can give your contribution higher visibility and a faster community response. We do our best to keep response time on any of our projects low, but engaging a team directly on a contribution is a great way to get connected and have a more direct interaction around your contribution.
+Finding the appropriate team for your contribution and asking your questions in the correct place can give your contribution higher visibility and a faster community response. We do our best to have a swift response time on any of our projects, but engaging a team directly on a contribution is a great way to get connected and have a more direct interaction around your contribution.
 
-The readme in each project repository will contain information on the team responsible for the code. Some teams also have their own `CONTRIBUTING.md` files, which may contain extra information or guidelines in addition to these general ones. These are located in the team-specific community directories in _this repository_ and will be linked to from any repository that team owns. For example: the contributor's guide for the Habitat supervisor is located in the *chef/chef-oss-practices* repo, as [`../../teams/hab-sup/CONTRIBUTING.md`](../teams/hab-sup/CONTRIBUTING.md) as well as in the root of _habitat-sh/habitat_ as `CONTRIBUTING.md`.
+The readme file in each project repository will contain information on the team responsible for the code. Some teams also have their own `CONTRIBUTING.md` files, which may contain extra information or guidelines in addition to these general ones. These are located in the team-specific community directories in _this repository_ and will be linked from any repository that team owns. For example, the contributor's guide for the Habitat supervisor is located in the *chef/chef-oss-practices* repo, as [`../../teams/hab-sup/CONTRIBUTING.md`](../teams/hab-sup/CONTRIBUTING.md), as well as in the root of _habitat-sh/habitat_ as `CONTRIBUTING.md`.
 
 ## Claiming Your Issue
 
@@ -111,7 +111,7 @@ Check out our [Collaborative Development Principles](collaborative-dev.md) on ho
 
 Beginner focused information can be found below in [Open a Pull Request](#open-a-pull-request) and [Code Review](#code-review).
 
-For quick reference on contributor resources, we have a handy [contributor cheatsheet](contributor-cheatsheet.md)
+For quick reference on contributor resources, we have a handy [contributor cheatsheet](contributor-cheatsheet.md).
 
 ### Signing the DCO
 
@@ -121,7 +121,7 @@ Chef requires that all commits to projects be signed for the DCO. See [Developer
 
 It is best to contact a project's team for issues related to the projects operated by that team. Your team will be able to help you much more quickly than a general question would.
 
-For information on finding the team responsible for a project see [Find the Project's Team](#find-the-projects-team)
+For information on finding the team responsible for a project see [Find the Project's Team](#find-the-projects-team).
 
 For general questions and troubleshooting, see the [standard lines of communication](../../communication/README.md).
 
@@ -162,12 +162,13 @@ Refer to the [issue triage guide](../communication/triage.md) for more informati
 # Community
 
 If you haven't noticed by now, we have a large, lively, and friendly open-source community.
-We depend on new people becoming project members and regular code contributors, so we would like you to come join us!
+We depend on new people becoming project members and regular code contributors, so we would like you to join us!
+
 The [Project Membership Document](/project-membership.md) covers membership processes and roles.
 
 ## Communication
 
-- [General Information](/communication)
+- [General Information](/communication) on communication can be found here.
 
 ## Events
 
