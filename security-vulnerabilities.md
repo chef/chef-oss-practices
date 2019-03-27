@@ -4,15 +4,16 @@ Security vulnerabilities provide an interesting challenge to open source project
 
 ## Reporting Vulnerabilities
 
-* All security vulnerability reports should follow the [official Chef Security Policy](https://www.chef.io/security/)
-* When a security vulnerability is reported, it must be brought up in the #security-discuss channel in Chef's internal Slack workspace.
-* Members of the #security-discuss channel must assign a severity level to the vulnerability, following the latest version of the [CVSS](https://www.first.org/cvss/) standard.
-* Once rated, the security vulnerability must be reported to the internal maintainers of the software (without revealing the vulnerability in any public medium)
+* All security vulnerability reports should follow the [official Chef Security Policy](https://www.chef.io/security/).
+* When a security vulnerability is reported, it will be triaged by designated individuals, currently the Engineering Directors within Chef Inc.
+* Triaging will identify the projects affected by the vulnerability and assign a severity level to the vulnerability, with assistance as needed from project teams.
+* Severity level assessment will follow the latest version of the [CVSS](https://www.first.org/cvss/) standard.
+* Once the vulnerability has this initial assessment, the project owners and approvers of the affected projects, if they are not yet aware, must be notified of the vulnerability. For high and critical vulnerabilities, the notification should be done without revealing the vulnerability in any public medium.
 
 ## Responding to Vulnerabilities
 
-* The time between receiving a report of a vulnerability and confirming the vulnerability must be no more than 2 business days (High Sev vulnerabilities must be confirmed ASAP)
-* When a vulnerability is reported to the internal Chef maintainers of the project, they must set a deadline to fix it based on the severity level. The more severe the level, the faster the fix must be. Setting a deadline for the fix will depend on the severity of the vulnerability, the workload of the internal Chef maintainer team, and any particulars of the project or situation.
+* The time between receiving a report of a vulnerability and confirming the vulnerability must be no more than 1 business day (High Sev vulnerabilities must be confirmed ASAP)
+* When internal Chef maintainers of a project are notified of a vulnerability, they must set a deadline to resolve based on the severity level. The more severe the level, the faster the fix must be. Setting a deadline for the fix will depend on the severity of the vulnerability, the workload of the internal Chef maintainer team, and any particulars of the project or situation.
 
 ## Fixing Vulnerabilities
 
