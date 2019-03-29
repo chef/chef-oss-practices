@@ -1,3 +1,5 @@
+# Video Conferencing
+
 Video conferencing is a fantastic tool for collaborating in realtime and sparking organic conversations that often don't emerge in a chat environment. This document outlines when video conferencing is appropriate and when a more durable medium should be used instead.
 
 ## Ideal Video Conferencing Uses
