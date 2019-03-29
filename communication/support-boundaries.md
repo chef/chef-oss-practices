@@ -26,4 +26,4 @@ If someone requests help for the use of a Product from a Chef Engineer, here is 
 
 Thank you for your interest in Chef!
 
-While Chef engineers do provide support with the development of our products, we do not provide direct support for the usage of our products. There are two avenues to get support with using our products - one is through the commercial support channel, the other is from other community members through the Community Slack or the Discourse Forums. We encourage you to check out one of these avenues for support with using Chef products.
+While Chef engineers do provide support with the development of our products, we do not provide direct support for the usage of our products. There are two avenues to get support with using our products - one is through the commercial support channel (which does require a commercial relationship with Chef) at https://www.chef.io/support/get-started/, the other is from other community members through the Community Slack at  https://community-slack.chef.io/ or the Discourse Forums at https://discourse.chef.io/. We encourage you to check out one of these resources for support with using Chef products.
