@@ -25,10 +25,6 @@ A list of common resources when contributing to Chef Software Inc. Projects.
 - [Habitat Releases](https://discourse.chef.io/c/habitat)
 - [InSpec Releases](https://discourse.chef.io/c/chef-release)
 
-## Teams
-
-- [Master Teams list](/teams/team-list.md)
-
 ## Community
 
 - [Events](https://events.chef.io)
