@@ -77,6 +77,7 @@ Approver status is scoped to a project.
 
 The following requirements apply to the portions of a project for which one would be an approver.
 
+- Enabled [two-factor authentication] on their GitHub account
 - Must already be a reviewer of the codebase (each project may define a minimum reviewer tenure requirement to qualify)
 - Primary reviewer for several substantial PRs to the codebase (each project may define a minimum to qualify)
 - Nominated by an approver _and_ seconded by a project owner
@@ -110,6 +111,7 @@ The process for becoming a project Owner should be defined in the team charter o
 
 The following apply to the project for which one would be an owner.
 
+- Enabled [two-factor authentication] on their GitHub account
 - Deep understanding of the technical goals and direction of the project
 - Deep understanding of the technical domain of the project
 - Sustained contributions to design and direction by doing all of:
