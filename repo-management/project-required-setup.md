@@ -36,6 +36,7 @@ See the [oss_project_boilerplate repo](https://github.com/chef/oss_project_boile
 
 A project readme is the first thing a new user or contributor sees when interacting with a Chef Software project. We want to make sure this file is detailed and up to date. It should cover the following things:
 
+  - The project state and SLAs (see [Project States](repo-states.md) for more information)
   - The project's intended use
   - Any system or runtime requirements
   - Example uses

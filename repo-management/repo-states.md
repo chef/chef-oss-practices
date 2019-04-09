@@ -16,3 +16,19 @@ Repos in a maintained state are maintained where bugs will be fixed, but no new 
 ## Deprecated
 
 Repos in a deprecated state are no longer maintained. No new features or bug fixes should be expected. Repos in this state do not have any assigned maintainers. See our [Project EOL Communication](../communication/project-eol.md) for additional information on the deprecation of a project.
+
+## What is the SLA?
+
+The SLA applies to response by a project member to issues or pull requests, it does not apply to the resolution of an issue or the merging of a pull request. Resolution of an issue or merging of a pull request is highly variable depending on what is involved in them.
+
+## Where to Communicate this:
+
+Both the Project State and SLAs must be defined in the README of the project. We recommend defining them at the top of the README (right under the title) like this:
+
+```
+**Project State: Active**
+**Issues Response SLA: 3 business days**
+**Pull Request Response SLA: 3 business days**
+
+For more information on project states and SLAs, see [this documentation](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md)
+```
