@@ -59,5 +59,6 @@ Tyler Ball
 [mixlib-shellout](https://github.com/chef/mixlib-shellout)
 [mixlib-versioning](https://github.com/chef/mixlib-versioning)
 [omnibus-software](https://github.com/chef/omnibus-software)
+[omnibus-toolchain](https://github.com/chef/omnibus-toolchain)
 [omnibus](https://github.com/chef/omnibus)
 [train](https://github.com/chef/train)
