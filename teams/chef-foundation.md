@@ -22,13 +22,21 @@ Miah Johnson
   - Github: [miah](https://github.com/miah)
   - Slack: @miah
 
+Robb Kidd
+  - Github: [robbkidd](https://github.com/robbkidd)
+  - Slack: @robbkidd
+
+Scott Hain
+  - GitHub: [scotthain](https://github.com/scotthain)
+  - Slack: @shain
+
 Tim Smith
   - Github: [tas50](https://github.com/tas50)
   - Slack: @tas50
 
 Tyler Ball
   - Github: [tyler-ball](https://github.com/tyler-ball)
-  - Slack:
+  - Slack: @tball
 
 ### Project Reviewers
 
