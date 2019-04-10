@@ -6,7 +6,7 @@ The Chef Foundation team is responsible for common libraries and applications us
 
 Clinton Wolfe
   - Github: [clintoncwolfe](https://github.com/clintoncwolfe)
-  - Slack: @btm
+  - Slack: @cwolfe
 
 Lamont Granquist
   - Github: [lamont-granquist](https://github.com/lamont-granquist)
