@@ -26,9 +26,9 @@ The SLA applies to response by a project member to issues or pull requests, it d
 Both the Project State and SLAs must be defined in the README of the project. We recommend defining them at the top of the README (right under the title) like this:
 
 ```
-**Project State: Active**
-**Issues Response SLA: 3 business days**
-**Pull Request Response SLA: 3 business days**
+* **Project State: Active**
+* **Issues Response SLA: 3 business days**
+* **Pull Request Response SLA: 3 business days**
 
 For more information on project states and SLAs, see [this documentation](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md)
 ```
