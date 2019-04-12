@@ -1,2 +1,4 @@
+# Order is important. The last matching pattern has the most precedence.
+
 *                 @chef/chef-oss-process-and-practices
 .expeditor/**     @chef/jex-team

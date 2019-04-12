@@ -1,6 +1,8 @@
-# Chef Infra Team
+# Chef Infra Project
 
-The Chef Infra team is responsible for the Chef Infra project which includes chef-client and all directly related projects.
+The Chef Infra project includes chef-client and all directly related projects.
+
+## Project Members
 
 ### Project Owners
 
@@ -26,8 +28,8 @@ Mark Anderson
 
 ## Project Repositories
 
-[chef](https://github.com/chef/chef)
-[ohai](https://github.com/chef/ohai)
-[bft](https://github.com/chef/bft)
-[cheffish](https://github.com/chef/cheffish)
-[proxy_tests](https://github.com/chef/proxy_tests)
+- [chef](https://github.com/chef/chef)
+- [ohai](https://github.com/chef/ohai)
+- [bft](https://github.com/chef/bft)
+- [cheffish](https://github.com/chef/cheffish)
+- [proxy_tests](https://github.com/chef/proxy_tests)

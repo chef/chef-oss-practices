@@ -1,6 +1,8 @@
-# Supermarket Team
+# Supermarket Project
 
-The Supermarket team is responsible for Supermarket and all related repositories.
+The Supermarket project includes Supermarket and all related repositories.
+
+## Project Members
 
 ### Project Owners
 
@@ -34,6 +36,6 @@ Will Fisher
 
 ## Project Repositories
 
-* [supermarket](https://github.com/chef/supermarket)
-* [supermarket-omnibus-cookbook](https://github.com/chef-cookbooks/supermarket-omnibus-cookbook)
-* [cookbook-quality-metrics](https://github.com/chef-cookbooks/cookbook-quality-metrics)
+- [supermarket](https://github.com/chef/supermarket)
+- [supermarket-omnibus-cookbook](https://github.com/chef-cookbooks/supermarket-omnibus-cookbook)
+- [cookbook-quality-metrics](https://github.com/chef-cookbooks/cookbook-quality-metrics)

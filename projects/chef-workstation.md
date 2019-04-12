@@ -1,6 +1,8 @@
-# Chef Workstation Team
+# Chef Workstation Project
 
-The Chef Workstataion team is responsible for Chef Workstation and all related repositories.
+The Chef Workstataion project includes Chef Workstation, Chef-DK, and all related repositories.
+
+## Project Members
 
 ### Project Owners
 
@@ -34,7 +36,7 @@ Tyler Ball
 
 ## Project Repositories
 
-[chef-dk](https://github.com/chef/chef-dk)
-[chef_workstation](https://github.com/chef/chef_workstation)
-[chef-apply](https://github.com/chef/chef-apply)
-[chef-workstation-app](https://github.com/chef/chef-workstation-app)
+- [chef-dk](https://github.com/chef/chef-dk)
+- [chef_workstation](https://github.com/chef/chef_workstation)
+- [chef-apply](https://github.com/chef/chef-apply)
+- [chef-workstation-app](https://github.com/chef/chef-workstation-app)
