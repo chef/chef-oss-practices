@@ -2,9 +2,13 @@
 
 The InSpec project includes InSpec as well as several resource packs and plugins.
 
-## Project Members
+**Slack Channel** TBD
 
-### Project Owners
+**Triage Schedule**: TBD
+
+### Project Members
+
+#### Project Owners
 
 Clinton Wolfe
   - Github: [clintoncwolfe](https://github.com/clintoncwolfe)
@@ -14,11 +18,11 @@ Miah Johnson
   - Github: [miah](https://github.com/miah)
   - Slack: @miah
 
-### Project Approvers
+#### Project Approvers
 
-### Project Reviewers
+#### Project Reviewers
 
-## Project Repositories
+### Project Repositories
 
 - [inspec](https://github.com/inspec/inspec)
 - [inspec-gcp](https://github.com/inspec/inspec-gcp)

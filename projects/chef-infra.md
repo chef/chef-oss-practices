@@ -2,9 +2,13 @@
 
 The Chef Infra project includes chef-client and all directly related projects.
 
-## Project Members
+**Slack Channel** #chef-infra-dev
 
-### Project Owners
+**Triage Schedule**: TBD
+
+### Project Members
+
+#### Project Owners
 
 Bryan McLellan
   - Github: [btm](https://github.com/btm)
@@ -18,15 +22,15 @@ Tim Smith
   - Github: [tas50](https://github.com/tas50)
   - Slack: @tas50
 
-### Project Approvers
+#### Project Approvers
 
-### Project Reviewers
+#### Project Reviewers
 
 Mark Anderson
   - Github: [markan](https://github.com/markan)
   - Slack: @mark
 
-## Project Repositories
+### Project Repositories
 
 - [chef](https://github.com/chef/chef)
 - [ohai](https://github.com/chef/ohai)

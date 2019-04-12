@@ -2,9 +2,13 @@
 
 The Chef Workstataion project includes Chef Workstation, Chef-DK, and all related repositories.
 
-## Project Members
+**Slack Channel** #chef-workstation-dev
 
-### Project Owners
+**Triage Schedule**: TBD
+
+### Project Members
+
+#### Project Owners
 
 Jon Morrow
   - Github: [jonsmorrow](https://github.com/jonsmorrow)
@@ -18,7 +22,7 @@ Mike Krasnow
   - Github: [krasnow](https://github.com/krasnow)
   - Slack: @krasnow
 
-### Project Approvers
+#### Project Approvers
 
 Robb Kidd
   - Github: [robbkidd](https://github.com/robbkidd)
@@ -32,9 +36,9 @@ Tyler Ball
   - Github: [tyler-ball](https://github.com/tyler-ball)
   - Slack: @tball
 
-### Project Reviewers
+#### Project Reviewers
 
-## Project Repositories
+### Project Repositories
 
 - [chef-dk](https://github.com/chef/chef-dk)
 - [chef_workstation](https://github.com/chef/chef_workstation)

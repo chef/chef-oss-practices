@@ -2,9 +2,13 @@
 
 The Chef Foundation project includes the common libraries and applications used to support projects such as Chef and InSpec.
 
-## Project Members
+**Slack Channel** #chef-foundation-dev
 
-### Project Owners
+**Triage Schedule**: TBD
+
+### Project Members
+
+#### Project Owners
 
 Clinton Wolfe
   - Github: [clintoncwolfe](https://github.com/clintoncwolfe)
@@ -18,7 +22,7 @@ Marc Paradise
   - Github: [marcparadise](https://github.com/marcparadise)
   - Slack: @mparadise
 
-### Project Approvers
+#### Project Approvers
 
 Miah Johnson
   - Github: [miah](https://github.com/miah)
@@ -40,9 +44,9 @@ Tyler Ball
   - Github: [tyler-ball](https://github.com/tyler-ball)
   - Slack: @tball
 
-### Project Reviewers
+#### Project Reviewers
 
-## Project Repositories
+### Project Repositories
 
 - [appbundle-update](https://github.com/chef/appbundle-update)
 - [appbundler](https://github.com/chef/appbundler)

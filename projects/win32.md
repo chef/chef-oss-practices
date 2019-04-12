@@ -2,9 +2,13 @@
 
 The Chef win32 project includes all of Chef's win32-* repositories.
 
-## Project Members
+**Slack Channel** TBD
 
-### Project Owners
+**Triage Schedule**: TBD
+
+### Project Members
+
+#### Project Owners
 
 Bryan McLellan
   - Github: [btm](https://github.com/btm)
@@ -18,11 +22,11 @@ Tim Smith
   - Github: [tas50](https://github.com/tas50)
   - Slack: @tas50
 
-### Project Approvers
+#### Project Approvers
 
-### Project Reviewers
+#### Project Reviewers
 
-## Project Repositories
+### Project Repositories
 
 - [ffi-win32-extensions](https://github.com/chef/ffi-win32-extensions)
 - [win32-certstore](https://github.com/chef/win32-certstore)
