@@ -15,4 +15,4 @@ Each project may or may not have its own policies for editing their section of t
 
 Edits in the Team's sub-directory should follow any additional guidelines described by the respective team leads in the sub-directory's `CONTRIBUTING.md` file (e.g. [teams/habitat/CONTRIBUTING.md](teams/habitat/CONTRIBUTING.md)).
 
-Attending a [team meeting](teams/team-list.md), or posting on their mailing list might be prudent if you want to make extensive contributions.
+Attending a [project team meeting](projects/), or posting on their mailing list might be prudent if you want to make extensive contributions.

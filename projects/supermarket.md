@@ -1,8 +1,14 @@
-# Supermarket Team
+# Supermarket Project
 
-The Supermarket team is responsible for Supermarket and all related repositories.
+The Supermarket project includes Supermarket and all related repositories.
 
-### Project Owners
+**Slack Channel** TBD
+
+**Triage Schedule**: TBD
+
+### Project Members
+
+#### Project Owners
 
 Jon Morrow
   - Github: [jonsmorrow](https://github.com/jonsmorrow)
@@ -16,9 +22,9 @@ Robb Kidd
   - Github: [robbkidd](https://github.com/robbkidd)
   - Slack: @robbkidd
 
-### Project Approvers
+#### Project Approvers
 
-### Project Reviewers
+#### Project Reviewers
 
 Marc Paradise
   - Github: [marcparadise](https://github.com/marcparadise)
@@ -32,8 +38,8 @@ Will Fisher
   - Github: [teknofire](https://github.com/teknofire)
   - Slack: @teknofire
 
-## Project Repositories
+### Project Repositories
 
-* [supermarket](https://github.com/chef/supermarket)
-* [supermarket-omnibus-cookbook](https://github.com/chef-cookbooks/supermarket-omnibus-cookbook)
-* [cookbook-quality-metrics](https://github.com/chef-cookbooks/cookbook-quality-metrics)
+- [supermarket](https://github.com/chef/supermarket)
+- [supermarket-omnibus-cookbook](https://github.com/chef-cookbooks/supermarket-omnibus-cookbook)
+- [cookbook-quality-metrics](https://github.com/chef-cookbooks/cookbook-quality-metrics)
