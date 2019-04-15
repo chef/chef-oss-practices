@@ -7,28 +7,26 @@ A Chef OSS repo can be in one of 3 states
 
 ## Active
 
-Repos in an active state are under active development - including bug fixes, new features, and more. Repos in this active state must have at least two maintainers, who are current employees of Chef Software, Inc. Service Level Agreement (SLA) on response to issues or pull requests should be less than 1 business week.
+Repos in an active state are under active development - including bug fixes, new features, and more. Repos in this active state must have at least two maintainers, who are current employees of Chef Software, Inc. The response time maximum for active projects should ideally be within 7 days.
 
 ## Maintained
 
-Repos in a maintained state are maintained where bugs will be fixed, but no new feature work should be expected. Repos in this maintained state must have at least one maintainer, who is a current employee of Chef Software, Inc. Service Level Agreement (SLA) on response to issues or pull requests should be anywhere from 1 business week to never.
+Repos in a maintained state are maintained where bugs will be fixed, but no new feature work should be expected. Repos in this maintained state must have at least one maintainer, who is a current employee of Chef Software, Inc. The response time maximum for issues or pull requests should be anywhere from 7 days to never.
 
 ## Deprecated
 
 Repos in a deprecated state are no longer maintained. No new features or bug fixes should be expected. Repos in this state do not have any assigned maintainers. See our [Project EOL Communication](../communication/project-eol.md) for additional information on the deprecation of a project.
 
-## What is the SLA?
+## What is the Response Time Maximum?
 
-The SLA applies to response by a project member to issues or pull requests, it does not apply to the resolution of an issue or the merging of a pull request. Resolution of an issue or merging of a pull request is highly variable depending on what is involved in them.
+The Response Time Maximum (RTM) applies to responses from a project member to issues or pull requests. It does not apply to the resolution of an issue or the merging of a pull request. Resolution of an issue or merging of a pull request is highly variable depending on what is involved in them.
 
 ## Where to Communicate this:
 
-Both the Project State and SLAs must be defined in the README of the project. We recommend defining them at the top of the README (right under the title) like this:
+Both the Project State and Response Time Maximums must be defined in the README of the project. We recommend defining them at the top of the README (right under the title) like this:
 
 ```
-* **Project State: Active**
-* **Issues Response SLA: 3 business days**
-* **Pull Request Response SLA: 3 business days**
-
-See [Chef's documentation on open source practices](https://github.com/chef/chef-oss-practices) for more [information about projects states and SLAs](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md).
+* **[Project State](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md): Active**
+* **Issues [Response Time Maximum](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md#what-is-the-response-time-maximum): 7 days**
+* **Pull Request [Response Time Maximum](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md#what-is-the-response-time-maximum): 7 days**
 ```

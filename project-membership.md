@@ -45,7 +45,7 @@ Reviewer status is scoped to a project.
    - Complete every item on [the checklist](.github/ISSUE_TEMPLATE/membership.md) in the issue template
    - Make sure that the list of contributions included is representative of your work on the project.
 - Have your sponsoring reviewers confirm their sponsorship with a GitHub PR approval
-- Once your sponsors have responded, your request will be reviewed by the project's approvers, in accordance with their PR [SLA]. Any missing information will be requested.
+- Once your sponsors have responded, your request will be reviewed by the project's approvers, within the response time maximum defined by the project. Any missing information will be requested.
 
 ### Chef Software Ecosystem
 
@@ -154,5 +154,4 @@ The Maintainer role has been removed and replaced with a greater focus on explic
 
 [CODEOWNERS]: contributors/guide/owners.md
 [PROJECTS]: projects/
-[SLA]: /github-management/org-owners-guide.md#slas
 [two-factor authentication]: https://help.github.com/articles/about-two-factor-authentication
