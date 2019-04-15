@@ -30,5 +30,5 @@ Both the Project State and SLAs must be defined in the README of the project. We
 * **Issues Response SLA: 3 business days**
 * **Pull Request Response SLA: 3 business days**
 
-For more information on project states and SLAs, see [this documentation](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md)
+See [Chef's documentation on open source practices](https://github.com/chef/chef-oss-practices) for more [information about projects states and SLAs](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md).
 ```
