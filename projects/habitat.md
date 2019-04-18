@@ -18,6 +18,9 @@ Christopher Maier
 
 #### Project Approvers
 
+Salim Alam
+  - Github: [chefsalim](https://github.com/chefsalim)
+
 Josh Black
   - Github: [raskchanky](https://github.com/raskchanky)
 
@@ -25,9 +28,6 @@ Matt Wrock
   - Github: [mwrock](https://github.com/mwrock)
 
 #### Project Reviewers
-
-Salim Alam
-  - Github: [chefsalim](https://github.com/chefsalim)
 
 Liz Chen
   - Github: [apriofrost](https://github.com/apriofrost)
