@@ -50,5 +50,4 @@ Matt Peck
 ### Project Repositories
 
 - [habitat](https://github.com/habitat-sh/habitat)
-- [habitat-core](https://github.com/habitat-sh/core)
 - [homebrew-habitat](https://github.com/habitat-sh/homebrew-habitat)
