@@ -10,16 +10,13 @@ Includes all code for the Habitat Supervisor, CLI, Studio, exporters, etc.
 
 #### Project Owners
 
-Jon Bauman
-  - Github: [baumanj](https://github.com/baumanj)
-
 Christopher Maier
   - Github: [christophermaier](https://github.com/christophermaier)
 
-#### Project Approvers
+Jon Bauman
+  - Github: [baumanj](https://github.com/baumanj)
 
-Salim Alam
-  - Github: [chefsalim](https://github.com/chefsalim)
+#### Project Approvers
 
 Josh Black
   - Github: [raskchanky](https://github.com/raskchanky)
@@ -27,25 +24,28 @@ Josh Black
 Matt Wrock
   - Github: [mwrock](https://github.com/mwrock)
 
+Salim Alam
+  - Github: [chefsalim](https://github.com/chefsalim)
+
 #### Project Reviewers
 
-Liz Chen
-  - Github: [apriofrost](https://github.com/apriofrost)
+Ian Henry
+  - Github: [eeyun](https://github.com/eeyun)
 
 Kimberley Garmoe
   - Github: [kagarmoe](https://github.com/kagarmoe)
 
-Scott Hain
-  - Github: [scotthain](https://github.com/scotthain)
-
-Ian Henry
-  - Github: [eeyun](https://github.com/eeyun)
+Liz Chen
+  - Github: [apriofrost](https://github.com/apriofrost)
 
 Mary Jinglewski
   - Github: [mjingle](https://github.com/mjingle)
 
 Matt Peck
   - Github: [mpeck](https://github.com/mpeck)
+
+Scott Hain
+  - Github: [scotthain](https://github.com/scotthain)
 
 ### Project Repositories
 
