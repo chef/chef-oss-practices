@@ -54,7 +54,6 @@ Tyler Ball
 - [chefstyle](https://github.com/chef/chefstyle)
 - [ffi-libarchive](https://github.com/chef/ffi-libarchive)
 - [ffi-yajl](https://github.com/chef/ffi-yajl)
-- [kitchen-appbundle-updater](https://github.com/chef/kitchen-appbundle-updater)
 - [libyajl2-gem](https://github.com/chef/libyajl2-gem)
 - [mixlib-archive](https://github.com/chef/mixlib-archive)
 - [mixlib-authentication](https://github.com/chef/mixlib-authentication)
