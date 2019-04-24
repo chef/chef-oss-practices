@@ -32,6 +32,10 @@ Gitter has been considered as a possibility, but dividing development conversati
 
 This does bring us to the larger question: should our development conversations be happening in a synchronous matter at all, where replies are often expected to be immediate?
 
+## Why don't we use a self hosted solution like MatterMost?
+
+[MatterMost](https://mattermost.com/download/) is certainly intriguing, especially as it offers an Open Source, self hosted version, but we do not have the resources to dedicate to supporting and maintaining a self hosted version of MatterMost at this time.
+
 ## Why wouldn't we use a synchronous chat tool?
 
 There are a few clear issues with synchronous chat tools, which have the tendency to alienate parts of our community.
