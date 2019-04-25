@@ -48,7 +48,7 @@ Tyler Ball
 
 ### Project Repositories
 
-- [appbundle-update](https://github.com/chef/appbundle-update)
+- [appbundle-updater](https://github.com/chef/appbundle-updater)
 - [appbundler](https://github.com/chef/appbundler)
 - [chef-telemetry](https://github.com/chef/chef-telemetry)
 - [chefstyle](https://github.com/chef/chefstyle)
