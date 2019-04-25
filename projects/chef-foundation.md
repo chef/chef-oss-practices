@@ -50,6 +50,7 @@ Tyler Ball
 
 - [appbundle-update](https://github.com/chef/appbundle-update)
 - [appbundler](https://github.com/chef/appbundler)
+- [chef-core](https://github.com/chef/chef-core)
 - [chef-telemetry](https://github.com/chef/chef-telemetry)
 - [chefstyle](https://github.com/chef/chefstyle)
 - [ffi-libarchive](https://github.com/chef/ffi-libarchive)
