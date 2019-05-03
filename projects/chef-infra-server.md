@@ -1,6 +1,6 @@
 # Chef Infra Server Foundation Team
 
-The Chef Erlang Foundation team is responsible for common libraries and
+The Chef Infra Server team is responsible for common libraries and
 applications used to support the mostly erlang based server
 products. This includes:
   - Chef Server
