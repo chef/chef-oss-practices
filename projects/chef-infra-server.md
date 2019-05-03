@@ -2,12 +2,14 @@
 
 The Chef Erlang Foundation team is responsible for common libraries and
 applications used to support the mostly erlang based server
-products. This includes Chef Server and Push Jobs Server.
+products. This includes:
+  - Chef Server
+  - Push Jobs Server
+  - Push Jobs Client
 
 ** Slack Channel **: #chef-server
 
 ** Triage Schedule **: TBD
-
 
 ### Project Owners
 
@@ -60,6 +62,7 @@ Tyler Cloke
 
 [chef-server](https://github.com/chef/chef-server)
 [push-jobs-server](https://github.com/chef/opscode-pushy-server)
+[push-jobs-client](https://github.com/chef/opscode-pushy-client)
 
 ## Project Repositories
 
