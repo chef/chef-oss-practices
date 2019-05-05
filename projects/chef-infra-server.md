@@ -7,9 +7,9 @@ products. This includes:
   - Push Jobs Server
   - Push Jobs Client
 
-** Slack Channel **: #chef-server
+**Slack Channel**: #chef-server
 
-** Triage Schedule **: TBD
+**Triage Schedule**: TBD
 
 ### Project Owners
 
@@ -74,7 +74,6 @@ Tyler Cloke
 [efast_xs](https://github.com/chef/efast_xs)
 [epgsql](https://github.com/chef/epgsql-1)
 [erlzmq2](https://github.com/chef/erlzmq2)
-[erlzmq](https://github.com/chef/erlzmq2)
 [fixie](https://github.com/chef/fixie)
 [folsom_graphite](https://github.com/chef/folsom_graphite)
 [ibrowse](https://github.com/chef/ibrowse)
