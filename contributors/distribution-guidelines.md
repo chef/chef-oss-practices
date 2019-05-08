@@ -46,7 +46,18 @@ Yes. Chef is currently removing binstubs from the Chef gem to allow it to functi
 
 ## Do you need to change config variables? 
 
-Yes. Because it is something external to the software that a user interacts with. Again, it will create some breakage but the variable prefix shouldn't misrepresent the actual distribution being run. 
+No, so long as it is still clear which distribution the user is using.
+
+
+For example 
+
+```
+cinc-client --chef_server_url
+```
+
+is fine, because it is still very clear from the command that the user is using "cinq-client" rather than "chef-client".
+
+Generally, if it's still clear where the origin of the distribution is, and if changing the config files would break compatibility, it is ok to leave them as they are. If you have specific questions about this, please ask!
 
 ## Will these guidelines ever change?
 
