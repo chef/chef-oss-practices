@@ -1,17 +1,42 @@
 # Guidelines for Distributions
 
-So you want to distribute your own version of a Chef product:
+So you want to create a new distro of a Chef product….
 
-Congratulations! We welcome distributions of any and all of our products with open arms.
+Excellent! Welcome aboard!
 
-We do require that distributions follow our trademark policy https://www.chef.io/trademark-policy/
+Anyone is welcome to make a distribution of Chef’s Open Source products, but must remove Chef trademarks from the code base (the full Chef trademark policy can be found here). 
 
-What does that mean? It means you need to remove enough of the Chef Marks from the source code so as to not confuse users as to the origin of the distribution
+## Why does Chef require removal of Trademarks? 
+
+The purpose of Chef’s Trademark Policy is to avoid any confusion about which distributions come from Chef the company (which are supported, warrantied, and indemnified) and which distributions come from somewhere else (which are not supported, warrantied, or indemnified by Chef). 
+How does this affect you?
 
 If you offer products or services related to Chef products, you may use the Chef name in describing and advertising your product so long as you don't mislead customers into thinking that either your website, service, or product is a Chef Software website, service, or product, or that Chef has any direct relationship with your organization. For example: "Nell's Management Dashboard for Chef Habitat" is okay. "Nell's Chef" is not okay, nor is "Nell's Chef Automate Dashboard".
 
-Additionally, commands used to execute the distribution must be different from those in Chef Software's distribution.  For example, if you create a distribution of Chef, the command to use your distribution's binary cannot be "chef", though it can be something like "kitty" - the goal is prevent confusion about which distributions come from Chef Software and which come from another source.
+Additionally, commands used to execute the distribution must be different from those in Chef Software's distribution. For example, if you create a distribution of Chef, the command to use your distribution's binary cannot be "chef", though it can be something like "kitty" - the goal is prevent confusion about which distributions come from Chef Software and which come from another source.
 
-You do not have to remove Chef from the existing Ruby class names, e.g. Chef::Log.  (Derived or modified class names should not include Chef).
+## What are some examples?
 
-If you have specific questions, please reach out to us, we would love to talk to you!
+The Chef community has begun the process of creating a Community distribution of Chef itself - beginning with implementing a way to handle Chef’s trademarks throughout the code. They created a Chef::Dist namespace and replaced all Chef trademarks in the code with a configurable variable - i.e. “Chef Server” became “#{Chef::Dist::PRODUCT} Server”.
+
+This pull request was created in collaboration and reviewed by Chef Software and is a good implementation of what we are looking for when requiring that distros remove Chef’s trademarks. Please feel free to use it as a reference: https://github.com/chef/chef/pull/8368
+
+You can also see the conversation around the decisions of that pull request in this design proposal: https://github.com/chef/chef/issues/8376
+
+## What about Chef code libraries used in distributions?
+
+You do not have to remove Chef from the existing Ruby class names, e.g. Chef::Log. (However, derived or modified class names should not include Chef).
+
+## Do you need to change the installation paths for distributions?
+
+Yes, do not reuse /opt/chef, /etc/chef, etc. as installation paths. It is fine if the distribution uses symlinks or other tools to make migration easier.
+
+## Can you reference the Chef gem?
+
+Yes. Chef is currently removing binstubs from the Chef gem to allow it to function as a library, rather than an executable. It is fine to reference the Chef gem as a library from your code, but derived and modified class names should not include Chef trademarks.
+
+## Do you need to change config variables? 
+
+Yes. Because it is something external to the software that a user interacts with. Again, it will create some breakage but the variable prefix shouldn't misrepresent the actual distribution being run. 
+Will these guidelines ever change?
+That is possible. Again, the purpose of the Chef Trademark Policy is to avoid confusion in the market about which distributions come from Chef and which distributions come from other sources. If we find that these guidelines are not sufficient to avoid that confusion, we may need to revisit them. We will, of course, give ample notice of any changes to these guidelines to allow for plenty of time to implement them.
