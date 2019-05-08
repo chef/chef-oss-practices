@@ -61,4 +61,4 @@ Generally, if it's still clear where the origin of the distribution is, and if c
 
 ## Will these guidelines ever change?
 
-That is possible. Again, the purpose of the Chef Trademark Policy is to avoid confusion in the market about which distributions come from Chef and which distributions come from other sources. If we find that these guidelines are not sufficient to avoid that confusion, we may need to revisit them. We will, of course, give ample notice of any changes to these guidelines to allow for plenty of time to implement them.
+Yes, they will likely change as we learn from creating distributions and iterate on the process. Again, the purpose of the Chef Trademark Policy is to avoid confusion in the market about which distributions come from Chef and which distributions come from other sources. If we find that these guidelines are not sufficient to avoid that confusion, we may need to revisit them. We will, of course, give ample notice of any changes to these guidelines to allow for plenty of time to implement them.
