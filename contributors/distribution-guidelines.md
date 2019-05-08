@@ -14,7 +14,7 @@ The purpose of Chef’s Trademark Policy is to avoid any confusion about which d
 
 If you offer products or services related to Chef products, you may use the Chef name in describing and advertising your product so long as you don't mislead customers into thinking that either your website, service, or product is a Chef Software website, service, or product, or that Chef has any direct relationship with your organization. For example: "Nell's Management Dashboard for Chef Habitat" is okay. "Nell's Chef" is not okay, nor is "Nell's Chef Automate Dashboard".
 
-Additionally, commands used to execute the distribution must be different from those in Chef Software's distribution. For example, if you create a distribution of Chef, the command to use your distribution's binary cannot be "chef", though it can be something like "kitty" - the goal is prevent confusion about which distributions come from Chef Software and which come from another source.
+Additionally, commands used to execute the distribution - if they include trademarks of Chef - must be different from those in Chef Software's distribution. For example, if you create a distribution of Chef, the command to use your distribution's binary cannot be "chef", though it can be something like "kitty" - the goal is prevent confusion about which distributions come from Chef Software and which come from another source.
 
 ## What are some examples?
 
@@ -26,7 +26,15 @@ You can also see the conversation around the decisions of that pull request in t
 
 ## What about Chef code libraries used in distributions?
 
-You do not have to remove Chef from the existing Ruby class names, e.g. Chef::Log. (However, derived or modified class names should not include Chef).
+You do not have to remove Chef from the existing Ruby class names, e.g. Chef::Log or Chef::Dist. 
+
+However, if you add a new class or derived class, the name of that new class should not include Chef.
+
+For example:
+
+Chef::Dist::Kitty is absolutely fine.
+
+Chef::Dist::ChefKitty is not fine.
 
 ## Do you need to change the installation paths for distributions?
 
