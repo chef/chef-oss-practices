@@ -9,7 +9,8 @@ Anyone is welcome to make a distribution of Chef’s Open Source products, but m
 ## Why does Chef require removal of Trademarks? 
 
 The purpose of Chef’s Trademark Policy is to avoid any confusion about which distributions come from Chef the company (which are supported, warrantied, and indemnified) and which distributions come from somewhere else (which are not supported, warrantied, or indemnified by Chef). 
-How does this affect you?
+
+## How does this affect you?
 
 If you offer products or services related to Chef products, you may use the Chef name in describing and advertising your product so long as you don't mislead customers into thinking that either your website, service, or product is a Chef Software website, service, or product, or that Chef has any direct relationship with your organization. For example: "Nell's Management Dashboard for Chef Habitat" is okay. "Nell's Chef" is not okay, nor is "Nell's Chef Automate Dashboard".
 
@@ -17,7 +18,7 @@ Additionally, commands used to execute the distribution must be different from t
 
 ## What are some examples?
 
-The Chef community has begun the process of creating a Community distribution of Chef itself - beginning with implementing a way to handle Chef’s trademarks throughout the code. They created a Chef::Dist namespace and replaced all Chef trademarks in the code with a configurable variable - i.e. “Chef Server” became “#{Chef::Dist::PRODUCT} Server”.
+The Chef community has begun the process of creating a Community distribution of Chef itself - beginning with implementing a way to handle Chef’s trademarks throughout the code. They created a Chef::Dist namespace and replaced all Chef trademarks in the code with a configurable variable - i.e. “Chef Server” became “Chef::Dist::SERVER_PRODUCT”
 
 This pull request was created in collaboration and reviewed by Chef Software and is a good implementation of what we are looking for when requiring that distros remove Chef’s trademarks. Please feel free to use it as a reference: https://github.com/chef/chef/pull/8368
 
@@ -38,5 +39,7 @@ Yes. Chef is currently removing binstubs from the Chef gem to allow it to functi
 ## Do you need to change config variables? 
 
 Yes. Because it is something external to the software that a user interacts with. Again, it will create some breakage but the variable prefix shouldn't misrepresent the actual distribution being run. 
-Will these guidelines ever change?
+
+## Will these guidelines ever change?
+
 That is possible. Again, the purpose of the Chef Trademark Policy is to avoid confusion in the market about which distributions come from Chef and which distributions come from other sources. If we find that these guidelines are not sufficient to avoid that confusion, we may need to revisit them. We will, of course, give ample notice of any changes to these guidelines to allow for plenty of time to implement them.
