@@ -4,7 +4,7 @@ So you want to create a new distro of a Chef product….
 
 Excellent! Welcome aboard!
 
-Anyone is welcome to make a distribution of Chef’s Open Source products, but must remove Chef trademarks from the code base (the full Chef trademark policy can be found here). 
+Anyone is welcome to make a distribution of Chef’s Open Source products, but must remove Chef trademarks from the code base (see the full [Chef trademark policy](https://www.chef.io/trademark-policy/) for details). 
 
 ## Why does Chef require removal of Trademarks? 
 
