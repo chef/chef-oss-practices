@@ -55,7 +55,7 @@ For example
 cinc-client --chef_server_url
 ```
 
-is fine, because it is still very clear from the command that the user is using "cinq-client" rather than "chef-client".
+is fine, because it is still very clear from the command that the user is using "cinc-client" rather than "chef-client".
 
 Generally, if it's still clear where the origin of the distribution is, and if changing the config files would break compatibility, it is ok to leave them as they are. If you have specific questions about this, please ask!
 
