@@ -16,7 +16,11 @@ If you offer products or services related to Chef products, you may use the Chef
 
 Additionally, commands used to execute the distribution - if they include trademarks of Chef - must be different from those in Chef Software's distribution. For example, if you create a distribution of Chef, the command to use your distribution's binary cannot be "chef", though it can be something like "kitty" - the goal is prevent confusion about which distributions come from Chef Software and which come from another source.
 
-## What are some examples?
+That said, it is ok to symlink a command to a distribution's equivalent command. If you have created a distribution of "chef" called "kitty", it is fine to symlink "chef-client" to call "kitty-client". In these cases. you do need to make it clear that the user is using "kitty" and not "chef". If someone uses "chef-client" and it calls "kitty-client" - the command output should display words to the user reminding them that they are using "kitty" and a symlinked command, rather that the official "chef" distribution.
+
+The InSpec community distro has a great [real world example](https://gitlab.com/cc-build/outspec/merge_requests/9/diffs#diff-content-88b7c64cc02b2834e36613c781436de35ba3b549).
+
+## What are some examples of removing trademarks?
 
 The Chef community has begun the process of creating a Community distribution of Chef itself - beginning with implementing a way to handle Chef’s trademarks throughout the code. They created a Chef::Dist namespace and replaced all Chef trademarks in the code with a configurable variable - i.e. “Chef Server” became “Chef::Dist::SERVER_PRODUCT”
 
@@ -28,13 +32,15 @@ You can also see the conversation around the decisions of that pull request in t
 
 You do not have to remove Chef from the existing Ruby class names, e.g. Chef::Log or Chef::Dist. 
 
-However, if you add a new class or derived class, the name of that new class should not include Chef.
+However, if you add a new class or create a derived class, the name of that new class should not include Chef.
 
 For example:
 
 Chef::Dist::Kitty is absolutely fine.
 
 Chef::Dist::ChefKitty is not fine.
+
+We do recognize that sometimes it is necessary to make modifications to existing class names that include Chef trademarks - especially when you are monkey patching a class to add new behavior. It is fine to restart existing module/class namespaces to make behavior modifications.
 
 ## Do you need to change the installation paths for distributions?
 
@@ -61,4 +67,4 @@ Generally, if it's still clear where the origin of the distribution is, and if c
 
 ## Will these guidelines ever change?
 
-Yes, they will likely change as we learn from creating distributions and iterate on the process. Again, the purpose of the Chef Trademark Policy is to avoid confusion in the market about which distributions come from Chef and which distributions come from other sources. If we find that these guidelines are not sufficient to avoid that confusion, we may need to revisit them. We will, of course, give ample notice of any changes to these guidelines to allow for plenty of time to implement them.
+Yes, they will likely change as we learn from creating distributions and iterate on the process. Additionally, the purpose of the Chef Trademark Policy is to avoid confusion in the market about which distributions come from Chef and which distributions come from other sources. If we find that these guidelines are not sufficient to avoid that confusion, we may need to revisit them. We will, of course, give ample notice of any changes to these guidelines to allow for plenty of time to implement them.
