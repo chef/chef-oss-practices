@@ -18,8 +18,6 @@ Additionally, commands used to execute the distribution - if they include tradem
 
 That said, it is ok to symlink a command to a distribution's equivalent command. If you have created a distribution of "chef" called "kitty", it is fine to symlink "chef-client" to call "kitty-client". In these cases. you do need to make it clear that the user is using "kitty" and not "chef". If someone uses "chef-client" and it calls "kitty-client" - the command output should display words to the user reminding them that they are using "kitty" and a symlinked command, rather that the official "chef" distribution.
 
-The InSpec community distro has a great [real world example](https://gitlab.com/cc-build/outspec/merge_requests/9/diffs#diff-content-88b7c64cc02b2834e36613c781436de35ba3b549).
-
 ## What are some examples of removing trademarks?
 
 The Chef community has begun the process of creating a Community distribution of Chef itself - beginning with implementing a way to handle Chef’s trademarks throughout the code. They created a Chef::Dist namespace and replaced all Chef trademarks in the code with a configurable variable - i.e. “Chef Server” became “Chef::Dist::SERVER_PRODUCT”
