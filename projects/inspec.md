@@ -18,6 +18,10 @@ Miah Johnson
   - Github: [miah](https://github.com/miah)
   - Slack: @miah
 
+Ryan Davis
+  - Github: [zenspider](https://github.com/zenspider)
+  - Slack: @rdavis
+
 #### Project Approvers
 
 #### Project Reviewers
