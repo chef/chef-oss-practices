@@ -30,6 +30,10 @@ Mark Anderson
   - Github: [markan](https://github.com/markan)
   - Slack: @mark
 
+Robb Kidd
+  - Github: [robbkidd](https://github.com/robbkidd)
+  - Slack: @robbkidd
+
 ### Project Repositories
 
 - [chef](https://github.com/chef/chef)
