@@ -69,6 +69,7 @@ We encourage all contributors to become project members. We aim to grow an activ
 
 ### Distributions
 - [Distribution Guidelines](./distributions/distribution-guidelines.md)
+- [Distribution List](./distributions/distribution-list.md)
 
 **Guide**
 - [README](./contributors/guide/README.md)
