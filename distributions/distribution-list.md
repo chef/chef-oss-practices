@@ -4,7 +4,7 @@ Along with the [offical Chef distributions](https://downloads.chef.io/) of our O
 
 ## cc-build
 
-This includes community distributions of Chef's software (including Chefd Infra, InSpec, Habitat, and Automate).
+This includes community distributions of Chef's software (including Chef Infra, InSpec, Habitat, and Automate).
 
 * [Source Code](https://gitlab.com/cc-build)
 * [Builds](http://downloads.cc-build.org/)
