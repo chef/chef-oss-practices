@@ -6,11 +6,11 @@ Along with the [offical Chef distributions](https://downloads.chef.io/) of our O
 
 This includes community distributions of Chef's software (including Chefd Infra, InSpec, Habitat, and Automate).
 
-[Source Code](https://gitlab.com/cc-build)
-[Builds](http://downloads.cc-build.org/)
+* [Source Code](https://gitlab.com/cc-build)
+* [Builds](http://downloads.cc-build.org/)
 
 ## Biome
 
 This is a community distribution of Habitat.
 
-[Source Code](https://github.com/biome-sh/biome)
+* [Source Code](https://github.com/biome-sh/biome)
