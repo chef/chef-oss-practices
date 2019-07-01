@@ -24,15 +24,15 @@ Tim Smith
 
 #### Project Approvers
 
+Robb Kidd
+  - Github: [robbkidd](https://github.com/robbkidd)
+  - Slack: @robbkidd
+
 #### Project Reviewers
 
 Mark Anderson
   - Github: [markan](https://github.com/markan)
   - Slack: @mark
-
-Robb Kidd
-  - Github: [robbkidd](https://github.com/robbkidd)
-  - Slack: @robbkidd
 
 ### Project Repositories
 
