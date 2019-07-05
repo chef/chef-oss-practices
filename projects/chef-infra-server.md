@@ -17,6 +17,10 @@ Mark Anderson
   - Github: [markan](https://github.com/markan)
   - Slack: @mark
 
+Prajakta Purohit
+  - Github: [PrajaktaPurohit](https://github.com/PrajaktaPurohit)
+  - Slack: @prajakta
+
 ### Project Approvers
 
 Marc Paradise
@@ -36,9 +40,6 @@ Steven Danna
 Bryan McLellan
   - Github: [btm](https://github.com/btm)
   - Slack: @btm
-
-Prajakta Purohit
-  - Github: [PrajaktaPurohit](https://github.com/PrajaktaPurohit)
 
 Ryan Cragun
   - Github: [ryancragun](https://github.com/ryancragun)
