@@ -66,7 +66,10 @@ We encourage all contributors to become project members. We aim to grow an activ
 
 ### Contributors
 - [Contributor Licenses](./contributors/software-licenses.md)
-- [Distribution Guidelines](./contributors/distribution-guidelines.md)
+
+### Distributions
+- [Distribution Guidelines](./distributions/distribution-guidelines.md)
+- [Distribution List](./distributions/distribution-list.md)
 
 **Guide**
 - [README](./contributors/guide/README.md)
