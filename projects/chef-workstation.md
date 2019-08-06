@@ -28,6 +28,10 @@ Robb Kidd
   - Github: [robbkidd](https://github.com/robbkidd)
   - Slack: @robbkidd
 
+Salim Afiune
+  - Github: [afiune](https://github.com/afiune)
+  - Slack: @afiune
+
 Tim Smith
   - Github: [tas50](https://github.com/tas50)
   - Slack: @tas50
