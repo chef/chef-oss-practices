@@ -4,7 +4,7 @@ The Chef Workstataion project includes Chef Workstation, Chef-DK, and all relate
 
 **Slack Channel** #chef-workstation-dev
 
-**Triage Schedule**: TBD
+**Triage Schedule**: Every Monday at 1pm Pacific Time
 
 ### Project Members
 
