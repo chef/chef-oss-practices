@@ -1,6 +1,6 @@
 # Contributor Entitlement Program
 
-Continuing our commitment to work in partnership with the Community, Chef offers a Contributor Entitlement program.  At Chef, we recognize and value the Community’s involvement and we are dedicated to enabling our contributors to use the very software they are helping to build.
+Continuing our commitment to work in partnership with the Chef Community, Chef offers a Contributor Entitlement program.  At Chef, we recognize and value our community's involvement and we are dedicated to enabling our contributors to use the very software they are helping to build.
 
 Chef considers any of the following contributions to be qualifying to apply to the Contributor Entitlement program:
 
