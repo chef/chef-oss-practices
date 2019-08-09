@@ -1,17 +1,12 @@
 ---
-name: Feature Request
-about: Request new content for Chef Software Open Source Communities repo
-labels: 'Status: Untriaged'
+name: Feature request
+about: Suggest an idea for this project
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
-<!--- Provide a general summary of the requested feature in the Title above. -->
-<!--- Also, please be aware of our [Code of Conduct](https://www.chef.io/code-of-conduct/). -->
+# Redirect Alert!
 
-## Detailed Description
-<!--- Provide a detailed description of the change or addition you are proposing -->
-
-## Context
-<!--- Why is this change important to you? How would you use it? -->
-
-## Possible Implementation
-<!--- Not obligatory, but suggest an idea for implementing addition or change -->
+## Submit your feature request via the [Chef Ideas Portal](https://chef-software.ideas.aha.io/)
