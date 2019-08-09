@@ -91,6 +91,7 @@ We encourage all contributors to become project members. We aim to grow an activ
 - [Community Members in Crises](./communication/community-members-in-crisis.md)
 - [Video Conferencing](./communication/video-conferencing.md)
 - [Support Boundaries](./communication/support-boundaries.md)
+- [Saying No](./communication/saying-no.md)
 - [Communication FAQ](./communication/communication-faq.md)
 
 ### Repo Management
