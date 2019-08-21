@@ -47,3 +47,15 @@ Thank you for submitting this pull request!
 
 While we acknowledge and value the effort and interest you have shown by filing this pull request, this is unfortunately not something we can merge due to <<INSERT REASON HERE>>. Therefore, we are closing it, but again thank you for taking this interest and putting in this effort and would welcome future contributions from you.
 ```
+
+## Locking Issues
+
+[Locking a GitHub issue or pull request](https://help.github.com/en/articles/locking-conversations) means that no one other than people with write access, repository owners, and repository collaborators will be able to add, hide, and delete comments. There are a few places where this can be appropriate.
+
+### Heated Conversations
+
+This may be done when conversation on an issue or pull request becomes unproductive or devolves into trolling. In this case, it is up to the Project Owners and Approvers to lock the issue or pull request. There does not need to be consensus to act - if the conversation is turning toxic it is far better to lock the issue early than to wait. Conversations can be unlocked when appropriate or necessary.
+
+### Older Issues/Pull Requests
+
+Some Chef Open Source projects may choose to lock conversation on issues or pull requests that are beyond a certain age (for example, one year). Whether or not to do this is up to the Project Owners. If someone wishes to re-open conversation around an old issue or pull request that has been locked, they should create a new one and link to the old issue or pull request. This ensures that issues/pull requests - even when they resurface after a long time - are all written within current context. This also avoids massive merge conflicts in the case of aged pull requests.
