@@ -15,7 +15,11 @@ Knowing how to say no can be a challenge, here are some templates that you can f
 Sometimes when we request more information so we can diagnose an issue, the community member will not respond due to a variety of factors. If they do not respond within a reasonable amount of time (what "a reasonable amount of time" means is up to each team), it may be necessary to close the issue until they are able to respond.
 
 ```
-Thank you for filing this issue! We do still need more information in order to diagnose on it and work on a fix. We requested this, but haven't seen a response yet, so we are closing the issue for now. Please feel free to re-open it with more information and we will take a look then!
+Thank you for filing this issue! 
+
+We do still need more information in order to diagnose on it and work on a fix. 
+We requested this, but haven't seen a response yet, so we are closing the issue for now.
+Please feel free to re-open it with more information and we will take a look then!
 ```
 
 **Not on Roadmap**
@@ -23,7 +27,12 @@ Thank you for filing this issue! We do still need more information in order to d
 Sometimes an issue will request some sort of enhancement, alteration, or fix that is not on the roadmap. If an issue is not likely to be worked on in the next year, it's often best to either label it with "Help Wanted" or close it.
 
 ```
-Thank you for taking time time to file this issue. Unfortunately, this is not something we can address at this time due to <<INSERT REASON - can be resource constraints, not on roadmap, etc.>>. If this is something you would like to contribute, however, please feel free to open a pull request!
+Thank you for taking time time to file this issue. 
+
+Unfortunately, this is not something we can address at this time due to 
+<<INSERT REASON - can be resource constraints, not on roadmap, etc.>>. 
+If this is something you would like to contribute, however, 
+please feel free to open a pull request!
 ```
 
 **Issue has gotten too old or concerns older versions of the software**
@@ -48,7 +57,14 @@ Like GitHub issues, occasionally when we review pull requests and request change
 ```
 Thank you for submitting this pull request!
 
-We've requested some changes to this pull request on code review and cannot re-review it until we receive a response. We haven't recieved a response yet - though we understand there are many reasons for this, especially if you are contributing on your own time - and cannot move forward until we do, so we are closing this pull request for now. Should you be able to respond to the changes that have been requested in the future, please feel free to re-open it and we will review it then.
+We've requested some changes to this pull request on code review 
+and cannot re-review it until we receive a response. We haven't recieved 
+a response yet - though we understand there are many reasons for this, 
+especially if you are contributing on your own time - and cannot move 
+forward until we do, so we are closing this pull request for now. 
+
+Should you be able to respond to the changes that have been requested 
+in the future, please feel free to re-open it and we will review it then.
 ```
 
 **Pull Request is not right for the project at this time**
@@ -58,7 +74,11 @@ Sometimes a pull request will take a project in a direction that the owners do n
 ```
 Thank you for submitting this pull request!
 
-While we acknowledge and value the effort and interest you have shown by filing this pull request, this is unfortunately not something we can merge due to <<INSERT REASON HERE>>. Therefore, we are closing it, but again thank you for taking this interest and putting in this effort and would welcome future contributions from you.
+While we acknowledge and value the effort and interest you have shown 
+by filing this pull request, this is unfortunately not something we can 
+merge due to <<INSERT REASON HERE>>. Therefore, we are closing it, but 
+again thank you for taking this interest and putting in this effort and 
+would welcome future contributions from you.
 ```
 
 ## Locking Issues
