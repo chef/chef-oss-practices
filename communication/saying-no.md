@@ -26,6 +26,19 @@ Sometimes an issue will request some sort of enhancement, alteration, or fix tha
 Thank you for taking time time to file this issue. Unfortunately, this is not something we can address at this time due to <<INSERT REASON - can be resource constraints, not on roadmap, etc.>>. If this is something you would like to contribute, however, please feel free to open a pull request!
 ```
 
+**Issue has gotten too old or concerns older versions of the software**
+
+The InSpec team uses this template for old, legacy issues that are > 1 year old and/or involve earlier versions of InSpec.
+
+```
+ __What’s happening? Why was this issue closed?__
+This issue was closed due to some much needed review of legacy issues or issues that were spawned in older versions of InSpec, i.e. < v3.
+__Why do I care?__
+You would care about this if this was an issue that you are still seeing and/or feel needs to be addressed in the current version of InSpec.
+__What do I need to do?__
+If this issue is no longer important, no further action is necessary. However, if you think this is something that should be addressed, please open a new issue and refer to the original issue in the description.
+```
+
 ### Pull Reqests
 
 **Contributor has not responded to review**
