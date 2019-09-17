@@ -6,6 +6,14 @@ The long-running OSS projects at Chef have found that hosting a public triage ca
 
 The triage process is focused on identifying and categorizing issues and pull requests for a project. Chef utilizes GitHub labels to track the status of issues and PRs, and maintains a list of [recommended GitHub labels](../repo-management/github-labels.md) that greatly improve the triaging process. GitHub Issue and PR templates should be setup to apply the 'Status: Untriaged' label to all new issues and PRs. During triage, this label is removed and replaced with more descriptive labels. This allows us to track the untriaged, as well as triaged, work at a GitHub organization level.
 
+### Suggested Process
+
+Following this process is not required, but it is suggested here as a place to start.
+
+- **1 hr prior to call** - Announce that triage will happen soon in the Chef Community Slack or Habitat Slack (choose whichever Slack and whichever channel is most appropriate). Mention that if anyone wants to join, please DM the person posting the announcement for the Zoom link (_do not share the zoom link publicly, especially on social media_).
+- **At time for call** - start Zoom call. Invite any community members who requested to be a part of it using the Zoom url. _Make sure to start recording the call - recording to the cloud usually works better than recording to your workstation_.Conduct triage as outlined above.
+- **After the call** - when the recording finishes processing, send a link to Garth Avery in Marketing through the Chef internal Slack. His staff will add intro and outro bumpers, then post the video the [Triage Playlist](https://www.youtube.com/playlist?list=PL11cZfNdwNyMMffxAIvH3bfTVv6W65oIh).
+
 ### Tools
 
 Each team should feel free to use whatever tools they want so long as they can meet the following requirements:
