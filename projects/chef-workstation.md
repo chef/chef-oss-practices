@@ -22,15 +22,15 @@ Mike Krasnow
   - Github: [krasnow](https://github.com/krasnow)
   - Slack: @krasnow
 
+Salim Afiune
+  - Github: [afiune](https://github.com/afiune)
+  - Slack: @afiune
+
 #### Project Approvers
 
 Robb Kidd
   - Github: [robbkidd](https://github.com/robbkidd)
   - Slack: @robbkidd
-
-Salim Afiune
-  - Github: [afiune](https://github.com/afiune)
-  - Slack: @afiune
 
 Tim Smith
   - Github: [tas50](https://github.com/tas50)
