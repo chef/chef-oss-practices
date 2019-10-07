@@ -50,4 +50,5 @@ Tyler Ball
 - [chef-workstation-app](https://github.com/chef/chef-workstation-app)
 - [cookstyle](https://github.com/chef/cookstyle)
 - [chef-cli](https://github.com/chef/chef-cli)
+- [chef-analyze](https://github.com/chef/chef-analyze)
 - [cookbook-omnifetch](https://github.com/chef/cookbook-omnifetch)
