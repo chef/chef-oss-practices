@@ -7,7 +7,7 @@ Along with the [offical Chef distributions](https://downloads.chef.io/) of our O
 This includes community distributions of Chef's software (including Chef Infra, InSpec, Habitat, and Automate).
 
 * [Source Code](https://gitlab.com/cinc-project)
-* [Builds](http://downloads.cc-build.org/)
+ * [Builds](http://downloads.cinc.sh/)
 
 ## Biome
 
