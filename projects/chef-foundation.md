@@ -51,6 +51,7 @@ Tyler Ball
 - [appbundle-updater](https://github.com/chef/appbundle-updater)
 - [appbundler](https://github.com/chef/appbundler)
 - [chef-core](https://github.com/chef/chef-core)
+- [chef-plans](https://github.com/chef/chef-plans)
 - [chef-telemetry](https://github.com/chef/chef-telemetry)
 - [chefstyle](https://github.com/chef/chefstyle)
 - [chocolatey-packages](https://github.com/chef/chocolatey-packages)
