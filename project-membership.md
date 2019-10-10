@@ -134,7 +134,6 @@ The following apply to the project for which one would be an owner.
 - Ensure a healthy process for open discussion and public decision making is in place.
 - Work with other project owners to holistically maintain the project's health and success
 
-
 ## Alums
 
 Alums to the Chef Inc OSS Projects is an individual who was formerly a member and has for any reason dropped their activity below a project's accepted threshold. This covers all cases of dropped activity and any case in which the individual has stated their decision to terminate their involvement in a project. Alums no longer have responsibilities or privileges to the project of which they were formerly a member. Their rights to project repos and tooling are revoked and they are added to an Alums list in thanks of their previous contributions.

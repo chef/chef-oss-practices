@@ -1,6 +1,6 @@
 # Chef Foundation Project
 
-The Chef Foundation project includes the common libraries and applications used to support projects such as Chef and InSpec.
+The Chef Foundation project includes the common libraries and applications used to support projects such as Chef Infra and Chef InSpec.
 
 **Slack Channel** #chef-foundation-dev
 
