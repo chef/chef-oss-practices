@@ -1,6 +1,6 @@
 # Chef Workstation Project
 
-The Chef Workstataion project includes Chef Workstation, Chef-DK, and all related repositories.
+The Chef Workstataion project includes Chef Workstation, ChefDK, and all related repositories.
 
 **Slack Channel** #chef-workstation-dev
 
@@ -52,3 +52,4 @@ Tyler Ball
 - [chef-cli](https://github.com/chef/chef-cli)
 - [chef-analyze](https://github.com/chef/chef-analyze)
 - [cookbook-omnifetch](https://github.com/chef/cookbook-omnifetch)
+- [vscode-chef](https://github.com/chef/vscode-chef)
