@@ -1,6 +1,6 @@
 # Effortless
 
-The Effortless project is ...?
+The Effortless project includes the Habitat Scaffolding for Chef Infra and Chef InSpec and the things to make using them easy.
 
 **Slack Channel** #effortless
 
