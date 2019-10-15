@@ -2,7 +2,7 @@
 
 The Chef Workstation project includes Chef Workstation, ChefDK, and all related repositories.
 
-**Slack Channel** #chef-workstation-dev
+**Slack Channel** #chef-workstation
 
 **Triage Schedule**: Every Monday at 1pm Pacific Time
 
