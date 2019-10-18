@@ -16,7 +16,6 @@ Projects in the Chef Community should feel encouraged to use these labels in the
 
  Aspects define the characteristics of an issue.
 
- - `Correctness` - Does the implementation match the specification?
  - `Documentation` - How do we use this project?
  - `Integration` - Works correctly with other projects or systems.
  - `Packaging` - Distribution of the projects "compiled" artifacts.
