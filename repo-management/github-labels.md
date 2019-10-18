@@ -57,17 +57,6 @@ Projects in the Chef Community should feel encouraged to use these labels in the
  - `Medium`
  - `Critical`
 
-## Size
-
- Setting a size on Pull Requests helps reviewers manage their time.
-
- - `XS` - A PR that changes 0-9 lines, ignoring generated files.
- - `S` - A PR that changes 10-29 lines, ignoring generated files.
- - `M` - A PR that changes 30-99 lines, ignoring generated files.
- - `L` - A PR that changes 100-499 lines, ignoring generated files.
- - `XL` - A PR that changes 500-999 lines, ignoring generated files.
- - `XXL` - A PR that changes 1000+ lines, ignoring generated files.
-
 ## Status
 
  - `Adopted` - An issue that is being worked on.
