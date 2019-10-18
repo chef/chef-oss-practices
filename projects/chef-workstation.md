@@ -44,13 +44,14 @@ Tyler Ball
 
 ### Project Repositories
 
-- [chef-dk](https://github.com/chef/chef-dk)
-- [chef-workstation](https://github.com/chef/chef-workstation)
-- [chef-apply](https://github.com/chef/chef-apply)
-- [chef-workstation-app](https://github.com/chef/chef-workstation-app)
-- [cookstyle](https://github.com/chef/cookstyle)
-- [chef-cli](https://github.com/chef/chef-cli)
 - [chef-analyze](https://github.com/chef/chef-analyze)
+- [chef-apply](https://github.com/chef/chef-apply)
+- [chef-cli](https://github.com/chef/chef-cli)
+- [chef-dk](https://github.com/chef/chef-dk)
+- [chef-workstation-app](https://github.com/chef/chef-workstation-app)
+- [chef-workstation](https://github.com/chef/chef-workstation)
 - [cookbook-omnifetch](https://github.com/chef/cookbook-omnifetch)
-- [vscode-chef](https://github.com/chef/vscode-chef)
+- [cookstyle](https://github.com/chef/cookstyle)
+- [go-chef](https://github.com/chef/go-chef)
 - [stove](https://github.com/chef/stove)
+- [vscode-chef](https://github.com/chef/vscode-chef)
