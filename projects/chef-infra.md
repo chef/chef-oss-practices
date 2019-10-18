@@ -36,8 +36,9 @@ Mark Anderson
 
 ### Project Repositories
 
-- [chef](https://github.com/chef/chef)
-- [ohai](https://github.com/chef/ohai)
 - [bft](https://github.com/chef/bft)
+- [chef](https://github.com/chef/chef)
 - [cheffish](https://github.com/chef/cheffish)
+- [chef-api](https://github.com/chef/chef-api)
+- [ohai](https://github.com/chef/ohai)
 - [proxy_tests](https://github.com/chef/proxy_tests)
