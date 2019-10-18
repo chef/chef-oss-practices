@@ -43,3 +43,4 @@ Will Fisher
 - [supermarket](https://github.com/chef/supermarket)
 - [supermarket-omnibus-cookbook](https://github.com/chef-cookbooks/supermarket-omnibus-cookbook)
 - [cookbook-quality-metrics](https://github.com/chef-cookbooks/cookbook-quality-metrics)
+- [chef-community-zero](https://github.com/chef/chef-community-zero)
