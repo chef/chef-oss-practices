@@ -14,7 +14,7 @@ as contributors, maintainers, and community members pledge to making
 participation in our projects and our community a harassment-free experience for
 everyone, regardless of age, body size, disability, ethnicity, gender identity
 and expression, level of experience, nationality, personal appearance, race,
-religion, veteran status, or sexual identity and orientation.
+religion, veteran status, immigration status, or sexual identity and orientation.
 
 ## Our Standards
 
@@ -68,12 +68,12 @@ Please keep in mind that:
 
 Harassment comes in many forms, including but not limited to:
   - Offensive comments related to gender, sexual orientation, age, disability,
-    physical appearance, body size, race, veteran status, or religion
+    physical appearance, body size, race, veteran status, immigration status, or religion
   - Posting/Exposing sexually explicit or violent images
   - Deliberate (or implied) intimidation
   - Trolling, insulting/derogatory comments, and personal or political attacks
-    particularly those related to gender, sexual orientation, age, race, religion or
-    disability
+    particularly those related to gender, sexual orientation, age, race, religion, 
+    immigration status, or disability
   - Publishing others' private
     information, such as a physical or electronic address, without explicit
     permission ("doxing")
