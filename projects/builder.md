@@ -21,11 +21,14 @@ Salim Alam
 Christopher Maier
   - Github: [christophermaier](https://github.com/christophermaier)
 
-Jon Bauman
-  - Github: [baumanj](https://github.com/baumanj)
+Jeremy Miller
+  - Github: [jeremymv2](https://github.com/jeremymv2)
 
 Josh Black
   - Github: [raskchanky](https://github.com/raskchanky)
+
+Mark Anderson
+  - Github: [markan](https://github.com/markan)
 
 #### Project Reviewers
 
@@ -37,9 +40,6 @@ Liz Chen
 
 Mary Jinglewski
   - Github: [mjingle](https://github.com/mjingle)
-
-Matt Peck
-  - Github: [mpeck](https://github.com/mpeck)
 
 Matt Wrock
   - Github: [mwrock](https://github.com/mwrock)
