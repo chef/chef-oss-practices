@@ -3,6 +3,7 @@
 A Chef OSS repo can be in one of 3 states
 * Active
 * Maintained
+* Prototyping
 * Deprecated
 
 ## Active
@@ -12,6 +13,10 @@ Repos in an active state are under active development - including bug fixes, new
 ## Maintained
 
 Repos in a maintained state are maintained where bugs will be fixed, but no new feature work should be expected. Repos in this maintained state must have at least one maintainer, who is a current employee of Chef Software, Inc. The response time maximum for issues or pull requests should be anywhere from 7 days to never.
+
+## Prototyping
+
+Repos in a prototyping state should be considered alpha or beta. These repos will have activity from developers, but are not _maintained_. New feature requests and bug fixes should not be expected until the project moves to the Active state. While developers might be responsive, there is no expected response time maximum for prototypes.
 
 ## Deprecated
 
