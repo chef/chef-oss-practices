@@ -51,17 +51,17 @@ If this issue is no longer important, no further action is necessary. However, i
 **Issue is not something we will ever do**
 
 ```
-Thank you for taking time time to file this issue.
+Thank you for taking the time to file this issue.
 
 We understand and appreciate your reason for this request. However, at this time, it does not align with our core direction and is not something we’re looking at doing.
 
 Thank you again for filing this, however, we greatly appreciate your interest in this project!
 ```
 
-**Issue is an interesting idea, be we do not have the resources right now**
+**Issue is an interesting idea, but we do not have the resources right now**
 
 ```
-Thank you for taking time time to file this issue.
+Thank you for taking the time to file this issue.
 
 We understand your request and the reasoning behind it. Unfortunately, we don’t have any resources at this time to look into this further.
 
