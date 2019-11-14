@@ -37,8 +37,10 @@ Mark Anderson
 ### Project Repositories
 
 - [bft](https://github.com/chef/bft)
+- [chef-api](https://github.com/chef/chef-api)
+- [chef-ruby-lvm-attrib](https://github.com/chef/chef-ruby-lvm-attrib)
+- [chef-ruby-lvm](https://github.com/chef/chef-ruby-lvm)
 - [chef](https://github.com/chef/chef)
 - [cheffish](https://github.com/chef/cheffish)
-- [chef-api](https://github.com/chef/chef-api)
 - [ohai](https://github.com/chef/ohai)
 - [proxy_tests](https://github.com/chef/proxy_tests)
