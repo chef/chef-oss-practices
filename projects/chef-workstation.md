@@ -53,5 +53,6 @@ Tyler Ball
 - [cookbook-omnifetch](https://github.com/chef/cookbook-omnifetch)
 - [cookstyle](https://github.com/chef/cookstyle)
 - [go-chef](https://github.com/chef/go-chef)
+- [go-libs](https://github.com/chef/go-libs)
 - [stove](https://github.com/chef/stove)
 - [vscode-chef](https://github.com/chef/vscode-chef)
