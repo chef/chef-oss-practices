@@ -44,9 +44,6 @@ Mary Jinglewski
 Matt Wrock
   - Github: [mwrock](https://github.com/mwrock)
 
-Scott Hain
-  - Github: [scotthain](https://github.com/scotthain)
-
 Scott Macfarlane
   - Github: [smacfarlane](https://github.com/smacfarlane)
 

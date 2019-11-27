@@ -45,9 +45,6 @@ Liz Chen
 Mary Jinglewski
   - Github: [mjingle](https://github.com/mjingle)
 
-Scott Hain
-  - Github: [scotthain](https://github.com/scotthain)
-
 ### Project Repositories
 
 - [habitat](https://github.com/habitat-sh/habitat)
