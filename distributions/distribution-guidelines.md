@@ -63,6 +63,16 @@ is fine, because it is still very clear from the command that the user is using 
 
 Generally, if it's still clear where the origin of the distribution is, and if changing the config files would break compatibility, it is ok to leave them as they are. If you have specific questions about this, please ask!
 
+## Can Chef evaluate my distribution to make sure its following the trademark guidelines?
+
+While Chef is happy to answer questions and provide advice related to our guidelines, it is ultimately the responsibility of the maintainers of the distribution to ensure it follows our trademark policy. If you have questions about these policies or whether something would potentially violate them, please feel free to ask in the #community-distros channel in Community Slack.
+
+In the past, we have evaluated a community distribution by comparing the experience of using it to the experience of using the official Chef distribution. The main thing we look for is that it is clear which distribution a user is using. In that case, we were able to communicate to the maintainers that we saw nothing which violated our trademark guidelines at that time.
+
+## Can Chef endorse my distribution as following the trademark guidelines?
+
+Chef will not be endorsing any distributions or versions of distributions of our source code except our own.
+
 ## Will these guidelines ever change?
 
 Yes, they will likely change as we learn from creating distributions and iterate on the process. Additionally, the purpose of the Chef Trademark Policy is to avoid confusion in the market about which distributions come from Chef and which distributions come from other sources. If we find that these guidelines are not sufficient to avoid that confusion, we may need to revisit them. We will, of course, give ample notice of any changes to these guidelines to allow for plenty of time to implement them.
