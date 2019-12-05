@@ -8,7 +8,7 @@ Welcome to the Chef Software Open Source communities!
 
 This is a starting point for contributing to all of Chef's software and a wonderful spot for information on how to join in on the fun.
 
-Looking for something specific? Check out our [Table of Contents](table-of-contents.md).
+Looking for something specific? Check out our [Table of Contents](#table-of-contents).
 
 To learn more about each of our project's structure and organization, please refer to [Governance](governance.md).
 
