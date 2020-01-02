@@ -24,7 +24,7 @@ Chef Software (the company) produces many products such as Chef, InSpec, Habitat
 
 All Chef projects operate under governance determined by the Chef OSS Practices Committee. These policies are documented under [Governance](./governance.md); however, *Teams* can have their own [policy for contribution](./repo-management/project-required-setup.md#CONTRIBUTING.md), communication standards, etc. so long as those policies meet the base governance policy.
 
-We decide on the long term plan for projects through [Project planning](./contributors/guide/project-planning.md) and our [triage and prioritization](./contributors/guide/issue-triage.md) processes.
+We decide on the long term plan for projects through [Project planning](./contributors/guide/project-planning.md) and our [triage and prioritization](./contributors/guide/#issues-management-or-triage.md) processes.
 
 ## Communicating With Us
 
@@ -36,7 +36,7 @@ For more detailed information, check the README.md in a project's repository.
 
 A first step towards contributing is to pick from the [list of Chef Software Projects](./projects-list.md).
 
-Once you've selected a project to contribute to, be sure to read the team's contribution guide (./CONTRIBUTING.md). That guide will provide information on issues in need of contributors, team meetings schedules, and Slack channels / mailing lists where project discussions take place.
+Once you've selected a project to contribute to, be sure to read the team's [contribution guide](./CONTRIBUTING.md). That guide will provide information on issues in need of contributors, team meetings schedules, and Slack channels / mailing lists where project discussions take place.
 
 The [Contributor Guide](./contributors/guide/README.md) provides detailed instructions on how to get your code accepted to Chef Software projects, including:
 
