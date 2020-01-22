@@ -268,6 +268,7 @@ individuals:
  - Mandi Walls at +1 (703) 582-7396
  - Jenny Armstrong-Owen at +1 (206) 334-5731
  - benny Vasquez at +1 (517) 927-9660 
+
 ## Influences
 
 This Code of Conduct was forked from the example policy from the [Geek Feminism
