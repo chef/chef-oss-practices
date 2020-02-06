@@ -34,6 +34,10 @@ Mark Anderson
   - Github: [markan](https://github.com/markan)
   - Slack: @mark
 
+Phil Dibowitz
+  - Github: [jaymzh](http://github.com/jaymzh)
+  - Slack: @phil
+
 ### Project Repositories
 
 - [bft](https://github.com/chef/bft)
