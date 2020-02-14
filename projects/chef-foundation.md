@@ -24,6 +24,10 @@ Marc Paradise
 
 #### Project Approvers
 
+Prajakta Purohit
+  - Github: [prajaktapurohit](https://github.com/prajaktapurohit)
+  - Slack: @prajakta
+
 Robb Kidd
   - Github: [robbkidd](https://github.com/robbkidd)
   - Slack: @robbkidd
