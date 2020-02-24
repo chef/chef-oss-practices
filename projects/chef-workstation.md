@@ -32,15 +32,17 @@ Robb Kidd
   - Github: [robbkidd](https://github.com/robbkidd)
   - Slack: @robbkidd
 
-Tim Smith
-  - Github: [tas50](https://github.com/tas50)
-  - Slack: @tas50
-
 Tyler Ball
   - Github: [tyler-ball](https://github.com/tyler-ball)
   - Slack: @tball
 
 #### Project Reviewers
+
+#### Project Alums
+
+Tim Smith
+  - Github: [tas50](https://github.com/tas50)
+  - Slack: @tas50
 
 ### Project Repositories
 
@@ -51,8 +53,6 @@ Tyler Ball
 - [chef-workstation-app](https://github.com/chef/chef-workstation-app)
 - [chef-workstation](https://github.com/chef/chef-workstation)
 - [cookbook-omnifetch](https://github.com/chef/cookbook-omnifetch)
-- [cookstyle](https://github.com/chef/cookstyle)
 - [go-chef](https://github.com/chef/go-chef)
 - [go-libs](https://github.com/chef/go-libs)
 - [stove](https://github.com/chef/stove)
-- [vscode-chef](https://github.com/chef/vscode-chef)
