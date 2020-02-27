@@ -24,10 +24,6 @@ Marc Paradise
 
 #### Project Approvers
 
-Miah Johnson
-  - Github: [miah](https://github.com/miah)
-  - Slack: @miah
-
 Prajakta Purohit
   - Github: [prajaktapurohit](https://github.com/prajaktapurohit)
   - Slack: @prajakta

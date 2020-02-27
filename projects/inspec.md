@@ -14,10 +14,6 @@ Clinton Wolfe
   - Github: [clintoncwolfe](https://github.com/clintoncwolfe)
   - Slack: @cwolfe
 
-Miah Johnson
-  - Github: [miah](https://github.com/miah)
-  - Slack: @miah
-
 Ryan Davis
   - Github: [zenspider](https://github.com/zenspider)
   - Slack: @rdavis
