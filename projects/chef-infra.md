@@ -24,6 +24,10 @@ Tim Smith
 
 #### Project Approvers
 
+Ryan Davis
+  - Github: [zenspider](https://github.com/zenspider)
+  - Slack: @Ryan Davis
+
 Robb Kidd
   - Github: [robbkidd](https://github.com/robbkidd)
   - Slack: @robbkidd
@@ -79,10 +83,6 @@ Daniel DeLeo
 AJ Christensen
   - Github: [fujin](https://github.com/fujin)
   - Slack: @fujin
-
-Phil Dibowitz
-  - Github: [jaymzh](https://github.com/jaymzh)
-  - Slack: @jaymzh
 
 Jay Mundrawala
   - Github: [jaym](https://github.com/jaym)
