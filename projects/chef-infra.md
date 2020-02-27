@@ -84,10 +84,6 @@ AJ Christensen
   - Github: [fujin](https://github.com/fujin)
   - Slack: @fujin
 
-Phil Dibowitz
-  - Github: [jaymzh](https://github.com/jaymzh)
-  - Slack: @jaymzh
-
 Jay Mundrawala
   - Github: [jaym](https://github.com/jaym)
   - Slack: @jaym
