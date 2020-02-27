@@ -24,6 +24,10 @@ Tim Smith
 
 #### Project Approvers
 
+Ryan Davis
+  - Github: [zenspider](https://github.com/zenspider)
+  - Slack: @Ryan Davis
+
 Robb Kidd
   - Github: [robbkidd](https://github.com/robbkidd)
   - Slack: @robbkidd
