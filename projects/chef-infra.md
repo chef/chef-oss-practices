@@ -51,8 +51,10 @@ Phil Dibowitz
 - [chef-sugar](https://github.com/chef/chef-sugar)
 - [chef](https://github.com/chef/chef)
 - [cheffish](https://github.com/chef/cheffish)
+- [cookstyle](https://github.com/chef/cookstyle)
 - [ohai](https://github.com/chef/ohai)
 - [proxy_tests](https://github.com/chef/proxy_tests)
+- [vscode-chef](https://github.com/chef/vscode-chef)
 
 ### Project Alums
 
