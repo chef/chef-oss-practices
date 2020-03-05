@@ -46,6 +46,11 @@ Pete Higgins
   - Github: [phiggins](http://github.com/phiggins)
   - Slack: @pete
 
+John McCrae
+  - Github: [johnmccrae](http://github.com/johnmccrae)
+  - Slack: @John McCrae
+
+
 ### Project Repositories
 
 - [bft](https://github.com/chef/bft)
