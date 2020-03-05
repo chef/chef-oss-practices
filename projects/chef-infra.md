@@ -42,6 +42,10 @@ Phil Dibowitz
   - Github: [jaymzh](http://github.com/jaymzh)
   - Slack: @phil
 
+Pete Higgins
+  - Github: [phiggins](http://github.com/phiggins)
+  - Slack: @pete
+
 ### Project Repositories
 
 - [bft](https://github.com/chef/bft)
