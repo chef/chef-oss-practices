@@ -1,7 +1,7 @@
 # Chef Automate Project
 
 The Chef Automate project includes Chef Automate and all related
-deployment toplogies supported by `chef-automate deploy`.
+deployment topologies supported by `chef-automate deploy`.
 
 **Slack Channel** #automate-dev
 
