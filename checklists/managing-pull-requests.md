@@ -1,6 +1,6 @@
 # Managing Pull Requests
 
-* Respond within the commited response time maximum
+* Respond within the committed response time maximum
 * Questions to ask when reviewing:
   * Does the PR add value?
     * Does it fix an existing issue?

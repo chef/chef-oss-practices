@@ -74,7 +74,7 @@ Thank you again for filing this, however, we greatly appreciate your interest in
 Thanks for providing your input. Your idea sounds interesting to us but we currently do not have the resources to investigate further. We would, however, welcome a contribution implementing this idea. Are you interested in contributing this?
 ```
 
-### Pull Reqests
+### Pull Requests
 
 **Contributor has not responded to review**
 
@@ -84,7 +84,7 @@ Like GitHub issues, occasionally when we review pull requests and request change
 Thank you for submitting this pull request!
 
 We've requested some changes to this pull request on code review
-and cannot re-review it until we receive a response. We haven't recieved
+and cannot re-review it until we receive a response. We haven't received
 a response yet - though we understand there are many reasons for this,
 especially if you are contributing on your own time - and cannot move
 forward until we do, so we are closing this pull request for now.
@@ -95,7 +95,7 @@ in the future, please feel free to re-open it and we will review it then.
 
 **Pull Request is not right for the project at this time**
 
-Sometimes a pull request will take a project in a direction that the owners do not wish it to, or add something to the project before the project is ready to take on the responsibilty of maintaining it. These are some of the most difficult cases to deal with, but again it's crucial to acknowledge the effort that went into the pull request when saying no - it's also crucial to show empathy and respect not just for the person who opened the pull request but also for the person's work.
+Sometimes a pull request will take a project in a direction that the owners do not wish it to, or add something to the project before the project is ready to take on the responsibility of maintaining it. These are some of the most difficult cases to deal with, but again it's crucial to acknowledge the effort that went into the pull request when saying no - it's also crucial to show empathy and respect not just for the person who opened the pull request but also for the person's work.
 
 ```
 Thank you for submitting this pull request!
