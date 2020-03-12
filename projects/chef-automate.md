@@ -20,8 +20,6 @@ deployment topologies supported by `chef-automate deploy`.
 
 #### Project Approvers
 
-- Salim Afiune
-  - GitHub: [afiune](https://github.com/afiune)
 - Tara Black
   - GitHub: [tarablack01](https://github.com/tarablack01)
 - Scott Christopherson
@@ -38,8 +36,6 @@ deployment topologies supported by `chef-automate deploy`.
   - GitHub: [lancefw](https://github.com/lancefw)
 - Brenna Hewer-Darroch
   - GitHub: [bcmdarroch](https://github.com/bcmdarroch)
-- Pete Higgins
-  - GitHub: [phiggins](https://github.com/phiggins)
 - Shadae Holmes
   - GitHub: [shadae](https://github.com/shadae)
 - Blake Johnson
@@ -58,8 +54,6 @@ deployment topologies supported by `chef-automate deploy`.
   - GitHub: [srenatus](https://github.com/srenatus)
 - Michael Sorens
   - GitHub: [msorens](https://github.com/msorens)
-- Maggie Walker
-  - GitHub: [magwalk](https://github.com/magwalk)
 
 #### Project Reviewers
 
@@ -77,3 +71,12 @@ deployment topologies supported by `chef-automate deploy`.
 ### Project Repositories
 
 - [automate](https://github.com/chef/automate)
+
+### Project Alums
+
+- Pete Higgins
+  - GitHub: [phiggins](https://github.com/phiggins)
+- Salim Afiune
+  - GitHub: [afiune](https://github.com/afiune)
+- Maggie Walker
+  - GitHub: [magwalk](https://github.com/magwalk)
