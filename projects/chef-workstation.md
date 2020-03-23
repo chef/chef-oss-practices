@@ -22,10 +22,6 @@ Mike Krasnow
   - Github: [krasnow](https://github.com/krasnow)
   - Slack: @krasnow
 
-Salim Afiune
-  - Github: [afiune](https://github.com/afiune)
-  - Slack: @afiune
-
 #### Project Approvers
 
 Robb Kidd
@@ -36,13 +32,29 @@ Tyler Ball
   - Github: [tyler-ball](https://github.com/tyler-ball)
   - Slack: @tball
 
+Clinton Wolfe
+  - Github: [clintoncwolfe](https://github.com/clintoncwolfe)
+  - Slack: @cwolfe
+
+Mudassar Shafique
+  - Github: [mudash](https://github.com/mudash)
+  - Slack: @mshafique
+
 #### Project Reviewers
+
+John Snow
+  - Github: [TheLunaticScripter](https://github.com/TheLunaticScripter)
+  - Slack: @johnshow
 
 #### Project Alums
 
 Tim Smith
   - Github: [tas50](https://github.com/tas50)
   - Slack: @tas50
+
+Salim Afiune
+  - Github: [afiune](https://github.com/afiune)
+  - Slack: @afiune
 
 ### Project Repositories
 
