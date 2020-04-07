@@ -35,7 +35,6 @@ Ryan Davis
 ### Project Repositories
 
 - [inspec](https://github.com/inspec/inspec)
-- [inspec-gcp](https://github.com/inspec/inspec-gcp)
 - [inspec-digital-ocean](https://github.com/inspec/inspec-digital-ocean)
 - [inspec-habitat](https://github.com/inspec/inspec-habitat)
 - [inspec-oneview](https://github.com/inspec/inspec-habitat)
