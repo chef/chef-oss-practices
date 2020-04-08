@@ -42,6 +42,14 @@ Tyler Ball
 
 #### Project Reviewers
 
+Nick Schwaderer
+ - Github: [Schwad](https://github.com/Schwad)
+ - Slack: @schwad
+
+James Stocks
+  - Github: [james-stocks](https://github.com/james-stocks)
+  - Slack: @Stocksy
+
 ### Project Repositories
 
 - [appbundle-updater](https://github.com/chef/appbundle-updater)
