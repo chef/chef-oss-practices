@@ -32,6 +32,8 @@ deployment topologies supported by `chef-automate deploy`.
   - GitHub: [stevendanna](https://github.com/stevendanna)
 - Daniel DeLeo
   - GitHub: [danielsdeleo](https://github.com/danielsdeleo)
+- susan evans
+  - GitHub: [susanev](https://github.com/susanev)
 - Lance Finfrock
   - GitHub: [lancefw](https://github.com/lancefw)
 - Brenna Hewer-Darroch
@@ -61,8 +63,6 @@ deployment topologies supported by `chef-automate deploy`.
   - GitHub: [schisamo](https://github.com/schisamo)
 - Tom Duffield
   - GitHub: [tduffield](https://github.com/tduffield)
-- susan evans
-  - GitHub: [susanev](https://github.com/susanev)
 - Kimberley Garmoe
   - GitHub: [kagarmoe](https://github.com/kagarmoe)
 - Mary Jinglewski
