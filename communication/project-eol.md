@@ -19,7 +19,7 @@ This project has officially been EoL'd by Chef Software Inc. but, have no fear! 
 
 ## Discourse Announcement
 
-If you believe the project being EOL'd may have active users, a post should be made to the [Chef Discourse](https://discourse.chef.io) announcing the EOL of the project.
+If you believe the project transitioning to EOL status may have active users, a post should be made to the [Chef Discourse](https://discourse.chef.io) announcing the EOL of the project.
 
 ## Archival and Boneyarding
 

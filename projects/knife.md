@@ -1,6 +1,6 @@
 # Knife Project
 
-The Knife project includes all of Chef Infra's Knife plugins.
+The Knife project includes all of the Chef Infra Knife plugins.
 
 **Slack Channel** TBD
 

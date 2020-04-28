@@ -1,6 +1,6 @@
 # Public Triage
 
-The long-running OSS projects at Chef have found that hosting a public triage call on a set cadence positively increases the activity level of a project. It's an opportunity for internal project members to have virtual facetime with the larger community, as well as an opportunity for external project members to stay aware on what's happening on the team. All Chef Inc. top-level OSS projects going forward are required to adopt a public triage process. The cadence can follow whatever frequency the team sees as reasonable. Our recommendation is weekly, or bi-weekly.
+The long-running OSS projects at Chef have found that hosting a public triage call on a set cadence positively increases the activity level of a project. It's an opportunity for internal project members to have virtual face time with the larger community, as well as an opportunity for external project members to stay aware on what's happening on the team. All Chef Inc. top-level OSS projects going forward are required to adopt a public triage process. The cadence can follow whatever frequency the team sees as reasonable. Our recommendation is weekly, or bi-weekly.
 
 ## Process
 
