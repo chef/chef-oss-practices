@@ -22,6 +22,10 @@ Tim Smith
   - Github: [tas50](https://github.com/tas50)
   - Slack: @tas50
 
+Josh O'Brien
+  - Github: [OBrienCommaJosh](https://github.com/OBrienCommaJosh)
+  - Slack: @job
+  
 #### Project Approvers
 
 Ryan Davis
