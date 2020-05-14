@@ -40,8 +40,6 @@ Tyler Ball
   - Github: [tyler-ball](https://github.com/tyler-ball)
   - Slack: @tball
 
-#### Project Reviewers
-
 Nick Schwaderer
  - Github: [Schwad](https://github.com/Schwad)
  - Slack: @schwad
@@ -49,6 +47,8 @@ Nick Schwaderer
 James Stocks
   - Github: [james-stocks](https://github.com/james-stocks)
   - Slack: @Stocksy
+
+#### Project Reviewers
 
 ### Project Repositories
 
