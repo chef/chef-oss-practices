@@ -32,15 +32,15 @@ Robb Kidd
   - Github: [robbkidd](https://github.com/robbkidd)
   - Slack: @robbkidd
 
+Phil Dibowitz
+  - Github: [jaymzh](http://github.com/jaymzh)
+  - Slack: @phil
+
 #### Project Reviewers
 
 Mark Anderson
   - Github: [markan](https://github.com/markan)
   - Slack: @mark
-
-Phil Dibowitz
-  - Github: [jaymzh](http://github.com/jaymzh)
-  - Slack: @phil
 
 Pete Higgins
   - Github: [phiggins](http://github.com/phiggins)
