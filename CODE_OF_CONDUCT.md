@@ -130,7 +130,6 @@ person(s) assigned to each role:
 | Role                | Name                     | Contact Info           |
 | ------------------- | ------------------------ | ---------------------- |
 | Decider             | Jenny Armstrong-Owen     | jowen@chef.io          |
-| Community Advocate  | Mandi Walls              | mandi@chef.io          |
 | Community Advocate  | benny Vasquez			 | bvasquez@chef.io       |
 | Community Advocate  | Robb Kidd                | rkidd@chef.io          |
 
