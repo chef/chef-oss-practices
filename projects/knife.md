@@ -24,6 +24,10 @@ Tim Smith
 
 #### Project Approvers
 
+Prajakta Purohit
+  - Github: [prajaktapurohit](https://github.com/prajaktapurohit)
+  - Slack: @prajakta
+
 #### Project Reviewers
 
 ### Project Repositories
