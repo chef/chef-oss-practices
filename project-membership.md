@@ -13,8 +13,8 @@ Established project members are expected to demonstrate their adherence to the p
 | Project Role | Responsibilities | Requirements | Defined by |
 | ----- | ---------------- | ------------ | ------- |
 | contributor | you become a contributor to the project by opening a PR or an Issue | No requirements | Having your GitHub handle recognized in the project changelog and/or release notes |
-| reviewer | review contributions from other members | history of review and authorship in a project | project [CODEOWNERS] entry, Chef OSS [PROJECTS] file *reviewer* entry. |
-| approver | final approval and acceptance of contributions | highly experienced and active reviewer + contributor to a project | Chef OSS [PROJECTS] file *approver* entry, project [CODEOWNERS] entry|
+| reviewer | review contributions from other members | history of review and authorship in a project | project [CODEOWNERS] entry, Chef OSS [PROJECTS] file *reviewer* entry |
+| approver | final approval and acceptance of contributions | highly experienced and active reviewer + contributor to a project | project [CODEOWNERS] entry, Chef OSS [PROJECTS] file *approver* entry |
 | project owner | set direction and priorities for a project | demonstrated responsibility and excellent technical judgment for the project | project [CODEOWNERS] entry, Chef OSS [PROJECTS] file *owners* entry |
 
 ## Reviewer
