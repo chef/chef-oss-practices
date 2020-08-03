@@ -21,6 +21,10 @@ Prajakta Purohit
   - Github: [PrajaktaPurohit](https://github.com/PrajaktaPurohit)
   - Slack: @prajakta
 
+Josh O'Brien (Product Manager)
+  - Github: [OBrienCommaJosh](https://github.com/OBrienCommaJosh)
+  - Slack: @job
+
 ### Project Approvers
 
 Marc Paradise
