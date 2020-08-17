@@ -36,6 +36,10 @@ Phil Dibowitz
   - Github: [jaymzh](http://github.com/jaymzh)
   - Slack: @phil
 
+Matt Wrock
+  - Github: [mwrock](https://github.com/mwrock)
+  - Slack: @mwrockx
+
 #### Project Reviewers
 
 Mark Anderson

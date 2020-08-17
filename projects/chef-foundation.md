@@ -48,6 +48,10 @@ James Stocks
   - Github: [james-stocks](https://github.com/james-stocks)
   - Slack: @Stocksy
 
+Matt Wrock
+  - Github: [mwrock](https://github.com/mwrock)
+  - Slack: @mwrockx
+
 #### Project Reviewers
 
 Pete Higgins
