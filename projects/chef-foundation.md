@@ -50,6 +50,10 @@ James Stocks
 
 #### Project Reviewers
 
+Pete Higgins
+  - Github: [phiggins](http://github.com/phiggins)
+  - Slack: @pete
+
 ### Project Repositories
 
 - [appbundle-updater](https://github.com/chef/appbundle-updater)
