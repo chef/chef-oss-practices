@@ -24,6 +24,10 @@ Tim Smith
 
 #### Project Approvers
 
+Matt Wrock
+  - Github: [mwrock](https://github.com/mwrock)
+  - Slack: @mwrockx
+
 #### Project Reviewers
 
 ### Project Repositories
