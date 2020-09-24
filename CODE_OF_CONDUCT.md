@@ -35,6 +35,7 @@ new features/pull requests, and anyone who is seeking help and guidance.
 
 The following list isn’t exhaustive, but these few examples can help all of us
 communicate well, so that the community can work better together:
+
   - Use welcoming and inclusive language
   - Exercise patience and friendliness
   - Be respectful of differing viewpoints and experiences
@@ -47,6 +48,7 @@ chat), Discourse, the issue tracker, and any other forum that is used by the
 community.
 
 Please keep in mind that:
+
   - Your work will be used by other people, and you, in turn, will depend on the
     work of others
   - Decisions that you make often will affect others in the community
@@ -67,6 +69,7 @@ Please keep in mind that:
 ## Unacceptable Behavior
 
 Harassment comes in many forms, including but not limited to:
+
   - Offensive comments related to gender, sexual orientation, age, disability,
     physical appearance, body size, race, veteran status, immigration status, or religion
   - Posting/Exposing sexually explicit or violent images
@@ -112,6 +115,7 @@ members of the project's leadership.
 
 The following are the various roles of our **Community Organizers** and the
 person(s) assigned to each role:
+
   - The **Deciders** have final say on community guidelines and final authority on correct actions and appeals
   - The **Community Advocates** may be assigned for each area where the
     community convenes online (Slack, email list, GitHub, etc.). Community
@@ -246,6 +250,7 @@ clarified by project maintainers and community organizers.
 ## Attribution
 
 This Code of Conduct is adapted from the following:
+
   - [Contributor Covenant](http://contributor-covenant.org), version 1.4, available [here](http://contributor-covenant.org/version/1/4/)
   - [Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html)
   - [Citizen Code of Conduct](http://citizencodeofconduct.org/)
