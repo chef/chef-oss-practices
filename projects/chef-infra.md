@@ -26,15 +26,15 @@ Tim Smith
   - Github: [tas50](https://github.com/tas50)
   - Slack: @tas50
 
+Phil Dibowitz
+  - Github: [jaymzh](http://github.com/jaymzh)
+  - Slack: @phil
+
 #### Project Approvers
 
 Robb Kidd
   - Github: [robbkidd](https://github.com/robbkidd)
   - Slack: @robbkidd
-
-Phil Dibowitz
-  - Github: [jaymzh](http://github.com/jaymzh)
-  - Slack: @phil
 
 Matt Wrock
   - Github: [mwrock](https://github.com/mwrock)
