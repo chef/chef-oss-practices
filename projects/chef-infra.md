@@ -14,10 +14,6 @@ Bryan McLellan
   - Github: [btm](https://github.com/btm)
   - Slack: @btm
 
-Josh O'Brien
-  - Github: [OBrienCommaJosh](https://github.com/OBrienCommaJosh)
-  - Slack: @job
-
 Lamont Granquist
   - Github: [lamont-granquist](https://github.com/lamont-granquist)
   - Slack: @lamont
