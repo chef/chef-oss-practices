@@ -10,10 +10,6 @@ The InSpec project includes InSpec as well as several resource packs and plugins
 
 #### Project Owners
 
-James Stocks
-  - Github: [james-stocks](https://github.com/james-stocks)
-  - Slack: @Stocksy
-
 Nick Schwaderer
  - Github: [Schwad](https://github.com/Schwad)
  - Slack: @schwad
@@ -31,6 +27,10 @@ Clinton Wolfe
 Ryan Davis
   - Github: [zenspider](https://github.com/zenspider)
   - Slack: @rdavis
+
+James Stocks
+  - Github: [james-stocks](https://github.com/james-stocks)
+  - Slack: @Stocksy
 
 ### Project Repositories
 
