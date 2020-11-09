@@ -44,10 +44,6 @@ Nick Schwaderer
  - Github: [Schwad](https://github.com/Schwad)
  - Slack: @schwad
 
-James Stocks
-  - Github: [james-stocks](https://github.com/james-stocks)
-  - Slack: @Stocksy
-
 Matt Wrock
   - Github: [mwrock](https://github.com/mwrock)
   - Slack: @mwrockx
