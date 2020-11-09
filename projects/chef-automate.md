@@ -22,22 +22,14 @@ deployment topologies supported by `chef-automate deploy`.
 
 - Tara Black
   - GitHub: [tarablack01](https://github.com/tarablack01)
-- Scott Christopherson
-  - GitHub: [scottopherson](https://github.com/scottopherson)
 - Tyler Cloke
   - GitHub: [tylercloke](https://github.com/tylercloke)
-- Ryan Cragun
-  - GitHub: [ryancragun](https://github.com/ryancragun)
 - Steven Danna
   - GitHub: [stevendanna](https://github.com/stevendanna)
 - Daniel DeLeo
   - GitHub: [danielsdeleo](https://github.com/danielsdeleo)
-- susan evans
-  - GitHub: [susanev](https://github.com/susanev)
 - Lance Finfrock
   - GitHub: [lancefw](https://github.com/lancefw)
-- Brenna Hewer-Darroch
-  - GitHub: [bcmdarroch](https://github.com/bcmdarroch)
 - Shadae Holmes
   - GitHub: [shadae](https://github.com/shadae)
 - Blake Johnson
@@ -74,6 +66,14 @@ deployment topologies supported by `chef-automate deploy`.
 
 ### Project Alums
 
+- Brenna Hewer-Darroch
+  - GitHub: [bcmdarroch](https://github.com/bcmdarroch)
+- Scott Christopherson
+  - GitHub: [scottopherson](https://github.com/scottopherson)
+- Ryan Cragun
+  - GitHub: [ryancragun](https://github.com/ryancragun)
+- susan evans
+  - GitHub: [susanev](https://github.com/susanev)
 - Pete Higgins
   - GitHub: [phiggins](https://github.com/phiggins)
 - Salim Afiune

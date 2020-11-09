@@ -9,7 +9,7 @@ This includes the InSpec resource packs for AWS, GCP and Azure.
 - https://chefcommunity.slack.com/messages/inspec-gcp
 
 
-**Triage Schedule**: 
+**Triage Schedule**:
 
 NA
 
@@ -27,7 +27,7 @@ Davy McAleer
 
 #### Project Approvers
 
-InSpec Cloud Resource Pack Maintainers 
+InSpec Cloud Resource Pack Maintainers
   - Github: [inspec-cloud-devs](https://github.com/orgs/inspec/teams/inspec-cloud-devs)
 
 #### Project Reviewers

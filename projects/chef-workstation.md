@@ -28,10 +28,6 @@ Robb Kidd
   - Github: [robbkidd](https://github.com/robbkidd)
   - Slack: @robbkidd
 
-Tyler Ball
-  - Github: [tyler-ball](https://github.com/tyler-ball)
-  - Slack: @tball
-
 Clinton Wolfe
   - Github: [clintoncwolfe](https://github.com/clintoncwolfe)
   - Slack: @cwolfe
@@ -47,6 +43,10 @@ John Snow
   - Slack: @johnshow
 
 #### Project Alums
+
+Tyler Ball
+  - Github: [tyler-ball](https://github.com/tyler-ball)
+  - Slack: @tball
 
 Tim Smith
   - Github: [tas50](https://github.com/tas50)
