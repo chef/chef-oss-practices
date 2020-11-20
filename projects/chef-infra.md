@@ -28,10 +28,6 @@ Phil Dibowitz
 
 #### Project Approvers
 
-Robb Kidd
-  - Github: [robbkidd](https://github.com/robbkidd)
-  - Slack: @robbkidd
-
 Matt Wrock
   - Github: [mwrock](https://github.com/mwrock)
   - Slack: @mwrockx
@@ -65,6 +61,10 @@ John McCrae
 - [vscode-chef](https://github.com/chef/vscode-chef)
 
 ### Project Alums
+
+Robb Kidd
+  - Github: [robbkidd](https://github.com/robbkidd)
+  - Slack: @robbkidd
 
 Adam Jacob
   - Github: [adamhjk](https://github.com/adamhjk)
