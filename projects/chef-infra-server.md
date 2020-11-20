@@ -41,16 +41,6 @@ Bryan McLellan
   - Github: [btm](https://github.com/btm)
   - Slack: @btm
 
-Ryan Cragun
-  - Github: [ryancragun](https://github.com/ryancragun)
-
-Stephan Renatus 
-  - Github: [srenatus](https://github.com/srenatus)
-
-Stephen Delano
-  - Github: [sdelano](https://github.com/sdelano)
-  - Slack: @stephen
-
 Tim Smith
   - Github: [tas50](https://github.com/tas50)
   - Slack: @tas50
@@ -58,6 +48,18 @@ Tim Smith
 Tyler Cloke
   - Github: [tylercloke](https://github.com/tylercloke)
   - Slack: @tylercloke
+
+### Project Alums
+
+Stephen Delano
+  - Github: [sdelano](https://github.com/sdelano)
+  - Slack: @stephen
+
+Ryan Cragun
+  - Github: [ryancragun](https://github.com/ryancragun)
+
+Stephan Renatus 
+  - Github: [srenatus](https://github.com/srenatus)
 
 ## Major Projects
 
