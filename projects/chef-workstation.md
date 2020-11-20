@@ -18,15 +18,7 @@ Marc Paradise
   - Github: [marcparadise](https://github.com/marcparadise)
   - Slack: @mparadise
 
-Mike Krasnow
-  - Github: [krasnow](https://github.com/krasnow)
-  - Slack: @krasnow
-
 #### Project Approvers
-
-Robb Kidd
-  - Github: [robbkidd](https://github.com/robbkidd)
-  - Slack: @robbkidd
 
 Clinton Wolfe
   - Github: [clintoncwolfe](https://github.com/clintoncwolfe)
@@ -44,6 +36,10 @@ John Snow
 
 #### Project Alums
 
+Mike Krasnow
+  - Github: [krasnow](https://github.com/krasnow)
+  - Slack: @krasnow
+
 Tyler Ball
   - Github: [tyler-ball](https://github.com/tyler-ball)
   - Slack: @tball
@@ -55,6 +51,10 @@ Tim Smith
 Salim Afiune
   - Github: [afiune](https://github.com/afiune)
   - Slack: @afiune
+
+Robb Kidd
+  - Github: [robbkidd](https://github.com/robbkidd)
+  - Slack: @robbkidd
 
 ### Project Repositories
 
