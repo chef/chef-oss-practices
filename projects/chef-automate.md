@@ -11,33 +11,18 @@ deployment topologies supported by `chef-automate deploy`.
 
 #### Project Owners
 
-- Stephen Delano
-  - GitHub: [sdelano](https://github.com/sdelano)
-  - Slack: @stephen
-- Victoria Jeffrey
-  - GitHub: [vjeffrey](https://github.com/vjeffrey)
-  - Slack: @vj
-
 #### Project Approvers
 
 - Tara Black
   - GitHub: [tarablack01](https://github.com/tarablack01)
-- Scott Christopherson
-  - GitHub: [scottopherson](https://github.com/scottopherson)
 - Tyler Cloke
   - GitHub: [tylercloke](https://github.com/tylercloke)
-- Ryan Cragun
-  - GitHub: [ryancragun](https://github.com/ryancragun)
 - Steven Danna
   - GitHub: [stevendanna](https://github.com/stevendanna)
 - Daniel DeLeo
   - GitHub: [danielsdeleo](https://github.com/danielsdeleo)
-- susan evans
-  - GitHub: [susanev](https://github.com/susanev)
 - Lance Finfrock
   - GitHub: [lancefw](https://github.com/lancefw)
-- Brenna Hewer-Darroch
-  - GitHub: [bcmdarroch](https://github.com/bcmdarroch)
 - Shadae Holmes
   - GitHub: [shadae](https://github.com/shadae)
 - Blake Johnson
@@ -52,8 +37,6 @@ deployment topologies supported by `chef-automate deploy`.
   - GitHub: [jaym](https://github.com/jaym)
 - Alex Pop
   - GitHub: [alexpop](https://github.com/alexpop)
-- Stephan Renatus
-  - GitHub: [srenatus](https://github.com/srenatus)
 - Michael Sorens
   - GitHub: [msorens](https://github.com/msorens)
 
@@ -74,6 +57,22 @@ deployment topologies supported by `chef-automate deploy`.
 
 ### Project Alums
 
+- Stephan Renatus
+  - GitHub: [srenatus](https://github.com/srenatus)
+- Brenna Hewer-Darroch
+  - GitHub: [bcmdarroch](https://github.com/bcmdarroch)
+- Ryan Cragun
+  - GitHub: [ryancragun](https://github.com/ryancragun)
+- susan evans
+  - GitHub: [susanev](https://github.com/susanev)
+- Scott Christopherson
+  - GitHub: [scottopherson](https://github.com/scottopherson)
+- Stephen Delano
+  - GitHub: [sdelano](https://github.com/sdelano)
+  - Slack: @stephen
+- Victoria Jeffrey
+  - GitHub: [vjeffrey](https://github.com/vjeffrey)
+  - Slack: @vj
 - Pete Higgins
   - GitHub: [phiggins](https://github.com/phiggins)
 - Salim Afiune
