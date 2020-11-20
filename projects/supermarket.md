@@ -22,13 +22,15 @@ Marc Paradise
   - Github: [marcparadise](https://github.com/marcparadise)
   - Slack: @mparadise
 
-Tyler Ball
-  - Github: [tyler-ball](https://github.com/tyler-ball)
-  - Slack: @tball
-
 Will Fisher
   - Github: [teknofire](https://github.com/teknofire)
   - Slack: @teknofire
+
+#### Project Alums
+
+Tyler Ball
+  - Github: [tyler-ball](https://github.com/tyler-ball)
+  - Slack: @tball
 
 ### Project Repositories
 
