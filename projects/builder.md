@@ -39,15 +39,15 @@ Ian Henry
 
 Salim Alam
   - Github: [chefsalim](https://github.com/chefsalim)
-  
+
 Josh Black
   - Github: [raskchanky](https://github.com/raskchanky)
 
-Scott Macfarlane
-  - Github: [smacfarlane](https://github.com/smacfarlane)
-
 Liz Chen
   - Github: [apriofrost](https://github.com/apriofrost)
+
+Scott Macfarlane
+  - Github: [smacfarlane](https://github.com/smacfarlane)
 
 ### Project Repositories
 

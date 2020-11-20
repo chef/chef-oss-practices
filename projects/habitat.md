@@ -17,24 +17,13 @@ Christopher Maier
 
 Jeremy Miller
   - Github: [jeremymv2](https://github.com/jeremymv2)
-
-Josh Black
-  - Github: [raskchanky](https://github.com/raskchanky)
-
 Mark Anderson
   - Github: [markan](https://github.com/markan)
 
 Matt Wrock
   - Github: [mwrock](https://github.com/mwrock)
 
-Salim Alam
-  - Github: [chefsalim](https://github.com/chefsalim)
-
-
 #### Project Reviewers
-
-Ian Henry
-  - Github: [eeyun](https://github.com/eeyun)
 
 Kimberley Garmoe
   - Github: [kagarmoe](https://github.com/kagarmoe)
@@ -44,6 +33,17 @@ Liz Chen
 
 Mary Jinglewski
   - Github: [mjingle](https://github.com/mjingle)
+
+#### Project Alums
+
+Salim Alam
+  - Github: [chefsalim](https://github.com/chefsalim)
+
+Ian Henry
+  - Github: [eeyun](https://github.com/eeyun)
+
+Josh Black
+  - Github: [raskchanky](https://github.com/raskchanky)
 
 ### Project Repositories
 

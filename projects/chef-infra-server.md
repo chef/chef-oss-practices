@@ -11,7 +11,9 @@ products. This includes:
 
 **Triage Schedule**: TBD
 
-### Project Owners
+### Project Members
+
+#### Project Owners
 
 Mark Anderson
   - Github: [markan](https://github.com/markan)
@@ -21,7 +23,7 @@ Prajakta Purohit
   - Github: [PrajaktaPurohit](https://github.com/PrajaktaPurohit)
   - Slack: @prajakta
 
-### Project Approvers
+#### Project Approvers
 
 Marc Paradise
   - Github: [marcparadise](https://github.com/marcparadise)
@@ -35,21 +37,14 @@ Steven Danna
   - Github: [stevendanna](https://github.com/stevendanna)
   - Slack: @ssd
 
-### Project Reviewers
+#### Project Reviewers
 
 Bryan McLellan
   - Github: [btm](https://github.com/btm)
   - Slack: @btm
 
-Ryan Cragun
-  - Github: [ryancragun](https://github.com/ryancragun)
-
-Stephan Renatus 
+Stephan Renatus
   - Github: [srenatus](https://github.com/srenatus)
-
-Stephen Delano
-  - Github: [sdelano](https://github.com/sdelano)
-  - Slack: @stephen
 
 Tim Smith
   - Github: [tas50](https://github.com/tas50)
@@ -58,6 +53,15 @@ Tim Smith
 Tyler Cloke
   - Github: [tylercloke](https://github.com/tylercloke)
   - Slack: @tylercloke
+
+#### Project Alums
+
+Ryan Cragun
+  - Github: [ryancragun](https://github.com/ryancragun)
+
+Stephen Delano
+  - Github: [sdelano](https://github.com/sdelano)
+  - Slack: @stephen
 
 ## Major Projects
 
@@ -87,4 +91,3 @@ Tyler Cloke
 [pushy_common](https://github.com/chef/pushy_common)
 [sqerl](https://github.com/chef/sqerl)
 [stats_hero](https://github.com/chef/stats_hero)
-
