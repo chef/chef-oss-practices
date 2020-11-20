@@ -28,10 +28,6 @@ Prajakta Purohit
   - Github: [prajaktapurohit](https://github.com/prajaktapurohit)
   - Slack: @prajakta
 
-Robb Kidd
-  - Github: [robbkidd](https://github.com/robbkidd)
-  - Slack: @robbkidd
-
 Tim Smith
   - Github: [tas50](https://github.com/tas50)
   - Slack: @tas50
@@ -53,6 +49,12 @@ Matt Wrock
 Pete Higgins
   - Github: [phiggins](http://github.com/phiggins)
   - Slack: @pete
+
+#### Project Alums
+
+Robb Kidd
+  - Github: [robbkidd](https://github.com/robbkidd)
+  - Slack: @robbkidd
 
 ### Project Repositories
 

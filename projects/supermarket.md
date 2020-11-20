@@ -18,11 +18,11 @@ Mike Krasnow
   - Github: [krasnow](https://github.com/krasnow)
   - Slack: @krasnow
 
+#### Project Approvers
+
 Robb Kidd
   - Github: [robbkidd](https://github.com/robbkidd)
   - Slack: @robbkidd
-
-#### Project Approvers
 
 #### Project Reviewers
 

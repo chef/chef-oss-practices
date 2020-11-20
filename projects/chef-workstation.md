@@ -24,10 +24,6 @@ Mike Krasnow
 
 #### Project Approvers
 
-Robb Kidd
-  - Github: [robbkidd](https://github.com/robbkidd)
-  - Slack: @robbkidd
-
 Tyler Ball
   - Github: [tyler-ball](https://github.com/tyler-ball)
   - Slack: @tball
@@ -55,6 +51,10 @@ Tim Smith
 Salim Afiune
   - Github: [afiune](https://github.com/afiune)
   - Slack: @afiune
+
+Robb Kidd
+  - Github: [robbkidd](https://github.com/robbkidd)
+  - Slack: @robbkidd
 
 ### Project Repositories
 
