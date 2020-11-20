@@ -11,13 +11,6 @@ deployment topologies supported by `chef-automate deploy`.
 
 #### Project Owners
 
-- Stephen Delano
-  - GitHub: [sdelano](https://github.com/sdelano)
-  - Slack: @stephen
-- Victoria Jeffrey
-  - GitHub: [vjeffrey](https://github.com/vjeffrey)
-  - Slack: @vj
-
 #### Project Approvers
 
 - Tara Black
@@ -44,8 +37,6 @@ deployment topologies supported by `chef-automate deploy`.
   - GitHub: [jaym](https://github.com/jaym)
 - Alex Pop
   - GitHub: [alexpop](https://github.com/alexpop)
-- Stephan Renatus
-  - GitHub: [srenatus](https://github.com/srenatus)
 - Michael Sorens
   - GitHub: [msorens](https://github.com/msorens)
 
@@ -66,14 +57,22 @@ deployment topologies supported by `chef-automate deploy`.
 
 ### Project Alums
 
+- Stephan Renatus
+  - GitHub: [srenatus](https://github.com/srenatus)
 - Brenna Hewer-Darroch
   - GitHub: [bcmdarroch](https://github.com/bcmdarroch)
-- Scott Christopherson
-  - GitHub: [scottopherson](https://github.com/scottopherson)
 - Ryan Cragun
   - GitHub: [ryancragun](https://github.com/ryancragun)
 - susan evans
   - GitHub: [susanev](https://github.com/susanev)
+- Scott Christopherson
+  - GitHub: [scottopherson](https://github.com/scottopherson)
+- Stephen Delano
+  - GitHub: [sdelano](https://github.com/sdelano)
+  - Slack: @stephen
+- Victoria Jeffrey
+  - GitHub: [vjeffrey](https://github.com/vjeffrey)
+  - Slack: @vj
 - Pete Higgins
   - GitHub: [phiggins](https://github.com/phiggins)
 - Salim Afiune
