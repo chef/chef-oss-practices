@@ -16,6 +16,12 @@ NA
 ### Project Members
 
 #### Project Owners
+UdayKumar Khatua
+  - Github: [udaykhatua](https://github.com/udaykhatua)
+  - Slack: @UdayKumar Khatua 
+
+  
+#### Project Alums
 
 Stuart Paterson
   - Github: [skpaterson](https://github.com/skpaterson)
