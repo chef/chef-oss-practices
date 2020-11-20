@@ -10,19 +10,11 @@ The Supermarket project includes Supermarket and all related repositories.
 
 #### Project Owners
 
-Jon Morrow
-  - Github: [jonsmorrow](https://github.com/jonsmorrow)
-  - Slack: @Jon Morrow
-
-Mike Krasnow
-  - Github: [krasnow](https://github.com/krasnow)
-  - Slack: @krasnow
+#### Project Approvers
 
 Robb Kidd
   - Github: [robbkidd](https://github.com/robbkidd)
   - Slack: @robbkidd
-
-#### Project Approvers
 
 #### Project Reviewers
 
