@@ -34,10 +34,6 @@ Matt Wrock
 
 #### Project Reviewers
 
-Mark Anderson
-  - Github: [markan](https://github.com/markan)
-  - Slack: @mark
-
 John McCrae
   - Github: [johnmccrae](http://github.com/johnmccrae)
   - Slack: @John McCrae
@@ -106,9 +102,9 @@ Kartik Cating-Subramanian
   - Github: [ksubrama](https://github.com/ksubrama)
   - Slack: @ksubrama
 
-Matt Wrock
-  - Github: [mwrock](https://github.com/mwrock)
-  - Slack: @mwrock
+Mark Anderson
+  - Github: [markan](https://github.com/markan)
+  - Slack: @mark
 
 Mike Dodge
   - Github: [mikedodge04](https://github.com/mikedodge04)
