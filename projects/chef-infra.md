@@ -38,10 +38,6 @@ Mark Anderson
   - Github: [markan](https://github.com/markan)
   - Slack: @mark
 
-Pete Higgins
-  - Github: [phiggins](http://github.com/phiggins)
-  - Slack: @pete
-
 John McCrae
   - Github: [johnmccrae](http://github.com/johnmccrae)
   - Slack: @John McCrae
@@ -161,3 +157,7 @@ Tom Duffield
 Tyler Ball
   - Github: [tyler-ball](https://github.com/tyler-ball)
   - Slack: @tball
+
+Pete Higgins
+  - Github: [phiggins](http://github.com/phiggins)
+  - Slack: @pete

@@ -46,15 +46,15 @@ Matt Wrock
 
 #### Project Reviewers
 
-Pete Higgins
-  - Github: [phiggins](http://github.com/phiggins)
-  - Slack: @pete
-
 #### Project Alums
 
 Robb Kidd
   - Github: [robbkidd](https://github.com/robbkidd)
   - Slack: @robbkidd
+
+Pete Higgins
+  - Github: [phiggins](http://github.com/phiggins)
+  - Slack: @pete
 
 ### Project Repositories
 
