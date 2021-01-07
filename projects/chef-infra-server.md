@@ -4,8 +4,6 @@ The Chef Infra Server team is responsible for common libraries and
 applications used to support the mostly erlang based server
 products. This includes:
   - Chef Server
-  - Push Jobs Server
-  - Push Jobs Client
 
 **Slack Channel**: #chef-server
 
@@ -15,9 +13,6 @@ products. This includes:
 
 #### Project Owners
 
-Mark Anderson
-  - Github: [markan](https://github.com/markan)
-  - Slack: @mark
 
 Prajakta Purohit
   - Github: [PrajaktaPurohit](https://github.com/PrajaktaPurohit)
@@ -29,22 +24,23 @@ Marc Paradise
   - Github: [marcparadise](https://github.com/marcparadise)
   - Slack: @mparadise
 
-Mark Anderson
-  - Github: [markan](https://github.com/markan)
-  - Slack: @mark
+Lincoln Baker
+  - Github: [lbakerchef](https://github.com/lbakerchef)
+  - Slack: @Lincoln Baker
 
-Steven Danna
-  - Github: [stevendanna](https://github.com/stevendanna)
-  - Slack: @ssd
+Vinay Satish
+  - Github: [vinay-satish](https://github.com/vinay-satish)
+  - Slack: @Vinay Satish
+
+Jan Shahid Shaik
+  - Github: [jashaik](https://github.com/jashaik)
+  - Slack: Jan Shahid Shaik
 
 #### Project Reviewers
 
 Bryan McLellan
   - Github: [btm](https://github.com/btm)
   - Slack: @btm
-
-Stephan Renatus
-  - Github: [srenatus](https://github.com/srenatus)
 
 Tim Smith
   - Github: [tas50](https://github.com/tas50)
@@ -63,11 +59,20 @@ Stephen Delano
   - Github: [sdelano](https://github.com/sdelano)
   - Slack: @stephen
 
+Mark Anderson
+  - Github: [markan](https://github.com/markan)
+  - Slack: @mark
+
+Stephan Renatus
+  - Github: [srenatus](https://github.com/srenatus)
+
+Steven Danna
+  - Github: [stevendanna](https://github.com/stevendanna)
+  - Slack: @ssd
+
 ## Major Projects
 
 [chef-server](https://github.com/chef/chef-server)
-[push-jobs-server](https://github.com/chef/opscode-pushy-server)
-[push-jobs-client](https://github.com/chef/opscode-pushy-client)
 
 ## Project Repositories
 
@@ -88,6 +93,5 @@ Stephen Delano
 [opscoderl_folsom](https://github.com/chef/opscoderl_folsom)
 [opscoderl_httpc](https://github.com/chef/opscoderl_httpc)
 [opscoderl_wm](https://github.com/chef/opscoderl_wm)
-[pushy_common](https://github.com/chef/pushy_common)
 [sqerl](https://github.com/chef/sqerl)
 [stats_hero](https://github.com/chef/stats_hero)
