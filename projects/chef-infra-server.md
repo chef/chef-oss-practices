@@ -1,9 +1,7 @@
 # Chef Infra Server Foundation Team
 
 The Chef Infra Server team is responsible for common libraries and
-applications used to support the mostly erlang based server
-products. This includes:
-  - Chef Server
+applications used to support Chef Infra Server.
 
 **Slack Channel**: #chef-server
 
@@ -13,10 +11,17 @@ products. This includes:
 
 #### Project Owners
 
-
 Prajakta Purohit
   - Github: [PrajaktaPurohit](https://github.com/PrajaktaPurohit)
   - Slack: @prajakta
+
+Sudharshan Kaushikk
+  - Github: [skkprogress](https://github.com/skkprogress)
+  - Slack: @skkprogress
+
+Tim Smith
+  - Github: [tas50](https://github.com/tas50)
+  - Slack: @tas50
 
 #### Project Approvers
 
@@ -41,10 +46,6 @@ Jan Shahid Shaik
 Bryan McLellan
   - Github: [btm](https://github.com/btm)
   - Slack: @btm
-
-Tim Smith
-  - Github: [tas50](https://github.com/tas50)
-  - Slack: @tas50
 
 Tyler Cloke
   - Github: [tylercloke](https://github.com/tylercloke)
@@ -78,7 +79,6 @@ Steven Danna
 
 [bcrypt](https://github.com/chef/erlang-bcrypt)
 [chef_authn](https://github.com/chef/chef_authn)
-[chef_reindex](https://github.com/chef/chef_reindex)
 [chef_req](https://github.com/chef/chef_req)
 [chef_secrets](https://github.com/chef/chef_secrets)
 [efast_xs](https://github.com/chef/efast_xs)
