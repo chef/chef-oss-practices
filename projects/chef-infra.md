@@ -18,13 +18,17 @@ Lamont Granquist
   - Github: [lamont-granquist](https://github.com/lamont-granquist)
   - Slack: @lamont
 
-Tim Smith
-  - Github: [tas50](https://github.com/tas50)
-  - Slack: @tas50
-
 Phil Dibowitz
   - Github: [jaymzh](http://github.com/jaymzh)
   - Slack: @phil
+
+Sudharshan Kaushikk
+  - Github: [skkprogress](https://github.com/skkprogress)
+  - Slack: @skkprogress
+
+Tim Smith
+  - Github: [tas50](https://github.com/tas50)
+  - Slack: @tas50
 
 #### Project Approvers
 
@@ -40,16 +44,13 @@ John McCrae
 
 ### Project Repositories
 
-- [bft](https://github.com/chef/bft)
-- [chef-api](https://github.com/chef/chef-api)
 - [chef-ruby-lvm-attrib](https://github.com/chef/chef-ruby-lvm-attrib)
 - [chef-ruby-lvm](https://github.com/chef/chef-ruby-lvm)
-- [chef-sugar](https://github.com/chef/chef-sugar)
 - [chef](https://github.com/chef/chef)
 - [cheffish](https://github.com/chef/cheffish)
 - [cookstyle](https://github.com/chef/cookstyle)
+- [cookstylist](https://github.com/chef/cookstylist)
 - [ohai](https://github.com/chef/ohai)
-- [proxy_tests](https://github.com/chef/proxy_tests)
 - [vscode-chef](https://github.com/chef/vscode-chef)
 
 ### Project Alums
