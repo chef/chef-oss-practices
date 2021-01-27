@@ -13,7 +13,7 @@ deployment topologies supported by `chef-automate deploy`.
 
 #### Project Approvers
 - Alex Pop
-  Github: [alexpop](https://github.com/alexpop) 
+  - Github: [alexpop](https://github.com/alexpop) 
 - Vivek Shankar
   - Github: [vivekshankar1](https://github.com/vivekshankar1)
 - Kallol Roy
