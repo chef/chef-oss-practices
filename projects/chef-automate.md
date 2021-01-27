@@ -12,7 +12,16 @@ deployment topologies supported by `chef-automate deploy`.
 #### Project Owners
 
 #### Project Approvers
-
+- Vivek Shankar
+  - Github: [vivekshankar1](https://github.com/vivekshankar1)
+- Kallol Roy
+  - Github: [kalroy](https://github.com/kalroy)
+- Shaik Mudassir
+  - Github: [shaik80](https://github.com/shaik80)
+- Punit Mundra
+  - Github: [punitmundra](https://github.com/punitmundra)
+- Vivek Yadav
+  - Github: [vivek-yadav](https://github.com/vivek-yadav)
 - Tara Black
   - GitHub: [tarablack01](https://github.com/tarablack01)
 - Daniel DeLeo
