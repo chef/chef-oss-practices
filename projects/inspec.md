@@ -10,19 +10,19 @@ The InSpec project includes InSpec as well as several resource packs and plugins
 
 #### Project Owners
 
-Nick Schwaderer
- - Github: [Schwad](https://github.com/Schwad)
- - Slack: @schwad
-
-#### Project Approvers
-
 Clinton Wolfe
   - Github: [clintoncwolfe](https://github.com/clintoncwolfe)
   - Slack: @cwolfe
 
+#### Project Approvers
+
 #### Project Reviewers
 
 #### Project Alums
+
+Nick Schwaderer
+ - Github: [Schwad](https://github.com/Schwad)
+ - Slack: @schwad
 
 Ryan Davis
   - Github: [zenspider](https://github.com/zenspider)
