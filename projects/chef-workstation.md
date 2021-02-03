@@ -25,15 +25,15 @@ Sudharshan Kaushikk
   - Slack: @skkprogress
 
 Nikhil Gupta
-  - Github: [tas50](https://github.com/nikhil2611)
+  - Github: [nikhil2611](https://github.com/nikhil2611)
   - Slack: @Nikhil Gupta
 
 Smisha M
-  - Github: [tas50](https://github.com/SmishaM)
+  - Github: [SmishaM](https://github.com/SmishaM)
   - Slack: @SmishaM
 
 Pranay Singh
-  - Github: [tas50](https://github.com/i5pranay93)
+  - Github: [i5pranay93](https://github.com/i5pranay93)
   - Slack: @Pranay Singh
 
 Mudassar Shafique
