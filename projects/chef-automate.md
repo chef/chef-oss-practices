@@ -12,23 +12,24 @@ deployment topologies supported by `chef-automate deploy`.
 #### Project Owners
 
 #### Project Approvers
-
+- Alex Pop
+  - Github: [alexpop](https://github.com/alexpop) 
+- Vivek Shankar
+  - Github: [vivekshankar1](https://github.com/vivekshankar1)
+- Kallol Roy
+  - Github: [kalroy](https://github.com/kalroy)
+- Shaik Mudassir
+  - Github: [shaik80](https://github.com/shaik80)
+- Punit Mundra
+  - Github: [punitmundra](https://github.com/punitmundra)
+- Vivek Yadav
+  - Github: [vivek-yadav](https://github.com/vivek-yadav)
 - Tara Black
   - GitHub: [tarablack01](https://github.com/tarablack01)
-- Tyler Cloke
-  - GitHub: [tylercloke](https://github.com/tylercloke)
-- Steven Danna
-  - GitHub: [stevendanna](https://github.com/stevendanna)
 - Daniel DeLeo
   - GitHub: [danielsdeleo](https://github.com/danielsdeleo)
-- Lance Finfrock
-  - GitHub: [lancefw](https://github.com/lancefw)
 - Shadae Holmes
   - GitHub: [shadae](https://github.com/shadae)
-- Blake Johnson
-  - GitHub: [blakestier](https://github.com/blakestier)
-- Yvonne Lam
-  - GitHub: [yzl](https://github.com/yzl)
 - Rick Marry
   - GitHub: [rickmarry](https://github.com/rickmarry)
 - Kyleen MacGugan
@@ -48,8 +49,6 @@ deployment topologies supported by `chef-automate deploy`.
   - GitHub: [tduffield](https://github.com/tduffield)
 - Kimberley Garmoe
   - GitHub: [kagarmoe](https://github.com/kagarmoe)
-- Mary Jinglewski
-  - GitHub: [mjingle](https://github.com/mjingle)
 
 ### Project Repositories
 
@@ -79,3 +78,15 @@ deployment topologies supported by `chef-automate deploy`.
   - GitHub: [afiune](https://github.com/afiune)
 - Maggie Walker
   - GitHub: [magwalk](https://github.com/magwalk)
+- Tyler Cloke
+  - GitHub: [tylercloke](https://github.com/tylercloke)
+- Steven Danna
+  - GitHub: [stevendanna](https://github.com/stevendanna)
+- Lance Finfrock
+  - GitHub: [lancefw](https://github.com/lancefw)
+- Blake Johnson
+  - GitHub: [blakestier](https://github.com/blakestier)
+- Yvonne Lam
+  - GitHub: [yzl](https://github.com/yzl)
+- Mary Jinglewski
+  - GitHub: [mjingle](https://github.com/mjingle)
