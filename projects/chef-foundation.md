@@ -32,14 +32,6 @@ Tim Smith
   - Github: [tas50](https://github.com/tas50)
   - Slack: @tas50
 
-Tyler Ball
-  - Github: [tyler-ball](https://github.com/tyler-ball)
-  - Slack: @tball
-
-Nick Schwaderer
- - Github: [Schwad](https://github.com/Schwad)
- - Slack: @schwad
-
 Matt Wrock
   - Github: [mwrock](https://github.com/mwrock)
   - Slack: @mwrockx
@@ -47,6 +39,14 @@ Matt Wrock
 #### Project Reviewers
 
 #### Project Alums
+
+Tyler Ball
+  - Github: [tyler-ball](https://github.com/tyler-ball)
+  - Slack: @tball
+
+Nick Schwaderer
+ - Github: [Schwad](https://github.com/Schwad)
+ - Slack: @schwad
 
 Robb Kidd
   - Github: [robbkidd](https://github.com/robbkidd)
