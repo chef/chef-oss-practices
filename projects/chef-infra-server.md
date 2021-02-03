@@ -47,11 +47,11 @@ Bryan McLellan
   - Github: [btm](https://github.com/btm)
   - Slack: @btm
 
+#### Project Alums
+
 Tyler Cloke
   - Github: [tylercloke](https://github.com/tylercloke)
   - Slack: @tylercloke
-
-#### Project Alums
 
 Ryan Cragun
   - Github: [ryancragun](https://github.com/ryancragun)
