@@ -38,6 +38,10 @@ Matt Wrock
 
 #### Project Reviewers
 
+Lincoln Baker 
+  - Github: [lbakerchef](https://github.com/lbakerchef)
+  - Slack: @Lincoln Baker 
+
 #### Project Alums
 
 Tyler Ball
