@@ -133,9 +133,8 @@ person(s) assigned to each role:
 
 | Role                | Name                     | Contact Info           |
 | ------------------- | ------------------------ | ---------------------- |
-| Decider             | Jenny Armstrong-Owen     | jowen@chef.io          |
-| Community Advocate  | benny Vasquez			 | bvasquez@chef.io       |
-| Community Advocate  | Robb Kidd                | rkidd@chef.io          |
+| Decider             | benny Vasquez			 | bvasquez@chef.io       |
+| Community Advocate  | TBD                      |                        |
 
 ## Consequences of Unacceptable Behavior
 

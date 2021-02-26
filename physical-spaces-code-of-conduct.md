@@ -265,7 +265,6 @@ with event staff if you are uncertain who is part of the event staff.
 If the matter is especially urgent, please call/contact any of these
 individuals:
 
- - Jenny Armstrong-Owen at +1 (206) 334-5731
  - benny Vasquez at +1 (517) 927-9660 
 
 ## Influences
