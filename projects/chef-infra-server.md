@@ -27,6 +27,10 @@ Vinay Satish
   - Github: [vinay-satish](https://github.com/vinay-satish)
   - Slack: @Vinay Satish
 
+Jan Shahid Shaik
+  - Github: [jashaik](https://github.com/jashaik)
+  - Slack: Jan Shahid Shaik
+
 #### Project Approvers
 
 Marc Paradise
@@ -36,10 +40,6 @@ Marc Paradise
 Lincoln Baker
   - Github: [lbakerchef](https://github.com/lbakerchef)
   - Slack: @Lincoln Baker
-
-Jan Shahid Shaik
-  - Github: [jashaik](https://github.com/jashaik)
-  - Slack: Jan Shahid Shaik
 
 #### Project Reviewers
 
