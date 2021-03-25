@@ -23,6 +23,10 @@ Tim Smith
   - Github: [tas50](https://github.com/tas50)
   - Slack: @tas50
 
+Lincoln Baker
+  - Github: [lbakerchef](https://github.com/lbakerchef)
+  - Slack: @Lincoln Baker
+
 Vinay Satish
   - Github: [vinay-satish](https://github.com/vinay-satish)
   - Slack: @Vinay Satish
