@@ -90,10 +90,6 @@ As a community that meets in physical public spaces, harassment also includes:
 **NOTE**: If you are in a physical space -- e.g. Chef Conf, Meetup, etc. -- please
 see the [Physical Spaces Code of Conduct](physical-spaces-code-of-conduct.md).
 
-If you have any lack of clarity about behaviors we include in the definition of
-"harassment", please read the [Citizen Code of
-Conduct](http://citizencodeofconduct.org/). In particular, we do not tolerate
-behavior that excludes people in socially marginalized groups.
 
 ## Enforcement/Getting Help
 
@@ -252,7 +248,7 @@ This Code of Conduct is adapted from the following:
 
   - [Contributor Covenant](http://contributor-covenant.org), version 1.4, available [here](http://contributor-covenant.org/version/1/4/)
   - [Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html)
-  - [Citizen Code of Conduct](http://citizencodeofconduct.org/)
+  - Citizen Code of Conduct (site no longer online)
 
 ## Community Members in Crisis
 
