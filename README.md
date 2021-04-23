@@ -65,7 +65,7 @@ We encourage all contributors to become project members. We aim to grow an activ
 - [Physical Spaces Code of Conduct](./physical-spaces-code-of-conduct.md)
 
 ### Contributors
-- [Contributor Licenses](./contributors/software-licenses.md)
+- [Contributor Licenses through the Entitlement Program](./contributors/contributor-entitlement-program.md)
 
 ### Distributions
 - [Distribution Guidelines](./distributions/distribution-guidelines.md)
