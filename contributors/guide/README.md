@@ -40,7 +40,7 @@ Welcome to the Chef Software Inc. OSS Community!
 
 ## Code of Conduct
 
-Please make sure to read and observe our [Code of Conduct](../CODE_OF_CONDUCT.md).
+Please make sure to read and observe our [Code of Conduct](https://community.chef.io/code-of-conduct/)).
 
 ## Community Expectations and Roles
 
