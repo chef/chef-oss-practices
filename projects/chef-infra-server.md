@@ -7,73 +7,88 @@ applications used to support Chef Infra Server.
 
 **Triage Schedule**: TBD
 
-### Project Members
+## Project Members
 
-#### Project Owners
+### Project Owners
 
 Prajakta Purohit
-  - Github: [PrajaktaPurohit](https://github.com/PrajaktaPurohit)
-  - Slack: @prajakta
+
+- Github: [PrajaktaPurohit](https://github.com/PrajaktaPurohit)
+- Slack: @prajakta
 
 Sudharshan Kaushikk
-  - Github: [skkprogress](https://github.com/skkprogress)
-  - Slack: @skkprogress
+
+- Github: [skkprogress](https://github.com/skkprogress)
+- Slack: @skkprogress
 
 Tim Smith
-  - Github: [tas50](https://github.com/tas50)
-  - Slack: @tas50
+
+- Github: [tas50](https://github.com/tas50)
+- Slack: @tas50
 
 Lincoln Baker
-  - Github: [lbakerchef](https://github.com/lbakerchef)
-  - Slack: @Lincoln Baker
+
+- Github: [lbakerchef](https://github.com/lbakerchef)
+- Slack: @Lincoln Baker
 
 Vinay Satish
-  - Github: [vinay-satish](https://github.com/vinay-satish)
-  - Slack: @Vinay Satish
+
+- Github: [vinay-satish](https://github.com/vinay-satish)
+- Slack: @Vinay Satish
 
 Jan Shahid Shaik
-  - Github: [jashaik](https://github.com/jashaik)
-  - Slack: Jan Shahid Shaik
 
-#### Project Approvers
+- Github: [jashaik](https://github.com/jashaik)
+- Slack: Jan Shahid Shaik
+
+### Project Approvers
 
 Marc Paradise
-  - Github: [marcparadise](https://github.com/marcparadise)
-  - Slack: @mparadise
+
+- Github: [marcparadise](https://github.com/marcparadise)
+- Slack: @mparadise
 
 Lincoln Baker
-  - Github: [lbakerchef](https://github.com/lbakerchef)
-  - Slack: @Lincoln Baker
 
-#### Project Reviewers
+- Github: [lbakerchef](https://github.com/lbakerchef)
+- Slack: @Lincoln Baker
+
+### Project Reviewers
 
 Bryan McLellan
-  - Github: [btm](https://github.com/btm)
-  - Slack: @btm
 
-#### Project Alums
+- Github: [btm](https://github.com/btm)
+- Slack: @btm
+
+### Project Alums
 
 Tyler Cloke
-  - Github: [tylercloke](https://github.com/tylercloke)
-  - Slack: @tylercloke
+
+- Github: [tylercloke](https://github.com/tylercloke)
+- Slack: @tylercloke
 
 Ryan Cragun
-  - Github: [ryancragun](https://github.com/ryancragun)
+
+- Github: [ryancragun](https://github.com/ryancragun)
 
 Stephen Delano
-  - Github: [sdelano](https://github.com/sdelano)
-  - Slack: @stephen
+
+- Github: [sdelano](https://github.com/sdelano)
+- Slack: @stephen
 
 Mark Anderson
-  - Github: [markan](https://github.com/markan)
-  - Slack: @mark
+
+- Github: [markan](https://github.com/markan)
+- Slack: @mark
 
 Stephan Renatus
-  - Github: [srenatus](https://github.com/srenatus)
+
+- Github: [srenatus](https://github.com/srenatus)
 
 Steven Danna
-  - Github: [stevendanna](https://github.com/stevendanna)
-  - Slack: @ssd
+
+- Github: [stevendanna](https://github.com/stevendanna)
+- Slack: @ssd
 
 ## Major Projects
 

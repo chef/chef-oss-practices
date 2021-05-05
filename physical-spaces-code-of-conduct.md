@@ -52,16 +52,17 @@ jokes are not appropriate for any event.
 ### Anti-Harassment Policy
 
 Harassment comes in many forms, including but not limited to:
-  - Offensive comments related to gender, sexual orientation, age, disability,
-    physical appearance, body size, race, veteran status, immigration status, or religion
-  - Posting/Exposing sexually explicit or violent images
-  - Deliberate (or implied) intimidation
-  - Stalking or persistent following
-  - Intrusive or otherwise unwanted photography or recording
-  - Sustained disruption of talks or other events
-  - Inappropriate physical contact or unwelcome sexual attention
-  - Posting (or threatening to post) other people’s personally identifying information (“doxing”)
-  - Advocation for, or encouraging, any of the above behavior
+
+- Offensive comments related to gender, sexual orientation, age, disability,
+  physical appearance, body size, race, veteran status, immigration status, or religion
+- Posting/Exposing sexually explicit or violent images
+- Deliberate (or implied) intimidation
+- Stalking or persistent following
+- Intrusive or otherwise unwanted photography or recording
+- Sustained disruption of talks or other events
+- Inappropriate physical contact or unwelcome sexual attention
+- Posting (or threatening to post) other people’s personally identifying information (“doxing”)
+- Advocation for, or encouraging, any of the above behavior
 
 Participants asked to stop any harassing behavior are expected to comply
 immediately. Further unacceptable behavior will result in escalating sanctions.
@@ -98,11 +99,11 @@ report/collecting information.
 
 The important information consists of:
 
-  - Identifying information (name/badge number) of the participant doing the harassing
-  - The behavior that was in violation
-  - The approximate time and date of the behavior
-  - The circumstances surrounding the incident
-  - Other people involved in the incident
+- Identifying information (name/badge number) of the participant doing the harassing
+- The behavior that was in violation
+- The approximate time and date of the behavior
+- The circumstances surrounding the incident
+- Other people involved in the incident
 
 The staff is well informed on how to deal with the incident and how to further
 proceed with the situation.
@@ -135,13 +136,13 @@ Try to get as much detail of the incident in written form from the reporter. If
 you cannot, transcribe it yourself as it was told to you. The important
 information to gather includes the following:
 
-  - Identifying information (name/badge number) of the participant doing the
-    harassing
-  - The behavior that was in violation
-  - The approximate time and date of the behavior
-  - The approximate time the report was made
-  - The circumstances surrounding the incident
-  - Other people involved in the incident
+- Identifying information (name/badge number) of the participant doing the
+  harassing
+- The behavior that was in violation
+- The approximate time and date of the behavior
+- The approximate time the report was made
+- The circumstances surrounding the incident
+- Other people involved in the incident
 
 ### Prepare an Initial Response
 
@@ -150,26 +151,27 @@ important and will set the tone for the event.
 
 Depending on the severity/details of the incident, please follow these
 guidelines:
-  - If there is any general threat to attendees or the safety of anyone
-    including event staff is in doubt, summon security or police
-  - Offer the victim a private place to sit
-  - Ask "Is there a friend or trusted person who you would like to be with you?"
-    (if so, arrange for someone to fetch this person)
-  - Ask them "how can I help?"
-  - Provide them with your list of emergency contacts if they need help later
-  - If everyone is presently physically safe, involve law enforcement or
-    security only at a victim’s request
+
+- If there is any general threat to attendees or the safety of anyone
+  including event staff is in doubt, summon security or police
+- Offer the victim a private place to sit
+- Ask "Is there a friend or trusted person who you would like to be with you?"
+  (if so, arrange for someone to fetch this person)
+- Ask them "how can I help?"
+- Provide them with your list of emergency contacts if they need help later
+- If everyone is presently physically safe, involve law enforcement or
+  security only at a victim’s request
 
 There are also some guidelines as to what **not** to do as an initial
 response:
 
-  - Do not overtly invite them to withdraw the complaint or mention that
-    withdrawal is OK. This suggests that you want them to do so, and is
-    therefore coercive. "If you're OK with it [pursuing the complaint]" suggests
-    that you are by default pursuing it and is not coercive
-  - Do not ask for their advice on how to deal with the complaint. This is a
-    staff responsibility
-  - Do not offer them input into penalties. This is the staff’s responsibility
+- Do not overtly invite them to withdraw the complaint or mention that
+  withdrawal is OK. This suggests that you want them to do so, and is
+  therefore coercive. "If you're OK with it [pursuing the complaint]" suggests
+  that you are by default pursuing it and is not coercive
+- Do not ask for their advice on how to deal with the complaint. This is a
+  staff responsibility
+- Do not offer them input into penalties. This is the staff’s responsibility
 
 ### After Reporting
 
@@ -177,10 +179,10 @@ Once something is reported to a staff member, immediately meet with the event
 chair and/or the event manager. The main objectives of this meeting is to find out
 the following:
 
-  - What happened?
-  - Are we doing anything about it?
-  - Who is doing those things?
-  - When are they doing them?
+- What happened?
+- Are we doing anything about it?
+- Who is doing those things?
+- When are they doing them?
 
 After the staff meeting and discussion, have a staff member -- preferably the
 event chair or event manager if available -- communicate with the alleged
@@ -195,27 +197,27 @@ will be taken against them.
 Some things for the staff to consider when dealing with Code of Conduct
 offenders:
 
-  - Warning the harasser to cease their behavior and that any further reports
-    will result in sanctions
-  - Requiring that the harasser avoid any interaction with, and physical
-    proximity to, their victim for the remainder of the event
-  - Ending a talk that violates the policy early
-  - Not publishing the video or slides of a talk that violated the policy
-  - Not allowing a speaker who violated the policy to give (further) talks at
-    the event now or in the future
-  - Immediately ending any event volunteer responsibilities and privileges the
-    harasser holds
-  - Requiring that the harasser not volunteer for future events your
-    organization runs (either indefinitely or for a certain time period)
-  - Requiring that the harasser immediately leave the event and not return
-  - Banning the harasser from future events (either indefinitely or for a
-    certain time period)
-  - Publishing an account of the harassment and calling for the resignation of
-    the harasser from their responsibilities (usually pursued by people without
-    formal authority: this may be called for if the harasser is the event leader, or
-    refuses to stand aside from the conflict of interest, or similar, typically
-    event staff have sufficient governing rights over their space that this
-    is not as useful)
+- Warning the harasser to cease their behavior and that any further reports
+  will result in sanctions
+- Requiring that the harasser avoid any interaction with, and physical
+  proximity to, their victim for the remainder of the event
+- Ending a talk that violates the policy early
+- Not publishing the video or slides of a talk that violated the policy
+- Not allowing a speaker who violated the policy to give (further) talks at
+  the event now or in the future
+- Immediately ending any event volunteer responsibilities and privileges the
+  harasser holds
+- Requiring that the harasser not volunteer for future events your
+  organization runs (either indefinitely or for a certain time period)
+- Requiring that the harasser immediately leave the event and not return
+- Banning the harasser from future events (either indefinitely or for a
+  certain time period)
+- Publishing an account of the harassment and calling for the resignation of
+  the harasser from their responsibilities (usually pursued by people without
+  formal authority: this may be called for if the harasser is the event leader, or
+  refuses to stand aside from the conflict of interest, or similar, typically
+  event staff have sufficient governing rights over their space that this
+  is not as useful)
 
 Give accused attendees a place to appeal if there is one, but in the meantime,
 the report stands. Keep in mind that it is not a good idea to encourage an
@@ -257,10 +259,10 @@ the violation behavior would be made before any punitive action is decided.
 When punitive action is warranted, one or more of the following remedies may be
 used:
 
-  - Expulsion from the space where the incident occurred with no refund
-  - Removal from the space where the incident occurred for a period of time
-  - Banned from the space where the incident occurred indefinitely
-  - Banned from one or more upcoming in-person events
+- Expulsion from the space where the incident occurred with no refund
+- Removal from the space where the incident occurred for a period of time
+- Banned from the space where the incident occurred indefinitely
+- Banned from one or more upcoming in-person events
 
 ## Contact Information
 
@@ -272,7 +274,7 @@ with event staff if you are uncertain who is part of the event staff.
 If the matter is especially urgent, please call/contact any of these
 individuals:
 
- - benny Vasquez at +1 (517) 927-9660
+- benny Vasquez at +1 (517) 927-9660
 
 ## Influences
 

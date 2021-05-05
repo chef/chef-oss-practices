@@ -13,9 +13,9 @@ Chef uses Design Proposals to discuss significant changes to a project before op
 
 A design proposal should be opened any time a change meets one of the following qualifications:
 
-  - Significantly changes the user experience of a project in a way that impacts users.
-  - Significantly changes the underlying architecture of the project in a way that impacts other developers.
-  - Changes the development or testing process of the project such as a change of CI systems or test frameworks.
+- Significantly changes the user experience of a project in a way that impacts users.
+- Significantly changes the underlying architecture of the project in a way that impacts other developers.
+- Changes the development or testing process of the project such as a change of CI systems or test frameworks.
 
 ## The Design Proposal Process
 
@@ -29,13 +29,13 @@ A design proposal should be opened any time a change meets one of the following 
 
 ## How Does This Differ From RFCs
 
-Previously, the Chef project used a RFC process. This RFC process involved proposal documents that were discussed over multiple community meetings and then voted on by the community. This process proved to be overly complex for most of our project needs and also incredibly lengthy as a debated proposal could easily take over a month. 
+Previously, the Chef project used a RFC process. This RFC process involved proposal documents that were discussed over multiple community meetings and then voted on by the community. This process proved to be overly complex for most of our project needs and also incredibly lengthy as a debated proposal could easily take over a month.
 
 The Design Proposal process is built to revolve around individual projects in a way that gives more autonomy and speed to the process, and in general, makes it easier on both the user submitting the proposal and other community members. All discussion is contained within issues in the individual GitHub repositories, which makes it easier to reference in the future. Also, as the discussion happens in GitHub Issues, it's easier for those throughout the world to participate in the process.
 
 ## Structure of a Design Proposal
 
-```
+```markdown
 # Title
 
 Description and rationale.

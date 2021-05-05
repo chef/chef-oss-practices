@@ -17,9 +17,10 @@ Following this process is not required, but it is suggested here as a place to s
 ### Tools
 
 Each team should feel free to use whatever tools they want so long as they can meet the following requirements:
-  - The call should be held live in a manner that allows external project members and contributors to join or provide context to issues they've submitted _while_ the call is occurring.
-  - The call should be recorded each time the call occurs.
-  - Following the end of the call, the recording must be published to a public location.
+
+- The call should be held live in a manner that allows external project members and contributors to join or provide context to issues they've submitted _while_ the call is occurring.
+- The call should be recorded each time the call occurs.
+- Following the end of the call, the recording must be published to a public location.
 
 ### Representation
 
@@ -34,9 +35,10 @@ Because customer impact and business strategy may be confidential, prioritizing 
 ### Sifting and Sorting
 
 The actual activity of triage is relatively simple. The host of the call will walk the group through inbound issues. Generally, we recommend fully labeling (within reason) each accepted issue and adding them to the backlog. There are 3 primary statuses an inbound issue can take:
-  - _Accepted_ issues are issues that we validate as being work project team wants to undertake. Typically these are a mix of bug fixes, enhancements, and chores that require a healthy level of context to the project. Accepted issues are typically issues assigned to people in project roles. These issues are added to the backlog.
-  - _Rejected_ issues are issues that the project team has determined as being either not useful, not in line with project goals, or something that if implemented it would be far out in the project's future due to impact. These issues are closed.
-  - _Help Wanted_ issues are bits of work that the project team agree would be useful and within the scope of the project however that aren't likely to get prioritized on the immediate. Help Wanted issues are added to the backlog and labeled as help-wanted.
+
+- _Accepted_ issues are issues that we validate as being work project team wants to undertake. Typically these are a mix of bug fixes, enhancements, and chores that require a healthy level of context to the project. Accepted issues are typically issues assigned to people in project roles. These issues are added to the backlog.
+- _Rejected_ issues are issues that the project team has determined as being either not useful, not in line with project goals, or something that if implemented it would be far out in the project's future due to impact. These issues are closed.
+- _Help Wanted_ issues are bits of work that the project team agree would be useful and within the scope of the project however that aren't likely to get prioritized on the immediate. Help Wanted issues are added to the backlog and labeled as help-wanted.
 
 If an issue is rejected, a project member should leave a comment on the issue explaining why it was closed, then close the issue. Additionally, if project members are using the "will-not-fix" label on issues in that repository, they should make sure to attach that label to the issue before closing it.
 

@@ -2,9 +2,9 @@
 
 ## GitHub
 
- * Interact with the community through Issue and Pull Request triage.
- * Help educate users on code standards in the project.
- * Help keep documentation and README's updated.
+- Interact with the community through Issue and Pull Request triage.
+- Help educate users on code standards in the project.
+- Help keep documentation and README's updated.
 
 ## Slack and Discourse
 

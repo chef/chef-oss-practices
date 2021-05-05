@@ -52,10 +52,9 @@ Yes. Chef is currently removing binstubs from the Chef gem to allow it to functi
 
 No, so long as it is still clear which distribution the user is using.
 
-
 For example
 
-```
+```shell
 cinc-client --chef_server_url
 ```
 
