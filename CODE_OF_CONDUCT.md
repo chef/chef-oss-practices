@@ -127,10 +127,10 @@ person(s) assigned to each role:
   for following the community guidelines, suggesting updates to the guidelines
   when warranted, and helping enforce community guidelines
 
-| Role                | Name                     | Contact Info           |
-| ------------------- | ------------------------ | ---------------------- |
-| Decider             | benny Vasquez			 | bvasquez@chef.io       |
-| Community Advocate  | TBD                      |                        |
+| Role               | Name          | Contact Info     |
+| ------------------ | ------------- | ---------------- |
+| Decider            | benny Vasquez | bvasquez@chef.io |
+| Community Advocate | TBD           |                  |
 
 ## Consequences of Unacceptable Behavior
 
