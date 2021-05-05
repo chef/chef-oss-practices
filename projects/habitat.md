@@ -19,6 +19,7 @@ Christopher Maier
 Jeremy Miller
 
 - Github: [jeremymv2](https://github.com/jeremymv2)
+
 Mark Anderson
 
 - Github: [markan](https://github.com/markan)
