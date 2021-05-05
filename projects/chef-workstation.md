@@ -38,6 +38,7 @@ Smisha M
 - Slack: @SmishaM
 
 Pranay Singh
+
 - Github: [i5pranay93](https://github.com/i5pranay93)
 - Slack: @Pranay Singh
 
