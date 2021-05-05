@@ -64,12 +64,11 @@ Here's the process the pull request goes through from submission to merging:
 
 1. Make the pull request
 2. Reviewers are assigned automatically based on `CODEOWNERS`
-
 3. Pre-submit tests will run:
 
-    1. Automatic tests run
-    2. If tests fail, resolve issues by pushing edits to your pull request branch
-    3. If the failure is a flake, anyone with build system access can simply click retry
+     1. Automatic tests run
+     2. If tests fail, resolve issues by pushing edits to your pull request branch
+     3. If the failure is a flake, anyone with build system access can simply click retry
 
 4. Reviewer suggests edits
 5. Push edits to your pull request branch
