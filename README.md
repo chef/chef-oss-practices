@@ -40,9 +40,9 @@ Once you've selected a project to contribute to, be sure to read the team's [con
 
 The [Contributor Guide](./contributors/guide/README.md) provides detailed instructions on how to get your code accepted to Chef Software projects, including:
 
-  1. How to [file an issue](./contributors/guide/README.md#file-an-issue)
-  2. How to [find something to work on](./contributors/guide/README.md#find-something-to-work-on)
-  3. How to [open a pull request](./contributors/guide/README.md#open-a-pull-request)
+1. How to [file an issue](./contributors/guide/README.md#file-an-issue)
+2. How to [find something to work on](./contributors/guide/README.md#find-something-to-work-on)
+3. How to [open a pull request](./contributors/guide/README.md#open-a-pull-request)
 
 ## Creating a New Chef Open Source Project
 
