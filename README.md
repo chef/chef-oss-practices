@@ -1,6 +1,6 @@
-* **[Project State](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md): Active**
-* **Issues [Response Time Maximum](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md): 7 days**
-* **Pull Request [Response Time Maximum](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md): 7 days**
+- **[Project State](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md): Active**
+- **Issues [Response Time Maximum](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md): 7 days**
+- **Pull Request [Response Time Maximum](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md): 7 days**
 
 # Chef Software Open Source Communities
 
@@ -53,6 +53,7 @@ Creating a new project? Check out the [repo management](./repo-management/README
 We encourage all contributors to become project members. We aim to grow an active, healthy community of contributors, reviewers, and project owners. Learn about requirements and perks of membership in our [Project Membership](./project-membership.md) page.
 
 ## Table of Contents
+
 - [README](./README.md)
 - [Contributing](./CONTRIBUTING.md)
 - [Project Membership](./project-membership.md)
@@ -61,17 +62,21 @@ We encourage all contributors to become project members. We aim to grow an activ
 - [Developer Certificate of Origin](./DCO.md)
 
 ### Code of Conduct
+
 - [Virtual Spaces Code of Conduct](./CODE_OF_CONDUCT.md)
 - [Physical Spaces Code of Conduct](./physical-spaces-code-of-conduct.md)
 
 ### Contributors
+
 - [Contributor Licenses through the Entitlement Program](./contributors/contributor-entitlement-program.md)
 
 ### Distributions
+
 - [Distribution Guidelines](./distributions/distribution-guidelines.md)
 - [Distribution List](./distributions/distribution-list.md)
 
-**Guide**
+### Guide
+
 - [README](./contributors/guide/README.md)
 - [Collaborative Development](./contributors/guide/collaborative-dev.md)
 - [Community Expectations](./contributors/guide/community-expectations.md)
@@ -83,6 +88,7 @@ We encourage all contributors to become project members. We aim to grow an activ
 - [Ways to Contribute](./contributors/guide/ways-to-contribute.md)
 
 ### Communication
+
 - [README](./communication/README.md)
 - [Community Meetings](./communication/community-meetings.md)
 - [Decider](./communication/decider.md)
@@ -95,15 +101,17 @@ We encourage all contributors to become project members. We aim to grow an activ
 - [Communication FAQ](./communication/communication-faq.md)
 
 ### Repo Management
+
 - [README](./repo-management/README.md)
 - [Project Setup](./repo-management/project-required-setup.md)
 - [Repo States](./repo-management/repo-states.md)
 - [GitHub Labels](./repo-management/github-labels.md)
 
-
 ### Guilds
+
 - [README](./guilds/README.md)
 
 ### Checklists
+
 - [Managing Pull Requests](./checklists/managing-pull-requests.md)
 - [New Projects](./checklists/new-project.md)

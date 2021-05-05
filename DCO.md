@@ -2,7 +2,7 @@
 
 All Chef Software Inc. projects utilize a Developer Certificate of Origin (DCO) to ensure that each commit was written by the author or that the author has the appropriate rights necessary to contribute the change. Specifically, we utilize [Developer Certificate of Origin, Version 1.1](http://developercertificate.org/)
 
-```
+```text
 Developer Certificate of Origin
 Version 1.1
 
