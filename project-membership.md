@@ -33,17 +33,17 @@ Reviewer status is scoped to a project.
 
 - Enabled [two-factor authentication] on their GitHub account
 - Actively contributes to the project. Contributions may include, but are not limited to:
-    - Authoring or reviewing PRs on GitHub
-    - Filing or commenting on issues on GitHub
+  - Authoring or reviewing PRs on GitHub
+  - Filing or commenting on issues on GitHub
 - Have read the [Chef Software Inc. Contributor Guide]
 - Subscribed to the project's core-development mailing list and/or chat channel
 - Sponsored by 2 reviewers (or approvers). **Note the following requirements for sponsors**:
-    - Sponsors must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating on issues, etc.
-    - Sponsors must be reviewers or approvers in the related Chef Software Inc. OSS project
+  - Sponsors must have close interactions with the prospective member - e.g. code/design/proposal review, coordinating on issues, etc.
+  - Sponsors must be reviewers or approvers in the related Chef Software Inc. OSS project
 - ** Open a membership request issue against the project repo**
-   - Ensure your sponsors are @mentioned on the issue
-   - Complete every item on [the checklist](.github/ISSUE_TEMPLATE/membership.md) in the issue template
-   - Make sure that the list of contributions included is representative of your work on the project.
+  - Ensure your sponsors are @mentioned on the issue
+  - Complete every item on [the checklist](.github/ISSUE_TEMPLATE/membership.md) in the issue template
+  - Make sure that the list of contributions included is representative of your work on the project.
 - Have your sponsoring reviewers confirm their sponsorship with a GitHub PR approval
 - Once your sponsors have responded, your request will be reviewed by the project's approvers, within the response time maximum defined by the project. Any missing information will be requested.
 

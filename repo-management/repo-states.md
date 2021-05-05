@@ -1,10 +1,11 @@
 # Repo States
 
 A Chef OSS repo can be in one of 3 states
-* Active
-* Maintained
-* Prototyping
-* Deprecated
+
+- Active
+- Maintained
+- Prototyping
+- Deprecated
 
 ## Active
 
@@ -30,8 +31,8 @@ The Response Time Maximum (RTM) applies to responses from a project member to is
 
 Both the Project State and Response Time Maximums must be defined in the README of the project. We recommend defining them at the top of the README (right under the title) like this:
 
-```
-* **[Project State](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md): Active**
-* **Issues [Response Time Maximum](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md): 7 days**
-* **Pull Request [Response Time Maximum](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md): 7 days**
+```markdown
+- **[Project State](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md): Active**
+- **Issues [Response Time Maximum](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md): 7 days**
+- **Pull Request [Response Time Maximum](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md): 7 days**
 ```

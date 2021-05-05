@@ -4,11 +4,11 @@ So you want to create a new distro of a Chef product….
 
 Excellent! Welcome aboard!
 
-Anyone is welcome to make a distribution of Chef’s Open Source products, but must remove Chef trademarks from the code base (see the full [Chef trademark policy](https://www.chef.io/trademark-policy/) for details). 
+Anyone is welcome to make a distribution of Chef’s Open Source products, but must remove Chef trademarks from the code base (see the full [Chef trademark policy](https://www.chef.io/trademark-policy/) for details).
 
-## Why does Chef require removal of Trademarks? 
+## Why does Chef require removal of Trademarks?
 
-The purpose of Chef’s Trademark Policy is to avoid any confusion about which distributions come from Chef the company (which are supported, warrantied, and indemnified) and which distributions come from somewhere else (which are not supported, warrantied, or indemnified by Chef). 
+The purpose of Chef’s Trademark Policy is to avoid any confusion about which distributions come from Chef the company (which are supported, warrantied, and indemnified) and which distributions come from somewhere else (which are not supported, warrantied, or indemnified by Chef).
 
 ## How does this affect you?
 
@@ -22,13 +22,13 @@ That said, it is ok to symlink a command to a distribution's equivalent command.
 
 The Chef community has begun the process of creating a Community distribution of Chef itself - beginning with implementing a way to handle Chef’s trademarks throughout the code. They created a Chef::Dist namespace and replaced all Chef trademarks in the code with a configurable variable - i.e. “Chef Server” became “Chef::Dist::SERVER_PRODUCT”
 
-This pull request was created in collaboration and reviewed by Chef Software and is a good implementation of what we are looking for when requiring that distros remove Chef’s trademarks. Please feel free to use it as a reference: https://github.com/chef/chef/pull/8368
+This pull request was created in collaboration and reviewed by Chef Software and is a good implementation of what we are looking for when requiring that distros remove Chef’s trademarks. Please feel free to use it as a reference: <https://github.com/chef/chef/pull/8368>
 
-You can also see the conversation around the decisions of that pull request in this design proposal: https://github.com/chef/chef/issues/8376
+You can also see the conversation around the decisions of that pull request in this design proposal: <https://github.com/chef/chef/issues/8376>
 
 ## What about Chef code libraries used in distributions?
 
-You do not have to remove Chef from the existing Ruby class names, e.g. Chef::Log or Chef::Dist. 
+You do not have to remove Chef from the existing Ruby class names, e.g. Chef::Log or Chef::Dist.
 
 However, if you add a new class or create a derived class, the name of that new class should not include Chef.
 
@@ -48,12 +48,12 @@ Yes, do not reuse /opt/chef, /etc/chef, etc. as installation paths. It is fine i
 
 Yes. Chef is currently removing binstubs from the Chef gem to allow it to function as a library, rather than an executable. It is fine to reference the Chef gem as a library from your code, but derived and modified class names should not include Chef trademarks.
 
-## Do you need to change config variables? 
+## Do you need to change config variables?
 
 No, so long as it is still clear which distribution the user is using.
 
 
-For example 
+For example
 
 ```
 cinc-client --chef_server_url

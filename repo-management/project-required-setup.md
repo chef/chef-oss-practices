@@ -36,14 +36,14 @@ See the [oss_project_boilerplate repo](https://github.com/chef/oss_project_boile
 
 A project readme is the first thing a new user or contributor sees when interacting with a Chef Software project. We want to make sure this file is detailed and up to date. It should cover the following things:
 
-  - The project state and response time maximums (see [Project States](repo-states.md) for more information)
-  - The project's intended use
-  - Any system or runtime requirements
-  - Example uses
-  - Known issues or incompatibilities
-  - The Chef team responsible for the project
-  - The project license
-  - When a product requires a license to run the binary, a link to document explaining Chef's licensing terms, as license on code is different than license on binary. [This document is still to be written.]
+- The project state and response time maximums (see [Project States](repo-states.md) for more information)
+- The project's intended use
+- Any system or runtime requirements
+- Example uses
+- Known issues or incompatibilities
+- The Chef team responsible for the project
+- The project license
+- When a product requires a license to run the binary, a link to document explaining Chef's licensing terms, as license on code is different than license on binary. [This document is still to be written.]
 
 ### LICENSE
 
@@ -79,6 +79,6 @@ Pull Request templates ensure that the users have followed all the necessary ste
 
 We find pull request reminders to be a practical mechanism for reminding project members they have open PRs in need of review. Teams should feel free to choose whichever tool for this task that they like. Here are two tools that we recommend:
 
-* GitHub webhooks with Slack - this tool will update a Slack channel when a new pull request is open (and is highly configurable).
+- GitHub webhooks with Slack - this tool will update a Slack channel when a new pull request is open (and is highly configurable).
 
-* [Pull Reminders](https://pullreminders.com/) - this tool will routinely ping reviewers assigned to a pull request until that pull request is either merged or closed. Chef does have a current subscription to this tool.
+- [Pull Reminders](https://pullreminders.com/) - this tool will routinely ping reviewers assigned to a pull request until that pull request is either merged or closed. Chef does have a current subscription to this tool.

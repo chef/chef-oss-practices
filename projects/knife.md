@@ -6,31 +6,35 @@ The Knife project includes all of the Chef Infra Knife plugins.
 
 **Triage Schedule**: TBD
 
-### Project Members
+## Project Members
 
-#### Project Owners
+### Project Owners
 
 Bryan McLellan
-  - Github: [btm](https://github.com/btm)
-  - Slack: @btm
+
+- Github: [btm](https://github.com/btm)
+- Slack: @btm
 
 Lamont Granquist
-  - Github: [lamont-granquist](https://github.com/lamont-granquist)
-  - Slack: @lamont
+
+- Github: [lamont-granquist](https://github.com/lamont-granquist)
+- Slack: @lamont
 
 Tim Smith
-  - Github: [tas50](https://github.com/tas50)
-  - Slack: @tas50
 
-#### Project Approvers
+- Github: [tas50](https://github.com/tas50)
+- Slack: @tas50
+
+### Project Approvers
 
 Prajakta Purohit
-  - Github: [prajaktapurohit](https://github.com/prajaktapurohit)
-  - Slack: @prajakta
 
-#### Project Reviewers
+- Github: [prajaktapurohit](https://github.com/prajaktapurohit)
+- Slack: @prajakta
 
-### Project Repositories
+### Project Reviewers
+
+## Project Repositories
 
 - [knife-acl](https://github.com/chef/knife-acl)
 - [knife-azure](https://github.com/chef/knife-azure)

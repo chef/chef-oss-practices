@@ -20,17 +20,17 @@ If a community member expresses thoughts or ideas that indicate they are at risk
 
 - [ ] Immediately DM the person who posted the message with a message along the lines of "It sounds like you are having a really difficult time right now. If you need a little extra emotional support, there are resources available that can help you 24/7"
 - [ ] Send them this list of global Suicide Prevention/Support lines
-* United States - National Suicide Prevention Lifeline
+- United States - National Suicide Prevention Lifeline
   - Call 1-800-273-8255
   - Available 24 hours everyday
   - Online Chat
-* Europe - list of all of European Countries Crisis Lines
+- Europe - list of all of European Countries Crisis Lines
   - [https://www.iasp.info/resources/Crisis_Centres/Europe/](https://www.iasp.info/resources/Crisis_Centres/Europe/)
-* Australia
+- Australia
   - [https://www.lifeline.org.au/](https://www.lifeline.org.au/)
-* Singapore
+- Singapore
   - [https://www.sos.org.sg/](https://www.sos.org.sg/)
-* Anywhere
+- Anywhere
   - The [International Association for Suicide Prevention](https://www.iasp.info/) maintains a [list of worldwide crisis centers](https://www.iasp.info/resources/Crisis_Centres/)
 - [ ] If in a virtual space, take a screenshot of the message(s) indicating the community member is in crisis.
 - [ ] Delete the messages from any public channels (if you are unable to do this, skip to the next step)

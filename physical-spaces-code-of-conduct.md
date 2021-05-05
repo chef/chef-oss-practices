@@ -1,13 +1,20 @@
 # Code of Conduct
 
-  - [Summary](#Summary)
-  - [Code of Conduct](#Code-of-Conduct)
-    - [Anti-Harassment Policy](#Anti-Harassment-Policy)
-  - [Handling Incidents](#Attendee-Procedure-for-Incident-Handling)
-    - [Attendee Procedure](#Attendee-Procedure-for-Incident-Handling)
-    - [Staff Procedure](#Staff-Procedure-for-Incident-Handling)
-  - [Enforcement](#Enforcement)
-  - [Contact Information](#Contact-Information)
+- [Code of Conduct](#code-of-conduct)
+  - [Summary](#summary)
+  - [Code of Conduct](#code-of-conduct-1)
+    - [Anti-Harassment Policy](#anti-harassment-policy)
+  - [Attendee Procedure for Incident Handling](#attendee-procedure-for-incident-handling)
+  - [Staff Procedure for Incident Handling](#staff-procedure-for-incident-handling)
+    - [Gather Details](#gather-details)
+    - [Prepare an Initial Response](#prepare-an-initial-response)
+    - [After Reporting](#after-reporting)
+    - [Things to Consider](#things-to-consider)
+    - [Public Announcements](#public-announcements)
+  - [Enforcement](#enforcement)
+  - [Contact Information](#contact-information)
+  - [Influences](#influences)
+  - [Copyright](#copyright)
 
 ## Summary
 
@@ -31,7 +38,7 @@ event.
 
 Chef is dedicated to providing a harassment-free experience for everyone,
 regardless of gender, sexual orientation, age, disability, physical appearance, body
-size, race, veteran status, immigration status, or religion. We do not tolerate 
+size, race, veteran status, immigration status, or religion. We do not tolerate
 harassment of event participants in any form.
 
 All communication should be appropriate for a professional audience including
@@ -265,7 +272,7 @@ with event staff if you are uncertain who is part of the event staff.
 If the matter is especially urgent, please call/contact any of these
 individuals:
 
- - benny Vasquez at +1 (517) 927-9660 
+ - benny Vasquez at +1 (517) 927-9660
 
 ## Influences
 

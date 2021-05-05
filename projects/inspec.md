@@ -6,33 +6,37 @@ The InSpec project includes InSpec as well as several resource packs and plugins
 
 **Triage Schedule**: TBD
 
-### Project Members
+## Project Members
 
-#### Project Owners
+### Project Owners
 
 Clinton Wolfe
-  - Github: [clintoncwolfe](https://github.com/clintoncwolfe)
-  - Slack: @cwolfe
 
-#### Project Approvers
+- Github: [clintoncwolfe](https://github.com/clintoncwolfe)
+- Slack: @cwolfe
 
-#### Project Reviewers
+### Project Approvers
 
-#### Project Alums
+### Project Reviewers
+
+### Project Alums
 
 Nick Schwaderer
- - Github: [Schwad](https://github.com/Schwad)
- - Slack: @schwad
+
+- Github: [Schwad](https://github.com/Schwad)
+- Slack: @schwad
 
 Ryan Davis
-  - Github: [zenspider](https://github.com/zenspider)
-  - Slack: @rdavis
+
+- Github: [zenspider](https://github.com/zenspider)
+- Slack: @rdavis
 
 James Stocks
-  - Github: [james-stocks](https://github.com/james-stocks)
-  - Slack: @Stocksy
 
-### Project Repositories
+- Github: [james-stocks](https://github.com/james-stocks)
+- Slack: @Stocksy
+
+## Project Repositories
 
 - [inspec](https://github.com/inspec/inspec)
 - [inspec-digital-ocean](https://github.com/inspec/inspec-digital-ocean)
