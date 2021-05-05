@@ -2,7 +2,7 @@
 
 This includes the InSpec resource packs for AWS, GCP and Azure.
 
-**Slack Channels**
+## Slack Channels
 
 - <https://chefcommunity.slack.com/messages/inspec-aws>
 - <https://chefcommunity.slack.com/messages/inspec-azure>
@@ -37,7 +37,7 @@ Davy McAleer
 
 InSpec Cloud Resource Pack Maintainers
 
-  - Github: [inspec-cloud-devs](https://github.com/orgs/inspec/teams/inspec-cloud-devs)
+- Github: [inspec-cloud-devs](https://github.com/orgs/inspec/teams/inspec-cloud-devs)
 
 ### Project Reviewers
 

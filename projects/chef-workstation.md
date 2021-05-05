@@ -6,75 +6,89 @@ The Chef Workstation project includes Chef Workstation and all related repositor
 
 **Triage Schedule**: Every Monday at 1pm Pacific Time
 
-### Project Members
+## Project Members
 
-#### Project Owners
+### Project Owners
 
 Marc Paradise
-  - Github: [marcparadise](https://github.com/marcparadise)
-  - Slack: @mparadise
 
-#### Project Approvers
+- Github: [marcparadise](https://github.com/marcparadise)
+- Slack: @mparadise
+
+### Project Approvers
 
 Tim Smith
-  - Github: [tas50](https://github.com/tas50)
-  - Slack: @tas50
+
+- Github: [tas50](https://github.com/tas50)
+- Slack: @tas50
 
 Sudharshan Kaushikk
-  - Github: [skkprogress](https://github.com/skkprogress)
-  - Slack: @skkprogress
+
+- Github: [skkprogress](https://github.com/skkprogress)
+- Slack: @skkprogress
 
 Nikhil Gupta
-  - Github: [nikhil2611](https://github.com/nikhil2611)
-  - Slack: @Nikhil Gupta
+
+- Github: [nikhil2611](https://github.com/nikhil2611)
+- Slack: @Nikhil Gupta
 
 Smisha M
-  - Github: [SmishaM](https://github.com/SmishaM)
-  - Slack: @SmishaM
+
+- Github: [SmishaM](https://github.com/SmishaM)
+- Slack: @SmishaM
 
 Pranay Singh
-  - Github: [i5pranay93](https://github.com/i5pranay93)
-  - Slack: @Pranay Singh
+- Github: [i5pranay93](https://github.com/i5pranay93)
+- Slack: @Pranay Singh
 
 Mudassar Shafique
-  - Github: [mudash](https://github.com/mudash)
-  - Slack: @mshafique
 
-#### Project Reviewers
+- Github: [mudash](https://github.com/mudash)
+- Slack: @mshafique
 
-#### Project Alums
+### Project Reviewers
+
+### Project Alums
 
 John Snow
-  - Github: [TheLunaticScripter](https://github.com/TheLunaticScripter)
-  - Slack: @johnshow
+
+- Github: [TheLunaticScripter](https://github.com/TheLunaticScripter)
+- Slack: @johnshow
 
 Clinton Wolfe
-  - Github: [clintoncwolfe](https://github.com/clintoncwolfe)
-  - Slack: @cwolfe
+
+- Github: [clintoncwolfe](https://github.com/clintoncwolfe)
+- Slack: @cwolfe
 
 Jon Morrow
-  - Github: [jonsmorrow](https://github.com/jonsmorrow)
-  - Slack: @Jon Morrow
+
+- Github: [jonsmorrow](https://github.com/jonsmorrow)
+- Slack: @Jon Morrow
 
 Mike Krasnow
-  - Github: [krasnow](https://github.com/krasnow)
-  - Slack: @krasnow
+
+- Github: [krasnow](https://github.com/krasnow)
+- Slack: @krasnow
 
 Tyler Ball
-  - Github: [tyler-ball](https://github.com/tyler-ball)
-  - Slack: @tball
+
+- Github: [tyler-ball](https://github.com/tyler-ball)
+- Slack: @tball
 
 Tim Smith
-  - Github: [tas50](https://github.com/tas50)
-  - Slack: @tas50
+
+- Github: [tas50](https://github.com/tas50)
+- Slack: @tas50
 
 Salim Afiune
-  - Github: [afiune](https://github.com/afiune)
-  - Slack: @afiune
+
+- Github: [afiune](https://github.com/afiune)
+- Slack: @afiune
 
 Robb Kidd
-  - Github: [robbkidd](https://github.com/robbkidd)
-  - Slack: @robbkidd
+
+- Github: [robbkidd](https://github.com/robbkidd)
+- Slack: @robbkidd
 
 ### Project Repositories
 
