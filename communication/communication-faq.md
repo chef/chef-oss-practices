@@ -4,7 +4,7 @@
 
 When working in open source, it's essential to be as transparent about technical decisions as possible with external contributors - particularly as we work with them on our projects, etc. If we were to only do development discussion in Chef internal slack (and not document decisions, etc. somewhere that external contributors can access them), we would seriously hinder any contributions from the community outside of Chef. The beauty of Open Source is with so many eyes on the code, the design, etc., it results in better products and a higher impact on the world. This greater potential carries its own challenges. The practices defined in this repository are to help us navigate those challenges and achieve our goals.
 
-**Note: There are things that will need to stay private - including when work we are doing is for specific customers or for business strategy reasons that have not been made public. This will be addressed in a separate issue**
+**Note**: There are things that will need to stay private - including when work we are doing is for specific customers or for business strategy reasons that have not been made public. This will be addressed in a separate issue
 
 ## Why can't all development discussion be in public Community Slack?
 
@@ -21,8 +21,9 @@ This is a possibility for specific channels in Slack, but channel chat is not th
 ## Why don't we just go back to IRC?
 
 There were two major reasons we moved from IRC to Slack in the first place.
-* IRC is blocked completely on many corporate networks - this comes directly from Chef's Customer Facing teams, and is a matter of codified security policy in Federal and Financial organizations. Slack has managed to achieve enough usage in the corporate world with corresponding security approvals that it is usually allowed. 
-* IRC isn't as user-friendly as other options - we want our community to be as accessible and inclusive as possible.
+
+- IRC is blocked completely on many corporate networks - this comes directly from Chef's Customer Facing teams, and is a matter of codified security policy in Federal and Financial organizations. Slack has managed to achieve enough usage in the corporate world with corresponding security approvals that it is usually allowed.
+- IRC isn't as user-friendly as other options - we want our community to be as accessible and inclusive as possible.
 
 ## Why don't we use Discord/Gitter/some other chat tool instead?
 
@@ -39,15 +40,17 @@ This does bring us to the larger question: should our development conversations 
 ## Why wouldn't we use a synchronous chat tool?
 
 There are a few clear issues with synchronous chat tools, which have the tendency to alienate parts of our community.
-* Synchronous chat works best when all participants are within close time zones. We have contributors in Europe, Asia, and Australia (at least) and it's very easy for them to lose the development conversation when it is held in a synchronous matter. They often do not have a chance to interact with us, or before decisions are made.
-* Synchronous chat is difficult for non-native English speakers. Due to the high volume and speed of synchronous chat, it can be easy for non-native English speakers to quickly lose the context. When there is a language barrier, it's much easier to hold conversations in an async matter when translation tools can be used and there is just more time for comprehension to happen.
-* Synchronous chat is also difficult for those who do not have the time or resource to keep up. Some people prefer to think more slowly and carefully. The pace of conversation in a synchronous context is often set by the quickest thinking, quickest typing users. We value deliberation and thoughtfulness.
-* Non-majority contributors (women, Non-binary folks, etc.) face unique challenges when interacting on the web, especially about technology. People who don't know them personally have a tendency to assume them incompetent until proven otherwise - which significantly hinders their ability to drive conversation around technical topics. Chef has, in fact, observed distinct and clear examples of this problem happening within our own community.  Async communication forces more thought into the responses and relieves the pressure of being questioned constantly while trying to formulate a response.  The less-personal nature of async communication encourages a focus on the the germane technical content posted versus the author, allowing better freedom of expression and articulation of ideas.
+
+- Synchronous chat works best when all participants are within close time zones. We have contributors in Europe, Asia, and Australia (at least) and it's very easy for them to lose the development conversation when it is held in a synchronous matter. They often do not have a chance to interact with us, or before decisions are made.
+- Synchronous chat is difficult for non-native English speakers. Due to the high volume and speed of synchronous chat, it can be easy for non-native English speakers to quickly lose the context. When there is a language barrier, it's much easier to hold conversations in an async matter when translation tools can be used and there is just more time for comprehension to happen.
+- Synchronous chat is also difficult for those who do not have the time or resource to keep up. Some people prefer to think more slowly and carefully. The pace of conversation in a synchronous context is often set by the quickest thinking, quickest typing users. We value deliberation and thoughtfulness.
+- Non-majority contributors (women, Non-binary folks, etc.) face unique challenges when interacting on the web, especially about technology. People who don't know them personally have a tendency to assume them incompetent until proven otherwise - which significantly hinders their ability to drive conversation around technical topics. Chef has, in fact, observed distinct and clear examples of this problem happening within our own community.  Async communication forces more thought into the responses and relieves the pressure of being questioned constantly while trying to formulate a response.  The less-personal nature of async communication encourages a focus on the the germane technical content posted versus the author, allowing better freedom of expression and articulation of ideas.
 
 ## So when would we use a synchronous chat tool?
 
 Synchronous chat is immensely useful for short, ephemeral real-time interactions - e.g. assisting a contributor with setting up their development environment (the quicker someone can contribute, the more likely they are to stay engaged) or having short conversations that either don't need to be recorded or are logged elsewhere. It should not be used as a system of record of development decisions, etc.
 
 ## What are our options for async communication with contributors?
-* GitHub - this should be used wherever possible as the system of record - not only for the code, but for decisions related to the code. Internal and external contributors are already in GitHub. This way, contributors don't have to split their attention between too many tools.
-* Discourse - this is another possibility. We have one for both the Chef community and for the Habitat community. (We may want to consider combining them in the future.)
+
+- GitHub - this should be used wherever possible as the system of record - not only for the code, but for decisions related to the code. Internal and external contributors are already in GitHub. This way, contributors don't have to split their attention between too many tools.
+- Discourse - this is another possibility. We have one for both the Chef community and for the Habitat community. (We may want to consider combining them in the future.)

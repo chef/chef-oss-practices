@@ -6,61 +6,72 @@ The Chef Foundation project includes the common libraries and applications used 
 
 **Triage Schedule**: TBD
 
-### Project Members
+## Project Members
 
-#### Project Owners
+### Project Owners
 
 Clinton Wolfe
-  - Github: [clintoncwolfe](https://github.com/clintoncwolfe)
-  - Slack: @cwolfe
+
+- Github: [clintoncwolfe](https://github.com/clintoncwolfe)
+- Slack: @cwolfe
 
 Lamont Granquist
-  - Github: [lamont-granquist](https://github.com/lamont-granquist)
-  - Slack: @lamont
+
+- Github: [lamont-granquist](https://github.com/lamont-granquist)
+- Slack: @lamont
 
 Marc Paradise
-  - Github: [marcparadise](https://github.com/marcparadise)
-  - Slack: @mparadise
 
-#### Project Approvers
+- Github: [marcparadise](https://github.com/marcparadise)
+- Slack: @mparadise
+
+### Project Approvers
 
 Prajakta Purohit
-  - Github: [prajaktapurohit](https://github.com/prajaktapurohit)
-  - Slack: @prajakta
+
+- Github: [prajaktapurohit](https://github.com/prajaktapurohit)
+- Slack: @prajakta
 
 Tim Smith
-  - Github: [tas50](https://github.com/tas50)
-  - Slack: @tas50
+
+- Github: [tas50](https://github.com/tas50)
+- Slack: @tas50
 
 Matt Wrock
-  - Github: [mwrock](https://github.com/mwrock)
-  - Slack: @mwrockx
 
-#### Project Reviewers
+- Github: [mwrock](https://github.com/mwrock)
+- Slack: @mwrockx
 
-Lincoln Baker 
-  - Github: [lbakerchef](https://github.com/lbakerchef)
-  - Slack: @Lincoln Baker 
+### Project Reviewers
 
-#### Project Alums
+Lincoln Baker
+
+- Github: [lbakerchef](https://github.com/lbakerchef)
+- Slack: @Lincoln Baker
+
+### Project Alums
 
 Tyler Ball
-  - Github: [tyler-ball](https://github.com/tyler-ball)
-  - Slack: @tball
+
+- Github: [tyler-ball](https://github.com/tyler-ball)
+- Slack: @tball
 
 Nick Schwaderer
- - Github: [Schwad](https://github.com/Schwad)
- - Slack: @schwad
+
+- Github: [Schwad](https://github.com/Schwad)
+- Slack: @schwad
 
 Robb Kidd
-  - Github: [robbkidd](https://github.com/robbkidd)
-  - Slack: @robbkidd
+
+- Github: [robbkidd](https://github.com/robbkidd)
+- Slack: @robbkidd
 
 Pete Higgins
-  - Github: [phiggins](http://github.com/phiggins)
-  - Slack: @pete
 
-### Project Repositories
+- Github: [phiggins](http://github.com/phiggins)
+- Slack: @pete
+
+## Project Repositories
 
 - [appbundle-updater](https://github.com/chef/appbundle-updater)
 - [appbundler](https://github.com/chef/appbundler)

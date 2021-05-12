@@ -36,12 +36,12 @@ new features/pull requests, and anyone who is seeking help and guidance.
 The following list isn’t exhaustive, but these few examples can help all of us
 communicate well, so that the community can work better together:
 
-  - Use welcoming and inclusive language
-  - Exercise patience and friendliness
-  - Be respectful of differing viewpoints and experiences
-  - Gracefully accept constructive criticism
-  - Focus on what is best for the community
-  - Show empathy towards other community members
+- Use welcoming and inclusive language
+- Exercise patience and friendliness
+- Be respectful of differing viewpoints and experiences
+- Gracefully accept constructive criticism
+- Focus on what is best for the community
+- Show empathy towards other community members
 
 The previous list applies to all forms of communication: Slack (or any web
 chat), Discourse, the issue tracker, and any other forum that is used by the
@@ -49,47 +49,47 @@ community.
 
 Please keep in mind that:
 
-  - Your work will be used by other people, and you, in turn, will depend on the
-    work of others
-  - Decisions that you make often will affect others in the community
-  - Disagreements happen, but should not be an excuse for poor behavior and bad
-    manners. When disagreements do happen, let’s work together to solve them
-    effectively and in a way that ensures that everyone understands what the
-    disagreements were
-  - Our community spans languages, cultures, perspectives (and continents!), and
-    as such people may not understand jokes, sarcasm, and oblique references in
-    the same way that you do. Remember that and be kind to the other members
-    of the community
-  - Be cautious about making assumptions about what someone does or does not know
-    about something - assuming that someone does not understand an issue and over
-    explaining can be condescending (even when not intended to be so)
-  - Sexist, racist, ableist, ageist, and other prejudicial or exclusionary comments are
-    not welcome in the community
+- Your work will be used by other people, and you, in turn, will depend on the
+  work of others
+- Decisions that you make often will affect others in the community
+- Disagreements happen, but should not be an excuse for poor behavior and bad
+  manners. When disagreements do happen, let’s work together to solve them
+  effectively and in a way that ensures that everyone understands what the
+  disagreements were
+- Our community spans languages, cultures, perspectives (and continents!), and
+  as such people may not understand jokes, sarcasm, and oblique references in
+  the same way that you do. Remember that and be kind to the other members
+  of the community
+- Be cautious about making assumptions about what someone does or does not know
+  about something - assuming that someone does not understand an issue and over
+  explaining can be condescending (even when not intended to be so)
+- Sexist, racist, ableist, ageist, and other prejudicial or exclusionary comments are
+  not welcome in the community
 
 ## Unacceptable Behavior
 
 Harassment comes in many forms, including but not limited to:
 
-  - Offensive comments related to gender, sexual orientation, age, disability,
-    physical appearance, body size, race, veteran status, immigration status, or religion
-  - Posting/Exposing sexually explicit or violent images
-  - Deliberate (or implied) intimidation
-  - Trolling, insulting/derogatory comments, and personal or political attacks
-    particularly those related to gender, sexual orientation, age, race, religion, 
-    immigration status, or disability
-  - Publishing others' private
-    information, such as a physical or electronic address, without explicit
-    permission ("doxing")
+- Offensive comments related to gender, sexual orientation, age, disability,
+  physical appearance, body size, race, veteran status, immigration status, or religion
+- Posting/Exposing sexually explicit or violent images
+- Deliberate (or implied) intimidation
+- Trolling, insulting/derogatory comments, and personal or political attacks
+  particularly those related to gender, sexual orientation, age, race, religion,
+  immigration status, or disability
+- Publishing others' private
+  information, such as a physical or electronic address, without explicit
+  permission ("doxing")
 
 As a community that meets in physical public spaces, harassment also includes:
-  - Stalking or persistent following
-  - Intrusive or otherwise unwanted photography or recording
-  - Sustained disruption of talks or other events
-  - Inappropriate physical contact or unwelcome sexual attention
+
+- Stalking or persistent following
+- Intrusive or otherwise unwanted photography or recording
+- Sustained disruption of talks or other events
+- Inappropriate physical contact or unwelcome sexual attention
 
 **NOTE**: If you are in a physical space -- e.g. Chef Conf, Meetup, etc. -- please
 see the [Physical Spaces Code of Conduct](physical-spaces-code-of-conduct.md).
-
 
 ## Enforcement/Getting Help
 
@@ -112,25 +112,25 @@ members of the project's leadership.
 The following are the various roles of our **Community Organizers** and the
 person(s) assigned to each role:
 
-  - The **Deciders** have final say on community guidelines and final authority on correct actions and appeals
-  - The **Community Advocates** may be assigned for each area where the
-    community convenes online (Slack, email list, GitHub, etc.). Community
-    Advocates are volunteers who have the best interests of our community in
-    mind. They act in good faith to help enforce our community guidelines and
-    respond to incidents when they occur
-  - The **Project Maintainers** are expected to conduct their
-    behavior in line with the Code of Conduct and are individually responsible
-    for both escalating to a **Community Advocate** in case of witnessing an
-    incident, and helping to foster the community
-  - A **Community Member** is anyone who participates with the community
-    whether in-person or via online channels. Community members are responsible
-    for following the community guidelines, suggesting updates to the guidelines
-    when warranted, and helping enforce community guidelines
+- The **Deciders** have final say on community guidelines and final authority on correct actions and appeals
+- The **Community Advocates** may be assigned for each area where the
+  community convenes online (Slack, email list, GitHub, etc.). Community
+  Advocates are volunteers who have the best interests of our community in
+  mind. They act in good faith to help enforce our community guidelines and
+  respond to incidents when they occur
+- The **Project Maintainers** are expected to conduct their
+  behavior in line with the Code of Conduct and are individually responsible
+  for both escalating to a **Community Advocate** in case of witnessing an
+  incident, and helping to foster the community
+- A **Community Member** is anyone who participates with the community
+  whether in-person or via online channels. Community members are responsible
+  for following the community guidelines, suggesting updates to the guidelines
+  when warranted, and helping enforce community guidelines
 
-| Role                | Name                     | Contact Info           |
-| ------------------- | ------------------------ | ---------------------- |
-| Decider             | benny Vasquez			 | bvasquez@chef.io       |
-| Community Advocate  | TBD                      |                        |
+| Role               | Name          | Contact Info     |
+| ------------------ | ------------- | ---------------- |
+| Decider            | benny Vasquez | bvasquez@chef.io |
+| Community Advocate | TBD           |                  |
 
 ## Consequences of Unacceptable Behavior
 
@@ -173,23 +173,23 @@ way that is outside of our guidelines (a violator), the Community Advocate shoul
 make every reasonable attempt to help curtail that behavior. The Community
 Advocate may:
 
-  - Remind the violator about our Community Code of Conduct and provide a link
-    to this document
-  - Ask the violator to stop the unacceptable behavior
-  - Raise the issue with a maintainer, the community manager, or any member of
-    the core project team
-  - Allow time for the violator to correct the behavior
+- Remind the violator about our Community Code of Conduct and provide a link
+  to this document
+- Ask the violator to stop the unacceptable behavior
+- Raise the issue with a maintainer, the community manager, or any member of
+  the core project team
+- Allow time for the violator to correct the behavior
 
 The Community Advocate should take the following steps if the behavior is not
 brought in-line with our guidelines or the incident is not resolved:
 
-  - Consult with another Community Organizer to make a judgment call about what
-    reasonable corrective actions are warranted
-  - In the case that no conclusion can be made, escalate to include the next
-    level of Community Organizers
-  - If still no conclusion can be made, report the incident to the **Deciders** listed above
-  - Apply the corrective action
-  - Document the incident as described below
+- Consult with another Community Organizer to make a judgment call about what
+  reasonable corrective actions are warranted
+- In the case that no conclusion can be made, escalate to include the next
+  level of Community Organizers
+- If still no conclusion can be made, report the incident to the **Deciders** listed above
+- Apply the corrective action
+- Document the incident as described below
 
 #### Documenting Incidents
 
@@ -203,14 +203,14 @@ repository and will terminate any local copies of the repository.
 
 The important information to report consists of:
 
-  - Identifying information (name, email address, Slack username, etc.) of the
-    person doing the harassing
-  - The behavior that was in violation
-  - The approximate time and date of the behavior
-  - The circumstances surrounding the incident
-  - Where applicable, contextual information/proof (email body, chat log, GitHub
-    Issue, etc.)
-  - Contact information for witnesses to the incident
+- Identifying information (name, email address, Slack username, etc.) of the
+  person doing the harassing
+- The behavior that was in violation
+- The approximate time and date of the behavior
+- The circumstances surrounding the incident
+- Where applicable, contextual information/proof (email body, chat log, GitHub
+  Issue, etc.)
+- Contact information for witnesses to the incident
 
 If you feel your safety is in jeopardy, please do not hesitate to contact local
 law enforcement.
@@ -246,9 +246,9 @@ clarified by project maintainers and community organizers.
 
 This Code of Conduct is adapted from the following:
 
-  - [Contributor Covenant](http://contributor-covenant.org), version 1.4, available [here](http://contributor-covenant.org/version/1/4/)
-  - [Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html)
-  - Citizen Code of Conduct (site no longer online)
+- [Contributor Covenant](http://contributor-covenant.org), version 1.4, available [here](http://contributor-covenant.org/version/1/4/)
+- [Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html)
+- Citizen Code of Conduct (site no longer online)
 
 ## Community Members in Crisis
 

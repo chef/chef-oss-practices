@@ -8,7 +8,7 @@ For a software community to be engaged, they must have visibility and say in the
 
 In order to promote visibility into our projects, we have outlined communication standards that focus on durable mediums and public facing discussions (See [Communication](../../communication/README.md)). Except in the case of confidential customer or business strategy information, we aim to present our community with full insight into our day-to-day project development process.
 
-We also want our community to be able to participate in that process. To offer input beyond a feature request, each project implements a 'Design Proposal' process. Design Proposals allow community members to propose a change that _they_ plan to implement, and gives both the community and project maintainers the ability to discuss the potential change before a PR is opened. See the [Design Proposal](design-proposals.md) document for more details on this process. 
+We also want our community to be able to participate in that process. To offer input beyond a feature request, each project implements a 'Design Proposal' process. Design Proposals allow community members to propose a change that _they_ plan to implement, and gives both the community and project maintainers the ability to discuss the potential change before a PR is opened. See the [Design Proposal](design-proposals.md) document for more details on this process.
 
 ## Code Reviews
 
@@ -28,19 +28,19 @@ Except for rare cases, such as trivial changes (e.g. typos, comments) or emergen
 
 To make it easier for your PR to receive reviews, consider the reviewers will need you to:
 
-* follow the project coding conventions, which are typically defined by a [language specific guild](../../guilds/README.md)
-* write [good commit messages](https://chris.beams.io/posts/git-commit/)
-* break large changes into a logical series of smaller commits, which individually make easily understandable changes, and in aggregate, solve a broader issue
-* label PRs appropriately: check out our section on [GitHub labels](/repo-management/github-labels.md)
+- follow the project coding conventions, which are typically defined by a [language specific guild](../../guilds/README.md)
+- write [good commit messages](https://chris.beams.io/posts/git-commit/)
+- break large changes into a logical series of smaller commits, which individually make easily understandable changes, and in aggregate, solve a broader issue
+- label PRs appropriately: check out our section on [GitHub labels](/repo-management/github-labels.md)
 
 ### Performing Quality Reviews
 
 Reviewers, the people giving the review, are highly encouraged to revisit the [Code of Conduct](../../CODE_OF_CONDUCT.md) and must go above and beyond to promote a collaborative, respectful community.
 When reviewing PRs from others, [The Gentle Art of Patch Review](http://sage.thesharps.us/2014/09/01/the-gentle-art-of-patch-review/) suggests an iterative series of focuses, which is designed to lead new contributors to positive collaboration without inundating them initially with nuances:
 
-* Is the idea behind the contribution sound?
-* Is the contribution architected correctly?
-* Is the contribution polished?
+- Is the idea behind the contribution sound?
+- Is the contribution architected correctly?
+- Is the contribution polished?
 
 ## Pairing
 
@@ -52,8 +52,8 @@ Each Chef-maintained project includes testing that helps ensure high software th
 
 ### Types of Testing
 
-* Unit: These tests confirm that a particular function behaves as intended. Various languages handle unit testing differently. It will be best to discuss with the team responsible for the project you're targeting on how best to write, run, and validate these before opening a PR. It is a requirement for Chef Software, Inc. projects to have unit tests that is easily run locally by any developer on any supported OS.
-* Integration: These tests cover interactions of package components or interactions between components and some other separate system resource (e.g. chef + Hashi Vault, or similar). An example would be testing whether a piece of code can correctly store data to or retrieve data from a Vault. Running these tests can require the developer set up additional functionality on their development system, but if integration tests are available, we highly recommend you running them before opening your PR.
-* End-to-end ("e2e"): These tests are broad tests of overall system behavior and coherence. These are more complicated as they could require multiple services or tools built from the sources to be tested.
+- Unit: These tests confirm that a particular function behaves as intended. Various languages handle unit testing differently. It will be best to discuss with the team responsible for the project you're targeting on how best to write, run, and validate these before opening a PR. It is a requirement for Chef Software, Inc. projects to have unit tests that is easily run locally by any developer on any supported OS.
+- Integration: These tests cover interactions of package components or interactions between components and some other separate system resource (e.g. chef + Hashi Vault, or similar). An example would be testing whether a piece of code can correctly store data to or retrieve data from a Vault. Running these tests can require the developer set up additional functionality on their development system, but if integration tests are available, we highly recommend you running them before opening your PR.
+- End-to-end ("e2e"): These tests are broad tests of overall system behavior and coherence. These are more complicated as they could require multiple services or tools built from the sources to be tested.
 
 The location of the test code varies with type, as do the specifics of the environment needed to successfully run the test. Our continuous integration systems will run these tests either as pre-submits on PRs, post-submits against master/release branches, or both.

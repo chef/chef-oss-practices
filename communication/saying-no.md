@@ -10,11 +10,11 @@ Knowing how to say no can be a challenge, here are some templates that you can f
 
 ### Issues
 
-**Needs more information**
+#### Needs more information
 
 Sometimes when we request more information so we can diagnose an issue, the community member will not respond due to a variety of factors. If they do not respond within a reasonable amount of time (what "a reasonable amount of time" means is up to each team), it may be necessary to close the issue until they are able to respond.
 
-```
+```text
 Thank you for filing this issue!
 
 We do still need more information in order to diagnose on it and work on a fix.
@@ -22,11 +22,11 @@ We requested this, but haven't seen a response yet, so we are closing the issue 
 Please feel free to re-open it with more information and we will take a look then!
 ```
 
-**Not on Roadmap**
+#### Not on Roadmap
 
 Sometimes an issue will request some sort of enhancement, alteration, or fix that is not on the roadmap. If an issue is not likely to be worked on in the next year, it's often best to either label it with "Help Wanted" or close it.
 
-```
+```text
 Thank you for taking time time to file this issue.
 
 Unfortunately, this is not something we can address at this time due to
@@ -35,11 +35,11 @@ If this is something you would like to contribute, however,
 please feel free to open a pull request!
 ```
 
-**Issue has gotten too old or concerns older versions of the software**
+#### Issue has gotten too old or concerns older versions of the software
 
 The InSpec team uses this template for old, legacy issues that are > 1 year old and/or involve earlier versions of InSpec.
 
-```
+```tex
  __What’s happening? Why was this issue closed?__
 This issue was closed due to some much needed review of legacy issues or issues that were spawned in older versions of InSpec, i.e. < v3.
 __Why do I care?__
@@ -48,9 +48,9 @@ __What do I need to do?__
 If this issue is no longer important, no further action is necessary. However, if you think this is something that should be addressed, please open a new issue and refer to the original issue in the description.
 ```
 
-**Issue is not something we will ever do**
+#### Issue is not something we will ever do
 
-```
+```text
 Thank you for taking the time to file this issue.
 
 We understand and appreciate your reason for this request. However, at this time, it does not align with our core direction and is not something we’re looking at doing.
@@ -58,9 +58,9 @@ We understand and appreciate your reason for this request. However, at this time
 Thank you again for filing this, however, we greatly appreciate your interest in this project!
 ```
 
-**Issue is an interesting idea, but we do not have the resources right now**
+#### Issue is an interesting idea, but we do not have the resources right now
 
-```
+```text
 Thank you for taking the time to file this issue.
 
 We understand your request and the reasoning behind it. Unfortunately, we don’t have any resources at this time to look into this further.
@@ -68,19 +68,19 @@ We understand your request and the reasoning behind it. Unfortunately, we don’
 Thank you again for filing this, however, we greatly appreciate your interest in this project!
 ```
 
-**Issue is an interesting idea, would you like to contribute?**
+#### Issue is an interesting idea, would you like to contribute?
 
-```
+```text
 Thanks for providing your input. Your idea sounds interesting to us but we currently do not have the resources to investigate further. We would, however, welcome a contribution implementing this idea. Are you interested in contributing this?
 ```
 
 ### Pull Requests
 
-**Contributor has not responded to review**
+#### Contributor has not responded to review
 
 Like GitHub issues, occasionally when we review pull requests and request changes to them, the contributor will not respond in a reasonable amount of time (again, there are plenty of reasons why this may happen). When changes have been requested but not made, it's often best to close the pull request until those changes can be made.
 
-```
+```text
 Thank you for submitting this pull request!
 
 We've requested some changes to this pull request on code review
@@ -93,11 +93,11 @@ Should you be able to respond to the changes that have been requested
 in the future, please feel free to re-open it and we will review it then.
 ```
 
-**Pull Request is not right for the project at this time**
+#### Pull Request is not right for the project at this time
 
 Sometimes a pull request will take a project in a direction that the owners do not wish it to, or add something to the project before the project is ready to take on the responsibility of maintaining it. These are some of the most difficult cases to deal with, but again it's crucial to acknowledge the effort that went into the pull request when saying no - it's also crucial to show empathy and respect not just for the person who opened the pull request but also for the person's work.
 
-```
+```text
 Thank you for submitting this pull request!
 
 While we acknowledge and value the effort and interest you have shown

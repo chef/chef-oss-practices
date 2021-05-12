@@ -6,10 +6,11 @@ We also have some [suggestions](#suggestions) for using these labels to help
 grow and improve our community.
 
 Chef's core projects also have tools to help expose these issues in a meaningful way:
-  - [Chef First Issues](https://chef.github.io/jump-in/)
-  - [Habitat First Issues]
-  - [InSpec First Issues]
-  - [Automate First Issues]
+
+- [Chef First Issues](https://chef.github.io/jump-in/)
+- [Habitat First Issues]
+- [InSpec First Issues]
+- [Automate First Issues]
 
 ## Help Wanted
 
@@ -65,13 +66,14 @@ These issues need to ensure that they follow the guidelines for `Status: Help Wa
 
   There should be existing tests that can be modified, or existing test cases fit to be copied. If the area of code doesn't have tests, before labeling the issue, add a test fixture. This prep often makes a great `Help Wanted` task!
 
-# Suggestions
+## Suggestions
 
 We encourage our more experienced members to help new contributors, so that our community can continue to grow and maintain the kind, inclusive community that we all enjoy today.
 
 The following suggestions go a long way toward preventing "drive-by" PRs, and ensure that our investment in new contributors is rewarded by them coming back and becoming regulars.
 
 Provide extra assistance during reviews on `Good First Issue` pull requests:
+
 - Answer questions and identify useful docs.
 - Offer advice such as _"One way to reproduce this in a cluster is to do use docker compose then you can use curl to poke around"_, or _"Did you know that you can use fake clients to setup and test this easier?"_ etc.
 - Help new contributors learn enough about the project, setting up their environment, running tests, and navigating this area of the code so that they can tackle a related `Help Wanted` issue next time.

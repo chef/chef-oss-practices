@@ -7,13 +7,14 @@ deployment topologies supported by `chef-automate deploy`.
 
 **Triage Schedule**: TBD
 
-### Project Members
+## Project Members
 
-#### Project Owners
+### Project Owners
 
-#### Project Approvers
+### Project Approvers
+
 - Alex Pop
-  - Github: [alexpop](https://github.com/alexpop) 
+  - Github: [alexpop](https://github.com/alexpop)
 - Vivek Shankar
   - Github: [vivekshankar1](https://github.com/vivekshankar1)
 - Kallol Roy
@@ -41,7 +42,7 @@ deployment topologies supported by `chef-automate deploy`.
 - Michael Sorens
   - GitHub: [msorens](https://github.com/msorens)
 
-#### Project Reviewers
+### Project Reviewers
 
 - Seth Chisamore
   - GitHub: [schisamo](https://github.com/schisamo)
@@ -50,11 +51,11 @@ deployment topologies supported by `chef-automate deploy`.
 - Kimberley Garmoe
   - GitHub: [kagarmoe](https://github.com/kagarmoe)
 
-### Project Repositories
+## Project Repositories
 
 - [automate](https://github.com/chef/automate)
 
-### Project Alums
+## Project Alums
 
 - Stephan Renatus
   - GitHub: [srenatus](https://github.com/srenatus)
