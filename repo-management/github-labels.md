@@ -25,7 +25,7 @@ Projects in the Chef Community should feel encouraged to use these labels in the
 - `Stability` - Consistent results.
 - `Testing` - Does the project have good coverage, and is CI working?
 - `UI` - Affects how users interact with the interface of your project, with a focus on interaction and visual design.
-- `UX` - Affects how users feel about interacting with your project, with a focus on functionality, ease-of-use and accessibility.
+- `UX` - Affects how users feel about interacting with your project, with a focus on functionality, ease-of-use, and accessibility.
 
 ## Expeditor
 
@@ -47,6 +47,7 @@ Projects in the Chef Community should feel encouraged to use these labels in the
 - `GCP`
 - `Linux`
 - `macOS`
+- `SLES-like`
 - `UNIX-like`
 - `VMware`
 - `Windows`
@@ -78,7 +79,7 @@ Projects in the Chef Community should feel encouraged to use these labels in the
 ## Type
 
 - `Breaking Change` - Changes the way existing features work in a way that affects users.
-- `Bug` - Doesn't work as expected.
+- `Bug` - Does not work as expected.
 - `Chore` - non-critical maintenance of a project
 - `Deprecation` - Removal of existing features
 - `Design Proposal` - Community survey of a proposal
