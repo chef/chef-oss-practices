@@ -93,7 +93,6 @@ We encourage all contributors to become project members. We aim to grow an activ
 - [Decider](./communication/decider.md)
 - [Triage](./communication/triage.md)
 - [Project End of Life](./communication/project-eol.md)
-- [Community Members in Crises](./communication/community-members-in-crisis.md)
 - [Video Conferencing](./communication/video-conferencing.md)
 - [Support Boundaries](./communication/support-boundaries.md)
 - [Saying No](./communication/saying-no.md)
