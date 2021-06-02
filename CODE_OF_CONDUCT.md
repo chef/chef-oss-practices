@@ -1,255 +1,139 @@
-# Chef Contributor Covenant Code of Conduct
+# Code of Conduct
 
-**Note**: If you are in a physical space (e.g. ChefConf, Meetup, etc), please
-see the [Physical Spaces Code of Conduct](physical-spaces-code-of-conduct.md)
+- [Summary](#summary)
+  - [Code of Conduct](#code-of-conduct-1)
+  - [Anti-Harassment Policy](#anti-harassment-policy)
+  - [Participant Procedure for Incident Handling](#attendee-procedure-for-incident-handling-in-physical-spaces)
+  - [Enforcement](#enforcement)
+  - [Consequences of Unacceptable Behavior](#consequences-of-unacceptable-behavior)
+  - [Our Responsibilities](#our-responsibilities)
+  - [Contact Information](#contact-information)
+  - [Scope](#scope)
+  - [Influences](#influences)
+  - [Copyright](#copyright)
 
-## Our Pledge
 
-Diversity is one of the greatest strengths that a community can have, and many times
-that strength is born from the friction that can only come through sharing of
-differing perspectives.
+##Summary
 
-In the interest of fostering an open, welcoming, and encouraging environment, we
-as contributors, maintainers, and community members pledge to making
-participation in our projects and our community a harassment-free experience for
-everyone, regardless of age, body size, disability, ethnicity, gender identity
-and expression, level of experience, nationality, personal appearance, race,
-religion, veteran status, immigration status, or sexual identity and orientation.
+Diversity is one of the greatest strengths that a community can have, and many times that strength is born from the friction that can only come through sharing differing perspectives. The goal of this document is to ensure that we create spaces welcoming to new and existing participants, and that those conversations that arise from friction are productive.
 
-## Our Standards
+We are dedicated to providing an inclusive and harassment-free experience for anyone who participates in events or digital spaces that are organized, or hosted, or managed by Chef – whether that is ChefConf, Community Summits, MeetUps, training, or any online space. We do not tolerate harassment in any form.
 
-The Chef community contains a diverse group of professionals and volunteers
-who come from all over the world to make Chef better. Community members may
-fulfill many roles including mentoring, teaching, and connecting with other
-members of the community.
+We value the participation of each member of the Chef community and want all participants to have an enjoyable and fulfilling experience. Accordingly, all participants are expected to show respect and courtesy to other participants at any Chef-related events or digital spaces, whether officially sponsored by Progress or not.
 
-Be careful in the words that you choose. Be kind to others. Practice empathy.
-Don't insult or put down others. Remember that sexist, racist, ableist, ageist, and other
-exclusionary jokes can be offensive to those around you. If you think your
-conversation is making another community member uncomfortable _or_ if they tell
-you so, stop immediately, make amends, and move forward.
+To make clear what is expected: all employees, delegates, participants, speakers, exhibitors, organizers, and volunteers at any Chef event or Chef-managed digital space are required to conform to the following Code of Conduct. Organizers and moderators will enforce this code wherever appropriate.
 
-As you are working with other members of the community, please keep in mind that the
-following guidelines apply equally to founders, mentors, those who submit
-new features/pull requests, and anyone who is seeking help and guidance.
+## Code of Conduct
 
-The following list isn’t exhaustive, but these few examples can help all of us
-communicate well, so that the community can work better together:
+Chef is dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, age, disability, physical appearance, body size, race, veteran status, immigration status, or religion. We do not tolerate harassment of event/digital community participants in any form.
 
-- Use welcoming and inclusive language
-- Exercise patience and friendliness
-- Be respectful of differing viewpoints and experiences
-- Gracefully accept constructive criticism
-- Focus on what is best for the community
-- Show empathy towards other community members
+All communication should be appropriate for a professional audience that includes people of many different backgrounds. Sexual language and imagery is not appropriate for any Chef-managed event or online platform, including talks and digital community activities.
 
-The previous list applies to all forms of communication: Slack (or any web
-chat), Discourse, the issue tracker, and any other forum that is used by the
-community.
+Be kind to others. Do not insult or put down other participants. Behave professionally. Remember that harassment and sexist, racist, ageist, or exclusionary jokes are not appropriate for any event or digital activity.
 
-Please keep in mind that:
-
-- Your work will be used by other people, and you, in turn, will depend on the
-  work of others
-- Decisions that you make often will affect others in the community
-- Disagreements happen, but should not be an excuse for poor behavior and bad
-  manners. When disagreements do happen, let’s work together to solve them
-  effectively and in a way that ensures that everyone understands what the
-  disagreements were
-- Our community spans languages, cultures, perspectives (and continents!), and
-  as such people may not understand jokes, sarcasm, and oblique references in
-  the same way that you do. Remember that and be kind to the other members
-  of the community
-- Be cautious about making assumptions about what someone does or does not know
-  about something - assuming that someone does not understand an issue and over
-  explaining can be condescending (even when not intended to be so)
-- Sexist, racist, ableist, ageist, and other prejudicial or exclusionary comments are
-  not welcome in the community
-
-## Unacceptable Behavior
+## Anti-Harassment Policy
 
 Harassment comes in many forms, including but not limited to:
 
-- Offensive comments related to gender, sexual orientation, age, disability,
-  physical appearance, body size, race, veteran status, immigration status, or religion
+- Offensive comments related to gender, sexual orientation, age, disability, physical appearance, body size, race, veteran status, immigration status, or religion
 - Posting/Exposing sexually explicit or violent images
 - Deliberate (or implied) intimidation
-- Trolling, insulting/derogatory comments, and personal or political attacks
-  particularly those related to gender, sexual orientation, age, race, religion,
-  immigration status, or disability
-- Publishing others' private
-  information, such as a physical or electronic address, without explicit
-  permission ("doxing")
-
-As a community that meets in physical public spaces, harassment also includes:
-
 - Stalking or persistent following
 - Intrusive or otherwise unwanted photography or recording
 - Sustained disruption of talks or other events
 - Inappropriate physical contact or unwelcome sexual attention
+- Posting (or threatening to post) a person's personally identifying information ("doxing")
+- Advocating for, or encouraging, any of the above behavior
 
-**NOTE**: If you are in a physical space -- e.g. Chef Conf, Meetup, etc. -- please
-see the [Physical Spaces Code of Conduct](physical-spaces-code-of-conduct.md).
+Participants asked to stop any harassing behavior are expected to comply immediately. Further unacceptable behavior will result in escalating sanctions.
 
-## Enforcement/Getting Help
+Exhibitors in the expo hall, sponsor or vendor booths, or similar activities are also subject to the anti-harassment policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create an unprofessional environment.
 
-Instances of abusive, harassing, or otherwise unacceptable behavior should be
-reported by contacting any of the Community Advocates directly. Each person's
-contact information and role is listed in the repo that links to this document.
-If you were not linked here, then contact the [individuals listed below](#roles). All
-complaints will be reviewed, investigated, and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an
-incident. Further details of specific enforcement policies may be posted
-separately.
+Be careful in the words that you choose, no matter your intention with those words. Remember that sexist, racist, ageist, and other exclusionary jokes can be offensive to those around you. If you think your conversation is making another community member uncomfortable, stop, apologize, and move forward.
 
-Community Organizers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
+For physical spaces, event staff can be asked to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your participation.
 
-## Roles
+## Participants Procedure for Incident Handling in Physical Spaces
 
-The following are the various roles of our **Community Organizers** and the
-person(s) assigned to each role:
+This procedure has been adopted from the Ada Initiative's guide titled "Conference anti-harassment/Responding to Reports".
 
-- The **Deciders** have final say on community guidelines and final authority on correct actions and appeals
-- The **Community Advocates** may be assigned for each area where the
-  community convenes online (Slack, email list, GitHub, etc.). Community
-  Advocates are volunteers who have the best interests of our community in
-  mind. They act in good faith to help enforce our community guidelines and
-  respond to incidents when they occur
-- The **Project Maintainers** are expected to conduct their
-  behavior in line with the Code of Conduct and are individually responsible
-  for both escalating to a **Community Advocate** in case of witnessing an
-  incident, and helping to foster the community
-- A **Community Member** is anyone who participates with the community
-  whether in-person or via online channels. Community members are responsible
-  for following the community guidelines, suggesting updates to the guidelines
-  when warranted, and helping enforce community guidelines
+All of our staff are informed of the Code of Conduct policy and guide for handling harassment at the event. Report the harassment incident (preferably in writing) to an event staff member. All reports are confidential. Please do not disclose information about the incident publicly until the staff have had sufficient time in which to address the situation. This is as much for your safety and protection as it is for the other participants. When reporting the event to staff, try to gather as much information as available, but do not interview people about the incident. Staff will assist you in writing the report/collecting information.
 
-| Role               | Name          | Contact Info     |
-| ------------------ | ------------- | ---------------- |
-| Decider            | benny Vasquez | bvasquez@chef.io |
-| Community Advocate | TBD           |                  |
+The important information consists of:
 
-## Consequences of Unacceptable Behavior
-
-Unacceptable behavior from any community member, including sponsors and those
-with decision-making authority, will *not* be tolerated.
-
-Anyone who is asked to stop unacceptable behavior is expected to comply immediately.
-
-If a community member engages in unacceptable behavior, the community organizers
-may take action that they deem appropriate -- up to and including a temporary ban or
-permanent expulsion from the community _without warning_ (and without refund, in
-the case of a paid event). If you have been involved in unacceptable behavior
-with current Chef community members outside the boundaries of the Chef
-Community, the Community Organizers retain the right to treat those external
-incidents in the same manner as internal incidents.
-
-Any physical violence _or_ intimidation, threatened or acted on, is a serious
-offense and will result in immediate exclusion from the community and
-appropriate follow up with law enforcement. No, we are not kidding.
-
-## Procedure for Handling Disagreements and Incidents
-
-Disagreements are inherent to a group of impassioned people. When they occur, we
-seek to resolve disagreements and differing views constructively and with the
-help of the community and community processes. When disagreements escalate, we
-ask our Community Advocates to step in to moderate, mediate, and help resolve
-tense situations.
-
-The Chef Community Advocates are well informed on how to deal with incidents.
-Report the incident (preferably in writing) to one of the Community Advocates
-listed in the [Roles](#roles) section.
-
-### Handling Incidents
-
-**NOTE**: If you are in a physical space -- e.g. Chef Conf, Meetup, etc. -- please
-see the [Physical Spaces Code of Conduct](physical-spaces-code-of-conduct.md).
-
-When a Community Organizer or Project Maintainer notices someone behaving in a
-way that is outside of our guidelines (a violator), the Community Advocate should
-make every reasonable attempt to help curtail that behavior. The Community
-Advocate may:
-
-- Remind the violator about our Community Code of Conduct and provide a link
-  to this document
-- Ask the violator to stop the unacceptable behavior
-- Raise the issue with a maintainer, the community manager, or any member of
-  the core project team
-- Allow time for the violator to correct the behavior
-
-The Community Advocate should take the following steps if the behavior is not
-brought in-line with our guidelines or the incident is not resolved:
-
-- Consult with another Community Organizer to make a judgment call about what
-  reasonable corrective actions are warranted
-- In the case that no conclusion can be made, escalate to include the next
-  level of Community Organizers
-- If still no conclusion can be made, report the incident to the **Deciders** listed above
-- Apply the corrective action
-- Document the incident as described below
-
-#### Documenting Incidents
-
-All incident reports will be kept in a private repository that is shared with
-the aforementioned Community Advocates and Deciders under the [Roles]((#roles)
-section. No other individuals or project contributors will be given access to
-these incident reports. **This repo will hold no personal information on the
-victim of an incident.** On the displacement of any Community Organizer in the
-[Roles](#roles) list above, that individual will immediately lose access to this
-repository and will terminate any local copies of the repository.
-
-The important information to report consists of:
-
-- Identifying information (name, email address, Slack username, etc.) of the
-  person doing the harassing
+- Identifying information (eg. name) of the participant doing the harassing
 - The behavior that was in violation
 - The approximate time and date of the behavior
 - The circumstances surrounding the incident
-- Where applicable, contextual information/proof (email body, chat log, GitHub
-  Issue, etc.)
-- Contact information for witnesses to the incident
+- Other people involved in the incident
 
-If you feel your safety is in jeopardy, please do not hesitate to contact local
-law enforcement.
+If everyone is presently safe, staff will only involve law enforcement or security at a victim's request. If you do feel your safety in jeopardy, please do not hesitate to contact local law enforcement. If you do not have a cell phone, you can use any hotel phone or simply ask a staff member.
 
-**Note:** Incidents that violate the Community Code of Conduct are extremely
-damaging to the community. The silver lining is that, in many cases, these
-incidents present a chance for the community as a whole to grow, learn, and
-become better.
+Event staff requests that they be your first resource when reporting an incident, so that they may enforce the Code of Conduct and take quick action toward a resolution.
+
+If at all possible, all reports should be made directly to the team responsible, listed under [Contact Information](#Contact-Information).
+
+## Enforcement
+
+Instances of abusive, harassing, or otherwise unacceptable behavior should be reported by contacting any of the Community Organizers [listed below](#Contact-Information) directly. All complaints will be reviewed, investigated, and will result in a response that is deemed necessary and appropriate to the circumstances. The team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+
+Community Organizers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
+
+## Consequences of Unacceptable Behavior
+
+Anyone who is asked to stop unacceptable behavior is expected to comply immediately.
+
+Crafting a list of punitive actions would be inadequate and incomplete. Each incident will be dealt with on a case-by-case basis.
+
+Our first response should always be to ensure the immediate safety and well being of all parties involved. In the ideal case, an attempt to stop and prevent the violating behavior would be made before any punitive action is decided.
+
+When punitive action is warranted, one or more of the following remedies may be used:
+
+- Expulsion from the space where the incident occurred with no refund
+- Removal from the space where the incident occurred for a period of time
+- Banned from the space where the incident occurred indefinitely
+- Banned from one or more upcoming events
+
+If a community member engages in unacceptable behavior, the community organizers will take action that they deem appropriate -- up to and including a temporary ban or permanent expulsion from the community _without warning_ (and without refund, in the case of a paid event). If you have been involved in unacceptable behavior with current Chef community members outside the boundaries of the Chef Community, the Community Organizers retain the right to treat those external incidents in the same manner as internal incidents.
+
+Any physical violence _or_ intimidation, threatened or acted on, is a serious offense and will result in immediate exclusion from the community and appropriate follow up with law enforcement.
 
 ## Our Responsibilities
 
-Community Organizers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
+Community Organizers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
-Community Organizers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, messages, tweets, and other
-contributions that are not aligned with this Code of Conduct, or to ban
-temporarily or permanently any contributor for other behaviors that they deem
-inappropriate, threatening, offensive, or harmful.
+Community Organizers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, messages, tweets, and other contributions that are not aligned with this Code of Conduct (in letter or in spirit), or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
+
+## Contact Information
+
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a Community organizer.
+
+The following are the various roles of our Community Organizers and the person(s) assigned to each role:
+
+- The Deciders have final say on community guidelines and final authority on correct actions and appeals
+- The Community Organizers may be assigned for each area where the community convenes online (Slack, email list, GitHub, etc.). Community Organizers are employees of Progress. They act in good faith to help enforce our community guidelines and respond to incidents when they occur
+- A Community Member is anyone who participates with the community whether in-person or via online channels. Community members are responsible for following the community guidelines, suggesting updates to the guidelines when warranted, and helping enforce community guidelines
+
+| **Role** | **Name** | **Contact Info** |
+| --- | --- | --- |
+| Decider | benny Vasquez | bvasquez@chef.io |
+| Community Organizers | Various folks | community@chef.io | 
+
 
 ## Scope
 
-Our community will convene in both physical and virtual spaces. This Code of
-Conduct applies within project spaces and in public spaces when an individual is
-representing the project or its community. Examples of representing a project or
-community include using an official project e-mail address, posting via an
-official social media account, or acting as an appointed representative at an
-online or offline event. Representation of a project may be further defined and
-clarified by project maintainers and community organizers.
+Our community will convene in both physical and digital spaces. This Code of Conduct applies within project spaces and in public spaces when an individual is representing the project or its community. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by community organizers as needed.
 
-## Attribution
+## Influences
 
-This Code of Conduct is adapted from the following:
+This Code of Conduct was originally forked from the example policy from the [Geek Feminism wiki, created by the Ada Initiative and other volunteers](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), which is under a Creative Commons Zero (CC0) license. It is also based on the following:
 
-- [Contributor Covenant](http://contributor-covenant.org), version 1.4, available [here](http://contributor-covenant.org/version/1/4/)
+- [Contributor Covenant](http://contributor-covenant.org/), version 1.4, available [here](http://contributor-covenant.org/version/1/4/)
 - [Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html)
 - Citizen Code of Conduct (site no longer online)
+- [Django Code of Conduct](https://www.djangoproject.com/conduct/)
+- [PyCon Code of Conduct](https://github.com/python/pycon-code-of-conduct).
 
-## Community Members in Crisis
+## Copyright
 
-If a community member is in or appears to be in crisis, please refer to the [Community Members in Crisis Guide](./communication/community-members-in-crisis.md).
+This Code of Conduct is in the public domain. In jurisdictions that do not allow for this, this work is available under CC0. To the extent possible under law, the person who associated CC0 with this work has waived all copyright and related or neighboring rights to this work
