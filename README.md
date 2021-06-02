@@ -63,8 +63,7 @@ We encourage all contributors to become project members. We aim to grow an activ
 
 ### Code of Conduct
 
-- [Virtual Spaces Code of Conduct](./CODE_OF_CONDUCT.md)
-- [Physical Spaces Code of Conduct](./physical-spaces-code-of-conduct.md)
+- [Physical and Virtual Spaces Code of Conduct](./CODE_OF_CONDUCT.md)
 
 ### Contributors
 
