@@ -7,7 +7,7 @@ Meetings are scheduled for 45 minutes.
 ## Requirements
 
 - Meetings are open to anyone who is interested.
-- Each meeting is lead by a member of the Developer Relations team in the Chef business unite at Progress.
+- Each meeting is lead by a member of the Developer Relations team in the Chef business unit at Progress.
 - Each meeting will follow a general structure of release notifications, team updates, and community updates. 
 - The meeting leader will start the meeting with a greeting and any Chef announcements (ChefConf, Community Summits, etc.).
 - Each meeting must have at least one representative from Chef's major Open Source projects - including Infra, Habitat, InSpec, and Automate.
