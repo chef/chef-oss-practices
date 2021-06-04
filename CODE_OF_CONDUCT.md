@@ -1,9 +1,10 @@
 # Code of Conduct
 
-- [Summary](#summary)
+- [Code of Conduct](#code-of-conduct)
+  - [Summary](#summary)
   - [Code of Conduct](#code-of-conduct-1)
   - [Anti-Harassment Policy](#anti-harassment-policy)
-  - [Participant Procedure for Incident Handling](#attendee-procedure-for-incident-handling-in-physical-spaces)
+  - [Participants Procedure for Incident Handling in Physical Spaces](#participants-procedure-for-incident-handling-in-physical-spaces)
   - [Enforcement](#enforcement)
   - [Consequences of Unacceptable Behavior](#consequences-of-unacceptable-behavior)
   - [Our Responsibilities](#our-responsibilities)
@@ -12,12 +13,11 @@
   - [Influences](#influences)
   - [Copyright](#copyright)
 
-
-##Summary
+## Summary
 
 Diversity is one of the greatest strengths that a community can have, and many times that strength is born from the friction that can only come through sharing differing perspectives. The goal of this document is to ensure that we create spaces welcoming to new and existing participants, and that those conversations that arise from friction are productive.
 
-We are dedicated to providing an inclusive and harassment-free experience for anyone who participates in events or digital spaces that are organized, or hosted, or managed by Chef – whether that is ChefConf, Community Summits, MeetUps, training, or any online space. We do not tolerate harassment in any form.
+We are dedicated to providing an inclusive and harassment-free experience for anyone who participates in events or digital spaces that are organized, hosted, or managed by Chef – whether that is ChefConf, Community Summits, MeetUps, training, or any online space. We do not tolerate harassment in any form.
 
 We value the participation of each member of the Chef community and want all participants to have an enjoyable and fulfilling experience. Accordingly, all participants are expected to show respect and courtesy to other participants at any Chef-related events or digital spaces, whether officially sponsored by Progress or not.
 
@@ -114,11 +114,10 @@ The following are the various roles of our Community Organizers and the person(s
 - The Community Organizers may be assigned for each area where the community convenes online (Slack, email list, GitHub, etc.). Community Organizers are employees of Progress. They act in good faith to help enforce our community guidelines and respond to incidents when they occur
 - A Community Member is anyone who participates with the community whether in-person or via online channels. Community members are responsible for following the community guidelines, suggesting updates to the guidelines when warranted, and helping enforce community guidelines
 
-| **Role** | **Name** | **Contact Info** |
-| --- | --- | --- |
-| Decider | benny Vasquez | bvasquez@chef.io |
-| Community Organizers | Various folks | community@chef.io | 
-
+| Role                 | Name          | Contact Info      |
+| -------------------- | ------------- | ----------------- |
+| Decider              | benny Vasquez | bvasquez@chef.io  |
+| Community Organizers | Various folks | community@chef.io |
 
 ## Scope
 
