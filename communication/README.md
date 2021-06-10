@@ -8,7 +8,7 @@ The Chef Community is committed to keeping our space a fun, safe, and productive
 
 ## Reporting Code of Conduct Violations
 
-Please directly email one of the Community Advocates listed in the [Code of Conduct](../CODE_OF_CONDUCT.md#roles).
+Please email the Community Advocates listed in the [Code of Conduct](../CODE_OF_CONDUCT.md#roles).
 
 ## Reporting Security Vulnerabilities
 
