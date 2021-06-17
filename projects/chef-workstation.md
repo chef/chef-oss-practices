@@ -32,24 +32,29 @@ Nikhil Gupta
 - Github: [nikhil2611](https://github.com/nikhil2611)
 - Slack: @Nikhil Gupta
 
-Smisha M
-
-- Github: [SmishaM](https://github.com/SmishaM)
-- Slack: @SmishaM
-
 Pranay Singh
 
 - Github: [i5pranay93](https://github.com/i5pranay93)
 - Slack: @Pranay Singh
 
-Mudassar Shafique
+Vikram Karve
 
-- Github: [mudash](https://github.com/mudash)
-- Slack: @mshafique
+- Github: [vkarve-chef](https://github.com/vkarve-chef)
+- Slack: @Vikram Karve
 
 ### Project Reviewers
 
 ### Project Alums
+
+Smisha M
+
+- Github: [SmishaM](https://github.com/SmishaM)
+- Slack: @SmishaM
+
+Mudassar Shafique
+
+- Github: [mudash](https://github.com/mudash)
+- Slack: @mshafique
 
 John Snow
 
