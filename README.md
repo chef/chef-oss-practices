@@ -20,7 +20,7 @@ The practices in this repo are inspired by [Adam Jacob's book on Free and Sustai
 
 ## How We're Organized
 
-Chef Software (the company) produces many products such as Chef, InSpec, Habitat, and Automate. Each of these products is fully open source and comprised of one or more open source projects. For instance, the Chef product is comprised of chef, ohai, various mixlib projects, and other interdependent libraries. The project and/or sub-project scope is defined in the README.md file in each individual project's GitHub repository.
+Chef Software (the company) produces many products such as Chef Infra, Chef InSpec, Chef Habitat, and Chef Automate. Each of these products is fully open source and comprised of one or more open source projects. For instance, the Chef Infra product is comprised of chef, ohai, various mixlib projects, and other interdependent libraries. The project and/or sub-project scope is defined in the README.md file in each individual project's GitHub repository.
 
 All Chef projects operate under governance determined by the Chef OSS Practices Committee. These policies are documented under [Governance](./governance.md); however, *Teams* can have their own [policy for contribution](./repo-management/project-required-setup.md#CONTRIBUTING.md), communication standards, etc. so long as those policies meet the base governance policy.
 
