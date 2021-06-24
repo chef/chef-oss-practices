@@ -37,6 +37,11 @@ Tim Smith
 
 ### Project Approvers
 
+Marc Paradise
+
+- Github: marcparadise
+- Slack: @mparadise
+
 Matt Wrock
 
 - Github: [mwrock](https://github.com/mwrock)
