@@ -81,11 +81,6 @@ Tyler Ball
 - Github: [tyler-ball](https://github.com/tyler-ball)
 - Slack: @tball
 
-Tim Smith
-
-- Github: [tas50](https://github.com/tas50)
-- Slack: @tas50
-
 Salim Afiune
 
 - Github: [afiune](https://github.com/afiune)
