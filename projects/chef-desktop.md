@@ -10,6 +10,9 @@ The Chef Desktop team is responsible for desktop related projects and repositori
 
 ### Project Owners
 
+- Chaithra Mailankody
+  * Github: [cmailank](https://github.com/cmailank)
+  * Slack: @Chaithra Mailankody
 - Nischal Reddy
   * Github: [nischalsrinivas](https://github.com/nischalsrinivas)
   * Slack: @Nischal
