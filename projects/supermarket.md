@@ -10,9 +10,34 @@ The Supermarket project includes Supermarket and all related repositories.
 
 ### Project Owners
 
+Tim Smith
+
+- Github: [tas50](https://github.com/tas50)
+- Slack: @tas50
+
 ### Project Approvers
 
+Sudharshan Kaushikk
+
+- Github: [skkprogress](https://github.com/skkprogress)
+- Slack: @skkprogress
+
 ### Project Reviewers
+
+Dheeraj Singh Dubey
+
+- Github: [dheerajd-msys](https://github.com/dheerajd-msys)
+- Slack:
+
+Rajesh Paul
+
+- Github: [RajeshPaul38](https://github.com/RajeshPaul38)
+- Slack:
+
+Sabyasachi Ghosh
+
+- Github: [saghoshprogress](https://github.com/saghoshprogress)
+- Slack:
 
 Marc Paradise
 
