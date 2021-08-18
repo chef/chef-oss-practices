@@ -22,22 +22,22 @@ Sudharshan Kaushikk
 - Github: [skkprogress](https://github.com/skkprogress)
 - Slack: @skkprogress
 
+Sabyasachi Ghosh
+
+- Github: [saghoshprogress](https://github.com/saghoshprogress)
+- Slack: Sabyasachi Ghosh
+
 ### Project Reviewers
 
 Dheeraj Singh Dubey
 
 - Github: [dheerajd-msys](https://github.com/dheerajd-msys)
-- Slack:
+- Slack: @ddubey
 
 Rajesh Paul
 
 - Github: [RajeshPaul38](https://github.com/RajeshPaul38)
-- Slack:
-
-Sabyasachi Ghosh
-
-- Github: [saghoshprogress](https://github.com/saghoshprogress)
-- Slack:
+- Slack: Rajesh Paul
 
 Marc Paradise
 
