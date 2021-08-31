@@ -47,7 +47,7 @@ Rishi Chawda
 Amulya Tomer
 
 - Github: [logwolvy](https://github.com/logwolvy)
-- Slack: @Amulya 
+- Slack: @Amulya
 
 Avinash Raghuthu
 
