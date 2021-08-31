@@ -15,6 +15,11 @@ Marc Paradise
 - Github: [marcparadise](https://github.com/marcparadise)
 - Slack: @mparadise
 
+Vikram Karve
+
+- Github: [vkarve-chef](https://github.com/vkarve-chef)
+- Slack: @Vikram Karve
+
 ### Project Approvers
 
 Tim Smith
@@ -36,11 +41,6 @@ Pranay Singh
 
 - Github: [i5pranay93](https://github.com/i5pranay93)
 - Slack: @Pranay Singh
-
-Vikram Karve
-
-- Github: [vkarve-chef](https://github.com/vkarve-chef)
-- Slack: @Vikram Karve
 
 ### Project Reviewers
 
