@@ -10,11 +10,19 @@ deployment topologies supported by `chef-automate deploy`.
 ## Project Members
 
 ### Project Owners
+- Vivek Kumar
+  - Github:[vivekvardwaz](https://github.com/vivekvardwaz)
+- Kallol Roy
+  - Github: [kalroy](https://github.com/kalroy)
+- Punit Mundra
+  - Github: [punitmundra](https://github.com/punitmundra)
+- Vivek Yadav
+  - Github: [vivek-yadav](https://github.com/vivek-yadav)
+- Ankur Mundra
+  - Github: [AnkurMundhra](https://github.com/AnkurMundhra)
 
 ### Project Approvers
 
-- Alex Pop
-  - Github: [alexpop](https://github.com/alexpop)
 - Vivek Shankar
   - Github: [vivekshankar1](https://github.com/vivekshankar1)
 - Kallol Roy
@@ -25,22 +33,14 @@ deployment topologies supported by `chef-automate deploy`.
   - Github: [punitmundra](https://github.com/punitmundra)
 - Vivek Yadav
   - Github: [vivek-yadav](https://github.com/vivek-yadav)
-- Tara Black
-  - GitHub: [tarablack01](https://github.com/tarablack01)
-- Daniel DeLeo
-  - GitHub: [danielsdeleo](https://github.com/danielsdeleo)
-- Shadae Holmes
-  - GitHub: [shadae](https://github.com/shadae)
 - Rick Marry
   - GitHub: [rickmarry](https://github.com/rickmarry)
-- Kyleen MacGugan
-  - GitHub: [kmacgugan](https://github.com/kmacgugan)
-- Jay Mundrawala
-  - GitHub: [jaym](https://github.com/jaym)
-- Alex Pop
-  - GitHub: [alexpop](https://github.com/alexpop)
-- Michael Sorens
-  - GitHub: [msorens](https://github.com/msorens)
+- Vinay Sharma
+  - Github: [vinay033](https://github.com/vinay033)
+- Abdul Azeez
+  - Github: [vinay033](https://github.com/Abdul-Az)
+- Durga Sarat Chandra Maddu
+  - Github: [Dmaddu](https://github.com/Dmaddu)
 
 ### Project Reviewers
 
@@ -48,8 +48,12 @@ deployment topologies supported by `chef-automate deploy`.
   - GitHub: [schisamo](https://github.com/schisamo)
 - Tom Duffield
   - GitHub: [tduffield](https://github.com/tduffield)
-- Kimberley Garmoe
-  - GitHub: [kagarmoe](https://github.com/kagarmoe)
+- Kallol Roy
+  - Github: [kalroy](https://github.com/kalroy)
+- Punit Mundra
+  - Github: [punitmundra](https://github.com/punitmundra)
+- Vivek Yadav
+  - Github: [vivek-yadav](https://github.com/vivek-yadav)
 
 ## Project Repositories
 
@@ -91,3 +95,19 @@ deployment topologies supported by `chef-automate deploy`.
   - GitHub: [yzl](https://github.com/yzl)
 - Mary Jinglewski
   - GitHub: [mjingle](https://github.com/mjingle)
+- Alex Pop
+  - Github: [alexpop](https://github.com/alexpop)
+- Tara Black
+  - GitHub: [tarablack01](https://github.com/tarablack01)
+- Daniel DeLeo
+  - GitHub: [danielsdeleo](https://github.com/danielsdeleo)
+- Shadae Holmes
+  - GitHub: [shadae](https://github.com/shadae)
+- Kyleen MacGugan
+  - GitHub: [kmacgugan](https://github.com/kmacgugan)
+- Jay Mundrawala
+  - GitHub: [jaym](https://github.com/jaym)
+- Alex Pop
+  - GitHub: [alexpop](https://github.com/alexpop)
+- Michael Sorens
+  - GitHub: [msorens](https://github.com/msorens)
