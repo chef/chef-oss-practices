@@ -20,19 +20,15 @@ deployment topologies supported by `chef-automate deploy`.
   - Github: [vivek-yadav](https://github.com/vivek-yadav)
 - Ankur Mundra
   - Github: [AnkurMundhra](https://github.com/AnkurMundhra)
+- Karunesh Kumar
+  - Github: [karunesh-tech](https://github.com/karunesh-tech)
 
 ### Project Approvers
 
 - Vivek Shankar
   - Github: [vivekshankar1](https://github.com/vivekshankar1)
-- Kallol Roy
-  - Github: [kalroy](https://github.com/kalroy)
 - Shaik Mudassir
   - Github: [shaik80](https://github.com/shaik80)
-- Punit Mundra
-  - Github: [punitmundra](https://github.com/punitmundra)
-- Vivek Yadav
-  - Github: [vivek-yadav](https://github.com/vivek-yadav)
 - Rick Marry
   - GitHub: [rickmarry](https://github.com/rickmarry)
 - Vinay Sharma
@@ -44,23 +40,16 @@ deployment topologies supported by `chef-automate deploy`.
 
 ### Project Reviewers
 
-- Seth Chisamore
-  - GitHub: [schisamo](https://github.com/schisamo)
-- Tom Duffield
-  - GitHub: [tduffield](https://github.com/tduffield)
-- Kallol Roy
-  - Github: [kalroy](https://github.com/kalroy)
-- Punit Mundra
-  - Github: [punitmundra](https://github.com/punitmundra)
-- Vivek Yadav
-  - Github: [vivek-yadav](https://github.com/vivek-yadav)
-
 ## Project Repositories
 
 - [automate](https://github.com/chef/automate)
 
 ## Project Alums
 
+- Seth Chisamore
+  - GitHub: [schisamo](https://github.com/schisamo)
+- Tom Duffield
+  - GitHub: [tduffield](https://github.com/tduffield)
 - Stephan Renatus
   - GitHub: [srenatus](https://github.com/srenatus)
 - Brenna Hewer-Darroch
@@ -107,7 +96,5 @@ deployment topologies supported by `chef-automate deploy`.
   - GitHub: [kmacgugan](https://github.com/kmacgugan)
 - Jay Mundrawala
   - GitHub: [jaym](https://github.com/jaym)
-- Alex Pop
-  - GitHub: [alexpop](https://github.com/alexpop)
 - Michael Sorens
   - GitHub: [msorens](https://github.com/msorens)
