@@ -34,7 +34,7 @@ deployment topologies supported by `chef-automate deploy`.
 - Vinay Sharma
   - Github: [vinay033](https://github.com/vinay033)
 - Abdul Azeez
-  - Github: [vinay033](https://github.com/Abdul-Az)
+  - Github: [Abdul-Az](https://github.com/Abdul-Az)
 - Durga Sarat Chandra Maddu
   - Github: [Dmaddu](https://github.com/Dmaddu)
 
