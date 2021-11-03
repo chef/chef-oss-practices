@@ -42,6 +42,21 @@ Pranay Singh
 - Github: [i5pranay93](https://github.com/i5pranay93)
 - Slack: @Pranay Singh
 
+Ashique Saidalavi
+
+- Github: [ashiqueps](https://github.com/ashiqueps)
+- Slack: @Ashique Saidalavi
+
+Kasif Adnan
+
+- Github: [kasif-adnan](https://github.com/kasif-adnan)
+- Slack: @Kasif Adnan
+
+Sachin Jain
+
+- Github: [sanjain-progress](https://github.com/sanjain-progress)
+- Slack: @Sachin Jain
+
 ### Project Reviewers
 
 ### Project Alums
