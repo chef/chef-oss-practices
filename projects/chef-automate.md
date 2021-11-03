@@ -10,6 +10,7 @@ deployment topologies supported by `chef-automate deploy`.
 ## Project Members
 
 ### Project Owners
+
 - Vivek Kumar
   - Github:[vivekvardwaz](https://github.com/vivekvardwaz)
 - Kallol Roy
