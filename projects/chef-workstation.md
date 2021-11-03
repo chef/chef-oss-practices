@@ -42,8 +42,6 @@ Pranay Singh
 - Github: [i5pranay93](https://github.com/i5pranay93)
 - Slack: @Pranay Singh
 
-### Project Reviewers
-
 Ashique Saidalavi
 
 - Github: [ashiqueps](https://github.com/ashiqueps)
@@ -58,6 +56,8 @@ Sachin Jain
 
 - Github: [sanjain-progress](https://github.com/sanjain-progress)
 - Slack: @Sachin Jain
+
+### Project Reviewers
 
 ### Project Alums
 
