@@ -44,6 +44,21 @@ Pranay Singh
 
 ### Project Reviewers
 
+Ashique Saidalavi
+
+- Github: [ashiqueps](https://github.com/ashiqueps)
+- Slack: @Ashique Saidalavi
+
+Kasif Adnan
+
+- Github: [kasif-adnan](https://github.com/kasif-adnan)
+- Slack: @Kasif Adnan
+
+Sachin Jain
+
+- Github: [sanjain-progress](https://github.com/sanjain-progress)
+- Slack: @Sachin Jain
+
 ### Project Alums
 
 Smisha M
