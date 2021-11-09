@@ -2,7 +2,7 @@
 
 The Supermarket project includes Supermarket and all related repositories.
 
-**Slack Channel** TBD
+**Slack Channel** #supermarket
 
 **Triage Schedule**: TBD
 
@@ -15,17 +15,17 @@ Tim Smith
 - Github: [tas50](https://github.com/tas50)
 - Slack: @tas50
 
+Sabyasachi Ghosh
+
+- Github: [saghoshprogress](https://github.com/saghoshprogress)
+- Slack: Sabyasachi Ghosh
+
 ### Project Approvers
 
 Sudharshan Kaushikk
 
 - Github: [skkprogress](https://github.com/skkprogress)
 - Slack: @skkprogress
-
-Sabyasachi Ghosh
-
-- Github: [saghoshprogress](https://github.com/saghoshprogress)
-- Slack: Sabyasachi Ghosh
 
 ### Project Reviewers
 
