@@ -23,6 +23,8 @@ deployment topologies supported by `chef-automate deploy`.
   - Github: [AnkurMundhra](https://github.com/AnkurMundhra)
 - Karunesh Kumar
   - Github: [karunesh-tech](https://github.com/karunesh-tech)
+- Durga Sarat Chandra Maddu
+  - Github: [Dmaddu](https://github.com/Dmaddu)
 
 ### Project Approvers
 
@@ -36,8 +38,10 @@ deployment topologies supported by `chef-automate deploy`.
   - Github: [vinay033](https://github.com/vinay033)
 - Abdul Azeez
   - Github: [Abdul-Az](https://github.com/Abdul-Az)
-- Durga Sarat Chandra Maddu
-  - Github: [Dmaddu](https://github.com/Dmaddu)
+- Pappu Kumar
+  - Github: [dave-augustus](https://github.com/dave-augustus)
+- Yashvi Jain
+  - Github: [YashviJain01](https://github.com/YashviJain01)
 
 ### Project Reviewers
 
