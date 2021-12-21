@@ -6,6 +6,5 @@ projects/chef-foundation.md    @chef/chef-foundation-owners
 projects/chef-infra.md         @chef/chef-infra-owners
 projects/chef-infra-server.md  @chef/chef-infra-server-owners
 projects/chef-workstation.md   @chef/chef-workstation-owners
-projects/knife.md              @chef/knife-owners
 projects/supermarket.md        @chef/supermarket-owners
 projects/automate.md           @automate-maintainers
