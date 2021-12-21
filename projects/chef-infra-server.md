@@ -1,7 +1,6 @@
 # Chef Infra Server Foundation Team
 
-The Chef Infra Server team is responsible for common libraries and
-applications used to support Chef Infra Server.
+The Chef Infra Server team is responsible for common libraries and applications used to support Chef Infra Server.
 
 **Slack Channel**: #chef-server
 
@@ -89,6 +88,14 @@ Steven Danna
 
 - Github: [stevendanna](https://github.com/stevendanna)
 - Slack: @ssd
+
+Nolan Davidson
+
+- Github: [nsdavidson](https://github.com/nsdavidson)
+
+Oliver Ferrigni
+
+- Github: [oferrigni](https://github.com/oferrigni)
 
 ## Major Projects
 
