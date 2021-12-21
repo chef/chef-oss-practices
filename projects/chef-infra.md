@@ -1,6 +1,6 @@
 # Chef Infra Project
 
-The Chef Infra project includes chef-client and all directly related projects.
+The Chef Infra project includes Chef Infra Client and all directly related projects.
 
 **Slack Channel** #chef-infra-dev
 
@@ -10,10 +10,10 @@ The Chef Infra project includes chef-client and all directly related projects.
 
 ### Project Owners
 
-Bryan McLellan
+Rahul Goel
 
-- Github: [btm](https://github.com/btm)
-- Slack: @btm
+- Github: [rahulgoel1](https://github.com/rahulgoel1)
+- Slack: @Rahul.Goel
 
 Lamont Granquist
 
@@ -66,6 +66,11 @@ John McCrae
 - [vscode-chef](https://github.com/chef/vscode-chef)
 
 ## Project Alums
+
+Bryan McLellan
+
+- Github: [btm](https://github.com/btm)
+- Slack: @btm
 
 Robb Kidd
 
