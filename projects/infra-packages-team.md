@@ -36,3 +36,4 @@ Swati Keshari
 
 - [omnibus](https://github.com/chef/omnibus)
 - [omnibus-software](https://github.com/chef/omnibus-software)
+- [omnibus-toolchain](https://github.com/chef/omnibus-toolchain)
