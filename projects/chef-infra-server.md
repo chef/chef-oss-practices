@@ -1,4 +1,4 @@
-# Chef Infra Server Foundation Team
+# Chef Infra Server Team
 
 The Chef Infra Server team is responsible for common libraries and applications used to support Chef Infra Server.
 
