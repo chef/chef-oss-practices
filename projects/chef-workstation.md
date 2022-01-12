@@ -4,7 +4,7 @@ The Chef Workstation project includes Chef Workstation and all related repositor
 
 **Slack Channel** #chef-workstation-dev
 
-**Triage Schedule**: Every Monday at 1pm Pacific Time
+**Triage Schedule**: Alternate Tuesday at 8:30am Pacific Time
 
 ## Project Members
 
@@ -111,6 +111,7 @@ Robb Kidd
 - [chef-analyze](https://github.com/chef/chef-analyze)
 - [chef-apply](https://github.com/chef/chef-apply)
 - [chef-cli](https://github.com/chef/chef-cli)
+- [chef-vault](https://github.com/chef/chef-vault)
 - [chef-workstation-app](https://github.com/chef/chef-workstation-app)
 - [chef-workstation](https://github.com/chef/chef-workstation)
 - [cookbook-omnifetch](https://github.com/chef/cookbook-omnifetch)
