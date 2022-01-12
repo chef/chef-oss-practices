@@ -56,8 +56,6 @@ John McCrae
 
 ## Project Repositories
 
-- [chef-ruby-lvm-attrib](https://github.com/chef/chef-ruby-lvm-attrib)
-- [chef-ruby-lvm](https://github.com/chef/chef-ruby-lvm)
 - [chef](https://github.com/chef/chef)
 - [cheffish](https://github.com/chef/cheffish)
 - [cookstyle](https://github.com/chef/cookstyle)
