@@ -57,6 +57,16 @@ Sachin Jain
 - Github: [sanjain-progress](https://github.com/sanjain-progress)
 - Slack: @Sachin Jain
 
+Nitin Sanghi
+
+- Github: [sanghinitin](https://github.com/sanghinitin)
+- Slack: @Nitin Sanghi
+
+Snehal Dwivedi
+
+- Github: [snehaldwivedi](https://github.com/snehaldwivedi)
+- Slack: @Snehal Dwivedi
+
 ### Project Reviewers
 
 ### Project Alums
