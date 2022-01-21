@@ -54,6 +54,16 @@ John McCrae
 - Github: [johnmccrae](http://github.com/johnmccrae)
 - Slack: @John McCrae
 
+Neha Pansare
+
+- Github: [neha-p6](https://github.com/neha-p6)
+- Slack: @neha
+
+Prajakta Purohit
+
+- Github: [PrajaktaPurohit](https://github.com/PrajaktaPurohit)
+- Slack: @prajakta
+
 ## Project Repositories
 
 - [chef](https://github.com/chef/chef)
