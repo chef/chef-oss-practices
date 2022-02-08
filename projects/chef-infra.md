@@ -10,11 +10,6 @@ The Chef Infra project includes Chef Infra Client and all directly related proje
 
 ### Project Owners
 
-Rahul Goel
-
-- Github: [rahulgoel1](https://github.com/rahulgoel1)
-- Slack: @Rahul.Goel
-
 Lamont Granquist
 
 - Github: [lamont-granquist](https://github.com/lamont-granquist)
@@ -24,6 +19,11 @@ Phil Dibowitz
 
 - Github: [jaymzh](http://github.com/jaymzh)
 - Slack: @phil
+
+Prajakta Purohit
+
+- Github: [PrajaktaPurohit](https://github.com/PrajaktaPurohit)
+- Slack: @prajakta
 
 Sudharshan Kaushikk
 
@@ -58,11 +58,6 @@ Neha Pansare
 
 - Github: [neha-p6](https://github.com/neha-p6)
 - Slack: @neha
-
-Prajakta Purohit
-
-- Github: [PrajaktaPurohit](https://github.com/PrajaktaPurohit)
-- Slack: @prajakta
 
 ## Project Repositories
 
@@ -209,3 +204,8 @@ Pete Higgins
 
 - Github: [phiggins](http://github.com/phiggins)
 - Slack: @pete
+
+Rahul Goel
+
+- Github: [rahulgoel1](https://github.com/rahulgoel1)
+- Slack: @Rahul.Goel
