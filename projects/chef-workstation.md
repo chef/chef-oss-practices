@@ -20,6 +20,11 @@ Vikram Karve
 - Github: [vkarve-chef](https://github.com/vkarve-chef)
 - Slack: @Vikram Karve
 
+Nikhil Gupta
+
+- Github: [nikhil2611](https://github.com/nikhil2611)
+- Slack: @Nikhil Gupta
+
 ### Project Approvers
 
 Tim Smith
@@ -31,11 +36,6 @@ Sudharshan Kaushikk
 
 - Github: [skkprogress](https://github.com/skkprogress)
 - Slack: @skkprogress
-
-Nikhil Gupta
-
-- Github: [nikhil2611](https://github.com/nikhil2611)
-- Slack: @Nikhil Gupta
 
 Pranay Singh
 
