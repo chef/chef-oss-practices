@@ -62,14 +62,14 @@ Nitin Sanghi
 - Github: [sanghinitin](https://github.com/sanghinitin)
 - Slack: @Nitin Sanghi
 
+### Project Reviewers
+
+### Project Alums
+
 Snehal Dwivedi
 
 - Github: [snehaldwivedi](https://github.com/snehaldwivedi)
 - Slack: @Snehal Dwivedi
-
-### Project Reviewers
-
-### Project Alums
 
 Smisha M
 
