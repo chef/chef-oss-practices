@@ -20,11 +20,6 @@ Sudharshan Kaushikk
 - Github: [skkprogress](https://github.com/skkprogress)
 - Slack: @skkprogress
 
-Tim Smith
-
-- Github: [tas50](https://github.com/tas50)
-- Slack: @tas50
-
 Lincoln Baker
 
 - Github: [lbakerchef](https://github.com/lbakerchef)
@@ -54,12 +49,17 @@ Lincoln Baker
 
 ### Project Reviewers
 
+### Project Alums
+
+Tim Smith
+
+- Github: [tas50](https://github.com/tas50)
+- Slack: @tas50
+
 Bryan McLellan
 
 - Github: [btm](https://github.com/btm)
 - Slack: @btm
-
-### Project Alums
 
 Tyler Cloke
 
