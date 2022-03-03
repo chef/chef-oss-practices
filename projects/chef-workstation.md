@@ -27,11 +27,6 @@ Nikhil Gupta
 
 ### Project Approvers
 
-Tim Smith
-
-- Github: [tas50](https://github.com/tas50)
-- Slack: @tas50
-
 Sudharshan Kaushikk
 
 - Github: [skkprogress](https://github.com/skkprogress)
@@ -65,6 +60,11 @@ Nitin Sanghi
 ### Project Reviewers
 
 ### Project Alums
+
+Tim Smith
+
+- Github: [tas50](https://github.com/tas50)
+- Slack: @tas50
 
 Snehal Dwivedi
 

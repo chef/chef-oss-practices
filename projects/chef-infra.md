@@ -30,11 +30,6 @@ Sudharshan Kaushikk
 - Github: [skkprogress](https://github.com/skkprogress)
 - Slack: @skkprogress
 
-Tim Smith
-
-- Github: [tas50](https://github.com/tas50)
-- Slack: @tas50
-
 ### Project Approvers
 
 Marc Paradise
@@ -69,6 +64,11 @@ Neha Pansare
 - [vscode-chef](https://github.com/chef/vscode-chef)
 
 ## Project Alums
+
+Tim Smith
+
+- Github: [tas50](https://github.com/tas50)
+- Slack: @tas50
 
 Bryan McLellan
 
