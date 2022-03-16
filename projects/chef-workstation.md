@@ -25,6 +25,11 @@ Nikhil Gupta
 - Github: [nikhil2611](https://github.com/nikhil2611)
 - Slack: @Nikhil Gupta
 
+Kasif Adnan
+
+- Github: [kasif-adnan](https://github.com/kasif-adnan)
+- Slack: @Kasif Adnan
+
 ### Project Approvers
 
 Sudharshan Kaushikk
@@ -41,11 +46,6 @@ Ashique Saidalavi
 
 - Github: [ashiqueps](https://github.com/ashiqueps)
 - Slack: @Ashique Saidalavi
-
-Kasif Adnan
-
-- Github: [kasif-adnan](https://github.com/kasif-adnan)
-- Slack: @Kasif Adnan
 
 Sachin Jain
 
