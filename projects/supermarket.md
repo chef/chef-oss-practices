@@ -10,11 +10,6 @@ The Supermarket project includes Supermarket and all related repositories.
 
 ### Project Owners
 
-Tim Smith
-
-- Github: [tas50](https://github.com/tas50)
-- Slack: @tas50
-
 Sabyasachi Ghosh
 
 - Github: [saghoshprogress](https://github.com/saghoshprogress)
@@ -50,6 +45,11 @@ Will Fisher
 - Slack: @teknofire
 
 ### Project Alums
+
+Tim Smith
+
+- Github: [tas50](https://github.com/tas50)
+- Slack: @tas50
 
 Robb Kidd
 
