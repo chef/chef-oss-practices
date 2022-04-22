@@ -10,57 +10,68 @@ The Chef Desktop team is responsible for desktop related projects and repositori
 
 ### Project Owners
 
-Chaithra Mailankody
+- Chaithra Mailankody
+  
+  * Github: [cmailank](https://github.com/cmailank)
+  * Slack: @Chaithra Mailankody
+  
+- Nischal Reddy
 
-- Github: [cmailank](https://github.com/cmailank)
-- Slack: @Chaithra Mailankody
+  * Github: [nischalsrinivas](https://github.com/nischalsrinivas)
+  * Slack: @Nischal
 
-Nischal Reddy
+- Sabyasachi Ghosh
 
-- Github: [nischalsrinivas](https://github.com/nischalsrinivas)
-- Slack: @Nischal
-
-Vivek Kumar
-
-- Github:[vivekvardwaz](https://github.com/vivekvardwaz)
-- Slack: @vivek kumar
+  * Github:[saghoshprogress](https://github.com/saghoshprogress)
+  * Slack: @Sabyasachi Ghosh
 
 ### Project Approvers
 
-Amulya Tomer
+- Amulya Tomer
 
-- Github: [logwolvy](https://github.com/logwolvy)
-- Slack: @Amulya
+  * Github: [logwolvy](https://github.com/logwolvy)
+  * Slack: @Amulya 
 
-Avinash Raghuthu
+- Rishi Chawda
 
-- Github: [avinashraghuthu](https://github.com/avinashraghuthu)
-- Slack: @Avinash Raghuthu
+  * Github: [rishichawda](https://github.com/rishichawda)
+  * Slack: @rishi
 
-Rishi Chawda
+- Sabyasachi Ghosh
 
-- Github: [rishichawda](https://github.com/rishichawda)
-- Slack: @rishi
+  * Github:[saghoshprogress](https://github.com/saghoshprogress)
+  * Slack: @Sabyasachi Ghosh
 
 ### Project Reviewers
 
-Amulya Tomer
+- Amulya Tomer
 
-- Github: [logwolvy](https://github.com/logwolvy)
-- Slack: @Amulya
+  * Github: [logwolvy](https://github.com/logwolvy)
+  * Slack: @Amulya 
 
-Avinash Raghuthu
+- Rishi Chawda
 
-- Github: [avinashraghuthu](https://github.com/avinashraghuthu)
-- Slack: @Avinash Raghuthu
+  * Github: [rishichawda](https://github.com/rishichawda)
+  * Slack: @rishi
 
-Rishi Chawda
+- Sabyasachi Ghosh
 
-- Github: [rishichawda](https://github.com/rishichawda)
-- Slack: @rishi
+  * Github:[saghoshprogress](https://github.com/saghoshprogress)
+  * Slack: @Sabyasachi Ghosh
 
 ## Project Repositories
 
 - [chef-desktop-quick-setup](https://github.com/chef/chef-desktop-quick-setup)
+- [corefoundation](https://github.com/chef/corefoundation)
 
 ## Project Alums
+
+- Avinash Raghuthu
+
+  * Github: [avinashraghuthu](https://github.com/avinashraghuthu)
+  * Slack: @Avinash Raghuthu
+
+- Vivek Kumar
+
+  * Github:[vivekvardwaz](https://github.com/vivekvardwaz)
+  * Slack: @vivek kumar
