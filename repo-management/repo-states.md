@@ -1,6 +1,6 @@
 # Repo States
 
-A Chef OSS repo can be in one of 3 states
+A Chef OSS repo can be in one of 4 states
 
 - Active
 - Maintained
