@@ -63,6 +63,8 @@ Neha Pansare
 - [ohai](https://github.com/chef/ohai)
 - [vscode-chef](https://github.com/chef/vscode-chef)
 
+Plus everything listed in: [community_pr_review_checklist](https://github.com/chef/chef/blob/main/docs/dev/how_to/community_pr_review_checklist.md).
+
 ## Project Alums
 
 Tim Smith

@@ -48,7 +48,6 @@ deployment topologies supported by `chef-automate deploy`.
 ## Project Repositories
 
 - [automate](https://github.com/chef/automate)
-- [chef-manage](https://github.com/chef/chef-manage)
 
 ## Project Alums
 

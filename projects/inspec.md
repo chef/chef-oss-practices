@@ -39,7 +39,7 @@ James Stocks
 ## Project Repositories
 
 - [inspec](https://github.com/inspec/inspec)
-- [inspec-digital-ocean](https://github.com/inspec/inspec-digital-ocean)
+- [inspec-digitalocean](https://github.com/inspec/inspec-digitalocean)
 - [inspec-habitat](https://github.com/inspec/inspec-habitat)
 - [inspec-oneview](https://github.com/inspec/inspec-habitat)
 - [inspec-vmware](https://github.com/inspec/inspec-vmware)
