@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Chef Software Projects
 
 Software projects at Chef are made up many libraries and sub-projects managed by Chef. There are currently over 500 such software repositories, which together make up our core projects:

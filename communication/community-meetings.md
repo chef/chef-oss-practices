@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Community Meetings
 
 Community Meetings are held in text form in the #community-meetings channel of the Chef Community Slack every Thursday at 9 AM Pacific.

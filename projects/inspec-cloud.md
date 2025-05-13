@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # InSpec Cloud Resource Packs
 
 This includes the InSpec resource packs for AWS, GCP and Azure.

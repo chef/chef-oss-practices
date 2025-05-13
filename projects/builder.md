@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Habitat Builder
 
 Includes all code for the Habitat Depot and Builder.

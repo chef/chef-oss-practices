@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # The End of a Project's Life
 
 As covered in our [governance documentation](../governance.md), there can come a time in the life of a software project where it needs to be figuratively put out to pasture. This document focuses on what communication looks like for a project entering that End of Life (EoL) status, rather than the process of EoLing a project.

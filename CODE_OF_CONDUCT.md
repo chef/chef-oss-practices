@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Code of Conduct
 
 - [Code of Conduct](#code-of-conduct)

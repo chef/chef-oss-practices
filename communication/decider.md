@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Role of Decider
 
 Chef's previous "decider" for all Chef Open Source projects was Adam Jacob. This worked extremely well when Chef had a single major open source project. With the expansion of Chef's Open Source footprint, having one person in charge of decisions for all projects is no longer sustainable or desirable. Due to this, the role has been eliminated.

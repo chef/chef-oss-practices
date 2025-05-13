@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Communication FAQs
 
 ## Why can't all development discussion be in private Chef Slack?

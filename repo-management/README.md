@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Repo Management
 
 Ready to create a new Chef Open Source Software project? Looking for some guidance on how to manage repositories for existing projects? You have come to the right place!

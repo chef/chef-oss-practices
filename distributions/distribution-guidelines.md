@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Guidelines for Distributions
 
 So you want to create a new distro of a Chef product….

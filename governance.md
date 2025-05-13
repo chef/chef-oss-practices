@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 This is a Work in Progress, documenting approximately how we believe we should be operating.
 
 # Principles

@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Community Expectations
 
 All Chef Software Inc. code is open-source and operated as community projects. Consequently, it is wholly dependent on its community to provide a productive, friendly and collaborative environment.

@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Chef OSS Contribution Cheat Sheet
 
 A list of common resources when contributing to Chef Software Inc. Projects.

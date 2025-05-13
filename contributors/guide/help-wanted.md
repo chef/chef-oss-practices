@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Overview
 
 We use two labels [Status: Help Wanted](#help-wanted) and [Status: Good First Issue](#good-first-issue) to flag issues that have been identified as well-suited for community contributors. The `Status: Good First Issue` label is a subset of `Status: Help Wanted` label, and indicates that project members have committed to providing extra assistance for new contributors. All `Good First Issue` issues also have the `Help Wanted` label applied.

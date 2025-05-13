@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Saying No
 
 One of the hardest challenges of Open Source development is saying no either on an issue or a pull request in an empathetic way. Sometimes an issue is something that cannot or will not be worked on for a variety of reasons - including timing, product roadmap, and more. Sometimes a pull request is just not right for the project at that specific time - again including timing, product roadmap, and more. When issues or pull requests have remained open for years, it's also sometimes necessary to declare bankruptcy on issues that have been open > a certain number of years and close them.

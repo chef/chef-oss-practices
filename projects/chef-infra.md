@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Chef Infra Project
 
 The Chef Infra project includes Chef Infra Client and all directly related projects.
