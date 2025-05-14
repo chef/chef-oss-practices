@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Habitat Core Plans
 
 Habitat Core Plans are currently transitioning to the Content Team so the below is likely to evolve.

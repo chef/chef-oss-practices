@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Support Boundaries
 
 ## What Technical Support are Contributors Expected To Do?

@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Distributions
 
 Along with the [official Chef distributions](https://downloads.chef.io/) of our Open Source projects, members of our community have created alternative distributions of Chef's Open Source products. These are listed below.

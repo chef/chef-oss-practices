@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Chef Workstation Project
 
 The Chef Workstation project includes Chef Workstation and all related repositories.

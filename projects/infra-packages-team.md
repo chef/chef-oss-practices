@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Infra Packages Team
 
 The Infra Packages Team team is responsible for components in the Chef Infra stack that produce builds including Omnibus and Omnibus software definitions.

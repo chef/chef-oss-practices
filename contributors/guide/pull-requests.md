@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Pull Request Process
 
 This document explains the process and best practices for submitting a pull request to any of the Chef Software, Inc. projects and their associated sub-repositories. It should serve as a reference for all contributors, and be useful, especially to new and infrequent submitters.

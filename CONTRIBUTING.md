@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Contributing to the Community Repo
 
 Welcome to the Chef Community contributing guide. We are excited about the prospect of you joining our [community](https://github.com/chef/chef-oss-practices)!

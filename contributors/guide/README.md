@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Chef Software Inc. Contributor Guide
 
 This document is a guide on how to contribute to and maintain Chef Software Inc. projects.

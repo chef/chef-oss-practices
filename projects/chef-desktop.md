@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Chef Desktop team
 
 The Chef Desktop team is responsible for desktop related projects and repositories.

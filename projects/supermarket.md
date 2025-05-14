@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Supermarket Project
 
 The Supermarket project includes Supermarket and all related repositories.

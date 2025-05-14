@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Contributor Entitlement Program
 
 Continuing our commitment to work in partnership with the Chef Community, Chef offers a Contributor Entitlement program.  At Chef, we recognize and value our community's involvement and we are dedicated to enabling our contributors to use the very software they are helping to build.

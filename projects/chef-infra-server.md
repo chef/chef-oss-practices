@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Chef Infra Server Team
 
 The Chef Infra Server team is responsible for common libraries and applications used to support Chef Infra Server.
