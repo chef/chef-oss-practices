@@ -1,59 +1,59 @@
-> [!WARNING]
-> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+> [!NOTE]
+> This page is currently under review to align with Progress Chef's communication strategy and governance model.
 
 # Communication FAQs
+This document addresses common questions about how and why we use certain communication tools in the Progress Chef community. These guidelines are based on our goals of maintaining openness, supporting asynchronous collaboration, and making development accessible across time zones and roles.
 
-## Why can't all development discussion be in private Chef Slack?
+## Why does development use Progress Teams channel instead of Slack?
+Progress Chef operates on an [Open Core](../policies/open-core.md) model, where core components are fully open source, and certain advanced features or enterprise-grade feature are only available to commercial distributions. To ensure secure collaboration on roadmap planning, internal coordination, and customer-specific work, we use Microsoft Teams as our internal communication tool instead of Slack.
 
-When working in open source, it's essential to be as transparent about technical decisions as possible with external contributors - particularly as we work with them on our projects, etc. If we were to only do development discussion in Chef internal slack (and not document decisions, etc. somewhere that external contributors can access them), we would seriously hinder any contributions from the community outside of Chef. The beauty of Open Source is with so many eyes on the code, the design, etc., it results in better products and a higher impact on the world. This greater potential carries its own challenges. The practices defined in this repository are to help us navigate those challenges and achieve our goals.
+Teams provides secure, role-based access and integrates with enterprise workflows like Outlook and SharePoint, enabling us to protect sensitive discussions without fragmenting developer collaboration. Teams is especially important for handling:
 
-**Note**: There are things that will need to stay private - including when work we are doing is for specific customers or for business strategy reasons that have not been made public. This will be addressed in a separate issue
+* Internal coordination across ecosystems and cross product components
+* Discussions involving unreleased commercial features or private customer feedback
+* Cross-department collaboration with product management, marketing, and support
 
-## Why can't all development discussion be in public Community Slack?
+The weekly [community meeting](./community-meetings.md) held in slack is a method for the internal teams to share the weekly progress of the projects with the entire community. In addition critical architecture decision records, feature requests and other technical artifacts should be made available in the proper [channel](./README.md#communication-channels).
 
-The main reason is that we use the free version of Slack, which limits records of conversations to 10,000 messages. Crucial information can be lost. If someone is away for a day or two and then comes back, they will not be able to catch up on conversations, messages, etc.
+This balance allows us to uphold transparency in our open source development, while responsibly managing enterprise obligations and internal alignment.
 
-### Why don't we just pay for Community Slack?
+## Why don't we use Community Slack for everything?
+Slack is great for quick collaboration, but it's not durable. On the free tier, Slack [limits access](https://slack.com/help/articles/27204752526611-Feature-limitations-on-the-free-version-of-Slack) to messages—including DMs. Important content can easily be lost or inaccessible within days.
 
-The lowest price Slack will charge a for-profit organization is $5 per active user. (Chef IT has talked extensively with Slack on this.) As anyone can join Community Slack (and we want to keep it that way), it would be an uncontrolled cost, which is a non-starter for Chef as a business.
+## Why don't we pay for Community Slack?
+Slack pricing is per active user. Because Community Slack is open to all, we cannot control its cost. At current usage, paying for Slack would be financially unsustainable.
 
-### Why don't we just use a bot to export the chats from the Community Slack to some other archive?
+## Why don't we export Slack messages to an archive?
+Even with bots, you can't reliably capture all of the content. Important messages exchanged in DMs can disappear quickly. Ephemeral chat is inherently risky for decisions or long-term collaboration.
 
-This is a possibility for specific channels in Slack, but channel chat is not the only place the 10,000 message limit applies. It also applies to DMs. If someone DMs someone else and they are on vacation, or otherwise not able to access Slack for a bit, then that DM will be unreadable once the entire Slack goes over the 10,000 message limit. With a fairly active Slack, the 10,000 message limit is reached fairly rapidly. There is nothing more frustrating than to see that you received a DM - potentially a very high value one! - and not be able to access the content. Additionally, it is common for critical information to be exchanged in DMs. Unless whoever is sending/receiving the DMs is very diligent about documenting them elsewhere (and if they see the DM before the 10,000 message limit is hit), that information will be lost.
+## Why not use Discord, Gitter, or another tool?
+Discord is also blocked in many enterprises. Gitter has potential, but splitting conversations across chat tools causes fragmentation. We’ve chosen Aha + Jira  + GitHub + Slack as a balance of openness, usability, and reach.
 
-## Why don't we just go back to IRC?
+## Why not rely entirely on synchronous chat?
+Synchronous communication can exclude contributors based on:
 
-There were two major reasons we moved from IRC to Slack in the first place.
+* **Time zones:** Async tools give global contributors equal opportunity to participate.
+* **Language barriers:** Async allows use of translation tools and thoughtful replies.
+* **Neurodiversity and working styles:** Not everyone thrives in fast-paced chat.
+* **Bias:** Async communication reduces snap judgments and provides a record of ideas, not just personalities.
 
-- IRC is blocked completely on many corporate networks - this comes directly from Chef's Customer Facing teams, and is a matter of codified security policy in Federal and Financial organizations. Slack has managed to achieve enough usage in the corporate world with corresponding security approvals that it is usually allowed.
-- IRC isn't as user-friendly as other options - we want our community to be as accessible and inclusive as possible.
+## When should we use synchronous chat?
+Use Slack for:
+* Real-time help (e.g., onboarding blockers)
+* Quick back-and-forth on a live issue
+* Planning logistics or low-risk discussions
 
-## Why don't we use Discord/Gitter/some other chat tool instead?
+Any decision or outcome must be documented in GitHub afterward.
 
-Discord also is blocked on many corporate networks.
+## What are our async communication options?
+* **GitHub** – Our system of record. Use it for code, discussions, and decisions.
+* **Discourse** – Best for community-wide announcements, non-code questions, and long-form conversations.
 
-Gitter has been considered as a possibility, but dividing development conversations between two real time chat tools quickly leads to loss of context and "Slack overload".
+## What is Customer Success Slack?
+Customer Success Slack is a private Slack channel created for enterprise customers, enabling real-time collaboration with their assigned Customer Success Managers (CSMs), account teams, and Progress technical experts. This channel is not part of the public Community Slack and is not used for product development.
 
-This does bring us to the larger question: should our development conversations be happening in a synchronous matter at all, where replies are often expected to be immediate?
+* Customers can use this space to raise issues, ask about product usage, and coordinate services directly.
+* It serves as a high-touch communication layer tailored to specific enterprise engagements.
+* While some discussions may influence roadmap priorities, any technical decisions must still be documented in GitHub or communicated via official channels such as Aha! or support cases.
 
-## Why don't we use a self hosted solution like MatterMost?
-
-[MatterMost](https://mattermost.com/download/) is certainly intriguing, especially as it offers an Open Source, self hosted version, but we do not have the resources to dedicate to supporting and maintaining a self hosted version of MatterMost at this time.
-
-## Why wouldn't we use a synchronous chat tool?
-
-There are a few clear issues with synchronous chat tools, which have the tendency to alienate parts of our community.
-
-- Synchronous chat works best when all participants are within close time zones. We have contributors in Europe, Asia, and Australia (at least) and it's very easy for them to lose the development conversation when it is held in a synchronous matter. They often do not have a chance to interact with us, or before decisions are made.
-- Synchronous chat is difficult for non-native English speakers. Due to the high volume and speed of synchronous chat, it can be easy for non-native English speakers to quickly lose the context. When there is a language barrier, it's much easier to hold conversations in an async matter when translation tools can be used and there is just more time for comprehension to happen.
-- Synchronous chat is also difficult for those who do not have the time or resource to keep up. Some people prefer to think more slowly and carefully. The pace of conversation in a synchronous context is often set by the quickest thinking, quickest typing users. We value deliberation and thoughtfulness.
-- Non-majority contributors (women, Non-binary folks, etc.) face unique challenges when interacting on the web, especially about technology. People who don't know them personally have a tendency to assume them incompetent until proven otherwise - which significantly hinders their ability to drive conversation around technical topics. Chef has, in fact, observed distinct and clear examples of this problem happening within our own community.  Async communication forces more thought into the responses and relieves the pressure of being questioned constantly while trying to formulate a response.  The less-personal nature of async communication encourages a focus on the the germane technical content posted versus the author, allowing better freedom of expression and articulation of ideas.
-
-## So when would we use a synchronous chat tool?
-
-Synchronous chat is immensely useful for short, ephemeral real-time interactions - e.g. assisting a contributor with setting up their development environment (the quicker someone can contribute, the more likely they are to stay engaged) or having short conversations that either don't need to be recorded or are logged elsewhere. It should not be used as a system of record of development decisions, etc.
-
-## What are our options for async communication with contributors?
-
-- GitHub - this should be used wherever possible as the system of record - not only for the code, but for decisions related to the code. Internal and external contributors are already in GitHub. This way, contributors don't have to split their attention between too many tools.
-- Discourse - this is another possibility. We have one for both the Chef community and for the Habitat community. (We may want to consider combining them in the future.)
+This channel complements but does not replace the open source collaboration model. It is intended to streamline enterprise engagement, not bypass community governance or processes.

@@ -9,37 +9,7 @@ Feel free to browse the [open issues](https://github.com/chef/chef-oss-practices
 Contributing to any of Chef's projects should be easy. If you find a rough edge, let us know! Better yet, join the community and help us fix it.
 
 ## Welcome
-
 Welcome to the Chef Software Inc. OSS Community!
-
-- [Chef Software Inc. Contributor Guide](#chef-software-inc-contributor-guide)
-  - [Welcome](#welcome)
-  - [Before You Get Started](#before-you-get-started)
-  - [Code of Conduct](#code-of-conduct)
-  - [Community Expectations and Roles](#community-expectations-and-roles)
-  - [Your First Contribution](#your-first-contribution)
-    - [Find Something To Work On](#find-something-to-work-on)
-      - [Find a Good First Issue](#find-a-good-first-issue)
-      - [Contributing Without Coding](#contributing-without-coding)
-        - [Documentation](#documentation)
-        - [File or Triage Issues](#file-or-triage-issues)
-    - [Learn About the Project's Team](#learn-about-the-projects-team)
-      - [Team Structure](#team-structure)
-      - [Find the Project's Team](#find-the-projects-team)
-    - [Claiming Your Issue](#claiming-your-issue)
-  - [Contributing](#contributing)
-    - [Signing the DCO](#signing-the-dco)
-      - [Communication](#communication)
-    - [Open a Pull Request](#open-a-pull-request)
-    - [Code Review](#code-review)
-    - [Testing](#testing)
-    - [Security](#security)
-    - [Issues Management or Triage](#issues-management-or-triage)
-  - [Community](#community)
-    - [Community Communication](#community-communication)
-    - [Events](#events)
-    - [Mentorship](#mentorship)
-    - [More Ways to Contribute](#more-ways-to-contribute)
 
 ## Before You Get Started
 
@@ -52,7 +22,7 @@ Please make sure to read and observe our [Code of Conduct](https://community.che
 All Chef Software, Inc. OSS projects are operated as community projects. Consequently, it is wholly dependent on its community to provide a productive, friendly, and collaborative environment for all contributors.
 
 - Read and review the [Community Expectations](community-expectations.md) for an understanding of code and review expectations.
-- See [Project Membership](../project-membership.md) for information on project roles and responsibilities.
+- See [Project Membership](../../policies/project-membership.md) for information on project roles and responsibilities.
 
 Please be aware that due to the large number of issues, repos, and projects our teams administer, we do not offer technical support in GitHub issues or on Slack.
 
@@ -84,7 +54,7 @@ Documentation is critical to the success of any project and can always use expan
 
 Both filing issues and triaging existing issues are incredibly helpful to maintain high quality software. Finding new issues in projects and filing detailed issues help the maintainers to provide the best possible experience to users. Be sure to adhere to the prompted submission guidelines when opening an issue to give the maintainers all the information necessary to resolve your issue.
 
-Even more useful than filing new issues is confirming existing issues. Providing reproduction cases or more detailed information to existing issues smooths [the triage process](../../communication/triage.md) and ensures issues can be more easily resolved by developers.
+Even more useful than filing new issues is confirming existing issues. Providing reproduction cases or more detailed information to existing issues smooths the triage process and ensures issues can be more easily resolved by developers.
 
 ### Learn About the Project's Team
 
@@ -100,7 +70,7 @@ All projects at Chef are operated as open, community efforts supported with inte
 
 Finding the appropriate team for your contribution and asking your questions in the correct place can give your contribution higher visibility and a faster community response. We do our best to have a swift response time on any of our projects, but engaging a team directly on a contribution is a great way to get connected and have a more direct interaction around your contribution.
 
-The readme file in each project repository will contain information on the team responsible for the code. Some teams also have their own `CONTRIBUTING.md` files, which may contain extra information or guidelines in addition to these general ones. These are located in the team-specific community directories in _this repository_ and will be linked from any repository that team owns. For example, the contributor's guide for the Habitat supervisor is located in the *chef/chef-oss-practices* repo, as [`../../teams/hab-sup/CONTRIBUTING.md`](../teams/hab-sup/CONTRIBUTING.md), as well as in the root of _habitat-sh/habitat_ as `CONTRIBUTING.md`.
+The readme file in each project repository will contain information on the team responsible for the code. Some teams also have their own `CONTRIBUTING.md` files, which may contain extra information or guidelines in addition to these general ones. These are located in the team-specific community directories in _this repository_ and will be linked from any repository that team owns. 
 
 ### Claiming Your Issue
 
@@ -120,7 +90,7 @@ For quick reference on contributor resources, we have a handy [contributor cheat
 
 ### Signing the DCO
 
-Chef requires that all commits to projects be signed for the DCO. See [Developer Certificate of Origin](../../DCO.md) for more information on why we use the DCO and how to sign a commit for the DCO.
+Chef requires that all commits to projects be signed for the DCO. See [Developer Certificate of Origin](../../policies/DCO.md) for more information on why we use the DCO and how to sign a commit for the DCO.
 
 #### Communication
 
@@ -162,26 +132,21 @@ Refer to the [Testing section](collaborative-dev.md#testing) of the Collaborativ
 ### Issues Management or Triage
 
 Helping to manage or triage open issues can be a great contribution and a great opportunity to learn about the various areas of the project. Triaging is the word we use to describe the process of adding multiple types of descriptive labels to GitHub issues, in order to speed up routing issues to the right folks.
-Refer to the [issue triage guide](../communication/triage.md) for more information.
 
 ## Community
 
 If you haven't noticed by now, we have a large, lively, and friendly open-source community.
 We depend on new people becoming project members and regular code contributors, so we would like you to join us!
 
-The [Project Membership Document](../../project-membership.md) covers membership processes and roles.
+The [Project Membership Document](../../policies/project-membership.md) covers membership processes and roles.
 
 ### Community Communication
 
-- [General Information](../communication) on communication can be found here.
+- [General Information](../../communication/README.md) on communication can be found here.
 
 ### Events
 
 Chef Inc. participates in an extremely diverse and distributed list of events every year across Asia, Europe and North America. Information about these and other community events is available on the Chef [events](https://events.chef.io/) pages.
-
-### Mentorship
-
-Please learn about our mentoring initiatives [here](/mentoring/README.md).
 
 ### More Ways to Contribute
 

@@ -1,0 +1,63 @@
+site_name: Progress Chef OSS Practices
+site_description: Progress Chef Open Source Software Policies and Practices Documentation
+site_author: Progress Chef
+repo_url: https://github.com/chef/chef-oss-practices
+
+theme:
+  name: material
+
+# Specify the local directory for docs
+docs_dir: .
+plugins:
+#  - search
+  - same-dir
+  #techdocs-core
+  - print-site
+
+# Navigation structure
+nav:
+  #- Home: README.md
+  - Policies:
+    - Code of Conduct: policies/code-of-conduct.md
+    - Project Membership: policies/project-membership.md
+    - Open Core: policies/open-core.md
+    - Governance: policies/governance.md
+    - DCO: policies/DCO.md
+    - Distributions: policies/distributions.md
+    - Project Setup: policies/project-setup.md
+    - GitHub Labels: policies/github-labels.md
+    - Repository States: policies/repo-states.md
+    - Branching Strategy: policies/branching-strategy.md
+  
+  - Communication:
+    - Overview: communication/README.md
+    - Features: communication/features.md
+    - Decisions: communication/decisions.md
+    - Community Meetings: communication/community-meetings.md
+    - Project EOL: communication/project-eol.md
+    - FAQ: communication/communication-faq.md
+  
+  - Contributing:
+    - Entitlement Program: contributors/contributor-entitlement-program.md
+    - Support Boundaries: contributors/support-boundaries.md
+    - Checklists:
+        - Managing Pull Requests: checklists/managing-pull-requests.md
+        - New Project: checklists/new-project.md
+
+  - Contributor Guide:
+    - Collaborative Development: contributors/guide/collaborative-dev.md
+    - Community Expectations: contributors/guide/community-expectations.md
+    - Contributor Cheatsheet: contributors/guide/contributor-cheatsheet.md
+    - Design Proposals: contributors/guide/design-proposals.md
+    - Help Wanted: contributors/guide/help-wanted.md
+    - Project Planning: contributors/guide/project-planning.md
+    - Pull Requests: contributors/guide/pull-requests.md
+    - Ways to Contribute: contributors/guide/ways-to-contribute.md
+    
+  - Projects:
+    - Chef Infra: projects/chef/infra-client.md
+    - InSpec: projects/inspec/inspec.md
+    - Habitat: projects/habitat/hab.md
+    - Test Kitchen: projects/test-kitchen/kitchen.md
+
+  - Help: help.md

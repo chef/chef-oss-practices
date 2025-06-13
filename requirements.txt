@@ -1,0 +1,4 @@
+mkdocs-material==9.6.8
+mkdocs-print-site-plugin==2.7.3
+mkdocs-same-dir==0.1.3
+mkdocs-techdocs-core==1.5.4

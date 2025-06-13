@@ -1,32 +1,40 @@
 > [!WARNING]
 > This page in the Chef Open Source Software Practices repository is currently undergoing content review.
 
-# The End of a Project's Life
+# End of Life for a Project
+As covered in our [governance documentation](../policies/governance.md), over time, software projects may naturally reach a point where active development winds down. This section outlines how Progress Chef communicates the **End of Life (EOL)** status of a project and what contributors can expect during this transition.
 
-As covered in our [governance documentation](../governance.md), there can come a time in the life of a software project where it needs to be figuratively put out to pasture. This document focuses on what communication looks like for a project entering that End of Life (EoL) status, rather than the process of EoLing a project.
+EOL communication ensures clarity for both community members and enterprise customers while maintaining transparency, accessibility, and respect for the value of past contributions.
 
-## Repo Content
+## When Does a Project Reach EOL?
+A project may enter End of Life status based on one or more of the following conditions:
 
-It is possible that Chef Software Inc. might decide to EoL a project when:
+* No active maintainers or contributors
+* Lack of recent usage or new issues
+* The project has been in maintenance-only mode for an extended period
+* It is no longer required by other actively maintained software in the Progress Chef portfolio
+* The Progress Chef portfolio is moving in a different technical direction
 
-- A project lays dormant for a long enough period of time,
-- A project has entered into maintenance mode and remained there for a long period of time, or
-- A project has no active maintainers, no active development, no known users and is not a project that is depended upon by software we ship to our users/community/customers
+The decision to EOL a project will be made by Project Owners in coordination with Product Management and the Governance Committee. Once an EOL decision has been made the following actions must take place
+1. Review with [#community-advisory-council](./community-meetings.md#community-advisory-consul)
+2. Surface the decision in [#community-meetings](./community-meetings.md#community-meetings)
+3. A post should be published on [Chef Discourse](https://discourse.chef.io/) (if the project is likely to impact active users)
+4. The project README must be updated with an official EOL notice.
+5. Relevant GitHub issues and PRs should be closed or updated with EOL context.
+6. The project will be transitioned to the `chef-boneyard` GitHub organization to make its archival status clear.
 
-When that happens and the repo(s) have been transferred to the Chef-Boneyard GitHub Org, we should update the readme with some words about the project's status and our expectations of that codebase in the future.
-
-It is preferred that we use the following default statement:
-
+### Standard EOL README Language
 ```text
-This project has officially been EoL'd by Chef Software Inc. but, have no fear! While we are no longer actively maintaining this codebase and have archived the repository, we have no intention of permanently deleting this code at any point. All repositories under the Chef-Boneyard Organization are fully available to be forked. Thus, should you want to have a new feature, bug-fix, or code change merged to this codebase, we suggest forking the repository and operating it from within your own org. If you have any further concerns, please send an email over to community@chef.io!
+This project has reached End of Life (EOL) and is no longer actively maintained by Progress Chef. The repository has been archived and moved to the Chef-Boneyard GitHub organization for historical reference. You are welcome to fork and reuse the code under its existing license.
+
+Progress Chef has no plans to delete or remove access to this codebase, but no further updates or support should be expected.
 ```
 
-## Discourse Announcement
+### Archiving and the Chef-Boneyard Org
+Once archived, a repository is transferred to the [`chef-boneyard`](https://github.com/chef-boneyard) GitHub organization. This step:
 
-If you believe the project transitioning to EOL status may have active users, a post should be made to the [Chef Discourse](https://discourse.chef.io) announcing the EOL of the project.
-
-## Archival and Boneyarding
-
-After a period of time -- the length of which will be determined by the project owners -- the repository should be transferred to the `chef-boneyard` GitHub organization and archived. When a repository is in the boneyard, it is still available for anyone to reference, clone, or fork.
+* Ensures the history of the project remains discoverable and forkable
+* Signals that the project is no longer maintained or supported
+* Preserves a clean separation between active and historical repositories
 
 The time it takes before a repository is archived and transferred to the chef-boneyard can be highly variable. For example, if a repository is a library that project owners are confident is only used internally by Chef, they may choose to archive and move the repository immediately. Alternately, if there needs to be a transfer of ownership of the repository and management responsibilities, it may take several months before the repository is ready to be archived and transferred.

@@ -17,7 +17,7 @@ A list of common resources when contributing to Chef Software Inc. Projects.
 
 ## Getting Started
 
-- [Code of Conduct](https://github.com/chef/chef-oss-practices/blob/master/CODE_OF_CONDUCT.md)
+- [Code of Conduct](https://github.com/chef/chef-oss-practices/blob/master/code-of-conduct.md)
 - [Contributor Guide](https://github.com/chef/chef-oss-practices/blob/master/contributors/guide/README.md)
 - [Repository Management](https://github.com/chef/chef-oss-practices/tree/master/repo-management)
 

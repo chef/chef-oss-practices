@@ -2,71 +2,56 @@
 > This page in the Chef Open Source Software Practices repository is currently undergoing content review.
 
 # Communication
+The Progress Chef Community is committed to keeping our space a fun, safe, and productive place to be, so please review the Community [Code of Conduct](../policies/code-of-conduct.md) before getting started. In general:
 
-The Chef Community is committed to keeping our space a fun, safe, and productive place to be, so please review the Community [Code of Conduct](../CODE_OF_CONDUCT.md) before getting started. In general:
-
-- *Be Kind.* We get more done when people are helpful and respectful of one another. Plus, it feels better.
-- *Listen.* Try to understand someone's position before you respond to their suggestion or idea. Ask clarifying questions if something doesn't make sense to you.  Understand that others may have a perspective, experience, or technical context that is different from your own.
-- *Be Patient.* We have no team dedicated solely to Community support, so responses will be semi-synchronous, or, more likely, asynchronous. Know that the Community appreciates all your contributions, and we're working to be as responsive as possible.
+- **Be Kind**: We get more done when people are helpful and respectful of one another. Plus, it feels better.
+- **Listen**: Try to understand someone's position before you respond to their suggestion or idea. Ask clarifying questions if something doesn't make sense to you.  Understand that others may have a perspective, experience, or technical context that is different from your own.
+- **Be Patient**: We have no team dedicated solely to Community support, so responses will be semi-synchronous, or, more likely, asynchronous. Know that the Community appreciates all your contributions, and we're working to be as responsive as possible.
 
 ## Reporting Code of Conduct Violations
-
-Please email the Community Advocates listed in the [Code of Conduct](../CODE_OF_CONDUCT.md#roles).
+Please email the Community Advocates listed in the [Code of Conduct](../policies/code-of-conduct.md).
 
 ## Reporting Security Vulnerabilities
+If any users, contributor, or security researchers find vulnerabilities, we ask that they responsibly report them by submitting them directly to us. To submit a vulnerability, you please follow these [instructions](https://www.progress.com/trust-center/vulnerability-reporting-policy ). It is important to us that we work together with the community to protect against threats. 
 
-Please email security@chef.io to report security vulnerabilities.
+# Communication Channels
+Progress Chef uses a variety of communication channels, each serving a distinct purpose within our open source community. These channels help balance open collaboration with efficiency. If you're ever unsure about why a particular channel is used for a specific type of discussion, please refer to our [Communication FAQ](communication-faq.md).
 
-## Communication Channels
+## Aha! (Ideas Portal)
+Progress Chef uses the [Ideas Portal (powered by Aha!)](https://chef-software.ideas.aha.io/.) to capture feature requests, platform support needs, and product suggestions. Community members can submit ideas they’d like Progress to prioritize in future roadmaps.
 
-We have four communication channels, each with its own specific purpose.
+* This is the best place to propose **new platforms, integrations, or features**
+* Suggestions can be voted on, tracked, and reviewed by product management
+* Not all ideas are guaranteed for implementation, but Aha! is the **official intake path** for roadmap consideration
 
-If you have questions about why we choose to use certain channels in certain ways, please check out the [Frequently Asked Questions](communication-faq.md).
+## Jira (Internal System of Record)
+Jira is the **internal authoritative source of truth** for all engineering work, release schedules, and project tracking across Chef products.
 
-### GitHub
+* All Progress employees use Jira to manage sprints, epics, and releases
+* External contributors will not have access to Jira; relevant updates will be surfaced via PR, GitHub issues, Architecture Decision Records, proposals or discussions when appropriate
+* Jira decisions and status updates will be summarized in weekly Community Meeting
 
-GitHub is the Chef Community's preferred durable medium for open and transparent development of software. All development conversation must be captured in GitHub. Any decisions made in internal Chef Slack channels, Zoom sessions, or any other communication medium must be summarized in GitHub. Please also link to the GitHub issue or pull request in chat once it is opened.
+## GitHub (Open Source Collaboration Hub)
+GitHub is the **primary communication platform for the open source community** and the system of record for all technical collaboration across Progress Chef’s OSS projects. All issue discussions, code reviews, proposals, and community decisions **must be captured in GitHub** to ensure visibility and long-term traceability.
 
-### Community Slack
+* If a decision or insight originates from Slack, Zoom, or any other medium, it must be summarized in the relevant GitHub issue, pull request, or discussion.
+* GitHub reflects community-facing planning, contributor workflows, technical documentation, and change history.
 
- Sometimes it will make sense to have a brief, non-durable conversation about the development of a project. Have these exchanges in Community Slack (either in a dev channel or via DM). Then, any development decisions, etc. arising from the Slack interaction should be documented in GitHub. Limit these conversations in Community Slack to development for a given project.
+> Note: GitHub is not used for internal Progress team release planning or enterprise roadmap management—see the Jira and Aha! sections below for more on those systems.
 
-### Mailing Lists
+## Community Slack
+Slack is used for **ad hoc, ephemeral conversations**. It’s perfect for clarifying questions, discussing active issues, or unblocking someone quickly.
 
-The Chef Community mailing lists are hosted via [Discourse](https://discourse.chef.io/). This is the best place to catch up on general and security-related announcements.
+* Use Slack for non-durable exchanges, but ensure **important decisions** are reflected back in the Ideas Portal or GitHub.
+* Limit usage to project-specific channels and respect the boundary between informal chats and durable record keeping.
+* Community Meetings are held in text form in the [#community-meetings](./community-meetings.md#community-meetings) channel of the Chef Community Slack
+* Community Advisory Consul are a monthly Zoom meeting organized in the [#community-advisory-council](./community-meetings.md#community-advisory-consul) channel.
 
-### Office Hours
 
-Individual projects may host office hours on a periodic basis. This is a great way to get some face time with other Project Members. Each project should record and archive sessions to a public location; see individual project documentation for more details.
 
-**Note:** Zoom is a good medium for office hours. More guidance on this will be coming in the near future.
+## Discourse Mailing Lists
+The Chef Community uses [Discourse](https://discourse.chef.io/) as our primary mailing list platform. This is the best place to:
 
-## Providing Support
-
-Please see our [support boundaries](support-boundaries.md) doc regarding the types of support that are provided by maintainers and the types of support that are not.
-
-## Get In Touch
-
-Engage like a pro. Below are some best practice uses of the Community communication channels.
-
-| As...            | if I want to...                                             | I'll...                                                                                                                                        | Notes                                                                                                                                                                                                                                            |
-| ---------------- | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Anyone           | become a ***Project Member***                               | check out the [membership overview](../project-membership.md)                                                                                  | Individual project requirements may vary; see project doc for more info.                                                                                                                                                                         |
-| Anyone           | report a ***bug***                                          | create an issue in GitHub                                                                                                                      | See [sample bug template](https://raw.githubusercontent.com/chef/oss_project_boilerplate/master/.github/ISSUE_TEMPLATE/bug.md). Individual projects may have their own templates; see project documentation for details.                         |
-| Anyone           | submit a ***feature request***                              | create an issue in GitHub                                                                                                                      | See [sample feature request template](https://raw.githubusercontent.com/chef/oss_project_boilerplate/master/.github/ISSUE_TEMPLATE/feature-request.md). Individual projects may have their own templates; see project documentation for details. |
-| Anyone           | report an ***outage***                                      | email [email address tbd]                                                                                                                      | ---                                                                                                                                                                                                                                              |
-| Anyone           | report a ***security vulnerability*** in a Chef OSS project | email [security@chef.io](mailto:security@chef.io)                                                                                              | Encryption?                                                                                                                                                                                                                                      |
-| A Project Member | join a ***mailing list***                                   | head over to [Discourse](https://discourse.chef.io/) & sign up                                                                                 | See **unsubscribe** instructions [here](https://discourse.chef.io/t/update-on-notifications-from-discourse/7063).                                                                                                                                |
-| A Project Member | join a ***Community Slack*** channel                        | head over to [Community Slack](https://community-slack.chef.io/)                                                                               | ---                                                                                                                                                                                                                                              |
-| A Project Member | discuss ***technical issues***                              | post in GitHub                                                                                                                                 | For ***general, non-technical questions & issues*** head over to [Community Slack](https://community-slack.chef.io/). Use the project's general channel.                                                                                         |
-| A Project Member | get ***technical help***                                    | ask on GitHub                                                                                                                                  | If the discussion requires a quick, non-durable, real-time sync, move it to the project's dev channel on [Community Slack](https://community-slack.chef.io/).                                                                                    |
-| A Project Member | find ***something to work on***                             | check out GitHub                                                                                                                               | Get confirmation via a post in GitHub before expending too much effort to avoid duplicate PRs & PRs that won't be merged.                                                                                                                        |
-| A Project Member | check out the latest Chef **announcements**                 | head over to [Discourse](https://discourse.chef.io/)                                                                                           | ---                                                                                                                                                                                                                                              |
-| A Project Member | regain ***access to your account***                         | [tbd]                                                                                                                                          | ---                                                                                                                                                                                                                                              |
-| A Project Member | request a ***PR review***                                   | use GitHub                                                                                                                                     | ---                                                                                                                                                                                                                                              |
-| A Project Member | have a ***brief non-durable chat***                         | [Community Slack](https://community-slack.chef.io/)                                                                                            | For technical topics, use the project's dev channel. Non-technical topics belong in the general channel.                                                                                                                                         |
-| A Project Member | become a ***Reviewer***                                     | checkout an overview of Reviewer [responsibilities](../project-membership.md#reviewer) & [requirements](../project-membership.md#requirements) | Individual project requirements may vary; see project doc for more info.                                                                                                                                                                         |
-| A Project Member | report a ***CoC violation***                                | email [tbd]                                                                                                                                    | ---                                                                                                                                                                                                                                              |
-| A Project Member | talk to a ***human***                                       | request access to Zoom office hours in [Community Slack](https://community-slack.chef.io/).                                                    | ---                                                                                                                                                                                                                                              |
-| A Reviewer       | become an ***Approver***                                    | check out an overview of Approver [responsibilities & requirements](../project-membership.md#approver)                                         | Individual project requirements may vary; see project doc for more info.                                                                                                                                                                         |
-| An Approver      | ***vote*** on a new Project Member, Reviewer, or Approver   | review the general [requirements](../project-membership.md) and consult my project's documentation                                             | General Approver information is [here](../project-membership.md#approver). Individual project requirements may vary; please see project doc for more info.                                                                                       |
+* Follow **security announcements** and **release updates**
+* Engage in **general community discussion**
+* Ask **non-urgent, broad questions** that don’t fit neatly into GitHub issues or Slack threads

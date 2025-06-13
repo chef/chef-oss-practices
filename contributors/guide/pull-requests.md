@@ -50,16 +50,18 @@ If a project's CONTRIBUTING.md covers local verifications, you should _absolutel
 
 Merging a pull request requires the following steps to be completed before the pull request will be merged:
 
-- [Sign your commits with a DCO](DCO.md) (pre-requisite)
+- [Sign your commits with a DCO](../../policies/DCO.md) (pre-requisite)
 - [Open a pull request](https://help.github.com/articles/about-pull-requests/)
 - Pass all End to End (e2e) tests (Check the project's CONTRIBUTING.md for more information.)
 - Get all necessary approvals from Reviewers and Approvers
 
 ### The Testing and Merge Workflow
 
-Each Chef project could have slightly different merge workflows, but all use a [set of labels](../../repo-management/github-labels.md) to flag various aspects of a pull request. Different projects _could_ require different labels on the path to approval. A generic explanation of how labels are used in pull requests can be found [here](owners.md#code-review-using-codeowners-files). In fully automated projects, an expeditor bot will also automatically apply and/or suggest labels.
+Each Chef project could have slightly different merge workflows, but all use a [set of labels](../../policies/github-labels.md) to flag various aspects of a pull request. Different projects _could_ require different labels on the path to approval. In fully automated projects, an expeditor bot will also automatically apply and/or suggest labels.
 
-*NOTE: For pull requests that are in progress, but not ready for review, please open the pull request using GitHub's [Draft Pull Request](https://help.github.com/en/articles/about-pull-requests#draft-pull-requests) functionality.
+For pull requests that are in progress, but not ready for review, please open the pull request using GitHub's [Draft Pull Request](https://help.github.com/en/articles/about-pull-requests#draft-pull-requests) functionality.
+
+> NOTE Progress Chef is currently looking to replace expeditor to make the contributor process easier and fully supported within a Github native workflow
 
 ****************************************************************************************
 
@@ -87,13 +89,9 @@ If you want to solicit reviews before the implementation of your pull request is
 
 ## Pull Requests and the Release Cycle
 
-If a pull request has been reviewed, but held or not approved, it might be due to the current phase in the [Release Cycle](/contributors/devel/release.md). Occasionally, a team may freeze their own code base when working towards a specific feature or goal that could impact other development. During this time, your pull request could remain unmerged while their release work is completed.
+If a pull request has been reviewed, but held or not approved, it might be due to the current phase in the release cycle. Occasionally, a team may freeze their own code base when working towards a specific feature or goal that could impact other development. During this time, your pull request could remain unmerged while their release work is completed.
 
-If you feel your pull request is in this state, contact the appropriate [team](teams/team-list.md) for clarification.
-
-## Automation
-
-The Chef Software, Inc. OSS community uses a variety of automation to manage pull requests. This automation is described in detail [in the automation doc](devel/automation.md).
+If you feel your pull request is in this state, contact one of the the appropriate [project](../../projects/README.md) members for clarification.
 
 ## Why was my pull request closed?
 
@@ -123,8 +121,6 @@ But, if you've already followed the best practices and you still aren't getting 
 
 - Ping the assignee by email. Many of us have publicly available email addresses.
 
-- If you're a member of the organization, ping the [team](https://github.com/orgs/chef/teams) (via @team-name) that works in the area you're submitting code.
-
 - If you have fixed all the issues from a review, and you haven't heard back, you should ping the assignee on the comment stream with a "please take another look" (`PTAL`), or similar comment indicating that you are ready for another review.
 
 Read on to learn more about how to get faster reviews by following best practices.
@@ -137,19 +133,13 @@ You've just had a brilliant idea on how to make a Chef Software Inc. project bet
 
 Let's talk about best practices so your pull request gets reviewed quickly.
 
-## 0. Familiarize yourself with project conventions
-
-- [Development guide](devel/development.md)
-- [Coding conventions](coding-conventions.md)
-- [API conventions](devel/api-conventions.md)
-
 ## 1. Is the feature wanted? File an Enhancement Proposal
 
 Are you sure Feature-X is something the project team wants or will accept? Is it implemented to fit with other changes in flight? Are you willing to bet a few days or weeks of work on it?
 
 It's better to get confirmation beforehand.
 
-Even for small changes, it is often a good idea to gather feedback on an issue you filed, or even simply ask in the appropriate team's Slack channel to invite discussion and feedback from project owners. Here's a [list of teams](../../team-list.md).
+Even for small changes, it is often a good idea to gather feedback on an issue you filed, or even simply ask in the appropriate team's Slack channel to invite discussion and feedback from project owners. 
 
 ## 2. Smaller Is Better: Small Commits, Small Pull Requests
 
