@@ -12,7 +12,12 @@ The Progress Chef Community is committed to keeping our space a fun, safe, and p
 Please email the Community Advocates listed in the [Code of Conduct](../policies/code-of-conduct.md).
 
 ## Reporting Security Vulnerabilities
-If any users, contributor, or security researchers find vulnerabilities, we ask that they responsibly report them by submitting them directly to us. To submit a vulnerability, you please follow these [instructions](https://www.progress.com/trust-center/vulnerability-reporting-policy ). It is important to us that we work together with the community to protect against threats. 
+ If you discover a security vulnerability in this project, we kindly ask that you follow a responsible disclosure process. If any users, contributor, or security researchers find vulnerabilities, we ask that they responsibly report them by submitting them directly to us. This allows us time to investigate, develop a fix, and coordinate a release before disclosing the details publicly. Responsible disclosure helps protect users from potential exploitation and ensures that vulnerabilities are addressed in a safe and transparent manner. We appreciate your help in keeping the project and its users secure.
+
+To submit a vulnerability, you please follow these [instructions](https://www.progress.com/trust-center/vulnerability-reporting-policy ). It is important to us that we work together with the community to protect against threats. 
+
+## What is Responsible Disclosure
+Responsible disclosure is a vital practice when reporting Common Vulnerabilities and Exposures (CVEs), ensuring that security flaws are communicated ethically and effectively. It involves privately notifying the affected vendor or organization about the vulnerability, giving them adequate time to investigate and implement a fix before the details are made public. This approach helps prevent malicious exploitation while promoting transparency and collaboration within the cybersecurity community. By following responsible disclosure protocols, researchers contribute to a safer digital ecosystem while respecting the integrity of affected systems and users.
 
 # Communication Channels
 Progress Chef uses a variety of communication channels, each serving a distinct purpose within our open source community. These channels help balance open collaboration with efficiency. If you're ever unsure about why a particular channel is used for a specific type of discussion, please refer to our [Communication FAQ](communication-faq.md).

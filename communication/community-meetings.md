@@ -18,7 +18,7 @@ Meetings are scheduled for 45 minutes.
 - As an agenda item nears its time limit, the moderator will give a 2 minute warning, then close the topic.
 - All Chef engineers - engineers working on Chef software employed by Progress Software - are highly encouraged to attend.
 
-# Community Advisory Consul  
+# Community Advisory Council  
 The Chef Community Advisory Council is a monthly Zoom-based forum hosted by Progress Chef, designed to foster dialogue, feedback, and collaboration between the Chef community and the Chef Developer Relations team.
 
 Meetings are scheduled monthly and typically last for 60 minutes.

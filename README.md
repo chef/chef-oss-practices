@@ -11,7 +11,7 @@ Progress Chef (the company) produces a range of infrastructure automation produc
 
 All Progress Chef Open Source projects are released and under the Apache 2.0 license. These open source projects serve as the shared foundation for our global community; while advanced features and platform capabilities are part of the Chef 360 commercial offerings.
 
-Many of the Progress Chef products includes one or more open source [projects](./projects/README.md) — for example, the Chef Infra product is comprised of `chef`, `ohai`, various `mixlib` libraries, and other interdependent tools. An overview of the projects can be found 
+Many of the Progress Chef products includes one or more open source [projects](./projects/README.md) — for example, the Chef Infra product is comprised of `chef`, `ohai`, various `mixlib` libraries, and other interdependent tools. 
 
 All open source projects operate and governed by the policies outlined in our [Governance](./policies/governance.md) document.
 

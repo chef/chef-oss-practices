@@ -3,7 +3,6 @@
 Feature Proposals are a key component in the Progress Chef Open Source Software communication and development process. They ensure thoughtful design, transparency, and alignment before implementation begins. 
 
 ## Purpose
-
 Feature Proposals provide a structured way to introduce **new functionality**, **design changes**, or **significant improvements** to the Chef ecosystem. They encourage collaboration, reduce ambiguity, and serve as a record of intent for both internal contributors and the broader community.
 
 They complement, but do not replace, the [Ideas Portal (powered by Aha!)](https://chef-software.ideas.aha.io/.) and [Architecture Decision Records (ADRs)](./decisions.md). Feature Proposals **justify the *what* and *why***, while ADRs finalize the **accepted *how*** once a decision has been made.

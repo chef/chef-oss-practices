@@ -110,7 +110,7 @@ An ADR can link to multiple Feature Proposals (if several options were discussed
 You must link ADRs to their associated proposals and keep the history navigable for future contributors.
 
 ## Review & Lifecycle
-ADRs begin in **Proposed** state. After review by project maintainers and acceptance by consensus (or designated leads), they are marked as **Accepted**.
+ADRs begin in **Proposed** state. After review by [project owner](../policies/project-membership.md#project-owner) and [project advisor](../policies/project-membership.md#project-advisor) and acceptance by designated leads, they are marked as **Accepted**.
 
 ADRs should not be modified after acceptance, except to add metadata like links to implementations or mark them as **Superseded**.
 

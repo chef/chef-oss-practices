@@ -50,7 +50,7 @@ Any decision or outcome must be documented in GitHub afterward.
 * **Discourse** – Best for community-wide announcements, non-code questions, and long-form conversations.
 
 ## What is Customer Success Slack?
-Customer Success Slack is a private Slack channel created for enterprise customers, enabling real-time collaboration with their assigned Customer Success Managers (CSMs), account teams, and Progress technical experts. This channel is not part of the public Community Slack and is not used for product development.
+Customer Success Slack is a private Slack instance for commercial enterprise customers, enabling real-time collaboration with their assigned Customer Success Managers (CSMs), account teams, and Progress technical experts. This channel is not part of the public Community Slack and is not used for product development.
 
 * Customers can use this space to raise issues, ask about product usage, and coordinate services directly.
 * It serves as a high-touch communication layer tailored to specific enterprise engagements.
