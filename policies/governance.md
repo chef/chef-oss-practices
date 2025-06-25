@@ -6,7 +6,7 @@
 
 The Progress Chef Open Source communities adhere to the following principles:
 
-* **Extensible**: Our ecosystem is designed to be extended. Through clear APIs, plugin architectures, and a transparent Open Core model, contributors can build powerful additions without needing access to commercial platform code.
+* **Extensible**: Our ecosystem is designed to be extended. Through clear APIs, plugin architectures, and a transparent [Open Core](open-core.md) model, contributors can build powerful additions without needing access to commercial platform code.
 * **Permissive:** Our core projects are open source under Apache 2.0. See [repository guidelines](#repository-guidelines) and [DCO](#dco).
 * **Welcoming and Respectful:** Everyone is expected to follow the [Code of Conduct](code-of-conduct.md).
 * **Accountable and Traceable:** Decisions impacting the open source project are traceable, even when made privately. Public-facing work such as issues, code changes, and community discussions remain accessible to all contributors.
@@ -29,7 +29,7 @@ All access is managed through GitHub organizations and teams. External contribut
 
 * Visibility is limited to the projects they work on
 * They can be assigned issues and PRs, request reviews, and comment on discussions
-* They do not have org-wide admin or repository settings access
+* They do not have organization-wide admin or repository settings access
 * All access is tied to their role in a specific project and audited periodically
 
 ## Security and 2FA
@@ -42,7 +42,7 @@ All contributors with any level of elevated access (review, approval, merge) mus
 Access levels are reviewed quarterly and automatically revoked after inactivity or failure to meet security policies.
 
 ## Repository Guidelines
-All repositories in the Chef, Habitat, or InSpec GitHub orgs must adhere to the [repository setup and management practices](./project-setup.md). These include:
+All repositories in the Chef, Habitat, InSpec, or other Progress-owned GitHub orgs must adhere to the [repository setup and management practices](./project-setup.md). These include:
 
 * Required files: LICENSE, README, CONTRIBUTING, CODEOWNERS, SECURITY.md
 * Role definitions via CODEOWNERS
@@ -52,7 +52,7 @@ All repositories in the Chef, Habitat, or InSpec GitHub orgs must adhere to the 
 Unless specified by a project all changes to code in Progress Chef OSS projects must meet the following review criteria:
 
 * Reviewed by **at least two contributors**, including **one Progress employee**
-* Reviewed or acknowledged by **Product Management**
+* Reviewed or acknowledged by Progress Chef's **Product Management** team
 * Reviewed by a **Project Owner** or **Approver** for correctness, scope, and alignment
 * All approvals must happen in GitHub with clear traceability
 
@@ -61,7 +61,7 @@ If a project no longer has active contributors or is being replaced, it may be d
 
 * An announcement will be made
 * The project will be marked read-only and archived
-* A migration or transition plan will be documented when applicable
+* A migration or transition plan will be documented, when applicable
 
 For more, see [Project End of Life Communication Plan](../communication/project-eol.md).
 
@@ -70,4 +70,4 @@ This project uses a [Developer Certificate of Origin (DCO)](DCO.md) to ensure th
 
 ---
 
-This document will be reviewed regularly to reflect changes in project structure, GitHub capabilities, or Progress' governance and security policies.
+This document will be reviewed regularly to reflect changes in project structure, GitHub capabilities, or Progress Software's governance and security policies.
