@@ -9,6 +9,8 @@ Excellent! Welcome aboard!
 Anyone is welcome to make a distribution of Progress Chef’s Open Source products, but must remove Progress trademarks from the code base (see the full [Progress trademarks](https://www.progress.com/legal/trademarks) and [Trademarks use policy](https://www.progress.com/legal/trademarks/trademarks-use-policy) for details).
 
 ## Why does Progress require removal of Trademarks?
+It is important for any open source contributor to understand that open source licenses, generally, exist for the purpose of providing a license to use and redistribute copyrighted materials, including source code. However, OSS licenses *do not* cover or convey rights to the trademarks or logo marks of any project author or maintaining organization.
+
 The purpose for protecting trademarks, and for removing Progress Software's and Chef's trademarks from its projects upon redistribution, is to avoid any confusion about which distributions come from Progress (which are supported, warrantied, and indemnified) and which distributions come from somewhere else (which are not supported, warrantied, or indemnified by Progress).
 
 ## How does this affect you?
