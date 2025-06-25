@@ -24,7 +24,7 @@ Reviewers are active contributors with responsibility for ensuring project quali
 * Active contributions: [PRs](../contributors/guide/pull-requests.md), issue discussions, reviews
 * Familiarity with the [Contributor Guide](../contributors/guide/README.md)
 * Subscribed to relevant project channels
-* Sponsored by 2 reviewers or approvers
+* Sponsored by two (2) existing reviewers or approvers
 * Open a membership request issue and complete the required checklist
 
 ### Responsibilities and Privileges
@@ -48,9 +48,9 @@ Code approvers are able to both review and approve code contributions. While cod
 - Expected to be responsive to review requests as per [community expectations](../contributors/guide/community-expectations.md)
 - Mentor contributors and reviewers
 - Approver status may be a precondition to accepting large code contributions
-- May be one of the required approvers required to merge code contributions
-  * All code contributions reviews must including **at least one Progress team member**
-  * Awareness of change **from Product Management** before merge
+- May be one of the approvers required to merge code contributions
+  * All code contributions reviews must include **at least one Progress team member**
+  * Awareness of change **from Progress Chef's Product Management team** is required before merge
 
 ## Project Advisor
 Project Advisors serve as strategic collaborators to the Chef project leadership. They are recognized for their domain expertise, vision, and sustained technical contributions, and they help shape long-term direction.
@@ -58,7 +58,7 @@ Project Advisors serve as strategic collaborators to the Chef project leadership
 ### Requirements
 * [Two-factor authentication](https://help.github.com/articles/about-two-factor-authentication) on GitHub
 * Demonstrated technical leadership and vision
-* Sustained contributions to one or more ecosystem projects, community organization and industry expertise
+* Sustained contributions to one or more ecosystem projects, community organization, and industry expertise
 
 ### Responsibilities and Privileges
 * Advise project owners on technical and architectural strategy
@@ -67,7 +67,7 @@ Project Advisors serve as strategic collaborators to the Chef project leadership
 * May be asked to assist in mentoring contributors or advising cross-project efforts
 
 ## Project Owner
-Project Owners are the ultimate technical authorities within a project. They set priorities, make technical decisions, and mentor the team. **Project Owners will exclusively be Progress employees.**
+Project Owners are the ultimate technical authorities within a project. They set priorities, make technical decisions, and mentor the team. **Project Owners will exclusively be Progress Software employees.**
 
 ### Requirements
 * Two-factor authentication
@@ -77,35 +77,34 @@ Project Owners are the ultimate technical authorities within a project. They set
 * Active employment by Progress
 
 ### Responsibilities and Privileges
-* Make and approve technical design decisions for the project.
-* Set technical direction and priorities for the project.
-* Define milestones and releases.
-* Mentor and guide approvers, reviewers, and contributors to the project.
+* Make and approve technical design decisions for the project
+* Set technical direction and priorities for the project
+* Define milestones and releases
+* Mentor and guide approvers, reviewers, and contributors to the project
 * Ensure continued health of project
   * Adequate test coverage to confidently release
-  * Tests pass reliably (i.e. not flaky) and are fixed when they fail
-* Ensure a healthy process for open discussion and public decision making is in place.
+  * Tests pass reliably (*i.e.*, not flaky) and are fixed when they fail
+* Ensure a healthy process for open discussion and public decision making is in place
 * Work with other project owners to holistically maintain the project's health and success
 
 ## Alums
 Alums are former members who no longer meet activity thresholds. They retain recognition for past contributions but have no current responsibilities.
 
-Alums no longer have responsibilities or privileges to the project of which they were formerly a member. Their rights to project repos and tooling are revoked and they are added to an Alums list in thanks of their previous contributions.
+Alums no longer have responsibilities or privileges to the project of which they were formerly a member. Their rights to project repos and tooling are revoked and they are added to an Alums list in thanks for their previous contributions.
 
-Alum status is straightforward - Thank you for being involved. An alum is welcome to re-engage a project for membership, however it is at the discretion of the team as to whether the returning alum will directly resume their previous role.
-
+Alum status is straightforward — Thank you for being involved! An alum is welcome to re-engage a project for membership; however, it is at the discretion of the team as to whether the returning alum will directly resume their previous role.
 
 # GitHub Access
-All non-Progress employees who are granted an hold project role (e.g., Reviewer, Approver, Project Advisor) will be added to the relevant GitHub organization as an [Outside Collaborators](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/managing-outside-collaborators).
+All non-Progress employees who are granted a project role (*e.g.*, Reviewer, Approver, Project Advisor) will be added to the relevant GitHub organization as an [Outside Collaborator](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/managing-outside-collaborators).
 
 In GitHub, being marked as an *Outside Collaborator* means:
 * They are **visibly distinguished** from internal Progress employees on GitHub team pages.
 * They receive **role-scoped permissions** only for the specific repositories where they contribute.
 * They can be assigned to issues and pull requests, request reviews, and participate in discussions.
-* They do **not receive full organization-wide permissions**, ensuring access is limited to only the repos and scopes necessary for their project role.
+* They **do not receive full organization-wide permissions**, ensuring access is limited to only the repos and scopes necessary for their project role.
 * Their role is managed transparently through GitHub Teams, CODEOWNERS files, and the OSS TEAMS registry.
 
-This distinction helps maintain clear boundaries between internal and external collaborators while ensuring all contributors can participate effectively and securely. It is a core practice in maintaining the integrity, accountability and auditability of our ecosystem.
+This distinction helps maintain clear boundaries between internal and external collaborators while ensuring all contributors can participate effectively and securely. It is a core practice in maintaining the integrity, accountability, and auditability of our ecosystem.
 
 # Support Expectations
 For an overview of what types of questions and issues are supported by community maintainers—and where enterprise support boundaries begin—see our [Support Boundaries](../contributors/support-boundaries.md) document.
