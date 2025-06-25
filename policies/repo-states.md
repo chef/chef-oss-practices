@@ -1,9 +1,9 @@
 > [!WARNING]
 > This page in the Chef Open Source Software Practices repository is currently undergoing content review.
 
-# Repo States
+# Repository States
 
-A Chef OSS repo can be in one of 4 states
+A Chef OSS repository can be in one of four states:
 
 - Active
 - Maintained
@@ -12,15 +12,15 @@ A Chef OSS repo can be in one of 4 states
 
 ## Active
 
-Repos in an active state are under active development - including bug fixes, new features, and more. Repos in this active state must have at least two maintainers, who are current employees of Chef Software, Inc. The response time maximum for active projects should ideally be within 7 days.
+Repos in an active state are under active development, including bug fixes, new features, and more. Repos in this active state must have **at least two maintainers**, who are current employees of Progress Software Corporation. The [response time maximum](#what-is-the-response-time-maximum) for active projects should ideally be within seven (7) days.
 
 ## Maintained
 
-Repos in a maintained state are maintained where bugs will be fixed, but no new feature work should be expected. Repos in this maintained state must have at least one maintainer, who is a current employee of Chef Software, Inc. The response time maximum for issues or pull requests should be anywhere from 7 days to never.
+Repos in a maintained state are maintained where bugs will be fixed, but no new feature work should be expected. Repos in this maintained state must have **at least one maintainer**, who is a current employee of Progress Software Corporation. The [response time maximum](#what-is-the-response-time-maximum) for issues or pull requests should be anywhere from seven (7) days to never.
 
 ## Prototyping
 
-Repos in a prototyping state should be considered alpha or beta. These repos will have activity from developers, but are not _maintained_. New feature requests and bug fixes should not be expected until the project moves to the Active state. While developers might be responsive, there is no expected response time maximum for prototypes.
+Repos in a prototyping state should be considered alpha or beta. These repos will have activity from developers, but are _not maintained_. New feature requests and bug fixes should not be expected unless and until the project moves to the [active state](#active). While developers might be responsive, there is no expected response time maximum for prototypes.
 
 ## Deprecated
 
@@ -32,7 +32,7 @@ The Response Time Maximum (RTM) applies to responses from a project member to is
 
 ## Where to Communicate this:
 
-Both the Project State and Response Time Maximums must be defined in the README of the project. We recommend defining them at the top of the README (right under the title) like this:
+Both the Project State and Response Time Maximums for issues and pull requests must be defined in the README of the project. We recommend defining them at the top of the README (right under the title) like this:
 
 ```markdown
 - **[Project State](https://github.com/chef/chef-oss-practices/blob/master/repo-management/repo-states.md): Active**
