@@ -94,10 +94,10 @@ Alums no longer have responsibilities or privileges to the project of which they
 
 Alum status is straightforward — Thank you for being involved! An alum is welcome to re-engage a project for membership; however, it is at the discretion of the team as to whether the returning alum will directly resume their previous role.
 
-# GitHub Access
+## GitHub Access
 All non-Progress employees who are granted a project role (*e.g.*, Reviewer, Approver, Project Advisor) will be added to the relevant GitHub organization as an [Outside Collaborator](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/managing-outside-collaborators).
 
-## Outsdie Collaborator Definition
+### Outsdie Collaborator Definition
 - They are **visibly distinguished** from internal Progress employees on GitHub team pages.
 - They receive **role-scoped permissions** only for the specific repositories where they contribute.
 - They can be assigned to issues and pull requests, request reviews, and participate in discussions.
@@ -106,5 +106,5 @@ All non-Progress employees who are granted a project role (*e.g.*, Reviewer, App
 
 This distinction helps maintain clear boundaries between internal and external collaborators while ensuring all contributors can participate effectively and securely. It is a core practice in maintaining the integrity, accountability, and auditability of our ecosystem.
 
-# Support Expectations
+## Support Expectations
 For an overview of what types of questions and issues are supported by community maintainers—and where enterprise support boundaries begin—see our [Support Boundaries](../contributors/support-boundaries.md) document.
