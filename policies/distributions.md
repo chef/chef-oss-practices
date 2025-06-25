@@ -50,6 +50,9 @@ is fine, because it is still very clear from the command that the user is using 
 
 Generally, if it's still clear where the origin of the distribution is, and if changing the config files would break compatibility, then it is acceptable to leave them as they are. If you have specific questions about this, please ask!
 
+## What is the scope of the requirements on this page?
+The guidelines and requirements set forth on this page apply to any and all forks or downstream distributions that you might make of any Progress Chef project or product. It does not matter whether you distribute your work as a commercial product and service for paying customers, or if you offer it as a distribution to the public free of charge. In all cases, the guidelines regarding use or removal of Progress Software's trademarks and proprietary conventions apply.
+
 ## Can Progress evaluate my distribution to make sure it follows the trademark guidelines?
 While Progress is happy to answer questions and provide advice related to our guidelines, it is ultimately the responsibility of the maintainers of the distribution to ensure it follows our trademark policy. If you have questions about these policies or whether something would potentially violate them, please feel free to ask a Community Organizer in the #community-distros channel in Chef Community Slack.
 
