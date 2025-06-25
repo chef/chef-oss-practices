@@ -91,7 +91,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 The following are the various roles of our Community Organizers and the person(s) assigned to each role:
 
 - The Deciders have final say on community guidelines and final authority on corrective actions and appeals.
-- The Community Organizers may be assigned for each area where the community convenes online (Slack, email list, GitHub, etc.). Community Organizers are employees of Progress Software. They act in good faith to help enforce our community guidelines and respond to incidents when they occur.
+- The Community Organizers may be assigned for each area where the community convenes online (*e.g.*, Slack, email list, GitHub, etc.). Community Organizers are employees of Progress Software. They act in good faith to help enforce our community guidelines and respond to incidents when they occur.
 - In certain circumstances, a Decider or Community Organizer may delegate a different employee of Progress Software to manage community guidelines and indicidents for a given open source project, online community space, or physical event.
 - A community member is anyone who participates with the community, whether in-person or via online channels. Community members are responsible for following the community guidelines, suggesting updates to the guidelines when warranted, and helping enforce community guidelines.
 
@@ -110,7 +110,7 @@ This Code of Conduct was originally forked from the example policy from the [Gee
 - [Contributor Covenant](http://contributor-covenant.org/), version 1.4, available [here](http://contributor-covenant.org/version/1/4/)
 - [Rust Code of Conduct](https://www.rust-lang.org/en-US/conduct.html)
 - [Django Code of Conduct](https://www.djangoproject.com/conduct/)
-- [PyCon Code of Conduct](https://github.com/python/pycon-code-of-conduct).
+- [PyCon Code of Conduct](https://github.com/python/pycon-code-of-conduct)
 
 ## Copyright
 This Code of Conduct is in the public domain. In jurisdictions that do not allow for this, this work is available under CC0. To the extent possible under law, the person who associated CC0 with this work has waived all copyright and related or neighboring rights to this work.
