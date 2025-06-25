@@ -65,9 +65,9 @@ Projects in the Chef Community should feel encouraged to use these labels in the
 
 - `Adopted` - An issue that is being worked on.
 - `Good First Issue` - An issue that is ideal for a new contributor to the project.
-- `Help Wanted` - An issue that has enough details to be started and is ready for a contributor. These will show up on the Jump-In page for company wide first time contributor issues.
+- `Help Wanted` - An issue that has enough details to be started and is ready for a contributor. These will show up on the Jump-In page for company-wide first time contributor issues.
 - `Incomplete` - A pull request that is not ready to be merged as noted by the author.
-- `Untriaged` - An issue that has yet to be triaged. This should be set on all new issues
+- `Untriaged` - An issue that has yet to be triaged. This should be set on all new issues.
 - `Waiting on Contributor` - An issue or pull request that has unresolved requested actions from the author.
 
 ## Triage
@@ -83,12 +83,12 @@ Projects in the Chef Community should feel encouraged to use these labels in the
 
 - `Breaking Change` - Changes the way existing features work in a way that affects users.
 - `Bug` - Does not work as expected.
-- `Chore` - non-critical maintenance of a project
-- `Deprecation` - Removal of existing features
-- `Design Proposal` - Community survey of a proposal
+- `Chore` - Non-critical maintenance of a project.
+- `Deprecation` - Removal of existing features.
+- `Design Proposal` - Community survey of a proposal.
 - `Enhancement` - Adds new functionality.
-- `Regression` - It used to work, now it doesn't.
-- `Tech Debt` - Refactoring
+- `Regression` - It used to work; now it doesn't.
+- `Tech Debt` - Refactoring.
 
 ## Automating Label Application
 
