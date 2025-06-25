@@ -8,7 +8,7 @@ We are dedicated to providing an inclusive and harassment-free experience for an
 
 We value the participation of each member of the community and want all participants to have an enjoyable and fulfilling experience. Accordingly, all participants are expected to show respect and courtesy to other participants at any Progress Chef-related events or digital spaces, whether officially sponsored by Progress or not.
 
-To make clear what is expected: all employees, delegates, participants, speakers, exhibitors, organizers, and volunteers at any Progress Chef event or Progress-managed digital space are required to conform to the following Code of Conduct. Organizers and moderators will enforce this code wherever appropriate.
+To make clear what is expected: all employees, delegates, participants, speakers, exhibitors, organizers, and volunteers at **any Progress Chef event** or engaged in **any Progress-managed digital space** are required to conform to the following Code of Conduct. Organizers and moderators will enforce this code wherever appropriate.
 
 ## Code of Conduct
 Progress is dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, age, disability, physical appearance, body size, race, veteran status, immigration status, or religion. We do not tolerate harassment of event/digital community participants in any form.
@@ -25,14 +25,14 @@ Harassment comes in many forms, including but not limited to:
 - Deliberate (or implied) intimidation
 - Stalking or persistent following
 - Intrusive or otherwise unwanted photography or recording
-- Sustained disruption of talks or other events
+- Sustained disruption of talks, live streams, or other in-person and online events
 - Inappropriate physical contact or unwelcome sexual attention
-- Posting (or threatening to post) a person's personally identifying information ("doxing")
+- Posting (or threatening to post) a person's personally identifying information ("doxxing")
 - Advocating for, or encouraging, any of the above behavior
 
 Participants asked to stop any harassing behavior are expected to comply immediately. Further unacceptable behavior will result in escalating sanctions.
 
-Exhibitors in the expo hall, sponsor or vendor booths, or similar activities are also subject to the anti-harassment policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create an unprofessional environment.
+With respect to in-person or virtual Progress Chef events, exhibitors in any expo hall, sponsor area, vendor booth, or similar activities are also subject to the anti-harassment policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create an unprofessional environment.
 
 Be careful in the words that you choose, no matter your intention with those words. Remember that sexist, racist, ageist, and other exclusionary jokes can be offensive to those around you. If you think your conversation is making another community member uncomfortable, stop, apologize, and move forward.
 
@@ -45,15 +45,15 @@ All of our staff are informed of the Code of Conduct policy and guide for handli
 
 The important information consists of:
 
-- Identifying information (eg. name) of the participant doing the harassing
-- The behavior that was in violation
+- Identifying information (*e.g.*, name) of the participant doing the harassing
+- The behavior that was in violation of the Code of Conduct
 - The approximate time and date of the behavior
 - The circumstances surrounding the incident
 - Other people involved in the incident
 
-If everyone is presently safe, staff will only involve law enforcement or security at a victim's request. If you do feel your safety in jeopardy, please do not hesitate to contact local law enforcement. If you do not have a cell phone, you can use any hotel phone or simply ask a staff member.
+If everyone is presently safe, staff will only involve law enforcement or security at a victim's request. If you do feel your safety is in jeopardy, please do not hesitate to contact local law enforcement. If you do not have a cell phone, you can use any hotel phone or simply ask a staff member.
 
-Event staff requests that they be your first resource when reporting an incident, so that they may enforce the Code of Conduct and take quick action toward a resolution.
+Event staff should be your first resource when reporting an incident, so that they may enforce the Code of Conduct and take quick action toward a resolution.
 
 If at all possible, all reports should be made directly to the team responsible, listed under [Contact Information](#Contact-Information).
 
@@ -74,11 +74,11 @@ When punitive action is warranted, one or more of the following remedies may be 
 - Expulsion from the space where the incident occurred with no refund
 - Removal from the space where the incident occurred for a period of time
 - Banned from the space where the incident occurred indefinitely
-- Banned from one or more upcoming events
+- Banned from one or more upcoming events, open source projects, and/or online communities
 
-If a community member engages in unacceptable behavior, the community organizers will take action that they deem appropriate -- up to and including a temporary ban or permanent expulsion from the community _without warning_ (and without refund, in the case of a paid event). If you have been involved in unacceptable behavior with current community members outside the boundaries of the community, the Community Organizers retain the right to treat those external incidents in the same manner as internal incidents.
+If a community member engages in unacceptable behavior, the Community Organizers will take action that they deem appropriate — up to and including a temporary ban or permanent expulsion from the community _without warning_ (and without refund, in the case of a paid event). If you have been involved in unacceptable behavior with current community members outside the boundaries of the community, the Community Organizers retain the right to treat those external incidents in the same manner as internal incidents.
 
-Any physical violence _or_ intimidation, threatened or acted on, is a serious offense and will result in immediate exclusion from the community and appropriate follow up with law enforcement.
+Any physical violence _or_ intimidation, threatened or acted on, is a serious offense and will result in immediate exclusion from the community and appropriate follow-up with law enforcement.
 
 ## Our Responsibilities
 Community Organizers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
@@ -86,18 +86,19 @@ Community Organizers are responsible for clarifying the standards of acceptable 
 Community Organizers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, messages, tweets, and other contributions that are not aligned with this Code of Conduct (in letter or in spirit), or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
 
 ## Contact Information
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a Community organizer.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a Community Organizer.
 
 The following are the various roles of our Community Organizers and the person(s) assigned to each role:
 
-- The Deciders have final say on community guidelines and final authority on correct actions and appeals
-- The Community Organizers may be assigned for each area where the community convenes online (Slack, email list, GitHub, etc.). Community Organizers are employees of Progress. They act in good faith to help enforce our community guidelines and respond to incidents when they occur
-- A Community Member is anyone who participates with the community whether in-person or via online channels. Community members are responsible for following the community guidelines, suggesting updates to the guidelines when warranted, and helping enforce community guidelines
+- The Deciders have final say on community guidelines and final authority on corrective actions and appeals.
+- The Community Organizers may be assigned for each area where the community convenes online (Slack, email list, GitHub, etc.). Community Organizers are employees of Progress Software. They act in good faith to help enforce our community guidelines and respond to incidents when they occur.
+- In certain circumstances, a Decider or Community Organizer may delegate a different employee of Progress Software to manage community guidelines and indicidents for a given open source project, online community space, or physical event.
+- A community member is anyone who participates with the community, whether in-person or via online channels. Community members are responsible for following the community guidelines, suggesting updates to the guidelines when warranted, and helping enforce community guidelines.
 
 | Role                 | Name            | Contact Info                 |
 | -------------------- | --------------- | ---------------------------- |
 | Decider              | Jeff Strauss    | Jeff.Strauss@progress.com    |
-| Community Organizers | Saikeerthi      | Saikeerthi.M@progress.com    |
+| Community Organizers | Saikeerthi Mohan| Saikeerthi.M@progress.com    |
 |                      | Heather Thacker | Heather.Thacker@progress.com |
 
 ## Scope
@@ -112,4 +113,4 @@ This Code of Conduct was originally forked from the example policy from the [Gee
 - [PyCon Code of Conduct](https://github.com/python/pycon-code-of-conduct).
 
 ## Copyright
-This Code of Conduct is in the public domain. In jurisdictions that do not allow for this, this work is available under CC0. To the extent possible under law, the person who associated CC0 with this work has waived all copyright and related or neighboring rights to this work
+This Code of Conduct is in the public domain. In jurisdictions that do not allow for this, this work is available under CC0. To the extent possible under law, the person who associated CC0 with this work has waived all copyright and related or neighboring rights to this work.
