@@ -97,7 +97,7 @@ Alum status is straightforward — Thank you for being involved! An alum is welc
 # GitHub Access
 All non-Progress employees who are granted a project role (*e.g.*, Reviewer, Approver, Project Advisor) will be added to the relevant GitHub organization as an [Outside Collaborator](https://docs.github.com/en/organizations/managing-user-access-to-your-organizations-repositories/managing-outside-collaborators).
 
-In GitHub, being marked as an *Outside Collaborator* means:
+## Outsdie Collaborator Definition
 - They are **visibly distinguished** from internal Progress employees on GitHub team pages.
 - They receive **role-scoped permissions** only for the specific repositories where they contribute.
 - They can be assigned to issues and pull requests, request reviews, and participate in discussions.
