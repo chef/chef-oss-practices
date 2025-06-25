@@ -26,6 +26,7 @@ You do not have to remove Chef from the existing Ruby class names, *e.g.*, `Chef
 However, if you add a new class or create a derived class, the name of that new class should not include any Progress Software or Progress Chef trademark.
 
 For example:
+
 - `Chef::Dist::Kitty` is absolutely fine.
 - `Chef::Dist::ChefKitty` is not fine.
 
