@@ -1,3 +1,6 @@
-# branching-strategy.md
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
 
-TBD
+# Branching Strategy
+
+This page is TBD and has not yet been developed.
