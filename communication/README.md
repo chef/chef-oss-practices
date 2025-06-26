@@ -54,7 +54,7 @@ Slack is used for **ad hoc, ephemeral conversations**. It’s perfect for clarif
 
 Community Meetings are held, in text form, in the [#community-meetings](./community-meetings.md#community-meetings) channel of the Chef Community Slack. These updates are posted nearly every Thursday at 12:00 noon Eastern Time U.S.
 
-The Community Advisory Council meets monthly, via public Zoom. It is organized in the [#community-advisory-council](./community-meetings.md#community-advisory-council) channel, where recordings of past meetings are also occasionally shared.
+The Community Advisory Council meets monthly, via public Zoom, generally on the second Thursday of the month at 1:00 p.m. Eastern Time U.S. It is organized in the [#community-advisory-council](./community-meetings.md#community-advisory-council) channel, where recordings of past meetings are also occasionally shared.
 
 ### Discourse Mailing Lists
 The Chef Community uses [Discourse](https://discourse.chef.io/) as our primary mailing list platform. This is the best place to:
