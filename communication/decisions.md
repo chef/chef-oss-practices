@@ -21,7 +21,7 @@ An ADR should be written whenever a **significant technical decision** is made. 
 - Breaking backwards compatibility
 - Deferring a decision that warrants documentation
 
-If in doubt, document the decision.
+*If in doubt, document the decision.*
 
 ## ADR Template
 
@@ -30,7 +30,7 @@ All ADRs should follow this template:
 ```markdown
 ---
 # These are optional metadata elements. Feel free to remove any of them.
-status: "{proposed | rejected | accepted | deprecated | … | superseded by ADR-0123"
+status: "{proposed | rejected | accepted | deprecated | … | superseded by ADR-0123}"
 date: {YYYY-MM-DD when the decision was last updated}
 decision-makers: {list everyone involved in the decision}
 consulted: {list everyone whose opinions are sought (typically subject-matter experts); and with whom there is a two-way communication}
@@ -56,7 +56,7 @@ informed: {list everyone who is kept up-to-date on progress; and with whom there
 
 ## Decision Outcome
 
-Chosen option: "{title of option 1}", because {justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.
+Chosen option: "{title of option 1}", because {justification - e.g., only option, which meets k.o. criterion decision driver | which resolves force {force} | … | comes out best (see below)}.
 
 ### Consequences
 
@@ -99,10 +99,10 @@ ADRs should be stored in an `/adr` directory in the root of the repository:
 │   └── 2025-##-agentless-feature.md
 ```
 
-File names must start with the year and a unique index or title in kebab-case. Example: `2025-01-agentless-mode.md`
+Filenames must start with the year and a unique index or title in kebab-case. Example: `2025-01-agentless-mode.md`.
 
 ## Relationship to Feature Proposals
-* Feature Proposals define the **intent**: what a feature should do and why it's needed.
+* Feature Proposals define the **intent**: what a feature should do and why it is needed.
 * ADRs define the **resolution**: how the system will be implemented, integrated, or changed.
 
 An ADR can link to multiple Feature Proposals (if several options were discussed), and a single Proposal may result in multiple ADRs over time.
@@ -110,9 +110,9 @@ An ADR can link to multiple Feature Proposals (if several options were discussed
 You must link ADRs to their associated proposals and keep the history navigable for future contributors.
 
 ## Review & Lifecycle
-ADRs begin in **Proposed** state. After review by [project owner](../policies/project-membership.md#project-owner) and [project advisor](../policies/project-membership.md#project-advisor) and acceptance by designated leads, they are marked as **Accepted**.
+ADRs begin in **Proposed** state. After review by the [project owner](../policies/project-membership.md#project-owner) and [project advisor](../policies/project-membership.md#project-advisor), and acceptance by designated leads, they are marked as **Accepted**.
 
-ADRs should not be modified after acceptance, except to add metadata like links to implementations or mark them as **Superseded**.
+ADRs should not be modified after acceptance, except to add metadata-like links to implementations or mark them as **Superseded**.
 
 If a decision is reversed, write a new ADR and mark the old one as **Superseded** with a link to the new record.
 
@@ -128,6 +128,6 @@ ADRs help us:
 Good architectural hygiene starts with documenting our decisions.
 
 ## Policy Enforcement
-Any significant technical change **must** have a corresponding ADR before or as part of its implementation. PRs lacking required ADRs will be blocked during review.
+Any significant technical change **must** have a corresponding ADR before, or as part of, its implementation. PRs lacking required ADRs will be blocked during review.
 
 ADRs are part of our open core governance process and apply to both community and internal contributions.
