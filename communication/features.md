@@ -68,7 +68,7 @@ chef/
 │   └── 2025-##-decision-title-####.md
 ```
 
-* File names should include the year and the idea's portal ID and a short, kebab-case name.
+* Filenames should include the year, the idea's portal ID, and a short, kebab-case name.
 * A single proposal may link to multiple ADRs, and vice versa.
 
 ## Linking to ADRs
