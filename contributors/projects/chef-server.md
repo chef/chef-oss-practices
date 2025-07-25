@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Contributing to Chef Server
 
 Thank you for your interest in Chef Server!  We use **GitHub Issues** for issue tracking and contributions:

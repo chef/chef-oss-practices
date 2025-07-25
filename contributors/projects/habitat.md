@@ -1,3 +1,6 @@
+> [!WARNING]
+> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Contributing to Habitat
 
 Thank you for your interest in contributing to Habitat! There are many ways to contribute, and we appreciate all of them.
