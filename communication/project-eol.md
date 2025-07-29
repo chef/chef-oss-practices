@@ -1,5 +1,5 @@
-> [!WARNING]
-> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+!!! warning
+    This page in the Chef Open Source Software Practices repository is currently undergoing content review.
 
 # End of Life for a Project
 As covered in our [governance documentation](../policies/governance.md), over time, software projects may naturally reach a point where active development winds down. This section outlines how Progress Chef communicates the **End of Life (EOL)** status of a project and what contributors can expect during this transition.

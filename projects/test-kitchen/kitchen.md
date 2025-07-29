@@ -47,6 +47,9 @@ Short description of what the project does and why it exists.
 This project follows the [Chef Open Source Governance Model](../../policies/governance.md). Promotion pathways and responsibilities:
 
 ## Related Repositories
+!!! warning
+    The list or project repositories is out of date and is in the process of being updated
+
 List of active and archived repositories related to this project. Example:
 
 * [main-repo](https://github.com/your-org/main-repo)

@@ -1,6 +1,3 @@
-> [!WARNING]
-> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
-
 # Code of Conduct
 Diversity is one of the greatest strengths that a community can have, and many times that strength is born from the friction that can only come through sharing differing perspectives. The goal of this document is to ensure that we create spaces welcoming to new and existing participants, and that those conversations that arise from friction are productive.
 

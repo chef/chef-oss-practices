@@ -1,6 +1,3 @@
-> [!NOTE]
-> This page is currently under review to align with Progress Chef's communication strategy and governance model.
-
 # Communication FAQs
 This document addresses common questions about how and why we use certain communication tools in the Progress Chef community. These guidelines are based on our goals of maintaining openness, supporting asynchronous collaboration, and making development accessible across time zones and roles.
 

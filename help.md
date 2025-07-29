@@ -1,6 +1,6 @@
-> [!WARNING]
-> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
-> THIS IS A NEW PAGE
+!!! warning
+    This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 
 # Getting in Touch
 

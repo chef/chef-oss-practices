@@ -39,6 +39,9 @@ Chef Infra Client — A powerful configuration management tool that brings infra
 This project follows the [Chef Open Source Governance Model](../../policies/governance.md). 
 
 ## Related Repositories
+!!! warning
+    The list or project repositories is out of date and is in the process of being updated
+
 List of active and archived repositories related to this project. Example:
 
 * [chef/chef](https://github.com/chef/chef)
@@ -48,7 +51,7 @@ List of active and archived repositories related to this project. Example:
 
 ## License
 * Open source code is licensed under [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
-* Commercial features may be are separately licensed by Progress Chef
+* Commercial features may be separately licensed by Progress Chef
 
 
 ## Project Members

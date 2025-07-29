@@ -1,6 +1,7 @@
+!!! warning
+    This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 # Governance
-> [!WARNING]
-> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
 
 ## Principles
 

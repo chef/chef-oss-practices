@@ -1,5 +1,6 @@
-> [!WARNING]
-> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+!!! warning
+    This page in the Chef Open Source Software Practices repository is currently undergoing content review.
+
 
 # Progress Chef Communities
 Welcome to the Progress Chef Open Source community!

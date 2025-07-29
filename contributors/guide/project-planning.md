@@ -1,6 +1,3 @@
-> [!WARNING]
-> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
-
 # Project Planning
 
 Long term project planning, which is different from triage and prioritization, is done through Aha! and GitHub.

@@ -41,6 +41,9 @@ This project follows the [Chef Open Source Governance Model](../../policies/gove
 
 ## Related Repositories
 
+!!! warning
+    The list or project repositories is out of date and is in the process of being updated
+
 List of active and archived repositories related to this project:
 
 * [inspec/inspec](https://github.com/inspec/inspec)

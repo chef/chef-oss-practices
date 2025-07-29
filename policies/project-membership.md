@@ -1,6 +1,3 @@
-> [!WARNING]
-> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
-
 # Project Membership
 Project membership in the Progress Chef OSS ecosystem is built on merit, accountability, and clearly defined responsibilities. Whether you're contributing your first pull request or helping guide the future of the platform, we recognize and support contributors through a structured set of roles. Each role—Contributor, Reviewer, Approver, Project Advisor, and Project Owner—carries specific expectations, permissions, and governance requirements. This section outlines the path to becoming a trusted member of a project, the responsibilities that come with each role, and how access is managed transparently through GitHub.
 

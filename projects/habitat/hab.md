@@ -34,6 +34,9 @@ Chef Habitat — Application automation framework designed to build, deploy, and
 This project follows the [Chef Open Source Governance Model](../../policies/governance.md). 
 
 ## Related Repositories
+!!! warning
+    The list or project repositories is out of date and is in the process of being updated
+
 List of key active repositories related to this project:
 * [habitat-sh/habitat](https://github.com/habitat-sh/habitat)
 

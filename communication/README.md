@@ -1,6 +1,3 @@
-> [!WARNING]
-> This page in the Chef Open Source Software Practices repository is currently undergoing content review.
-
 # Communication
 The Progress Chef Community is committed to keeping our space a fun, safe, and productive place to be, so please review the Community [Code of Conduct](../policies/code-of-conduct.md) before getting started. In general:
 
