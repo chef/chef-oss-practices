@@ -9,11 +9,15 @@ theme:
 # Specify the local directory for docs
 docs_dir: .
 plugins:
-#  - search
+  - search
   - same-dir
-  #techdocs-core
   - print-site
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+    
 # Navigation structure
 nav:
   #- Home: README.md
@@ -53,11 +57,19 @@ nav:
     - Project Planning: contributors/guide/project-planning.md
     - Pull Requests: contributors/guide/pull-requests.md
     - Ways to Contribute: contributors/guide/ways-to-contribute.md
-    
-  - Projects:
+
+  - Open Core Projects:
     - Chef Infra: projects/chef/infra-client.md
     - InSpec: projects/inspec/inspec.md
     - Habitat: projects/habitat/hab.md
     - Test Kitchen: projects/test-kitchen/kitchen.md
+
+  - Commercial Projects:
+    - Chef 360: premium/chef-360.md
+    - DSM: premium/chef-dsm.md
+
+  - Deprecated Projects:
+    - Chef Infra Server: projects/chef-server/infra-server.md
+    - Omnibus: projects/omnibus/omnibus.md
 
   - Help: help.md
