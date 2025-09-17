@@ -70,14 +70,14 @@ For information on how to join the project as a project member please review the
 
 | Name | Region / TZ | Github | Slack |
 | ---- | ----------- | ------ | ----- |
-| Phil Dibowitz | US - Pacific | [jaymzh](http://github.com/jaymzh) | @phil |
+| Phil Dibowitz | US - Pacific | [jaymzh](http://github.com/jaymzh) | @jaymzh |
 
 
 ### Project Approvers
 
 | Name | Region / TZ | Github | Slack |
 | ---- | ----------- | ------ | ----- |
-| Phil Dibowitz | US - Pacific | [jaymzh](http://github.com/jaymzh) | @phil |
+| Phil Dibowitz | US - Pacific | [jaymzh](http://github.com/jaymzh) | @jaymzh |
 |  |  |  |  |
 
 
