@@ -36,3 +36,6 @@ We encourage all contributors to become project members. We aim to grow an activ
 ## Communicating With Us
 
 The [communication](./communication/README.md) page lists communications channels such as chat, GitHub issues, mailing lists, conferences, etc.
+
+# Copyright
+See [COPYRIGHT.md](./COPYRIGHT.md).
