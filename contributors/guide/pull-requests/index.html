@@ -1,0 +1,2223 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Progress Chef Open Source Software Policies and Practices Documentation">
+      
+      
+        <meta name="author" content="Progress Chef">
+      
+      
+      
+        <link rel="prev" href="../project-planning/">
+      
+      
+        <link rel="next" href="../ways-to-contribute/">
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.8">
+    
+    
+      
+        <title>Pull Requests - Progress Chef OSS Practices</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.8608ea7d.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../css/print-site.css">
+    
+      <link rel="stylesheet" href="../../../css/print-site-material.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#pull-request-process" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Progress Chef OSS Practices" class="md-header__button md-logo" aria-label="Progress Chef OSS Practices" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Progress Chef OSS Practices
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Pull Requests
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/chef/chef-oss-practices" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Progress Chef OSS Practices" class="md-nav__button md-logo" aria-label="Progress Chef OSS Practices" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Progress Chef OSS Practices
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/chef/chef-oss-practices" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_1" id="__nav_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Policies
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            Policies
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../policies/code-of-conduct/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Code of Conduct
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../policies/project-membership/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Project Membership
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../policies/open-core/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Open Core
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../policies/governance/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Governance
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../policies/DCO/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    DCO
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../policies/distributions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Distributions
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../policies/project-setup/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Project Setup
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../policies/github-labels/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    GitHub Labels
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../policies/repo-states/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Repository States
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../policies/branching-strategy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Branching Strategy
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Communication
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Communication
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../communication/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Overview
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../communication/features/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Features
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../communication/decisions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Decisions
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../communication/community-meetings/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Community Meetings
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../communication/project-eol/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Project EOL
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../communication/communication-faq/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    FAQ
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Contributing
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Contributing
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../contributor-entitlement-program/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entitlement Program
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../support-boundaries/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Support Boundaries
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_3" id="__nav_3_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Checklists
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Checklists
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../checklists/managing-pull-requests/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Managing Pull Requests
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../checklists/new-project/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    New Project
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Contributor Guide
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Contributor Guide
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../collaborative-dev/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Collaborative Development
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../community-expectations/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Community Expectations
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../contributor-cheatsheet/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Contributor Cheatsheet
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../design-proposals/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Design Proposals
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../help-wanted/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Help Wanted
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../project-planning/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Project Planning
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Pull Requests
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Pull Requests
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#before-you-submit-a-pull-request" class="md-nav__link">
+    <span class="md-ellipsis">
+      Before You Submit a Pull Request
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Before You Submit a Pull Request">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#run-local-verifications" class="md-nav__link">
+    <span class="md-ellipsis">
+      Run Local Verifications
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-pull-request-submit-process" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Pull Request Submit Process
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="The Pull Request Submit Process">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#the-testing-and-merge-workflow" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Testing and Merge Workflow
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#marking-unfinished-pull-requests" class="md-nav__link">
+    <span class="md-ellipsis">
+      Marking Unfinished Pull Requests
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pull-requests-and-the-release-cycle" class="md-nav__link">
+    <span class="md-ellipsis">
+      Pull Requests and the Release Cycle
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#why-was-my-pull-request-closed" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why was my pull request closed?
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#why-is-my-pull-request-not-getting-reviewed" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why is my pull request not getting reviewed?
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#best-practices-for-faster-reviews" class="md-nav__link">
+    <span class="md-ellipsis">
+      Best Practices for Faster Reviews
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-is-the-feature-wanted-file-an-enhancement-proposal" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. Is the feature wanted? File an Enhancement Proposal
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-smaller-is-better-small-commits-small-pull-requests" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. Smaller Is Better: Small Commits, Small Pull Requests
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="2. Smaller Is Better: Small Commits, Small Pull Requests">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#breaking-up-commits" class="md-nav__link">
+    <span class="md-ellipsis">
+      Breaking up commits
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#breaking-up-pull-requests" class="md-nav__link">
+    <span class="md-ellipsis">
+      Breaking up Pull Requests
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-open-a-different-pull-request-for-fixes-and-generic-features" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. Open a Different pull request for Fixes and Generic Features
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3. Open a Different pull request for Fixes and Generic Features">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#put-changes-that-are-unrelated-to-your-feature-into-a-different-pull-request" class="md-nav__link">
+    <span class="md-ellipsis">
+      Put changes that are unrelated to your feature into a different pull request
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#look-for-opportunities-to-pull-out-generic-features" class="md-nav__link">
+    <span class="md-ellipsis">
+      Look for opportunities to pull out generic features
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-comments-matter" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. Comments Matter
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-test" class="md-nav__link">
+    <span class="md-ellipsis">
+      5. Test
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-squashing-and-commit-titles" class="md-nav__link">
+    <span class="md-ellipsis">
+      6. Squashing and Commit Titles
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="6. Squashing and Commit Titles">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#general-squashing-guidelines" class="md-nav__link">
+    <span class="md-ellipsis">
+      General squashing guidelines:
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7-kiss-yagni-mvp-dry-etc" class="md-nav__link">
+    <span class="md-ellipsis">
+      7. KISS, YAGNI, MVP, DRY, etc.
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#8-its-ok-to-push-back" class="md-nav__link">
+    <span class="md-ellipsis">
+      8. It's OK to Push Back
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#9-common-sense-and-courtesy" class="md-nav__link">
+    <span class="md-ellipsis">
+      9. Common Sense and Courtesy
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10-trivial-edits" class="md-nav__link">
+    <span class="md-ellipsis">
+      10. Trivial Edits
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#some-questions-to-consider" class="md-nav__link">
+    <span class="md-ellipsis">
+      Some questions to consider
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../ways-to-contribute/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ways to Contribute
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Open Core Projects
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Open Core Projects
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../projects/chef/infra-client/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Chef Infra
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../projects/inspec/inspec/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    InSpec
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../projects/habitat/hab/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Habitat
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../projects/test-kitchen/kitchen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Test Kitchen
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Commercial Projects
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Commercial Projects
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../premium/chef-360/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Chef 360
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../premium/chef-dsm/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    DSM
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Deprecated Projects
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Deprecated Projects
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../projects/chef-server/infra-server/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Chef Infra Server
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../projects/omnibus/omnibus/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Omnibus
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../help/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Help
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#before-you-submit-a-pull-request" class="md-nav__link">
+    <span class="md-ellipsis">
+      Before You Submit a Pull Request
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Before You Submit a Pull Request">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#run-local-verifications" class="md-nav__link">
+    <span class="md-ellipsis">
+      Run Local Verifications
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-pull-request-submit-process" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Pull Request Submit Process
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="The Pull Request Submit Process">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#the-testing-and-merge-workflow" class="md-nav__link">
+    <span class="md-ellipsis">
+      The Testing and Merge Workflow
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#marking-unfinished-pull-requests" class="md-nav__link">
+    <span class="md-ellipsis">
+      Marking Unfinished Pull Requests
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#pull-requests-and-the-release-cycle" class="md-nav__link">
+    <span class="md-ellipsis">
+      Pull Requests and the Release Cycle
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#why-was-my-pull-request-closed" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why was my pull request closed?
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#why-is-my-pull-request-not-getting-reviewed" class="md-nav__link">
+    <span class="md-ellipsis">
+      Why is my pull request not getting reviewed?
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#best-practices-for-faster-reviews" class="md-nav__link">
+    <span class="md-ellipsis">
+      Best Practices for Faster Reviews
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#1-is-the-feature-wanted-file-an-enhancement-proposal" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. Is the feature wanted? File an Enhancement Proposal
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-smaller-is-better-small-commits-small-pull-requests" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. Smaller Is Better: Small Commits, Small Pull Requests
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="2. Smaller Is Better: Small Commits, Small Pull Requests">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#breaking-up-commits" class="md-nav__link">
+    <span class="md-ellipsis">
+      Breaking up commits
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#breaking-up-pull-requests" class="md-nav__link">
+    <span class="md-ellipsis">
+      Breaking up Pull Requests
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-open-a-different-pull-request-for-fixes-and-generic-features" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. Open a Different pull request for Fixes and Generic Features
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3. Open a Different pull request for Fixes and Generic Features">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#put-changes-that-are-unrelated-to-your-feature-into-a-different-pull-request" class="md-nav__link">
+    <span class="md-ellipsis">
+      Put changes that are unrelated to your feature into a different pull request
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#look-for-opportunities-to-pull-out-generic-features" class="md-nav__link">
+    <span class="md-ellipsis">
+      Look for opportunities to pull out generic features
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-comments-matter" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. Comments Matter
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-test" class="md-nav__link">
+    <span class="md-ellipsis">
+      5. Test
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-squashing-and-commit-titles" class="md-nav__link">
+    <span class="md-ellipsis">
+      6. Squashing and Commit Titles
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="6. Squashing and Commit Titles">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#general-squashing-guidelines" class="md-nav__link">
+    <span class="md-ellipsis">
+      General squashing guidelines:
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7-kiss-yagni-mvp-dry-etc" class="md-nav__link">
+    <span class="md-ellipsis">
+      7. KISS, YAGNI, MVP, DRY, etc.
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#8-its-ok-to-push-back" class="md-nav__link">
+    <span class="md-ellipsis">
+      8. It's OK to Push Back
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#9-common-sense-and-courtesy" class="md-nav__link">
+    <span class="md-ellipsis">
+      9. Common Sense and Courtesy
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10-trivial-edits" class="md-nav__link">
+    <span class="md-ellipsis">
+      10. Trivial Edits
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#some-questions-to-consider" class="md-nav__link">
+    <span class="md-ellipsis">
+      Some questions to consider
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>This page in the Chef Open Source Software Practices repository is currently undergoing content review.</p>
+</div>
+<h1 id="pull-request-process">Pull Request Process</h1>
+<p>This document explains the process and best practices for submitting a pull request to any of the Chef Software, Inc. projects and their associated sub-repositories. It should serve as a reference for all contributors, and be useful, especially to new and infrequent submitters.</p>
+<ul>
+<li><a href="#pull-request-process">Pull Request Process</a></li>
+<li><a href="#before-you-submit-a-pull-request">Before You Submit a Pull Request</a><ul>
+<li><a href="#run-local-verifications">Run Local Verifications</a></li>
+</ul>
+</li>
+<li><a href="#the-pull-request-submit-process">The Pull Request Submit Process</a><ul>
+<li><a href="#the-testing-and-merge-workflow">The Testing and Merge Workflow</a></li>
+</ul>
+</li>
+<li><a href="#marking-unfinished-pull-requests">Marking Unfinished Pull Requests</a></li>
+<li><a href="#pull-requests-and-the-release-cycle">Pull Requests and the Release Cycle</a></li>
+<li><a href="#automation">Automation</a></li>
+<li><a href="#why-was-my-pull-request-closed">Why was my pull request closed?</a></li>
+<li><a href="#why-is-my-pull-request-not-getting-reviewed">Why is my pull request not getting reviewed?</a></li>
+<li><a href="#best-practices-for-faster-reviews">Best Practices for Faster Reviews</a></li>
+<li><a href="#0-familiarize-yourself-with-project-conventions">0. Familiarize yourself with project conventions</a></li>
+<li><a href="#1-is-the-feature-wanted-file-an-enhancement-proposal">1. Is the feature wanted? File an Enhancement Proposal</a></li>
+<li><a href="#2-smaller-is-better-small-commits-small-pull-requests">2. Smaller Is Better: Small Commits, Small Pull Requests</a><ul>
+<li><a href="#breaking-up-commits">Breaking up commits</a></li>
+<li><a href="#breaking-up-pull-requests">Breaking up Pull Requests</a></li>
+</ul>
+</li>
+<li><a href="#3-open-a-different-pull-request-for-fixes-and-generic-features">3. Open a Different pull request for Fixes and Generic Features</a><ul>
+<li><a href="#put-changes-that-are-unrelated-to-your-feature-into-a-different-pull-request">Put changes that are unrelated to your feature into a different pull request</a></li>
+<li><a href="#look-for-opportunities-to-pull-out-generic-features">Look for opportunities to pull out generic features</a></li>
+</ul>
+</li>
+<li><a href="#4-comments-matter">4. Comments Matter</a></li>
+<li><a href="#5-test">5. Test</a></li>
+<li><a href="#6-squashing-and-commit-titles">6. Squashing and Commit Titles</a><ul>
+<li><a href="#general-squashing-guidelines">General squashing guidelines:</a></li>
+</ul>
+</li>
+<li><a href="#7-kiss-yagni-mvp-dry-etc">7. KISS, YAGNI, MVP, DRY, etc.</a></li>
+<li><a href="#8-its-ok-to-push-back">8. It's OK to Push Back</a></li>
+<li><a href="#9-common-sense-and-courtesy">9. Common Sense and Courtesy</a></li>
+<li><a href="#10-trivial-edits">10. Trivial Edits</a></li>
+<li><a href="#some-questions-to-consider">Some questions to consider</a></li>
+</ul>
+<h2 id="before-you-submit-a-pull-request">Before You Submit a Pull Request</h2>
+<p>This guide is for contributors who already have a pull request to submit, or contributors looking for suggestions on how we interact with the larger community. If you're looking for information on setting up your developer environment and creating code to contribute to a specific project, we would suggest viewing that projects CONTRIBUTING.md file.</p>
+<p>First time contributors should head to the <a href="../">Contributor Guide</a> to get started.</p>
+<p><strong>Make sure your pull request adheres to our best practices. These include following project conventions, making small pull requests, and commenting thoroughly. Please read the more detailed section on <a href="#best-practices-for-faster-reviews">Best Practices for Faster Reviews</a> at the end of this doc.</strong></p>
+<h3 id="run-local-verifications">Run Local Verifications</h3>
+<p>If a project's CONTRIBUTING.md covers local verifications, you should <em>absolutely</em> run them before you submit your pull request. Often these verifications help predict the pass or fail of automated continuous integration, which will be a requirement for merge in 99.9% of cases.</p>
+<h2 id="the-pull-request-submit-process">The Pull Request Submit Process</h2>
+<p>Merging a pull request requires the following steps to be completed before the pull request will be merged:</p>
+<ul>
+<li><a href="../../../policies/DCO/">Sign your commits with a DCO</a> (pre-requisite)</li>
+<li><a href="https://help.github.com/articles/about-pull-requests/">Open a pull request</a></li>
+<li>Pass all End to End (e2e) tests (Check the project's CONTRIBUTING.md for more information.)</li>
+<li>Get all necessary approvals from Reviewers and Approvers</li>
+</ul>
+<h3 id="the-testing-and-merge-workflow">The Testing and Merge Workflow</h3>
+<p>Each Chef project could have slightly different merge workflows, but all use a <a href="../../../policies/github-labels/">set of labels</a> to flag various aspects of a pull request. Different projects <em>could</em> require different labels on the path to approval. In fully automated projects, an expeditor bot will also automatically apply and/or suggest labels.</p>
+<p>For pull requests that are in progress, but not ready for review, please open the pull request using GitHub's <a href="https://help.github.com/en/articles/about-pull-requests#draft-pull-requests">Draft Pull Request</a> functionality.</p>
+<blockquote>
+<p>NOTE Progress Chef is currently looking to replace expeditor to make the contributor process easier and fully supported within a Github native workflow</p>
+</blockquote>
+<hr />
+<p>Here's the process the pull request goes through from submission to merging:</p>
+<ol>
+<li>Make the pull request</li>
+<li>Reviewers are assigned automatically based on <code>CODEOWNERS</code></li>
+<li>
+<p>Pre-submit tests will run:</p>
+<ol>
+<li>Automatic tests run</li>
+<li>If tests fail, resolve issues by pushing edits to your pull request branch</li>
+<li>If the failure is a flake, anyone with build system access can simply click retry</li>
+</ol>
+</li>
+<li>
+<p>Reviewer suggests edits</p>
+</li>
+<li>Push edits to your pull request branch</li>
+<li>Repeat the prior two steps as needed until reviewer(s) approve the pull request.</li>
+<li>(Optional) Some reviewers prefer that you squash commits at this step - whether or not this is required is at the discretion of the individual project and team. This repository takes no position on this, other than requiring that projects decide to do or not to do this consistently.</li>
+<li>Approver will add the <code>Approved</code> label (as well as any other labels unique to their merge process). When applied by someone listed as an Approver in the corresponding project <code>TEAMS</code> file, the <code>Approved</code> label is a signal that the code has passed final review and the Approver is free to merge the PR</li>
+</ol>
+<hr />
+<h2 id="marking-unfinished-pull-requests">Marking Unfinished Pull Requests</h2>
+<p>If you want to solicit reviews before the implementation of your pull request is complete, you should open the pull request using GitHub's <a href="https://help.github.com/en/articles/about-pull-requests#draft-pull-requests">Draft Pull Request</a> functionality. This will prevent incomplete code from being merged into a project.</p>
+<h2 id="pull-requests-and-the-release-cycle">Pull Requests and the Release Cycle</h2>
+<p>If a pull request has been reviewed, but held or not approved, it might be due to the current phase in the release cycle. Occasionally, a team may freeze their own code base when working towards a specific feature or goal that could impact other development. During this time, your pull request could remain unmerged while their release work is completed.</p>
+<p>If you feel your pull request is in this state, contact one of the the appropriate <a href="../../../projects/">project</a> members for clarification.</p>
+<h2 id="why-was-my-pull-request-closed">Why was my pull request closed?</h2>
+<p>Pull requests older than 90 days will be closed. Exceptions can be made for pull requests that have active review comments, or that are awaiting other dependent pull requests. Closed pull requests are easy to recreate, and little work is lost by closing a pull request that subsequently needs to be reopened. We want to limit the total number of pull requests in flight to:</p>
+<ul>
+<li>Maintain a clean project</li>
+<li>Remove old pull requests that would be difficult to rebase as the underlying code has changed over time</li>
+<li>Encourage code velocity</li>
+</ul>
+<h2 id="why-is-my-pull-request-not-getting-reviewed">Why is my pull request not getting reviewed?</h2>
+<p>A few factors affect how long your pull request might wait for review.</p>
+<p>If it is the last few weeks of a milestone, a team may prefer to reduce churn and stabilize.</p>
+<p>Or, it could be related to best practices. One common issue is that the pull request is too big to review. Let's say that you've touched 39 files and have 8657 insertions. When your would-be reviewers pull up the diffs, they run away - this pull request is going to take 4 hours to review and they don't have 4 hours right now. They'll get to it later, just as soon as they have more free time (ha!).</p>
+<p>There is a detailed rundown of best practices, including how to avoid too-lengthy pull requests, in the next section.</p>
+<p>But, if you've already followed the best practices and you still aren't getting any pull request attention, here are some things you can do to move the process along:</p>
+<ul>
+<li>
+<p>Make sure that your pull request has an assigned reviewer (assignee in GitHub). If not, reply to the pull request comment stream asking for a reviewer to be assigned.</p>
+</li>
+<li>
+<p>Ping the assignee (@username) on the pull request comment stream, and ask for an estimate of when they can get to the review.</p>
+</li>
+<li>
+<p>Ping the assignee in <a href="https://community-slack.chef.io/">Slack</a>. Remember that a person's GitHub username might not be the same as their Slack username.</p>
+</li>
+<li>
+<p>Ping the assignee by email. Many of us have publicly available email addresses.</p>
+</li>
+<li>
+<p>If you have fixed all the issues from a review, and you haven't heard back, you should ping the assignee on the comment stream with a "please take another look" (<code>PTAL</code>), or similar comment indicating that you are ready for another review.</p>
+</li>
+</ul>
+<p>Read on to learn more about how to get faster reviews by following best practices.</p>
+<h2 id="best-practices-for-faster-reviews">Best Practices for Faster Reviews</h2>
+<p>Most of this section is not specific to Chef, but it's good to keep these best practices in mind when you're making a pull request.</p>
+<p>You've just had a brilliant idea on how to make a Chef Software Inc. project better. Let's call that idea: Feature-X. Feature-X is not even that complicated. You have a pretty good idea of how to implement it. You jump in and implement it, fixing a bunch of stuff along the way. You send your pull request - this is awesome! And it sits. And sits. A week goes by and nobody reviews it. Finally, someone offers a few comments, which you fix up and wait for more review. And you wait. Another week or two go by. This is horrible.</p>
+<p>Let's talk about best practices so your pull request gets reviewed quickly.</p>
+<h2 id="1-is-the-feature-wanted-file-an-enhancement-proposal">1. Is the feature wanted? File an Enhancement Proposal</h2>
+<p>Are you sure Feature-X is something the project team wants or will accept? Is it implemented to fit with other changes in flight? Are you willing to bet a few days or weeks of work on it?</p>
+<p>It's better to get confirmation beforehand.</p>
+<p>Even for small changes, it is often a good idea to gather feedback on an issue you filed, or even simply ask in the appropriate team's Slack channel to invite discussion and feedback from project owners. </p>
+<h2 id="2-smaller-is-better-small-commits-small-pull-requests">2. Smaller Is Better: Small Commits, Small Pull Requests</h2>
+<p>Small commits and small pull requests get reviewed faster and are more likely to be correct than big ones.</p>
+<p>Attention is a scarce resource. If your pull request takes 60 minutes to review, the reviewer's eye for detail is not as keen in the last 30 minutes as it was in the first. It might not get reviewed at all if it requires a large continuous block of time from the reviewer.</p>
+<h3 id="breaking-up-commits">Breaking up commits</h3>
+<p>Break up your pull request into multiple commits, at logical break points.</p>
+<p>Making a series of discrete commits is a powerful way to express the evolution of an idea or the
+different ideas that make up a single feature. Strive to group logically distinct ideas into separate commits.</p>
+<p>For example, if you found that Feature-X needed some prefactoring to fit in, make a commit that JUST does that prefactoring. Then, make a new commit for Feature-X.</p>
+<p>Strike a balance with the number of commits. A pull request with 25 commits is still very cumbersome to review, so use your best judgment.</p>
+<h3 id="breaking-up-pull-requests">Breaking up Pull Requests</h3>
+<p>Or, going back to our prefactoring example, you could also fork a new branch, do the prefactoring there and send a pull request for that. If you can extract whole ideas from your pull request and send those as pull requests of their own, you can avoid the painful problem of continually rebasing.</p>
+<p>Open source software projects are usually fast-moving codebases - lock in your changes ASAP with your small pull request and avoid merge headaches.</p>
+<p>Multiple small pull requests are often better than multiple commits. Don't worry about flooding us with pull requests. We'd rather have 100 small, obvious pull requests than 10 unreviewable monoliths.</p>
+<p>We want every pull request to be useful on its own, so use your best judgment on what should be a pull request vs. a commit.</p>
+<p>As a general rule, if your pull request is directly related to Feature-X and nothing else, it should probably be part of the Feature-X pull request. If you can explain why you are doing seemingly no-op work - "it makes the Feature-X change easier, I promise" - we'll probably be OK with it. If you can imagine someone finding value independently of Feature-X, try it as a pull request. (Do not link pull requests by <code>#</code> in a commit description, because GitHub creates lots of spam. Instead, reference other pull requests via the pull request your commit is in.)</p>
+<h2 id="3-open-a-different-pull-request-for-fixes-and-generic-features">3. Open a Different pull request for Fixes and Generic Features</h2>
+<h3 id="put-changes-that-are-unrelated-to-your-feature-into-a-different-pull-request">Put changes that are unrelated to your feature into a different pull request</h3>
+<p>Often, as you are implementing Feature-X, you will find bad comments, poorly named functions, bad structure, weak type-safety, etc.</p>
+<p>You absolutely should fix those things -- or at least file issues, please -- but not in the same pull request as your feature. Otherwise, your diff will have way too many changes, and your reviewer won't see the forest for the trees.</p>
+<h3 id="look-for-opportunities-to-pull-out-generic-features">Look for opportunities to pull out generic features</h3>
+<p>For example, if you find yourself touching a lot of modules, think about the dependencies you are introducing between packages. Can some of what you're doing be made more generic, and moved up and out of the Feature-X package? Do you need to use a function or type from an otherwise unrelated package? If so, let us know! We have places for hosting more generic code.</p>
+<p>Likewise, if Feature-X is similar in form to Feature-W, which was checked in last month, and you're duplicating some tricky stuff from Feature-W, consider prefactoring the core logic out and using it in both Feature-W and Feature-X. (Do that in its own commit or pull request, please.)</p>
+<h2 id="4-comments-matter">4. Comments Matter</h2>
+<p>In your code, if someone might not understand why you did something (or you won't remember why later), comment it. Many code-review comments are about this exact issue.</p>
+<p>If you think there's something pretty obvious that we could follow up on, add a TODO.</p>
+<h2 id="5-test">5. Test</h2>
+<p>Nothing is more frustrating than starting a review, only to find that the tests are inadequate or absent. Very few pull requests can touch code and NOT touch tests. If the code you are adding does not touch existing tests, consider adding test coverage.</p>
+<p>If you don't know how to test Feature-X, please ask!  We'll be happy to help you design things for easy testing, or to suggest appropriate test cases.</p>
+<h2 id="6-squashing-and-commit-titles">6. Squashing and Commit Titles</h2>
+<p>Your reviewer has finally sent you feedback on Feature-X.</p>
+<p>Make the fixups, and don't squash yet. Put them in a new commit, and re-push. That way your reviewer can look at the new commit on its own, which is much faster than starting over.</p>
+<p>We might still ask you to clean up your commits at the very end for the sake of a more readable history, but don't do this until asked: typically at the point where the pull request would otherwise be tagged <code>LGTM</code>.</p>
+<p>Each commit should have a good title line (&lt;70 characters) and include an additional description paragraph describing in more detail the change intended.</p>
+<h3 id="general-squashing-guidelines">General squashing guidelines:</h3>
+<ul>
+<li>Sausage =&gt; squash</li>
+</ul>
+<p>Do squash when there are several commits to fix bugs in the original commit(s), address reviewer feedback, etc. Really we only want to see the end state and commit message for the whole pull request.</p>
+<ul>
+<li>Layers =&gt; don't squash</li>
+</ul>
+<p>Don't squash when there are independent changes layered to achieve a single goal. For instance, writing a code munger could be one commit, applying it could be another, and adding a precommit check could be a third. One could argue they should be separate pull requests, but there's really no way to test/review the munger without seeing it applied, and there needs to be a precommit check to ensure the munged output doesn't immediately get out of date.</p>
+<p>A commit, as much as possible, should be a single logical change.</p>
+<h2 id="7-kiss-yagni-mvp-dry-etc">7. KISS, YAGNI, MVP, DRY, etc.</h2>
+<p>Sometimes we need to remind each other of core tenets of software design - Keep It Simple, You Aren't Gonna Need It, Minimum Viable Product, Don't Repeat Yourself, and so on. Adding a feature "because we might need it later" is antithetical to software that ships. Add the things you need NOW and (ideally) leave room for things you might need later - but don't implement them now.</p>
+<h2 id="8-its-ok-to-push-back">8. It's OK to Push Back</h2>
+<p>Sometimes reviewers make mistakes. It's OK to push back on changes your reviewer requested. If you have a good reason for doing something a certain way, you are absolutely allowed to debate the merits of a requested change. Both the reviewer and reviewee should strive to discuss these issues in a polite and respectful manner.</p>
+<p>You might be overruled, but you might also change someone's mind. Working to better understand each other can sometimes be challenging, but often leads to better solutions.</p>
+<p>Another phenomenon of open-source projects (where anyone can comment on any issue) is the dog-pile - your pull request gets so many comments from so many people it becomes hard to follow. In this situation, you can ask the primary reviewer (assignee) whether they want you to fork a new pull request to clear out all the comments. You don't HAVE to fix every issue raised by every person who feels like commenting, but you should answer reasonable comments with an explanation.</p>
+<h2 id="9-common-sense-and-courtesy">9. Common Sense and Courtesy</h2>
+<p>No document can take the place of common sense and good taste. Use your best judgment, while you put
+a bit of thought into how your work can be made easier to review. If you do these things your pull requests will get merged with less friction.</p>
+<h2 id="10-trivial-edits">10. Trivial Edits</h2>
+<p>Each incoming Pull Request needs to be reviewed, checked, and then merged.</p>
+<p>While automation helps with this, each contribution also has an engineering cost. Therefore it is appreciated if you do NOT make trivial edits and fixes, but instead focus on giving the entire file a review.</p>
+<p>If you find one grammatical or spelling error, it is likely there are more in that file, you can really make your Pull Request count by checking formatting, checking for broken links, and fixing errors and then submitting all the fixes at once to that file.</p>
+<h2 id="some-questions-to-consider">Some questions to consider</h2>
+<ul>
+<li>Can the file be improved further?</li>
+<li>Does the trivial edit greatly improve the quality of the content?</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": [], "search": "../../../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.c8b220af.min.js"></script>
+      
+        <script src="../../../js/print-site.js"></script>
+      
+    
+  </body>
+</html>

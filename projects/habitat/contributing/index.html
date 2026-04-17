@@ -1,0 +1,1655 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Progress Chef Open Source Software Policies and Practices Documentation">
+      
+      
+        <meta name="author" content="Progress Chef">
+      
+      
+      
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.8">
+    
+    
+      
+        <title>Contributing to Habitat - Progress Chef OSS Practices</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.8608ea7d.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../css/print-site.css">
+    
+      <link rel="stylesheet" href="../../../css/print-site-material.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#contributing-to-habitat" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Progress Chef OSS Practices" class="md-header__button md-logo" aria-label="Progress Chef OSS Practices" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Progress Chef OSS Practices
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Contributing to Habitat
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/chef/chef-oss-practices" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Progress Chef OSS Practices" class="md-nav__button md-logo" aria-label="Progress Chef OSS Practices" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Progress Chef OSS Practices
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/chef/chef-oss-practices" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_1" id="__nav_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Policies
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            Policies
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../policies/code-of-conduct/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Code of Conduct
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../policies/project-membership/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Project Membership
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../policies/open-core/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Open Core
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../policies/governance/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Governance
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../policies/DCO/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    DCO
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../policies/distributions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Distributions
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../policies/project-setup/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Project Setup
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../policies/github-labels/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    GitHub Labels
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../policies/repo-states/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Repository States
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../policies/branching-strategy/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Branching Strategy
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Communication
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Communication
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../communication/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Overview
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../communication/features/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Features
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../communication/decisions/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Decisions
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../communication/community-meetings/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Community Meetings
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../communication/project-eol/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Project EOL
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../communication/communication-faq/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    FAQ
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Contributing
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Contributing
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../contributors/contributor-entitlement-program/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entitlement Program
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../contributors/support-boundaries/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Support Boundaries
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3_3" id="__nav_3_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Checklists
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3_3">
+            <span class="md-nav__icon md-icon"></span>
+            Checklists
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../checklists/managing-pull-requests/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Managing Pull Requests
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../checklists/new-project/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    New Project
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Contributor Guide
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Contributor Guide
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../contributors/guide/collaborative-dev/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Collaborative Development
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../contributors/guide/community-expectations/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Community Expectations
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../contributors/guide/contributor-cheatsheet/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Contributor Cheatsheet
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../contributors/guide/design-proposals/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Design Proposals
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../contributors/guide/help-wanted/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Help Wanted
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../contributors/guide/project-planning/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Project Planning
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../contributors/guide/pull-requests/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Pull Requests
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../contributors/guide/ways-to-contribute/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ways to Contribute
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Open Core Projects
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Open Core Projects
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../chef/infra-client/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Chef Infra
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../inspec/inspec/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    InSpec
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../hab/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Habitat
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../test-kitchen/kitchen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Test Kitchen
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Commercial Projects
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Commercial Projects
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../premium/chef-360/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Chef 360
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../premium/chef-dsm/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    DSM
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Deprecated Projects
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Deprecated Projects
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../chef-server/infra-server/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Chef Infra Server
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../omnibus/omnibus/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Omnibus
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../help/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Help
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<h1 id="contributing-to-habitat">Contributing to Habitat</h1>
+<p>Thank you for your interest in contributing to Habitat! There are many ways to contribute, and we appreciate all of them.</p>
+<p>You are currently in the core Habitat repo, which is primarily written in Rust code and holds the core functionality of the Core Habitat, Habitat Builder Web Application, Habitat Builder, and Documentation. If you are interested in contributing a new plan to core plans (which is a great way to get started as a new contributor!), check out the <a href="https://github.com/habitat-sh/core-plans">core-plans repo</a> instead.</p>
+<p>If you have questions, join the <a href="http://slack.habitat.sh">Habitat Slack Channel</a> to talk directly to the community and core maintainers. All experience levels of questions are welcome in the general channel.</p>
+<p>As a reminder, all participants are expected to follow the <a href="https://github.com/habitat-sh/habitat/blob/master/CODE_OF_CONDUCT.md">Code of Conduct</a>.</p>
+<ul>
+<li><a href="#support-channels">Support Channels</a></li>
+<li><a href="#feature-requests">Feature Requests</a></li>
+<li><a href="#bug-reports">Bug Reports</a></li>
+<li><a href="#report-a-security-vulnerability">Report a security vulnerability</a></li>
+<li><a href="#pull-requests">Pull Requests</a></li>
+<li><a href="#writing-documentation-and-blogs">Writing Documentation and blogs</a></li>
+<li><a href="#issue-triage">Issue Triage</a></li>
+<li><a href="#related-articles">Related Articles</a></li>
+<li><a href="#development-principles-for-working-on-habitat">Development priniciples for working on Habitat</a></li>
+<li><a href="#workstation-setup">Workstation Setup</a></li>
+<li><a href="#writing-new-features">Writing new features</a></li>
+<li><a href="#signing-your-commits">Signing Your Commits</a></li>
+<li><a href="#pull-request-review-and-merge-automation">Pull Request Review and Merge Automation</a></li>
+<li><a href="#delegating-pull-request-merge-access">Delegating pull request merge access</a></li>
+<li><a href="#running-a-builder-service-cluster-locally">Running a Builder service cluster locally</a></li>
+<li><a href="#documentation-for-rust-crates">Documentation for Rust Crates</a></li>
+</ul>
+<h1 id="support-channels">Support Channels</h1>
+<p>Whether you are a user or contributor, official support channels include:</p>
+<ul>
+<li>GitHub issues: https://github.com/habitat-sh/habitat/issues</li>
+<li>Slack: http://slack.habitat.sh</li>
+</ul>
+<p>Before opening a new issue or submitting a new pull request, it's helpful to search the project - it's likely that another user has already reported the issue you're facing, or it's a known issue that we're already aware of.</p>
+<h1 id="feature-requests">Feature Requests</h1>
+<p>To request a change to the way that Habitat works, please <a href="https://github.com/habitat-sh/habitat/issues">open an issue</a>.</p>
+<h1 id="bug-reports">Bug Reports</h1>
+<p>Bugs are a reality in software. We can't fix what we don't know about, so please report liberally. If you're not sure if something's a bug or not, feel free to file a bug anyway.</p>
+<p>If you believe your bug represents a security issue for Habitat users, please follow our instructions for <a href="#report-a-security-vulnerability">reporting a security vulnerability.</a></p>
+<p>If you have the chance, before reporting a bug please <a href="https://github.com/habitat-sh/habitat/issues">search existing issues</a>, as it's possible someone has already reported your error.</p>
+<p>Opening an issue is as easy as following <a href="https://github.com/habitat-sh/habitat/issues/new">this link</a> and filling out the form with as much information as you have. It is not necessary to follow the template exactly.</p>
+<h1 id="report-a-security-vulnerability">Report a security vulnerability</h1>
+<p>Safety is one of the core principles of Habitat, and to that end, we would like to ensure that Habitat has a secure implementation. Thank you for taking the time to responsibly disclose any issues you find.</p>
+<p>All security bugs in the distribution should be reported by email to security@habitat.sh. This list is delivered to a small security team. Your email will be acknowledged within 24 hours, and you'll receive a more detailed response to your email within 48 hours indicating the next steps in handling your report.</p>
+<p>This email address receives a large amount of spam, so be sure to use a descriptive subject line to avoid having your report be missed. After the initial reply to your report, the security team will endeavor to keep you informed of the progress being made towards a fix and full announcement.</p>
+<p>If you have not received a reply to your email within 48 hours, or have not heard from the security team for the past five days, there are a few steps you can take:</p>
+<ul>
+<li>Contact the current security coordinator (Jamie Winsor) directly.</li>
+<li>Contact the back-up contacts (Fletcher Nichol, Tasha Drew) directly.</li>
+<li>Post on the <a href="http://slack.habitat.sh">slack channel</a> requesting an update.</li>
+</ul>
+<p>Please note that the discussion forums and slack channel are public areas. When escalating in these venues, please do not discuss your issue. Simply say that you're trying to get a hold of someone from the security team.</p>
+<h1 id="pull-requests">Pull Requests</h1>
+<p>Pull requests are the primary mechanism we use to write Habitat. GitHub itself has some great documentation on using <a href="https://help.github.com/articles/about-pull-requests/">the Pull Request feature</a>. We use the "fork and pull" model <a href="https://help.github.com/articles/about-collaborative-development-models/">described here</a>, where contributors push changes to their personal fork and create pull requests to bring those changes into the source repository.</p>
+<p>Please make pull requests against the <code>master</code> branch.</p>
+<h1 id="writing-documentation-and-blogs">Writing Documentation and Blogs</h1>
+<p>Documentation improvements are very welcome.</p>
+<p>To find documentation-related issues, <a href="https://github.com/habitat-sh/habitat/issues?q=is%3Aissue+is%3Aopen+label%3AA-documentation">search by the A-Documentation label</a>.</p>
+<p>Blogs from community members are also very welcome. You can open a pull request to submit a blog for the website by <a href="https://github.com/habitat-sh/habitat/tree/master/www/source/blog">following these instructions</a>.</p>
+<h1 id="issue-triage">Issue Triage</h1>
+<p>The Habitat core team does issue triage every Tuesday, at 10am Pacific time. A link to a public video is made available in the #general channel of Slack when triage occurs, and a recording is shared afterwards on the <a href="https://www.youtube.com/channel/UC0wJZeP2dfPZaDUPgvpVpSg">Habitat youtube channel</a>.</p>
+<p>You can also help triage by using the following labeling system adopted by the Habitat core team:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"><em>TAGS Groups</em></th>
+<th style="text-align: left;">Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><em>AREA TAGS</em> Prefix "A-"</td>
+<td style="text-align: left;">What part of the codebase does the issue refer to.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><em>CATEGORIZATION TAGS</em> Prefix "C-"</td>
+<td style="text-align: left;">What type of work does the issue refer to.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><em>EFFORT TAGS</em> Prefix "E-"</td>
+<td style="text-align: left;">Should a contributor undertake, what is the estimated effort level.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><em>LANGUAGE TAGS</em> Prefix "L-"</td>
+<td style="text-align: left;">Pretty straightforward right? What language the work will involve.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><em>STATUS TAGS</em> Prefix "S-"</td>
+<td style="text-align: left;">The current status of an issue or pull request.</td>
+</tr>
+<tr>
+<td style="text-align: left;"><em>PLATFORM TAGS</em> Prefix "P-"</td>
+<td style="text-align: left;">Issue is in regards to specific platform.</td>
+</tr>
+</tbody>
+</table>
+<p><a href="https://www.habitat.sh/blog/community/">Read more about issue triage here.</a></p>
+<h1 id="related-articles">Related Articles</h1>
+<ul>
+<li><a href="https://github.com/habitat-sh/habitat/blob/master/MAINTAINERS.md">Current Habitat Maintainers</a></li>
+<li><a href="https://github.com/habitat-sh/habitat/blob/master/maintenance-policy.md">Maintainers Policy, how to become a Maintainers</a></li>
+<li><a href="https://github.com/habitat-sh/habitat/blob/master/README.md">ReadMe</a></li>
+<li><a href="https://github.com/habitat-sh/habitat/blob/master/UX_PRINCIPLES.md">CLI UX Principes</a></li>
+<li><a href="https://www.habitat.sh/">Habitat Main Website: Browse docs, do a tutorial, check out Builder</a></li>
+</ul>
+<h2 id="development-principles-for-working-on-habitat">Development principles for working on Habitat</h2>
+<ol>
+<li>The principle of least abstraction. When possible, we use the tooling that is closest to the native
+tooling for the platform, and provide as little abstraction as necessary. When we do choose an abstraction,
+we choose one - and we make it the one that is most user-serviceable.</li>
+<li>Keep it light. The runtime component of Habitat is used as a process Supervisor - it needs to stay lean. No run-times.</li>
+<li>Convention over configuration, with reasonable defaults. Where possible, we remove the need to configure things
+by having a convention cover it. When we do need to configure things, we set reasonable defaults.</li>
+<li>Call things what they are.</li>
+<li>It has to feel great to the end user. If it doesn't feel great, it's a bug.</li>
+<li>Write documentation as you go. Internal and external.</li>
+</ol>
+<h2 id="workstation-setup">Workstation Setup</h2>
+<p>See <a href="https://github.com/habitat-sh/habitat/blob/main/BUILDING.md">BUILDING.md</a> for platform specific info on getting your workstation configured to contribute.</p>
+<h2 id="writing-new-features">Writing new features</h2>
+<ol>
+<li>Start a new feature branch</li>
+<li>Open a terminal and run <code>make shell</code></li>
+<li>Change directory to a component <code>cd components/x</code></li>
+<li>Build with <code>cargo build</code> or <code>cargo test</code></li>
+<li>You can use <code>cargo run -- foobar</code> to pass options to the built binary</li>
+<li>Sign and commit your change</li>
+<li>Push your feature branch to GitHub, and create a Pull Request</li>
+</ol>
+<h2 id="signing-your-commits">Signing Your Commits</h2>
+<p>This project utilizes a Developer Certificate of Origin (DCO) to ensure that each commit was written by the
+author or that the author has the appropriate rights necessary to contribute the change.  The project
+utilizes <a href="http://developercertificate.org/">Developer Certificate of Origin, Version 1.1</a></p>
+<div class="highlight"><pre><span></span><code>Developer Certificate of Origin
+Version 1.1
+
+Copyright (C) 2004, 2006 The Linux Foundation and its contributors.
+660 York Street, Suite 102,
+San Francisco, CA 94110 USA
+
+Everyone is permitted to copy and distribute verbatim copies of this
+license document, but changing it is not allowed.
+
+
+Developer&#39;s Certificate of Origin 1.1
+
+By making a contribution to this project, I certify that:
+
+(a) The contribution was created in whole or in part by me and I
+    have the right to submit it under the open source license
+    indicated in the file; or
+
+(b) The contribution is based upon previous work that, to the best
+    of my knowledge, is covered under an appropriate open source
+    license and I have the right under that license to submit that
+    work with modifications, whether created in whole or in part
+    by me, under the same open source license (unless I am
+    permitted to submit under a different license), as indicated
+    in the file; or
+
+(c) The contribution was provided directly to me by some other
+    person who certified (a), (b) or (c) and I have not modified
+    it.
+
+(d) I understand and agree that this project and the contribution
+    are public and that a record of the contribution (including all
+    personal information I submit with it, including my sign-off) is
+    maintained indefinitely and may be redistributed consistent with
+    this project or the open source license(s) involved.
+</code></pre></div>
+<p>Each commit must include a DCO which looks like this</p>
+<p><code>Signed-off-by: Joe Smith &lt;joe.smith@email.com&gt;</code></p>
+<p>The project requires that the name used is your real name.  Neither anonymous contributors nor those
+utilizing pseudonyms will be accepted.</p>
+<p>Git makes it easy to add this line to your commit messages.  Make sure the <code>user.name</code> and
+<code>user.email</code> are set in your git configs.  Use <code>-s</code> or <code>--signoff</code> to add the Signed-off-by line to
+the end of the commit message.</p>
+<h2 id="pull-request-review-and-merge-automation">Pull Request Review and Merge Automation</h2>
+<p>Habitat uses several bots to automate the review and merging of pull requests. Messages to and from the bots are brokered via the account @thesentinel. First, we use Facebook's <a href="https://github.com/facebook/mention-bot">mention bot</a> to identify potential reviewers for a pull request based on the <code>blame</code> information in the relevant diff. @thesentinels can also receive
+incoming commands from reviewers to approve PRs. These commands are routed to a <a href="https://github.com/barosl/homu">homu</a> bot that will automatically merge a PR when sufficient reviewers have provided a +1 (or r+ in homu terminology).</p>
+<h2 id="delegating-pull-request-merge-access">Delegating pull request merge access</h2>
+<p>A Habitat core maintainer can delegate pull request merge access to a contributor via</p>
+<pre><code>@thesentinels delegate=username
+</code></pre>
+<p>If you've been given approval to merge, you can do so by appending a comment to the pull request containing the following text:</p>
+<pre><code>@thesentinels r+
+</code></pre>
+<p>Note: <strong>do not</strong> click the Merge Pull Request button if it's enabled.</p>
+<h2 id="running-a-builder-service-cluster-locally">Running a Builder service cluster locally</h2>
+<p>A service cluster can be started in your host machine with <code>make bldr-run</code>. The public API will be available on port 9636 and the admin API will be available on port 8080. The depot web site will be available on port 3000.</p>
+<p>Please refer to the detailed setup instructions in the <a href="https://github.com/habitat-sh/builder">builder repo</a>'s <a href="https://github.com/habitat-sh/builder/blob/master/DEVELOPING.md">DEVELOPING.md</a> file for how to bring up a service cluster, as there are currently some manual steps involved.</p>
+<h2 id="documentation-for-rust-crates">Documentation for Rust Crates</h2>
+<p>The Rust crates also have their own internal developer documentation. From the root of the project, type <code>make docs</code> to build the internal Rust documentation.</p>
+<p>Run <code>make serve-docs</code> to run a small web server that exposes the documentation on port <code>9633</code>. You can then read the docs at <code>http://&lt;DOCKER_HOST&gt;:9633/</code> (with working JavaScript-based search).</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": [], "search": "../../../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.c8b220af.min.js"></script>
+      
+        <script src="../../../js/print-site.js"></script>
+      
+    
+  </body>
+</html>
